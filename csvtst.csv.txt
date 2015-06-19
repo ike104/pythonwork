@@ -1,0 +1,377 @@
+57605,Mon,All Day,EUR,German Prelim CPI m/m
+54906,,2:30am,AUD,Commodity Prices y/y
+55379,,3:15am,EUR,Spanish Manufacturing PMI
+55376,,3:30am,CHF,Manufacturing PMI
+55378,,3:45am,EUR,Italian Manufacturing PMI
+59070,,3:50am,EUR,French Final Manufacturing PMI
+59075,,3:55am,EUR,German Final Manufacturing PMI
+55377,,4:00am,EUR,Final Manufacturing PMI
+55374,,4:30am,GBP,Manufacturing PMI
+57824,,8:30am,USD,Core PCE Price Index m/m
+57825,,,USD,Personal Spending m/m
+57820,,,USD,Personal Income m/m
+59370,,9:30am,USD,FOMC Member Fischer Speaks
+55375,,9:45am,USD,Final Manufacturing PMI
+58001,,10:00am,USD,ISM Manufacturing PMI
+57701,,,USD,Construction Spending m/m
+58007,,,USD,ISM Manufacturing Prices
+55168,,6:45pm,NZD,Overseas Trade Index q/q
+56928,,7:50pm,JPY,Monetary Base y/y
+54914,,9:30pm,AUD,Current Account
+56999,,,JPY,Average Cash Earnings y/y
+56952,,11:45pm,JPY,10-y Bond Auction
+54779,Tue,12:30am,AUD,Cash Rate
+54780,,,AUD,RBA Rate Statement
+58642,,All Day,EUR,Italian Bank Holiday
+56603,,3:00am,EUR,Spanish Unemployment Change
+57542,,3:55am,EUR,German Unemployment Change
+55517,,4:30am,GBP,Construction PMI
+55630,,,GBP,Net Lending to Individuals m/m
+55628,,,GBP,M4 Money Supply m/m
+55629,,,GBP,Mortgage Approvals
+57283,,5:00am,EUR,CPI Flash Estimate y/y
+57282,,,EUR,Core CPI Flash Estimate y/y
+57281,,,EUR,PPI m/m
+59367,,5:38am,GBP,10-y Bond Auction
+59373,,10:00am,USD,FOMC Member Brainard Speaks
+57797,,,USD,Factory Orders m/m
+58134,,,USD,IBD/TIPP Economic Optimism
+56348,,10:08am,NZD,GDT Price Index
+58087,,All Day,USD,Total Vehicle Sales
+55822,,7:01pm,GBP,BRC Shop Price Index y/y
+54727,,7:30pm,AUD,AIG Services Index
+55055,,9:00pm,NZD,ANZ Commodity Prices m/m
+54926,,9:30pm,AUD,GDP q/q
+55458,,9:45pm,CNY,HSBC Services PMI
+55593,Wed,1:57am,GBP,Nationwide HPI m/m
+55460,,3:15am,EUR,Spanish Services PMI
+55461,,3:45am,EUR,Italian Services PMI
+59253,,3:50am,EUR,French Final Services PMI
+59259,,3:55am,EUR,German Final Services PMI
+55459,,4:00am,EUR,Final Services PMI
+56639,,,EUR,Italian Monthly Unemployment Rate
+56640,,,EUR,Italian Quarterly Unemployment Rate
+55462,,4:30am,GBP,Services PMI
+57285,,5:00am,EUR,Retail Sales m/m
+57284,,,EUR,Unemployment Rate
+54657,,7:45am,EUR,Minimum Bid Rate
+54492,,8:15am,USD,ADP Non-Farm Employment Change
+57755,,8:30am,CAD,Trade Balance
+54656,,,EUR,ECB Press Conference
+57749,,,USD,Trade Balance
+55463,,9:45am,USD,Final Services PMI
+58025,,10:00am,USD,ISM Non-Manufacturing PMI
+54367,,10:30am,USD,Crude Oil Inventories
+54565,,2:00pm,USD,Beige Book
+59374,,2:15pm,USD,FOMC Member Evans Speaks
+54882,,9:30pm,AUD,Retail Sales m/m
+54870,,,AUD,Trade Balance
+56964,,11:45pm,JPY,30-y Bond Auction
+55581,Thu,3:00am,GBP,Halifax HPI m/m
+57482,,4:10am,EUR,Retail PMI
+56485,,5:00am,EUR,French 10-y Bond Auction
+54615,,7:00am,GBP,Official Bank Rate
+54613,,,GBP,Asset Purchase Facility
+54554,,7:30am,USD,Challenger Job Cuts y/y
+54315,,8:30am,USD,Unemployment Claims
+57922,,,USD,Revised Nonfarm Productivity q/q
+57923,,,USD,Revised Unit Labor Costs q/q
+58719,,10:00am,CAD,Ivey PMI
+54420,,10:30am,USD,Natural Gas Storage
+59368,,12:00pm,USD,FOMC Member Tarullo Speaks
+54728,,7:30pm,AUD,AIG Construction Index
+56795,Fri,1:00am,JPY,Leading Indicators
+57518,,2:00am,EUR,German Factory Orders m/m
+56550,,2:45am,EUR,French Trade Balance
+56425,,3:00am,CHF,Foreign Currency Reserves
+55561,,4:30am,GBP,Consumer Inflation Expectations
+58329,,All Day,ALL,OPEC Meetings
+58549,,8:30am,CAD,Employment Change
+58548,,,CAD,Unemployment Rate
+58563,,,CAD,Labor Productivity q/q
+54467,,,USD,Non-Farm Employment Change
+54466,,,USD,Unemployment Rate
+54469,,,USD,Average Hourly Earnings m/m
+59369,,12:30pm,USD,FOMC Member Dudley Speaks
+57978,,3:00pm,USD,Consumer Credit m/m
+,Sat,,,
+59378,Sun,Day 1,ALL,G7 Meetings
+58370,,All Day,AUD,Bank Holiday
+56744,,7:50pm,JPY,Current Account
+57037,,,JPY,Final GDP q/q
+56716,,,JPY,Bank Lending y/y
+57036,,,JPY,Final GDP Price Index y/y
+56049,,10:25pm,CNY,Trade Balance
+56902,Mon,1:00am,JPY,Economy Watchers Sentiment
+57506,,2:00am,EUR,German Industrial Production m/m
+57555,,,EUR,German Trade Balance
+58154,,4:30am,EUR,Sentix Investor Confidence
+59379,,Day 2,ALL,G7 Meetings
+58336,,8:13am,CAD,Housing Starts
+58451,,8:30am,CAD,Building Permits m/m
+58358,,10:00am,USD,Labor Market Conditions Index m/m
+59375,,4:30pm,CAD,Gov Council Member Wilkins Speaks
+55087,,6:45pm,NZD,Manufacturing Sales q/q
+55918,,7:01pm,GBP,BRC Retail Sales Monitor y/y
+56757,,7:50pm,JPY,M2 Money Stock y/y
+54700,,9:30pm,AUD,NAB Business Confidence
+54822,,,AUD,ANZ Job Advertisements m/m
+54934,,,AUD,Home Loans m/m
+56027,,,CNY,CPI y/y
+56026,,,CNY,PPI y/y
+56894,Tue,1:00am,JPY,Consumer Confidence
+56413,,1:45am,CHF,Unemployment Rate
+56833,,1:59am,JPY,Prelim Machine Tool Orders y/y
+56547,,2:45am,EUR,French Gov Budget Balance
+56461,,3:15am,CHF,CPI m/m
+55834,,4:30am,GBP,Trade Balance
+57286,,5:00am,EUR,Revised GDP q/q
+58073,,6:00am,USD,NFIB Small Business Index
+58109,,10:00am,USD,JOLTS Job Openings
+57713,,,USD,Wholesale Inventories m/m
+56732,,7:50pm,JPY,Core Machinery Orders m/m
+56982,,,JPY,PPI y/y
+54752,,8:30pm,AUD,Westpac Consumer Sentiment
+59377,,10:50pm,AUD,RBA Gov Stevens Speaks
+56532,Wed,2:45am,EUR,French Industrial Production m/m
+56627,,4:00am,EUR,Italian Industrial Production m/m
+55888,,4:30am,GBP,Manufacturing Production m/m
+55887,,,GBP,Industrial Production m/m
+55858,,10:00am,GBP,NIESR GDP Estimate
+54368,,10:30am,USD,Crude Oil Inventories
+57412,,1:01pm,USD,10-y Bond Auction
+54575,,2:00pm,USD,Federal Budget Balance
+59381,,4:00pm,GBP,BOE Gov Carney Speaks
+55114,,5:00pm,NZD,Official Cash Rate
+55117,,,NZD,RBNZ Rate Statement
+55115,,,NZD,RBNZ Monetary Policy Statement
+55116,,5:05pm,NZD,RBNZ Press Conference
+55606,,7:01pm,GBP,RICS House Price Balance
+56765,,7:50pm,JPY,BSI Manufacturing Index
+54764,,9:00pm,AUD,MI Inflation Expectations
+55209,,9:30pm,AUD,Employment Change
+55210,,,AUD,Unemployment Rate
+55989,Thu,1:30am,CNY,Industrial Production y/y
+55991,,,CNY,Fixed Asset Investment ytd/y
+55990,,,CNY,Retail Sales y/y
+56516,,,EUR,French Final Non-Farm Payrolls q/q
+56496,,2:45am,EUR,French CPI m/m
+56060,,3:04am,CNY,New Loans
+56061,,,CNY,M2 Money Supply y/y
+59371,,5:35am,GBP,30-y Bond Auction
+58583,,8:30am,CAD,NHPI m/m
+58511,,,CAD,Capacity Utilization Rate
+57729,,,USD,Core Retail Sales m/m
+57731,,,USD,Retail Sales m/m
+54316,,,USD,Unemployment Claims
+57941,,,USD,Import Prices m/m
+57689,,10:00am,USD,Business Inventories m/m
+58711,,10:30am,CAD,BOC Financial System Review
+54421,,,USD,Natural Gas Storage
+59380,,11:15am,CAD,BOC Gov Poloz Speaks
+57400,,1:01pm,USD,30-y Bond Auction
+55151,,6:30pm,NZD,Business NZ Manufacturing Index
+55043,,6:45pm,NZD,FPI m/m
+56844,Fri,12:30am,JPY,Revised Industrial Production m/m
+56858,,,JPY,Tertiary Industry Activity m/m
+57591,,2:00am,EUR,German WPI m/m
+55670,,4:30am,GBP,Construction Output m/m
+57287,,5:00am,EUR,Industrial Production m/m
+57878,,8:30am,USD,PPI m/m
+57876,,,USD,Core PPI m/m
+56106,,10:00am,USD,Prelim UoM Consumer Sentiment
+56108,,,USD,Prelim UoM Inflation Expectations
+,Sat,,,
+55569,Sun,7:01pm,GBP,Rightmove HPI m/m
+59384,Mon,3:00am,EUR,German Buba President Weidmann Speaks
+56437,,3:15am,CHF,PPI m/m
+56449,,,CHF,Retail Sales y/y
+59385,,3:30am,AUD,RBA Assist Gov Kent Speaks
+57288,,5:00am,EUR,Trade Balance
+58571,,8:30am,CAD,Manufacturing Sales m/m
+57989,,,USD,Empire State Manufacturing Index
+59386,,9:00am,EUR,ECB President Draghi Speaks
+57957,,9:15am,USD,Capacity Utilization Rate
+57959,,,USD,Industrial Production m/m
+58258,,10:00am,USD,NAHB Housing Market Index
+58098,,4:00pm,USD,TIC Long-Term Purchases
+59387,,5:55pm,AUD,RBA Assist Gov Debelle Speaks
+54799,,9:30pm,AUD,Monetary Policy Meeting Minutes
+54894,,,AUD,New Motor Vehicle Sales m/m
+56175,Tue,1:45am,CHF,SECO Economic Forecasts
+57608,,2:00am,EUR,German Final CPI m/m
+55781,,4:30am,GBP,CPI y/y
+55783,,,GBP,PPI Input m/m
+55785,,,GBP,RPI y/y
+55779,,,GBP,Core CPI y/y
+55682,,,GBP,HPI y/y
+55786,,,GBP,PPI Output m/m
+59382,,Tentative,EUR,European Court of Justice Ruling
+58184,,5:00am,EUR,German ZEW Economic Sentiment
+58182,,,EUR,ZEW Economic Sentiment
+57289,,,EUR,Employment Change q/q
+58467,,8:30am,CAD,Foreign Securities Purchases
+57669,,,USD,Building Permits
+57671,,,USD,Housing Starts
+55930,,9:30am,GBP,CB Leading Index m/m
+56349,,Tentative,NZD,GDT Price Index
+55083,,6:45pm,NZD,Current Account
+56870,,7:50pm,JPY,Trade Balance
+54846,,8:30pm,AUD,MI Leading Index m/m
+55966,,17th-19th,CNY,Foreign Direct Investment ytd/y
+56659,Wed,4:00am,EUR,Italian Trade Balance
+55735,,4:30am,GBP,Average Earnings Index 3m/y
+55736,,,GBP,Claimant Count Change
+54619,,,GBP,MPC Official Bank Rate Votes
+54618,,,GBP,MPC Asset Purchase Facility Votes
+55737,,,GBP,Unemployment Rate
+56183,,5:00am,CHF,ZEW Economic Expectations
+57291,,,EUR,Final CPI y/y
+57290,,,EUR,Final Core CPI y/y
+57424,,Tentative,EUR,German 10-y Bond Auction
+58624,,8:30am,CAD,Wholesale Sales m/m
+54369,,10:30am,USD,Crude Oil Inventories
+54517,,2:00pm,USD,FOMC Economic Projections
+54504,,,USD,FOMC Statement
+54505,,,USD,Federal Funds Rate
+54521,,2:30pm,USD,FOMC Press Conference
+55091,,6:45pm,NZD,GDP q/q
+55698,,7:05pm,GBP,BOE Quarterly Bulletin
+54814,,9:30pm,AUD,RBA Bulletin
+56190,Thu,12:30am,CHF,SNB Financial Stability Report
+56473,,2:00am,CHF,Trade Balance
+56193,,3:30am,CHF,Libor Rate
+56194,,,CHF,SNB Monetary Policy Assessment
+56195,,,CHF,SNB Press Conference
+58681,,4:00am,EUR,ECB Economic Bulletin
+55846,,4:30am,GBP,Retail Sales m/m
+58659,,5:15am,EUR,Targeted LTRO
+59383,,Tentative,EUR,French 10-y Bond Auction
+59344,,Tentative,EUR,Spanish 10-y Bond Auction
+59388,,All Day,EUR,Eurogroup Meetings
+57903,,8:30am,USD,CPI m/m
+57901,,,USD,Core CPI m/m
+54317,,,USD,Unemployment Claims
+57805,,,USD,Current Account
+58037,,10:00am,USD,Philly Fed Manufacturing Index
+58293,,,USD,CB Leading Index m/m
+54422,,10:30am,USD,Natural Gas Storage
+57104,,Tentative,JPY,Monetary Policy Statement
+56704,Fri,12:30am,JPY,All Industries Activity m/m
+57567,,2:00am,EUR,German PPI m/m
+57105,,Tentative,JPY,BOJ Press Conference
+58198,,4:00am,EUR,Current Account
+55870,,4:30am,GBP,Public Sector Net Borrowing
+59389,,All Day,EUR,ECOFIN Meetings
+58485,,8:30am,CAD,Core CPI m/m
+58604,,,CAD,Core Retail Sales m/m
+58487,,,CAD,CPI m/m
+58605,,,CAD,Retail Sales m/m
+,Sat,,,
+55188,Sun,6:00pm,NZD,Westpac Consumer Sentiment
+55006,,6:45pm,NZD,Visitor Arrivals m/m
+58673,,All Day,CNY,Bank Holiday
+55099,,11:00pm,NZD,Credit Card Spending y/y
+56940,Mon,1:00am,JPY,BOJ Monthly Report
+55713,,Tentative,GBP,10-y Bond Auction
+57626,,6:00am,EUR,German Buba Monthly Report
+55505,,9:45am,USD,Flash Services PMI
+58142,,10:00am,EUR,Consumer Confidence
+57445,,,USD,Existing Home Sales
+54994,,8:00pm,AUD,CB Leading Index m/m
+54692,,9:30pm,AUD,HPI q/q
+55269,,9:35pm,JPY,Flash Manufacturing PMI
+55270,,9:45pm,CNY,HSBC Flash Manufacturing PMI
+56079,,10:00pm,CNY,CB Leading Index m/m
+55274,Tue,3:00am,EUR,French Flash Manufacturing PMI
+55275,,,EUR,French Flash Services PMI
+55276,,3:30am,EUR,German Flash Manufacturing PMI
+55277,,,EUR,German Flash Services PMI
+58166,,4:00am,EUR,German Ifo Business Climate
+55272,,,EUR,Flash Manufacturing PMI
+55273,,,EUR,Flash Services PMI
+56671,,5:00am,EUR,Italian Retail Sales m/m
+55702,,,GBP,Inflation Report Hearings
+55541,,6:00am,GBP,CBI Industrial Order Expectations
+57778,,8:30am,USD,Core Durable Goods Orders m/m
+57777,,,USD,Durable Goods Orders m/m
+56367,,9:00am,USD,HPI m/m
+55271,,9:45am,USD,Flash Manufacturing PMI
+57653,,10:00am,USD,New Home Sales
+58049,,,USD,Richmond Manufacturing Index
+57052,,7:50pm,JPY,Monetary Policy Meeting Minutes
+56994,,,JPY,SPPI y/y
+56151,Wed,2:00am,CHF,UBS Consumption Indicator
+55658,,4:30am,GBP,BBA Mortgage Approvals
+55695,,5:30am,GBP,BOE Financial Stability Report
+58065,,,GBP,FPC Statement
+57854,,8:30am,USD,Final GDP q/q
+57855,,,USD,Final GDP Price Index q/q
+56202,,9:00am,CHF,SNB Quarterly Bulletin
+58279,,,EUR,Belgian NBB Business Climate
+54370,,10:30am,USD,Crude Oil Inventories
+57638,Thu,2:00am,EUR,GfK German Consumer Climate
+55529,,6:00am,GBP,CBI Realized Sales
+54318,,8:30am,USD,Unemployment Claims
+57823,,,USD,Core PCE Price Index m/m
+57822,,,USD,Personal Spending m/m
+57821,,,USD,Personal Income m/m
+54423,,10:30am,USD,Natural Gas Storage
+59376,,12:10pm,CAD,Gov Council Member Schembri Speaks
+55025,,6:45pm,NZD,Trade Balance
+57607,Fri,All Day,EUR,German Prelim CPI m/m
+56508,,2:45am,EUR,French Consumer Spending m/m
+58218,,4:00am,EUR,M3 Money Supply y/y
+58219,,,EUR,Private Loans y/y
+56615,,Tentative,EUR,Italian 10-y Bond Auction
+56107,,10:00am,USD,Revised UoM Consumer Sentiment
+56109,,,USD,Revised UoM Inflation Expectations
+,Sat,,,
+,Sun,,,
+57578,Mon,2:00am,EUR,German Import Prices m/m
+58643,,All Day,EUR,Italian Bank Holiday
+56580,,3:00am,EUR,Spanish Flash CPI y/y
+55631,,4:30am,GBP,Net Lending to Individuals m/m
+55633,,,GBP,M4 Money Supply m/m
+55632,,,GBP,Mortgage Approvals
+56684,,5:00am,EUR,Italian Prelim CPI m/m
+58528,,8:30am,CAD,RMPI m/m
+58529,,,CAD,IPPI m/m
+57446,,10:00am,USD,Pending Home Sales m/m
+58328,,Tentative,ALL,G8 Meetings
+55024,,6:45pm,NZD,Building Consents m/m
+55553,,7:05pm,GBP,GfK Consumer Confidence
+56778,,7:30pm,JPY,Household Spending y/y
+57019,,,JPY,Tokyo Core CPI y/y
+57018,,,JPY,National Core CPI y/y
+56780,,,JPY,Unemployment Rate
+56814,,7:50pm,JPY,Retail Sales y/y
+56815,,,JPY,Prelim Industrial Production m/m
+54958,,9:00pm,AUD,HIA New Home Sales m/m
+55137,,,NZD,ANZ Business Confidence
+54858,,9:30pm,AUD,Private Sector Credit m/m
+57000,,,JPY,Average Cash Earnings y/y
+56882,Tue,1:00am,JPY,Housing Starts y/y
+55594,,Tentative,GBP,Nationwide HPI m/m
+56163,,3:00am,CHF,KOF Economic Barometer
+57543,,3:55am,EUR,German Unemployment Change
+56641,,4:00am,EUR,Italian Monthly Unemployment Rate
+55938,,4:30am,GBP,Current Account
+55942,,,GBP,Final GDP q/q
+55906,,,GBP,Index of Services 3m/3m
+55958,,,GBP,Revised Business Investment q/q
+57293,,5:00am,EUR,CPI Flash Estimate y/y
+57292,,,EUR,Core CPI Flash Estimate y/y
+57294,,,EUR,Unemployment Rate
+58503,,8:30am,CAD,GDP m/m
+58122,,9:00am,USD,S
+56139,,9:45am,USD,Chicago PMI
+54542,,10:00am,USD,CB Consumer Confidence
+54729,,7:30pm,AUD,AIG Manufacturing Index
+56915,,7:50pm,JPY,Tankan Manufacturing Index
+56916,,,JPY,Tankan Non-Manufacturing Index
+54672,,9:00pm,CNY,Manufacturing PMI
+54684,,,CNY,Non-Manufacturing PMI
+54947,,9:30pm,AUD,Building Approvals m/m
+55380,,9:35pm,JPY,Final Manufacturing PMI
+55381,,9:45pm,CNY,HSBC Final Manufacturing PMI
