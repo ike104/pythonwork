@@ -1,0 +1,408 @@
+1,2015.03.02 06:45,NZD,3,Overseas Trade Index q/q,0,55167,Mar 1,5:45pm,NZD,Overseas Trade Index q/q,medium, ,-2.9%, 
+1,2015.03.02 07:26,AUD,1,AIG Manufacturing Index,1,54717,Mar 1 2015,6:26pm,AUD,AIG Manufacturing Index,low,49.0, ,45.4
+1,2015.03.02 08:30,AUD,1,MI Inflation Gauge m/m,2,54831,Mar 1 2015,7:30pm,AUD,MI Inflation Gauge m/m,low,0.1%, ,0.0%
+1,2015.03.02 08:50,JPY,1,Capital Spending q/y,3,56723,Mar 1 2015,7:50pm,JPY,Capital Spending q/y,low,5.5%,4.1%, 
+1,2015.03.02 09:00,AUD,1,HIA New Home Sales m/m,4,54954,Mar 1 2015,8:00pm,AUD,HIA New Home Sales m/m,low,-1.9%, ,1.8%
+1,2015.03.02 09:30,AUD,3,Company Operating Profits q/q,5,54917,Mar 1 2015,8:30pm,AUD,Company Operating Profits q/q,medium, ,0.7%, 
+1,2015.03.02 10:35,JPY,1,Final Manufacturing PMI,6,55352,Mar 1 2015,9:35pm,JPY,Final Manufacturing PMI,low,51.5,51.5,51.6
+1,2015.03.02 10:45,CNY,5,HSBC Final Manufacturing PMI,7,55351,Mar 1 2015,9:45pm,CNY,HSBC Final Manufacturing PMI,high,50.1,50.1, 
+1,2015.03.02 14:30,AUD,1,Commodity Prices y/y,8,54903,Mar 2,1:30am,AUD,Commodity Prices y/y,low, , ,-20.6%
+1,2015.03.02 15:49,GBP,3,Nationwide HPI m/m,9,55590,Mar 2 2015,2:49am,GBP,Nationwide HPI m/m,medium,0.3%,0.4%, 
+1,2015.03.02 17:15,EUR,3,Spanish Manufacturing PMI,10,55349,Mar 2 2015,4:15am,EUR,Spanish Manufacturing PMI,medium,54.7,55.2, 
+1,2015.03.02 17:30,CHF,1,Manufacturing PMI,11,55353,Mar 2 2015,4:30am,CHF,Manufacturing PMI,low,48.2,47.4,47.3
+1,2015.03.02 17:45,EUR,3,Italian Manufacturing PMI,12,55350,Mar 2 2015,4:45am,EUR,Italian Manufacturing PMI,medium,49.9,50.2, 
+1,2015.03.02 17:50,EUR,1,French Final Manufacturing PMI,13,59064,Mar 2 2015,4:50am,EUR,French Final Manufacturing PMI,low,47.7,47.7,47.6
+1,2015.03.02 17:55,EUR,3,German Final Manufacturing PMI,14,59067,Mar 2 2015,4:55am,EUR,German Final Manufacturing PMI,medium,50.9,50.9,51.1
+1,2015.03.02 18:00,EUR,1,Final Manufacturing PMI,15,55348,Mar 2 2015,5:00am,EUR,Final Manufacturing PMI,low,51.1,51.1,51.0
+1,2015.03.02 18:00,EUR,1,Italian Monthly Unemployment Rate,16,56635,Mar 2 2015,5:00am,EUR,Italian Monthly Unemployment Rate,low, ,12.9%, 
+1,2015.03.02 18:00,EUR,1,Italian Quarterly Unemployment Rate,17,56637,Mar 2 2015,5:00am,EUR,Italian Quarterly Unemployment Rate,low,12.8%,12.8%, 
+1,2015.03.02 18:30,GBP,5,Manufacturing PMI,18,55355,Mar 2 2015,5:30am,GBP,Manufacturing PMI,high, ,53.5, 
+1,2015.03.02 18:30,GBP,3,Net Lending to Individuals m/m,19,55620,Mar 2 2015,5:30am,GBP,Net Lending to Individuals m/m,medium, ,2.7B, 
+1,2015.03.02 18:30,GBP,1,M4 Money Supply m/m,20,55621,Mar 2 2015,5:30am,GBP,M4 Money Supply m/m,low,0.1%,0.3%, 
+1,2015.03.02 18:30,GBP,1,Mortgage Approvals,21,55622,Mar 2 2015,5:30am,GBP,Mortgage Approvals,low,60K,61K,61K
+1,2015.03.02 19:00,EUR,5,CPI Flash Estimate y/y,22,57247,Mar 2 2015,6:00am,EUR,CPI Flash Estimate y/y,high,-0.6%,-0.5%, 
+1,2015.03.02 19:00,EUR,3,Core CPI Flash Estimate y/y,23,57248,Mar 2 2015,6:00am,EUR,Core CPI Flash Estimate y/y,medium,0.6%,0.6%,0.6%
+1,2015.03.02 19:00,EUR,3,Unemployment Rate,24,57246,Mar 2 2015,6:00am,EUR,Unemployment Rate,medium, ,11.4%, 
+1,2015.03.02 22:30,CAD,3,Current Account,25,58458,Mar 2 2015,9:30am,CAD,Current Account,medium, ,-7.4B, 
+1,2015.03.02 22:30,USD,3,Core PCE Price Index m/m,26,57809,Mar 2 2015,9:30am,USD,Core PCE Price Index m/m,medium,0.0%,0.1%,0.1%
+1,2015.03.02 22:30,USD,3,Personal Spending m/m,27,57812,Mar 2 2015,9:30am,USD,Personal Spending m/m,medium,-0.3%,0.0%, 
+1,2015.03.02 22:30,USD,1,Personal Income m/m,28,57810,Mar 2 2015,9:30am,USD,Personal Income m/m,low,0.3%,0.4%, 
+1,2015.03.02 23:45,USD,1,Final Manufacturing PMI,29,55354,Mar 2 2015,10:45am,USD,Final Manufacturing PMI,low,54.3,54.3, 
+1,2015.03.03 00:00,USD,5,ISM Manufacturing PMI,30,57998,Mar 2 2015,11:00am,USD,ISM Manufacturing PMI,high,53.5,53.4, 
+1,2015.03.03 00:00,USD,1,Construction Spending m/m,31,57698,Mar 2 2015,11:00am,USD,Construction Spending m/m,low, ,0.4%, 
+1,2015.03.03 00:00,USD,1,ISM Manufacturing Prices,32,58004,Mar 2 2015,11:00am,USD,ISM Manufacturing Prices,low,35.0,36.2, 
+1,2015.03.03 08:50,JPY,1,Monetary Base y/y,33,56925,Mar 2 2015,7:50pm,JPY,Monetary Base y/y,low,37.4%,34.3%, 
+1,2015.03.03 09:00,NZD,1,ANZ Commodity Prices m/m,34,55052,Mar 2 2015,8:00pm,NZD,ANZ Commodity Prices m/m,low, , ,1.8%
+1,2015.03.03 09:30,AUD,5,Building Approvals m/m,35,54943,Mar 2 2015,8:30pm,AUD,Building Approvals m/m,high, ,-1.8%, 
+1,2015.03.03 09:30,AUD,3,Current Account,36,54913,Mar 2 2015,8:30pm,AUD,Current Account,medium, ,-10.9B, 
+1,2015.03.03 10:30,JPY,3,Average Cash Earnings y/y,37,56996,Mar 2 2015,9:30pm,JPY,Average Cash Earnings y/y,medium, ,0.6%, 
+1,2015.03.03 12:30,AUD,5,Cash Rate,38,54773,Mar 2 2015,11:30pm,AUD,Cash Rate,high,2.25%,2.00%, 
+1,2015.03.03 12:30,AUD,5,RBA Rate Statement,39,54774,Mar 2 2015,11:30pm,AUD,RBA Rate Statement,high, , , 
+1,2015.03.03 12:45,JPY,1,10-y Bond Auction,40,56949,Mar 2 2015,11:45pm,JPY,10-y Bond Auction,low,0.31|2.7, ,0.40|2.8
+1,2015.03.03 15:45,CHF,1,GDP q/q,41,56400,Mar 3,2:45am,CHF,GDP q/q,low, ,0.3%, 
+1,2015.03.03 16:00,EUR,3,German Retail Sales m/m,42,57527,Mar 3 2015,3:00am,EUR,German Retail Sales m/m,medium, ,0.5%, 
+1,2015.03.03 17:00,EUR,5,Spanish Unemployment Change,43,56600,Mar 3 2015,4:00am,EUR,Spanish Unemployment Change,high,78.0K,10.5K, 
+1,2015.03.03 18:30,GBP,5,Construction PMI,44,55514,Mar 3 2015,5:30am,GBP,Construction PMI,high,59.1,59.0, 
+1,2015.03.03 19:00,EUR,1,PPI m/m,45,57249,Mar 3 2015,6:00am,EUR,PPI m/m,low,-1.0%,-0.5%, 
+1,2015.03.03 19:00,GBP,5,BOE Gov Carney Speaks,46,58881,Mar 3 2015,6:00am,GBP,BOE Gov Carney Speaks,high, , , 
+1,2015.03.03 22:30,CAD,5,GDP m/m,47,58499,Mar 3 2015,9:30am,CAD,GDP m/m,high,-0.2%,0.2%, 
+1,2015.03.03 22:30,CAD,3,RMPI m/m,48,58518,Mar 3 2015,9:30am,CAD,RMPI m/m,medium, ,-6.2%, 
+1,2015.03.03 22:30,CAD,1,IPPI m/m,49,58519,Mar 3 2015,9:30am,CAD,IPPI m/m,low, ,-0.9%, 
+1,2015.03.03 23:31,NZD,5,GDT Price Index,50,56343,Mar 3 2015,10:31am,NZD,GDT Price Index,high,10.1%, ,1.1%
+1,2015.03.04 00:00,USD,1,IBD/TIPP Economic Optimism,51,58131,Mar 3 2015,11:00am,USD,IBD/TIPP Economic Optimism,low,47.5,48.3, 
+0,,USD,1,Total Vehicle Sales,52,58083,Mar 3 2015,All Day,USD,Total Vehicle Sales,low,16.7M,16.8M, 
+1,2015.03.04 07:30,AUD,1,AIG Services Index,53,54718,Mar 3 2015,6:30pm,AUD,AIG Services Index,low,49.9, ,51.7
+1,2015.03.04 09:01,GBP,1,BRC Shop Price Index y/y,54,55819,Mar 3 2015,8:01pm,GBP,BRC Shop Price Index y/y,low,-1.3%, ,-1.7%
+1,2015.03.04 09:30,AUD,5,GDP q/q,55,54925,Mar 3 2015,8:30pm,AUD,GDP q/q,high, ,0.7%, 
+1,2015.03.04 10:15,USD,5,Fed Chair Yellen Speaks,56,58882,Mar 3 2015,9:15pm,USD,Fed Chair Yellen Speaks,high, , , 
+1,2015.03.04 10:45,CNY,3,HSBC Services PMI,57,55440,Mar 3 2015,9:45pm,CNY,HSBC Services PMI,medium,51.8, ,52.0
+1,2015.03.04 17:15,EUR,3,Spanish Services PMI,58,55443,Mar 4,4:15am,EUR,Spanish Services PMI,medium,56.7,56.9, 
+1,2015.03.04 17:45,EUR,3,Italian Services PMI,59,55442,Mar 4 2015,4:45am,EUR,Italian Services PMI,medium,51.2,51.8, 
+1,2015.03.04 17:50,EUR,1,French Final Services PMI,60,59250,Mar 4 2015,4:50am,EUR,French Final Services PMI,low,53.4,53.4,53.4
+1,2015.03.04 17:55,EUR,3,German Final Services PMI,61,59256,Mar 4 2015,4:55am,EUR,German Final Services PMI,medium,55.5,55.5, 
+1,2015.03.04 18:00,EUR,1,Final Services PMI,62,55441,Mar 4 2015,5:00am,EUR,Final Services PMI,low,53.9,53.9,53.7
+1,2015.03.04 18:30,GBP,5,Services PMI,63,55444,Mar 4 2015,5:30am,GBP,Services PMI,high,57.2,57.6, 
+1,2015.03.04 19:00,EUR,3,Retail Sales m/m,64,57250,Mar 4 2015,6:00am,EUR,Retail Sales m/m,medium, ,0.2%, 
+1,2015.03.04 22:15,USD,5,ADP Non-Farm Employment Change,65,54489,Mar 4 2015,9:15am,USD,ADP Non-Farm Employment Change,high, ,219K, 
+1,2015.03.04 23:00,USD,3,FOMC Member Evans Speaks,66,58871,Mar 4 2015,10:00am,USD,FOMC Member Evans Speaks,medium, , , 
+1,2015.03.04 23:45,USD,1,Final Services PMI,67,55445,Mar 4 2015,10:45am,USD,Final Services PMI,low,57.0,54.8, 
+1,2015.03.05 00:00,CAD,5,BOC Rate Statement,68,57371,Mar 4 2015,11:00am,CAD,BOC Rate Statement,high, , , 
+1,2015.03.05 00:00,CAD,5,Overnight Rate,69,57372,Mar 4 2015,11:00am,CAD,Overnight Rate,high,0.75%,0.75%,0.75%
+1,2015.03.05 00:00,USD,5,ISM Non-Manufacturing PMI,70,58022,Mar 4 2015,11:00am,USD,ISM Non-Manufacturing PMI,high,56.7,56.5, 
+1,2015.03.05 00:30,USD,3,Crude Oil Inventories,71,54354,Mar 4 2015,11:30am,USD,Crude Oil Inventories,medium,8.4M,4.0M,10.3M
+1,2015.03.05 04:00,USD,1,Beige Book,72,54563,Mar 4 2015,3:00pm,USD,Beige Book,low, , , 
+1,2015.03.05 09:30,AUD,5,Retail Sales m/m,73,54879,Mar 4 2015,8:30pm,AUD,Retail Sales m/m,high,0.2%,0.4%,0.4%
+1,2015.03.05 09:30,AUD,5,Trade Balance,74,54867,Mar 4 2015,8:30pm,AUD,Trade Balance,high, ,-0.94B,-0.98B
+1,2015.03.05 10:30,AUD,3,RBA Deputy Gov Lowe Speaks,75,58880,Mar 4 2015,9:30pm,AUD,RBA Deputy Gov Lowe Speaks,medium, , , 
+1,2015.03.05 12:45,JPY,1,30-y Bond Auction,76,56961,Mar 4 2015,11:45pm,JPY,30-y Bond Auction,low,1.46|2.7, ,1.51|3.8
+1,2015.03.05 16:00,EUR,3,German Factory Orders m/m,77,57515,Mar 5,3:00am,EUR,German Factory Orders m/m,medium, ,-1.0%, 
+1,2015.03.05 16:58,GBP,3,Halifax HPI m/m,78,55578,Mar 5 2015,3:58am,GBP,Halifax HPI m/m,medium, ,-0.2%,-0.3%
+1,2015.03.05 18:10,EUR,1,Retail PMI,79,57479,Mar 5 2015,5:10am,EUR,Retail PMI,low,46.6, ,46.4
+1,2015.03.05 18:59,EUR,1,French 10-y Bond Auction,80,56482,Mar 5 2015,5:59am,EUR,French 10-y Bond Auction,low,0.61|1.9, ,0.67|1.5
+1,2015.03.05 21:00,GBP,5,Official Bank Rate,81,54600,Mar 5 2015,8:00am,GBP,Official Bank Rate,high,0.50%,0.50%,0.50%
+1,2015.03.05 21:00,GBP,3,Asset Purchase Facility,82,54601,Mar 5 2015,8:00am,GBP,Asset Purchase Facility,medium,375B,375B,375B
+1,2015.03.05 21:30,USD,1,Challenger Job Cuts y/y,83,54551,Mar 5 2015,8:30am,USD,Challenger Job Cuts y/y,low,17.6%, ,20.9%
+1,2015.03.05 21:45,EUR,5,Minimum Bid Rate,84,54652,Mar 5 2015,8:45am,EUR,Minimum Bid Rate,high,0.05%,0.05%,0.05%
+1,2015.03.05 22:30,EUR,5,ECB Press Conference,85,54653,Mar 5 2015,9:30am,EUR,ECB Press Conference,high, , , 
+1,2015.03.05 22:30,USD,5,Unemployment Claims,86,54305,Mar 5 2015,9:30am,USD,Unemployment Claims,high,313K,293K, 
+1,2015.03.05 22:30,USD,3,Revised Nonfarm Productivity q/q,87,57918,Mar 5 2015,9:30am,USD,Revised Nonfarm Productivity q/q,medium,-1.8%,-2.3%,-2.2%
+1,2015.03.05 22:30,USD,1,Revised Unit Labor Costs q/q,88,57919,Mar 5 2015,9:30am,USD,Revised Unit Labor Costs q/q,low,2.7%,3.3%, 
+1,2015.03.06 00:00,CAD,5,Ivey PMI,89,58716,Mar 5 2015,11:00am,CAD,Ivey PMI,high,45.4,49.4,49.7
+1,2015.03.06 00:00,USD,3,FOMC Member Williams Speaks,90,58872,Mar 5 2015,11:00am,USD,FOMC Member Williams Speaks,medium, , , 
+1,2015.03.06 00:00,USD,3,Factory Orders m/m,91,57794,Mar 5 2015,11:00am,USD,Factory Orders m/m,medium, ,0.2%, 
+1,2015.03.06 00:30,USD,1,Natural Gas Storage,92,54407,Mar 5 2015,11:30am,USD,Natural Gas Storage,low,-219B,-224B,-228B
+1,2015.03.06 06:30,USD,3,Bank Stress Test Results,93,58886,Mar 5 2015,5:30pm,USD,Bank Stress Test Results,medium, , , 
+1,2015.03.06 07:20,AUD,1,AIG Construction Index,94,54719,Mar 5 2015,6:20pm,AUD,AIG Construction Index,low,45.9, ,43.9
+1,2015.03.06 14:00,JPY,1,Leading Indicators,95,56798,Mar 6,1:00am,JPY,Leading Indicators,low, ,105.9%, 
+1,2015.03.06 16:00,EUR,1,German Industrial Production m/m,96,57503,Mar 6 2015,3:00am,EUR,German Industrial Production m/m,low, ,0.6%,0.6%
+1,2015.03.06 16:45,EUR,1,French Gov Budget Balance,97,56541,Mar 6 2015,3:45am,EUR,French Gov Budget Balance,low,-85.6B, ,-9.4B
+1,2015.03.06 16:45,EUR,1,French Trade Balance,98,56544,Mar 6 2015,3:45am,EUR,French Trade Balance,low, ,-3.0B, 
+1,2015.03.06 17:00,CHF,5,Foreign Currency Reserves,99,56422,Mar 6 2015,4:00am,CHF,Foreign Currency Reserves,high, , ,509.3B
+1,2015.03.06 17:15,CHF,3,CPI m/m,100,56458,Mar 6 2015,4:15am,CHF,CPI m/m,medium,-0.4%,0.0%, 
+1,2015.03.06 18:30,GBP,1,Consumer Inflation Expectations,101,55560,Mar 6 2015,5:30am,GBP,Consumer Inflation Expectations,low,2.5%, ,1.9%
+1,2015.03.06 19:00,EUR,1,Revised GDP q/q,102,57251,Mar 6 2015,6:00am,EUR,Revised GDP q/q,low,0.3%,0.3%,0.3%
+1,2015.03.06 22:30,CAD,5,Building Permits m/m,103,58448,Mar 6 2015,9:30am,CAD,Building Permits m/m,high, ,-4.2%, 
+1,2015.03.06 22:30,CAD,5,Trade Balance,104,57752,Mar 6 2015,9:30am,CAD,Trade Balance,high, ,-0.9B, 
+1,2015.03.06 22:30,CAD,1,Labor Productivity q/q,105,58562,Mar 6 2015,9:30am,CAD,Labor Productivity q/q,low, ,0.0%, 
+1,2015.03.06 22:30,USD,5,Non-Farm Employment Change,106,54457,Mar 6 2015,9:30am,USD,Non-Farm Employment Change,high, ,240K, 
+1,2015.03.06 22:30,USD,5,Unemployment Rate,107,54458,Mar 6 2015,9:30am,USD,Unemployment Rate,high,5.7%,5.6%, 
+1,2015.03.06 22:30,USD,3,Average Hourly Earnings m/m,108,54459,Mar 6 2015,9:30am,USD,Average Hourly Earnings m/m,medium,0.5%,0.2%, 
+1,2015.03.06 22:30,USD,3,Trade Balance,109,57746,Mar 6 2015,9:30am,USD,Trade Balance,medium, ,-41.3B,-41.8B
+1,2015.03.07 05:00,USD,1,Consumer Credit m/m,110,57974,Mar 6 2015,4:00pm,USD,Consumer Credit m/m,low, ,14.7B, 
+1,2015.03.08 11:51,CNY,5,Trade Balance,111,56040,Mar 7,10:51pm,CNY,Trade Balance,high,60.0B,7.8B, 
+0,2015.03.08 16:00,CAD,0,Daylight Saving Time Shift,112,54281,Mar 8,3:00am,CAD,Daylight Saving Time Shift,holiday, , , 
+0,2015.03.08 16:00,USD,0,Daylight Saving Time Shift,113,54289,Mar 8 2015,3:00am,USD,Daylight Saving Time Shift,holiday, , , 
+1,2015.03.09 06:45,NZD,1,Manufacturing Sales q/q,114,55086,Mar 8 2015,5:45pm,NZD,Manufacturing Sales q/q,low, , ,-0.7%
+1,2015.03.09 08:50,JPY,3,Current Account,115,56751,Mar 8 2015,7:50pm,JPY,Current Account,medium, ,1.16T, 
+1,2015.03.09 08:50,JPY,3,Final GDP q/q,116,57032,Mar 8 2015,7:50pm,JPY,Final GDP q/q,medium,0.6%,0.5%, 
+1,2015.03.09 08:50,JPY,1,Bank Lending y/y,117,56713,Mar 8 2015,7:50pm,JPY,Bank Lending y/y,low,2.5%, ,2.5%
+1,2015.03.09 08:50,JPY,1,Final GDP Price Index y/y,118,57033,Mar 8 2015,7:50pm,JPY,Final GDP Price Index y/y,low,2.3%,2.3%, 
+1,2015.03.09 09:30,AUD,3,ANZ Job Advertisements m/m,119,54819,Mar 8 2015,8:30pm,AUD,ANZ Job Advertisements m/m,medium, , ,0.9%
+1,2015.03.09 14:00,JPY,1,Economy Watchers Sentiment,120,56899,Mar 9,1:00am,JPY,Economy Watchers Sentiment,low,45.6,46.7, 
+1,2015.03.09 16:00,EUR,1,German Trade Balance,121,57551,Mar 9 2015,3:00am,EUR,German Trade Balance,low, ,20.4B, 
+1,2015.03.09 18:30,EUR,1,Sentix Investor Confidence,122,58151,Mar 9 2015,5:30am,EUR,Sentix Investor Confidence,low,12.4,15.3, 
+0,,EUR,5,Eurogroup Meetings,123,58883,Mar 9 2015,All Day,EUR,Eurogroup Meetings,high, , , 
+1,2015.03.09 21:13,CAD,1,Housing Starts,124,58333,Mar 9 2015,8:13am,CAD,Housing Starts,low,187K,176K, 
+1,2015.03.09 23:00,USD,1,Labor Market Conditions Index m/m,125,58355,Mar 9 2015,10:00am,USD,Labor Market Conditions Index m/m,low, , ,4.0
+1,2015.03.10 02:30,EUR,3,German Buba President Weidmann Speaks,126,58888,Mar 9 2015,1:30pm,EUR,German Buba President Weidmann Speaks,medium, , , 
+1,2015.03.10 08:50,JPY,1,M2 Money Stock y/y,127,56754,Mar 9 2015,7:50pm,JPY,M2 Money Stock y/y,low,3.4%,3.5%,3.5%
+1,2015.03.10 09:01,GBP,1,BRC Retail Sales Monitor y/y,128,55915,Mar 9 2015,8:01pm,GBP,BRC Retail Sales Monitor y/y,low,0.2%, ,0.2%
+1,2015.03.10 09:30,AUD,5,NAB Business Confidence,129,54697,Mar 9 2015,8:30pm,AUD,NAB Business Confidence,high,3, ,0
+1,2015.03.10 10:30,CNY,5,CPI y/y,130,56018,Mar 9 2015,9:30pm,CNY,CPI y/y,high,0.8%,1.0%, 
+1,2015.03.10 10:30,CNY,3,PPI y/y,131,56019,Mar 9 2015,9:30pm,CNY,PPI y/y,medium,-4.3%,-4.3%, 
+1,2015.03.10 15:00,JPY,1,Prelim Machine Tool Orders y/y,132,56831,Mar 10,2:00am,JPY,Prelim Machine Tool Orders y/y,low,20.4%, ,28.9%
+1,2015.03.10 15:45,CHF,1,Unemployment Rate,133,56410,Mar 10 2015,2:45am,CHF,Unemployment Rate,low, ,3.2%,3.2%
+1,2015.03.10 16:45,EUR,3,French Industrial Production m/m,134,56527,Mar 10 2015,3:45am,EUR,French Industrial Production m/m,medium, ,-0.2%, 
+1,2015.03.10 18:00,EUR,1,Italian Industrial Production m/m,135,56624,Mar 10 2015,5:00am,EUR,Italian Industrial Production m/m,low,0.4%,0.2%, 
+0,,EUR,3,ECOFIN Meetings,136,58884,Mar 10 2015,All Day,EUR,ECOFIN Meetings,medium, , , 
+1,2015.03.10 22:00,USD,1,NFIB Small Business Index,137,58068,Mar 10 2015,9:00am,USD,NFIB Small Business Index,low,97.9,99.2, 
+1,2015.03.10 23:00,USD,3,JOLTS Job Openings,138,58108,Mar 10 2015,10:00am,USD,JOLTS Job Openings,medium, ,5.04M,5.00M
+1,2015.03.10 23:00,USD,1,Wholesale Inventories m/m,139,57711,Mar 10 2015,10:00am,USD,Wholesale Inventories m/m,low, ,0.0%, 
+1,2015.03.10 23:35,GBP,5,BOE Gov Carney Speaks,140,58889,Mar 10 2015,10:35am,GBP,BOE Gov Carney Speaks,high, , , 
+1,2015.03.11 03:30,GBP,3,MPC Member McCafferty Speaks,141,58890,Mar 10 2015,2:30pm,GBP,MPC Member McCafferty Speaks,medium, , , 
+1,2015.03.11 07:05,AUD,3,RBA Assist Gov Kent Speaks,142,58885,Mar 10 2015,6:05pm,AUD,RBA Assist Gov Kent Speaks,medium, , , 
+1,2015.03.11 08:30,AUD,3,Westpac Consumer Sentiment,143,54749,Mar 10 2015,7:30pm,AUD,Westpac Consumer Sentiment,medium,8.0%, ,-1.2%
+1,2015.03.11 08:50,JPY,3,Core Machinery Orders m/m,144,56729,Mar 10 2015,7:50pm,JPY,Core Machinery Orders m/m,medium,8.3%,-3.9%, 
+1,2015.03.11 08:50,JPY,1,PPI y/y,145,56979,Mar 10 2015,7:50pm,JPY,PPI y/y,low,0.3%,0.5%,0.5%
+1,2015.03.11 09:30,AUD,3,Home Loans m/m,146,54931,Mar 10 2015,8:30pm,AUD,Home Loans m/m,medium, ,-1.9%, 
+1,2015.03.11 14:30,CNY,5,Industrial Production y/y,147,55978,Mar 11,1:30am,CNY,Industrial Production y/y,high,7.9%,7.7%, 
+1,2015.03.11 14:30,CNY,3,Fixed Asset Investment ytd/y,148,55979,Mar 11 2015,1:30am,CNY,Fixed Asset Investment ytd/y,medium,15.7%,15.1%, 
+1,2015.03.11 14:30,CNY,1,Retail Sales y/y,149,55980,Mar 11 2015,1:30am,CNY,Retail Sales y/y,low,11.9%,11.6%, 
+1,2015.03.11 15:30,EUR,1,French Final Non-Farm Payrolls q/q,150,56515,Mar 11 2015,2:30am,EUR,French Final Non-Farm Payrolls q/q,low,0.0%,0.0%,0.0%
+1,2015.03.11 17:00,EUR,5,ECB President Draghi Speaks,151,58891,Mar 11 2015,4:00am,EUR,ECB President Draghi Speaks,high, , , 
+1,2015.03.11 18:30,GBP,5,Manufacturing Production m/m,152,55882,Mar 11 2015,5:30am,GBP,Manufacturing Production m/m,high,0.1%,0.2%, 
+1,2015.03.11 18:30,GBP,1,Industrial Production m/m,153,55881,Mar 11 2015,5:30am,GBP,Industrial Production m/m,low,-0.2%,0.2%, 
+1,2015.03.11 23:30,USD,3,Crude Oil Inventories,154,54355,Mar 11 2015,10:30am,USD,Crude Oil Inventories,medium,10.3M,4.5M,4.5M
+1,2015.03.11 23:57,GBP,3,NIESR GDP Estimate,155,55855,Mar 11 2015,10:57am,GBP,NIESR GDP Estimate,medium, , ,0.6%
+1,2015.03.12 00:00,GBP,3,MPC Member Weale Speaks,156,58892,Mar 11 2015,11:00am,GBP,MPC Member Weale Speaks,medium, , , 
+1,2015.03.12 02:01,USD,3,10-y Bond Auction,157,57409,Mar 11 2015,1:01pm,USD,10-y Bond Auction,medium,2.00|2.6, ,2.14|2.7
+1,2015.03.12 05:00,NZD,5,Official Cash Rate,158,55108,Mar 11 2015,4:00pm,NZD,Official Cash Rate,high,3.50%,3.50%,3.50%
+1,2015.03.12 05:00,NZD,5,RBNZ Rate Statement,159,55109,Mar 11 2015,4:00pm,NZD,RBNZ Rate Statement,high, , , 
+1,2015.03.12 05:00,NZD,3,RBNZ Monetary Policy Statement,160,55110,Mar 11 2015,4:00pm,NZD,RBNZ Monetary Policy Statement,medium, , , 
+1,2015.03.12 05:05,NZD,5,RBNZ Press Conference,161,55111,Mar 11 2015,4:05pm,NZD,RBNZ Press Conference,high, , , 
+1,2015.03.12 05:30,USD,3,Bank Stress Test Results,162,58887,Mar 11 2015,4:30pm,USD,Bank Stress Test Results,medium, , , 
+1,2015.03.12 06:45,NZD,1,FPI m/m,163,55040,Mar 11 2015,5:45pm,NZD,FPI m/m,low,1.3%, ,-0.7%
+1,2015.03.12 08:50,JPY,3,BSI Manufacturing Index,164,56764,Mar 11 2015,7:50pm,JPY,BSI Manufacturing Index,medium,8.1,5.7, 
+1,2015.03.12 08:50,JPY,1,Tertiary Industry Activity m/m,165,56854,Mar 11 2015,7:50pm,JPY,Tertiary Industry Activity m/m,low, ,0.6%, 
+1,2015.03.12 09:00,AUD,3,MI Inflation Expectations,166,54761,Mar 11 2015,8:00pm,AUD,MI Inflation Expectations,medium,4.0%, ,3.2%
+1,2015.03.12 09:01,GBP,1,RICS House Price Balance,167,55603,Mar 11 2015,8:01pm,GBP,RICS House Price Balance,low,7%,6%, 
+1,2015.03.12 09:05,GBP,1,BOE Quarterly Bulletin,168,55697,Mar 11 2015,8:05pm,GBP,BOE Quarterly Bulletin,low, , , 
+1,2015.03.12 09:10,NZD,5,RBNZ Gov Wheeler Speaks,169,58893,Mar 11 2015,8:10pm,NZD,RBNZ Gov Wheeler Speaks,high, , , 
+1,2015.03.12 09:25,NZD,1,REINZ HPI m/m,170,55064,Mar 11 2015,8:25pm,NZD,REINZ HPI m/m,low,-1.0%, ,0.8%
+1,2015.03.12 09:30,AUD,5,Employment Change,171,55203,Mar 11 2015,8:30pm,AUD,Employment Change,high, ,15.3K,15.6K
+1,2015.03.12 09:30,AUD,5,Unemployment Rate,172,58846,Mar 11 2015,8:30pm,AUD,Unemployment Rate,high,6.4%,6.4%, 
+1,2015.03.12 14:00,JPY,1,Consumer Confidence,173,56891,Mar 12,1:00am,JPY,Consumer Confidence,low,39.1,39.9, 
+1,2015.03.12 15:33,CNY,3,New Loans,174,56055,Mar 12 2015,2:33am,CNY,New Loans,medium,1470B,755B, 
+1,2015.03.12 15:33,CNY,1,M2 Money Supply y/y,175,56054,Mar 12 2015,2:33am,CNY,M2 Money Supply y/y,low,10.8%,11.1%, 
+1,2015.03.12 16:00,EUR,1,German Final CPI m/m,176,57601,Mar 12 2015,3:00am,EUR,German Final CPI m/m,low,0.9%,0.9%,0.9%
+1,2015.03.12 16:45,EUR,1,French CPI m/m,177,56493,Mar 12 2015,3:45am,EUR,French CPI m/m,low,-1.0%,0.6%, 
+1,2015.03.12 18:30,GBP,3,Trade Balance,178,55831,Mar 12 2015,5:30am,GBP,Trade Balance,medium, ,-9.7B, 
+1,2015.03.12 18:43,EUR,1,Spanish 10-y Bond Auction,179,56588,Mar 12 2015,5:43am,EUR,Spanish 10-y Bond Auction,low,1.62|2.0, ,1.02|1.7
+1,2015.03.12 19:00,EUR,3,German Buba President Weidmann Speaks,180,58894,Mar 12 2015,6:00am,EUR,German Buba President Weidmann Speaks,medium, , , 
+1,2015.03.12 19:00,EUR,1,Industrial Production m/m,181,57255,Mar 12 2015,6:00am,EUR,Industrial Production m/m,low, ,0.3%, 
+1,2015.03.12 21:30,CAD,3,NHPI m/m,182,58580,Mar 12 2015,8:30am,CAD,NHPI m/m,medium,0.1%,0.2%, 
+1,2015.03.12 21:30,CAD,1,Capacity Utilization Rate,183,58510,Mar 12 2015,8:30am,CAD,Capacity Utilization Rate,low, ,83.7%,83.6%
+1,2015.03.12 21:30,USD,5,Core Retail Sales m/m,184,57725,Mar 12 2015,8:30am,USD,Core Retail Sales m/m,high, ,0.6%, 
+1,2015.03.12 21:30,USD,5,Retail Sales m/m,185,57726,Mar 12 2015,8:30am,USD,Retail Sales m/m,high,-0.8%,0.3%, 
+1,2015.03.12 21:30,USD,5,Unemployment Claims,186,54303,Mar 12 2015,8:30am,USD,Unemployment Claims,high, ,306K, 
+1,2015.03.12 21:30,USD,3,Import Prices m/m,187,57938,Mar 12 2015,8:30am,USD,Import Prices m/m,medium, ,0.2%, 
+1,2015.03.12 21:45,GBP,5,BOE Gov Carney Speaks,188,58895,Mar 12 2015,8:45am,GBP,BOE Gov Carney Speaks,high, , , 
+1,2015.03.12 23:00,USD,3,Business Inventories m/m,189,57686,Mar 12 2015,10:00am,USD,Business Inventories m/m,medium, ,0.2%, 
+1,2015.03.12 23:30,USD,1,Natural Gas Storage,190,54408,Mar 12 2015,10:30am,USD,Natural Gas Storage,low,-228B,-189B,-198B
+1,2015.03.13 02:01,USD,1,30-y Bond Auction,191,57397,Mar 12 2015,1:01pm,USD,30-y Bond Auction,low,2.56|2.3, ,2.68|2.2
+1,2015.03.13 03:00,USD,1,Federal Budget Balance,192,54572,Mar 12 2015,2:00pm,USD,Federal Budget Balance,low,-17.5B,-188.9B, 
+1,2015.03.13 06:30,NZD,3,Business NZ Manufacturing Index,193,55146,Mar 12 2015,5:30pm,NZD,Business NZ Manufacturing Index,medium, , ,55.9
+1,2015.03.13 13:30,JPY,1,Revised Industrial Production m/m,194,56842,Mar 13,12:30am,JPY,Revised Industrial Production m/m,low,4.0%,4.0%, 
+1,2015.03.13 16:00,EUR,1,German WPI m/m,195,57587,Mar 13 2015,3:00am,EUR,German WPI m/m,low,-0.4%,-0.2%, 
+1,2015.03.13 18:00,GBP,3,MPC Member Shafik Speaks,196,58896,Mar 13 2015,5:00am,GBP,MPC Member Shafik Speaks,medium, , , 
+1,2015.03.13 18:30,GBP,1,Construction Output m/m,197,55667,Mar 13 2015,5:30am,GBP,Construction Output m/m,low, ,1.4%, 
+1,2015.03.13 21:30,CAD,5,Employment Change,198,58543,Mar 13 2015,8:30am,CAD,Employment Change,high,35.4K,-3.5K, 
+1,2015.03.13 21:30,CAD,5,Unemployment Rate,199,58542,Mar 13 2015,8:30am,CAD,Unemployment Rate,high,6.6%,6.7%, 
+1,2015.03.13 21:30,USD,5,PPI m/m,200,57874,Mar 13 2015,8:30am,USD,PPI m/m,high,-0.8%,0.2%, 
+1,2015.03.13 21:30,USD,3,Core PPI m/m,201,57872,Mar 13 2015,8:30am,USD,Core PPI m/m,medium,-0.1%,0.1%, 
+1,2015.03.13 23:00,USD,5,Prelim UoM Consumer Sentiment,202,56094,Mar 13 2015,10:00am,USD,Prelim UoM Consumer Sentiment,high, ,95.6, 
+1,2015.03.13 23:00,USD,1,Prelim UoM Inflation Expectations,203,56096,Mar 13 2015,10:00am,USD,Prelim UoM Inflation Expectations,low,2.8%, ,3.0%
+1,2015.03.14 00:15,GBP,3,MPC Member Haldane Speaks,204,58897,Mar 13 2015,11:15am,GBP,MPC Member Haldane Speaks,medium, , , 
+1,2015.03.16 07:00,AUD,3,RBA Assist Gov Debelle Speaks,206,58898,Mar 15,6:00pm,AUD,RBA Assist Gov Debelle Speaks,medium, , , 
+1,2015.03.16 08:01,GBP,1,Rightmove HPI m/m,207,55566,Mar 15 2015,7:01pm,GBP,Rightmove HPI m/m,low,2.1%, ,1.0%
+1,2015.03.16 09:30,AUD,3,New Motor Vehicle Sales m/m,208,54891,Mar 15 2015,8:30pm,AUD,New Motor Vehicle Sales m/m,medium, , ,2.9%
+1,2015.03.16 17:15,CHF,3,PPI m/m,209,56434,Mar 16,4:15am,CHF,PPI m/m,medium,-0.6%,0.4%, 
+1,2015.03.16 17:15,CHF,3,Retail Sales y/y,210,56446,Mar 16 2015,4:15am,CHF,Retail Sales y/y,medium, ,2.6%, 
+1,2015.03.16 21:30,CAD,3,Foreign Securities Purchases,211,58464,Mar 16 2015,8:30am,CAD,Foreign Securities Purchases,medium, ,-1.95B, 
+1,2015.03.16 21:30,USD,3,Empire State Manufacturing Index,212,57986,Mar 16 2015,8:30am,USD,Empire State Manufacturing Index,medium,7.8,8.1, 
+1,2015.03.16 22:15,USD,3,Capacity Utilization Rate,213,57952,Mar 16 2015,9:15am,USD,Capacity Utilization Rate,medium, ,79.5%, 
+1,2015.03.16 22:15,USD,3,Industrial Production m/m,214,57955,Mar 16 2015,9:15am,USD,Industrial Production m/m,medium, ,0.3%, 
+1,2015.03.16 22:30,GBP,1,CB Leading Index m/m,215,55927,Mar 16 2015,9:30am,GBP,CB Leading Index m/m,low, , ,0.2%
+1,2015.03.16 23:00,USD,3,NAHB Housing Market Index,216,58257,Mar 16 2015,10:00am,USD,NAHB Housing Market Index,medium,55,57, 
+1,2015.03.17 03:45,EUR,5,ECB President Draghi Speaks,217,58899,Mar 16 2015,2:45pm,EUR,ECB President Draghi Speaks,high, , , 
+1,2015.03.17 05:00,USD,1,TIC Long-Term Purchases,218,58095,Mar 16 2015,4:00pm,USD,TIC Long-Term Purchases,low, ,27.2B, 
+1,2015.03.17 09:30,AUD,5,Monetary Policy Meeting Minutes,219,54796,Mar 16 2015,8:30pm,AUD,Monetary Policy Meeting Minutes,high, , , 
+1,2015.03.17 11:00,CNY,1,Foreign Direct Investment ytd/y,220,55963,Mar 16 2015,10:00pm,CNY,Foreign Direct Investment ytd/y,low,29.4%, ,16.4%
+1,2015.03.17 12:04,JPY,5,Monetary Policy Statement,221,57096,Mar 16 2015,11:04pm,JPY,Monetary Policy Statement,high, , , 
+1,2015.03.17 15:32,JPY,5,BOJ Press Conference,222,57097,Mar 17,2:32am,JPY,BOJ Press Conference,high, , , 
+1,2015.03.17 19:00,EUR,5,German ZEW Economic Sentiment,223,58179,Mar 17 2015,6:00am,EUR,German ZEW Economic Sentiment,high,53.0,58.9, 
+1,2015.03.17 19:00,EUR,3,Final CPI y/y,224,57259,Mar 17 2015,6:00am,EUR,Final CPI y/y,medium,-0.3%,-0.3%,-0.3%
+1,2015.03.17 19:00,EUR,3,ZEW Economic Sentiment,225,58177,Mar 17 2015,6:00am,EUR,ZEW Economic Sentiment,medium,52.7,58.2, 
+1,2015.03.17 19:00,EUR,1,Employment Change q/q,226,57256,Mar 17 2015,6:00am,EUR,Employment Change q/q,low, ,0.1%,0.1%
+1,2015.03.17 19:00,EUR,1,Final Core CPI y/y,227,57257,Mar 17 2015,6:00am,EUR,Final Core CPI y/y,low,0.6%,0.6%, 
+1,2015.03.17 21:30,CAD,5,Manufacturing Sales m/m,228,58568,Mar 17 2015,8:30am,CAD,Manufacturing Sales m/m,high, ,-1.1%, 
+1,2015.03.17 21:30,USD,5,Building Permits,229,57664,Mar 17 2015,8:30am,USD,Building Permits,high, ,1.07M,1.09M
+1,2015.03.17 21:30,USD,3,Housing Starts,230,57666,Mar 17 2015,8:30am,USD,Housing Starts,medium, ,1.05M, 
+1,2015.03.17 23:00,USD,3,Treasury Sec Lew Speaks,231,58909,Mar 17 2015,10:00am,USD,Treasury Sec Lew Speaks,medium, , , 
+1,2015.03.17 23:18,NZD,5,GDT Price Index,232,56342,Mar 17 2015,10:18am,NZD,GDT Price Index,high,1.1%, ,-8.8%
+1,2015.03.18 06:45,NZD,3,Current Account,233,55082,Mar 17 2015,5:45pm,NZD,Current Account,medium, ,-3.12B,-3.19B
+1,2015.03.18 08:30,AUD,1,MI Leading Index m/m,234,54843,Mar 17 2015,7:30pm,AUD,MI Leading Index m/m,low,0.1%, ,0.3%
+1,2015.03.18 08:50,JPY,3,Trade Balance,235,56867,Mar 17 2015,7:50pm,JPY,Trade Balance,medium,-0.41T,-1.21T, 
+1,2015.03.18 14:00,JPY,1,BOJ Monthly Report,236,56937,Mar 18,1:00am,JPY,BOJ Monthly Report,low, , , 
+1,2015.03.18 18:00,EUR,1,Italian Trade Balance,237,56656,Mar 18 2015,5:00am,EUR,Italian Trade Balance,low, ,4.32B, 
+1,2015.03.18 18:30,GBP,5,Average Earnings Index 3m/y,238,55726,Mar 18 2015,5:30am,GBP,Average Earnings Index 3m/y,high,2.1%,2.2%, 
+1,2015.03.18 18:30,GBP,5,Claimant Count Change,239,55727,Mar 18 2015,5:30am,GBP,Claimant Count Change,high, ,-30.6K,-31.0K
+1,2015.03.18 18:30,GBP,5,MPC Official Bank Rate Votes,240,54607,Mar 18 2015,5:30am,GBP,MPC Official Bank Rate Votes,high,0-0-9,0-0-9,0-0-9
+1,2015.03.18 18:30,GBP,3,MPC Asset Purchase Facility Votes,241,54605,Mar 18 2015,5:30am,GBP,MPC Asset Purchase Facility Votes,medium,0-0-9,0-0-9,0-0-9
+1,2015.03.18 18:30,GBP,3,Unemployment Rate,242,55728,Mar 18 2015,5:30am,GBP,Unemployment Rate,medium,5.7%,5.6%, 
+1,2015.03.18 19:00,CHF,1,ZEW Economic Expectations,243,56180,Mar 18 2015,6:00am,CHF,ZEW Economic Expectations,low,-73.0, ,-37.9
+1,2015.03.18 19:33,EUR,1,German 10-y Bond Auction,244,57421,Mar 18 2015,6:33am,EUR,German 10-y Bond Auction,low,0.37|1.4, ,0.25|2.4
+1,2015.03.18 21:30,CAD,5,Wholesale Sales m/m,245,58621,Mar 18 2015,8:30am,CAD,Wholesale Sales m/m,high, ,-0.7%, 
+1,2015.03.18 21:30,GBP,5,Annual Budget Release,246,55694,Mar 18 2015,8:30am,GBP,Annual Budget Release,high, , , 
+1,2015.03.18 23:30,USD,3,Crude Oil Inventories,247,54356,Mar 18 2015,10:30am,USD,Crude Oil Inventories,medium,4.5M,4.0M,9.6M
+1,2015.03.19 03:00,USD,5,FOMC Economic Projections,248,54516,Mar 18 2015,2:00pm,USD,FOMC Economic Projections,high, , , 
+1,2015.03.19 03:00,USD,5,FOMC Statement,249,54501,Mar 18 2015,2:00pm,USD,FOMC Statement,high, , , 
+1,2015.03.19 03:00,USD,5,Federal Funds Rate,250,54500,Mar 18 2015,2:00pm,USD,Federal Funds Rate,high,0.25%,0.25%,0.25%
+1,2015.03.19 03:00,USD,3,Treasury Sec Lew Speaks,251,58910,Mar 18 2015,2:00pm,USD,Treasury Sec Lew Speaks,medium, , , 
+1,2015.03.19 03:30,USD,5,FOMC Press Conference,252,54520,Mar 18 2015,2:30pm,USD,FOMC Press Conference,high, , , 
+1,2015.03.19 06:45,NZD,5,GDP q/q,253,55090,Mar 18 2015,5:45pm,NZD,GDP q/q,high, ,0.8%,0.8%
+1,2015.03.19 09:30,AUD,1,RBA Bulletin,254,54813,Mar 18 2015,8:30pm,AUD,RBA Bulletin,low, , , 
+1,2015.03.19 13:30,JPY,1,All Industries Activity m/m,255,56701,Mar 19,12:30am,JPY,All Industries Activity m/m,low, ,1.9%,1.9%
+1,2015.03.19 15:45,CHF,1,SECO Economic Forecasts,256,56174,Mar 19 2015,2:45am,CHF,SECO Economic Forecasts,low, , , 
+1,2015.03.19 16:00,CHF,3,Trade Balance,257,56470,Mar 19 2015,3:00am,CHF,Trade Balance,medium, ,2.87B, 
+1,2015.03.19 17:30,CHF,5,Libor Rate,258,56191,Mar 19 2015,4:30am,CHF,Libor Rate,high,-0.75%,-0.75%,-0.75%
+1,2015.03.19 17:30,CHF,5,SNB Monetary Policy Assessment,259,56192,Mar 19 2015,4:30am,CHF,SNB Monetary Policy Assessment,high, , , 
+1,2015.03.19 17:30,CHF,5,SNB Press Conference,260,58903,Mar 19 2015,4:30am,CHF,SNB Press Conference,high, , , 
+1,2015.03.19 18:00,EUR,1,ECB Economic Bulletin,261,58680,Mar 19 2015,5:00am,EUR,ECB Economic Bulletin,low, , , 
+0,,EUR,5,EU Economic Summit,262,58905,Mar 19 2015,Day 1,EUR,EU Economic Summit,high, , , 
+1,2015.03.19 19:20,EUR,5,Targeted LTRO,263,58658,Mar 19 2015,6:20am,EUR,Targeted LTRO,high,129.8B,40.0B,97.8B
+1,2015.03.19 19:36,GBP,1,10-y Bond Auction,264,55711,Mar 19 2015,6:36am,GBP,10-y Bond Auction,low,1.62|1.6, ,1.68|1.4
+1,2015.03.19 21:30,USD,5,Unemployment Claims,265,54304,Mar 19 2015,8:30am,USD,Unemployment Claims,high, ,295K,291K
+1,2015.03.19 21:30,USD,3,Current Account,266,57804,Mar 19 2015,8:30am,USD,Current Account,medium, ,-103B, 
+1,2015.03.19 23:00,USD,5,Philly Fed Manufacturing Index,267,58035,Mar 19 2015,10:00am,USD,Philly Fed Manufacturing Index,high,5.2,7.2, 
+1,2015.03.19 23:00,USD,1,CB Leading Index m/m,268,58288,Mar 19 2015,10:00am,USD,CB Leading Index m/m,low,0.2%,0.3%, 
+1,2015.03.19 23:00,USD,1,FOMC Member Tarullo Speaks,269,58906,Mar 19 2015,10:00am,USD,FOMC Member Tarullo Speaks,low, , , 
+1,2015.03.19 23:30,USD,1,Natural Gas Storage,270,54409,Mar 19 2015,10:30am,USD,Natural Gas Storage,low,-198B,-50B,-45B
+1,2015.03.20 06:45,NZD,1,Visitor Arrivals m/m,271,55003,Mar 19 2015,5:45pm,NZD,Visitor Arrivals m/m,low, , ,6.9%
+1,2015.03.20 08:50,JPY,3,Monetary Policy Meeting Minutes,272,57048,Mar 19 2015,7:50pm,JPY,Monetary Policy Meeting Minutes,medium, , , 
+1,2015.03.20 11:00,NZD,1,Credit Card Spending y/y,273,55096,Mar 19 2015,10:00pm,NZD,Credit Card Spending y/y,low,6.2%, ,5.8%
+1,2015.03.20 11:10,AUD,5,RBA Gov Stevens Speaks,274,58900,Mar 19 2015,10:10pm,AUD,RBA Gov Stevens Speaks,high, , , 
+1,2015.03.20 16:00,EUR,1,German PPI m/m,275,57563,Mar 20,3:00am,EUR,German PPI m/m,low,-0.6%,0.2%, 
+1,2015.03.20 18:00,EUR,1,Current Account,276,58207,Mar 20 2015,5:00am,EUR,Current Account,low, ,21.3B, 
+1,2015.03.20 18:30,GBP,3,Public Sector Net Borrowing,277,55867,Mar 20 2015,5:30am,GBP,Public Sector Net Borrowing,medium, ,7.7B, 
+0,,EUR,3,EU Economic Summit,278,58904,Mar 20 2015,Day 2,EUR,EU Economic Summit,medium, , , 
+1,2015.03.20 21:30,CAD,5,Core CPI m/m,279,58479,Mar 20 2015,8:30am,CAD,Core CPI m/m,high,0.2%,0.6%,0.6%
+1,2015.03.20 21:30,CAD,5,Core Retail Sales m/m,280,58599,Mar 20 2015,8:30am,CAD,Core Retail Sales m/m,high, ,-0.4%, 
+1,2015.03.20 21:30,CAD,3,CPI m/m,281,58478,Mar 20 2015,8:30am,CAD,CPI m/m,medium,-0.2%,0.7%, 
+1,2015.03.20 21:30,CAD,3,Retail Sales m/m,282,58598,Mar 20 2015,8:30am,CAD,Retail Sales m/m,medium, ,-0.7%, 
+1,2015.03.20 23:20,USD,3,FOMC Member Lockhart Speaks,283,58901,Mar 20 2015,10:20am,USD,FOMC Member Lockhart Speaks,medium, , , 
+1,2015.03.21 00:30,USD,3,FOMC Member Evans Speaks,284,58908,Mar 20 2015,11:30am,USD,FOMC Member Evans Speaks,medium, , , 
+1,2015.03.23 06:00,NZD,1,Westpac Consumer Sentiment,286,55187,Mar 22,5:00pm,NZD,Westpac Consumer Sentiment,low,114.8, ,117.4
+1,2015.03.23 20:00,EUR,1,German Buba Monthly Report,287,57623,Mar 23,7:00am,EUR,German Buba Monthly Report,low, , , 
+1,2015.03.23 20:00,GBP,3,CBI Industrial Order Expectations,288,55538,Mar 23 2015,7:00am,GBP,CBI Industrial Order Expectations,medium,10,9, 
+1,2015.03.23 23:00,EUR,5,ECB President Draghi Speaks,289,59278,Mar 23 2015,10:00am,EUR,ECB President Draghi Speaks,high, , , 
+1,2015.03.23 23:00,USD,3,Existing Home Sales,290,57439,Mar 23 2015,10:00am,USD,Existing Home Sales,medium,4.82M,4.91M, 
+1,2015.03.24 00:00,EUR,1,Consumer Confidence,291,57260,Mar 23 2015,11:00am,EUR,Consumer Confidence,low,-7,-6, 
+1,2015.03.24 01:20,USD,5,FOMC Member Fischer Speaks,292,59280,Mar 23 2015,12:20pm,USD,FOMC Member Fischer Speaks,high, , , 
+1,2015.03.24 08:00,AUD,1,CB Leading Index m/m,293,54991,Mar 23 2015,7:00pm,AUD,CB Leading Index m/m,low, , ,0.4%
+1,2015.03.24 10:15,USD,3,FOMC Member Williams Speaks,294,59272,Mar 23 2015,9:15pm,USD,FOMC Member Williams Speaks,medium, , , 
+1,2015.03.24 10:35,JPY,1,Flash Manufacturing PMI,295,55250,Mar 23 2015,9:35pm,JPY,Flash Manufacturing PMI,low, ,52.1, 
+1,2015.03.24 10:45,CNY,5,HSBC Flash Manufacturing PMI,296,55249,Mar 23 2015,9:45pm,CNY,HSBC Flash Manufacturing PMI,high, ,50.5, 
+1,2015.03.24 11:00,CNY,1,CB Leading Index m/m,297,56075,Mar 23 2015,10:00pm,CNY,CB Leading Index m/m,low, , ,1.5%
+1,2015.03.24 13:50,AUD,3,RBA Assist Gov Edey Speaks,298,59273,Mar 24,12:50am,AUD,RBA Assist Gov Edey Speaks,medium, , , 
+1,2015.03.24 17:00,EUR,5,French Flash Manufacturing PMI,299,55244,Mar 24 2015,4:00am,EUR,French Flash Manufacturing PMI,high, ,48.9, 
+1,2015.03.24 17:00,EUR,3,French Flash Services PMI,300,55245,Mar 24 2015,4:00am,EUR,French Flash Services PMI,medium,53.4,53.1,52.8
+1,2015.03.24 17:30,EUR,5,German Flash Manufacturing PMI,301,55246,Mar 24 2015,4:30am,EUR,German Flash Manufacturing PMI,high, ,51.5, 
+1,2015.03.24 17:30,EUR,3,German Flash Services PMI,302,55247,Mar 24 2015,4:30am,EUR,German Flash Services PMI,medium, ,55.0,55.3
+1,2015.03.24 18:00,EUR,3,Flash Manufacturing PMI,303,55242,Mar 24 2015,5:00am,EUR,Flash Manufacturing PMI,medium, ,51.6,51.9
+1,2015.03.24 18:00,EUR,3,Flash Services PMI,304,55243,Mar 24 2015,5:00am,EUR,Flash Services PMI,medium, ,53.9, 
+1,2015.03.24 18:30,GBP,5,CPI y/y,305,55768,Mar 24 2015,5:30am,GBP,CPI y/y,high,0.3%,0.1%, 
+1,2015.03.24 18:30,GBP,3,PPI Input m/m,306,55771,Mar 24 2015,5:30am,GBP,PPI Input m/m,medium, ,1.6%, 
+1,2015.03.24 18:30,GBP,3,RPI y/y,307,55769,Mar 24 2015,5:30am,GBP,RPI y/y,medium,1.1%,0.9%, 
+1,2015.03.24 18:30,GBP,1,Core CPI y/y,308,55767,Mar 24 2015,5:30am,GBP,Core CPI y/y,low,1.4%,1.3%, 
+1,2015.03.24 18:30,GBP,1,HPI y/y,309,55679,Mar 24 2015,5:30am,GBP,HPI y/y,low,9.8%,10.2%, 
+1,2015.03.24 18:30,GBP,1,PPI Output m/m,310,55773,Mar 24 2015,5:30am,GBP,PPI Output m/m,low, ,-0.1%, 
+1,2015.03.24 21:30,USD,5,CPI m/m,311,57899,Mar 24 2015,8:30am,USD,CPI m/m,high,-0.7%,0.2%,0.2%
+1,2015.03.24 21:30,USD,5,Core CPI m/m,312,57896,Mar 24 2015,8:30am,USD,Core CPI m/m,high,0.2%,0.1%, 
+1,2015.03.24 22:00,USD,1,HPI m/m,313,56364,Mar 24 2015,9:00am,USD,HPI m/m,low, ,0.5%, 
+1,2015.03.24 22:45,USD,3,Flash Manufacturing PMI,314,55248,Mar 24 2015,9:45am,USD,Flash Manufacturing PMI,medium, ,54.9, 
+1,2015.03.24 22:59,USD,1,Richmond Manufacturing Index,315,58047,Mar 24 2015,9:59am,USD,Richmond Manufacturing Index,low,0,2, 
+1,2015.03.24 23:00,EUR,1,Belgian NBB Business Climate,316,58276,Mar 24 2015,10:00am,EUR,Belgian NBB Business Climate,low,-8.3,-7.5, 
+1,2015.03.24 23:00,USD,3,New Home Sales,317,57650,Mar 24 2015,10:00am,USD,New Home Sales,medium, ,466K, 
+1,2015.03.25 06:45,NZD,5,Trade Balance,318,55018,Mar 24 2015,5:45pm,NZD,Trade Balance,high, ,375M, 
+1,2015.03.25 08:50,JPY,1,SPPI y/y,319,56991,Mar 24 2015,7:50pm,JPY,SPPI y/y,low, ,3.3%,3.3%
+1,2015.03.25 09:30,AUD,3,RBA Financial Stability Review,320,54810,Mar 24 2015,8:30pm,AUD,RBA Financial Stability Review,medium, , , 
+1,2015.03.25 16:00,CHF,1,UBS Consumption Indicator,321,56148,Mar 25,3:00am,CHF,UBS Consumption Indicator,low, , ,1.19
+1,2015.03.25 18:00,EUR,5,German Ifo Business Climate,322,58163,Mar 25 2015,5:00am,EUR,German Ifo Business Climate,high,106.8,107.4, 
+1,2015.03.25 18:30,GBP,1,BBA Mortgage Approvals,323,55655,Mar 25 2015,5:30am,GBP,BBA Mortgage Approvals,low, ,36.9K,37.3K
+1,2015.03.25 19:30,USD,3,FOMC Member Evans Speaks,324,59274,Mar 25 2015,6:30am,USD,FOMC Member Evans Speaks,medium, , , 
+1,2015.03.25 21:30,USD,5,Core Durable Goods Orders m/m,325,57774,Mar 25 2015,8:30am,USD,Core Durable Goods Orders m/m,high, ,0.3%, 
+1,2015.03.25 21:30,USD,3,Durable Goods Orders m/m,326,57772,Mar 25 2015,8:30am,USD,Durable Goods Orders m/m,medium, ,0.3%, 
+1,2015.03.25 23:00,CHF,1,SNB Quarterly Bulletin,327,56201,Mar 25 2015,10:00am,CHF,SNB Quarterly Bulletin,low, , , 
+1,2015.03.25 23:30,USD,3,Crude Oil Inventories,328,54357,Mar 25 2015,10:30am,USD,Crude Oil Inventories,medium,9.6M,5.0M,8.2M
+1,2015.03.26 04:45,CAD,3,Gov Council Member Lane Speaks,329,59275,Mar 25 2015,3:45pm,CAD,Gov Council Member Lane Speaks,medium, , , 
+1,2015.03.26 16:00,EUR,3,GfK German Consumer Climate,330,57635,Mar 26,3:00am,EUR,GfK German Consumer Climate,medium,9.7,9.8, 
+1,2015.03.26 18:00,EUR,3,M3 Money Supply y/y,331,58215,Mar 26 2015,5:00am,EUR,M3 Money Supply y/y,medium, ,4.3%, 
+1,2015.03.26 18:00,EUR,3,Private Loans y/y,332,58213,Mar 26 2015,5:00am,EUR,Private Loans y/y,medium, ,0.1%, 
+1,2015.03.26 18:30,GBP,5,Retail Sales m/m,333,55843,Mar 26 2015,5:30am,GBP,Retail Sales m/m,high, ,0.4%, 
+1,2015.03.26 18:30,GBP,3,FPC Statement,334,58064,Mar 26 2015,5:30am,GBP,FPC Statement,medium, , , 
+1,2015.03.26 20:00,GBP,3,CBI Realized Sales,335,55526,Mar 26 2015,7:00am,GBP,CBI Realized Sales,medium,1,16, 
+1,2015.03.26 21:30,USD,5,Unemployment Claims,336,54302,Mar 26 2015,8:30am,USD,Unemployment Claims,high,291K,291K, 
+1,2015.03.26 22:00,USD,3,FOMC Member Lockhart Speaks,337,59276,Mar 26 2015,9:00am,USD,FOMC Member Lockhart Speaks,medium, , , 
+1,2015.03.26 22:30,CAD,5,BOC Gov Poloz Speaks,338,59277,Mar 26 2015,9:30am,CAD,BOC Gov Poloz Speaks,high, , , 
+1,2015.03.26 22:45,USD,1,Flash Services PMI,339,55502,Mar 26 2015,9:45am,USD,Flash Services PMI,low, ,57.2, 
+1,2015.03.26 23:30,USD,1,Natural Gas Storage,340,54410,Mar 26 2015,10:30am,USD,Natural Gas Storage,low,-45B,10B,12B
+1,2015.03.27 02:00,CHF,5,Gov Board Member Zurbrugg Speaks,341,59285,Mar 26 2015,1:00pm,CHF,Gov Board Member Zurbrugg Speaks,high, , , 
+1,2015.03.27 02:30,GBP,3,BOE Gov Carney Speaks,342,59286,Mar 26 2015,1:30pm,GBP,BOE Gov Carney Speaks,medium, , , 
+1,2015.03.27 08:30,JPY,3,Household Spending y/y,343,56771,Mar 26 2015,7:30pm,JPY,Household Spending y/y,medium,-5.1%,-3.1%, 
+1,2015.03.27 08:30,JPY,3,Tokyo Core CPI y/y,344,57024,Mar 26 2015,7:30pm,JPY,Tokyo Core CPI y/y,medium,2.2%,2.2%,2.2%
+1,2015.03.27 08:30,JPY,1,National Core CPI y/y,345,57025,Mar 26 2015,7:30pm,JPY,National Core CPI y/y,low,2.2%,2.1%, 
+1,2015.03.27 08:30,JPY,1,Unemployment Rate,346,56772,Mar 26 2015,7:30pm,JPY,Unemployment Rate,low,3.6%,3.5%,3.5%
+1,2015.03.27 08:50,JPY,3,Retail Sales y/y,347,56807,Mar 26 2015,7:50pm,JPY,Retail Sales y/y,medium,-2.0%,-1.4%, 
+1,2015.03.27 16:00,EUR,1,German Import Prices m/m,348,57575,Mar 27,3:00am,EUR,German Import Prices m/m,low,-0.8%,0.5%, 
+1,2015.03.27 16:00,GBP,3,Nationwide HPI m/m,349,55591,Mar 27 2015,3:00am,GBP,Nationwide HPI m/m,medium,-0.1%,0.2%,0.1%
+1,2015.03.27 17:00,GBP,3,MPC Member Haldane Speaks,350,59282,Mar 27 2015,4:00am,GBP,MPC Member Haldane Speaks,medium, , , 
+1,2015.03.27 17:45,GBP,3,BOE Gov Carney Speaks,351,59283,Mar 27 2015,4:45am,GBP,BOE Gov Carney Speaks,medium, , , 
+1,2015.03.27 18:15,GBP,3,MPC Member Broadbent Speaks,352,59284,Mar 27 2015,5:15am,GBP,MPC Member Broadbent Speaks,medium, , , 
+1,2015.03.27 19:00,EUR,1,Italian Retail Sales m/m,353,56668,Mar 27 2015,6:00am,EUR,Italian Retail Sales m/m,low, ,0.1%,0.1%
+1,2015.03.27 19:30,USD,3,FOMC Member Fischer Speaks,354,59281,Mar 27 2015,6:30am,USD,FOMC Member Fischer Speaks,medium, , , 
+1,2015.03.27 21:30,USD,5,Final GDP q/q,355,57848,Mar 27 2015,8:30am,USD,Final GDP q/q,high,2.2%,2.4%, 
+1,2015.03.27 21:30,USD,1,Final GDP Price Index q/q,356,57849,Mar 27 2015,8:30am,USD,Final GDP Price Index q/q,low,0.1%,0.1%,0.1%
+1,2015.03.27 23:00,USD,3,Revised UoM Consumer Sentiment,357,56095,Mar 27 2015,10:00am,USD,Revised UoM Consumer Sentiment,medium,91.2,92.5,93.0
+1,2015.03.27 23:00,USD,1,Revised UoM Inflation Expectations,358,56097,Mar 27 2015,10:00am,USD,Revised UoM Inflation Expectations,low,3.0%, ,3.0%
+1,2015.03.28 04:45,USD,5,Fed Chair Yellen Speaks,359,59279,Mar 27 2015,3:45pm,USD,Fed Chair Yellen Speaks,high, , , 
+0,2015.03.29 10:00,CHF,0,Daylight Saving Time Shift,360,54283,Mar 28,9:00pm,CHF,Daylight Saving Time Shift,holiday, , , 
+0,2015.03.29 10:00,EUR,0,Daylight Saving Time Shift,361,54285,Mar 28 2015,9:00pm,EUR,Daylight Saving Time Shift,holiday, , , 
+0,2015.03.29 10:00,GBP,0,Daylight Saving Time Shift,362,54286,Mar 28 2015,9:00pm,GBP,Daylight Saving Time Shift,holiday, , , 
+1,2015.03.30 08:50,JPY,3,Prelim Industrial Production m/m,363,56809,Mar 29,7:50pm,JPY,Prelim Industrial Production m/m,medium, ,-1.8%, 
+0,,EUR,3,German Prelim CPI m/m,364,57602,Mar 30,All Day,EUR,German Prelim CPI m/m,medium,0.9%,0.4%, 
+1,2015.03.30 16:00,CHF,3,KOF Economic Barometer,365,56160,Mar 30 2015,3:00am,CHF,KOF Economic Barometer,medium, ,89.3, 
+1,2015.03.30 16:00,EUR,3,Spanish Flash CPI y/y,366,56577,Mar 30 2015,3:00am,EUR,Spanish Flash CPI y/y,medium,-1.1%,-1.0%, 
+1,2015.03.30 17:30,GBP,3,Net Lending to Individuals m/m,367,55623,Mar 30 2015,4:30am,GBP,Net Lending to Individuals m/m,medium,2.4B,2.5B,2.5B
+1,2015.03.30 17:30,GBP,1,M4 Money Supply m/m,368,55624,Mar 30 2015,4:30am,GBP,M4 Money Supply m/m,low, ,-0.2%,-0.2%
+1,2015.03.30 17:30,GBP,1,Mortgage Approvals,369,55640,Mar 30 2015,4:30am,GBP,Mortgage Approvals,low,61K,62K,62K
+1,2015.03.30 18:21,EUR,1,Italian 10-y Bond Auction,370,56612,Mar 30 2015,5:21am,EUR,Italian 10-y Bond Auction,low,1.36|1.5, ,1.34|1.5
+1,2015.03.30 21:30,CAD,3,RMPI m/m,371,58521,Mar 30 2015,8:30am,CAD,RMPI m/m,medium, ,5.1%, 
+1,2015.03.30 21:30,CAD,1,IPPI m/m,372,58520,Mar 30 2015,8:30am,CAD,IPPI m/m,low, ,0.6%, 
+1,2015.03.30 21:30,USD,3,Core PCE Price Index m/m,373,57819,Mar 30 2015,8:30am,USD,Core PCE Price Index m/m,medium,0.1%,0.1%,0.1%
+1,2015.03.30 21:30,USD,3,Personal Spending m/m,374,57816,Mar 30 2015,8:30am,USD,Personal Spending m/m,medium,-0.2%,0.3%, 
+1,2015.03.30 21:30,USD,1,Personal Income m/m,375,57814,Mar 30 2015,8:30am,USD,Personal Income m/m,low, ,0.3%, 
+1,2015.03.30 23:00,USD,3,Pending Home Sales m/m,376,57440,Mar 30 2015,10:00am,USD,Pending Home Sales m/m,medium, ,0.5%, 
+1,2015.03.31 06:45,NZD,3,Building Consents m/m,377,55019,Mar 30 2015,5:45pm,NZD,Building Consents m/m,medium, , ,-6.3%
+1,2015.03.31 07:58,GBP,1,GfK Consumer Confidence,378,55550,Mar 30 2015,6:58pm,GBP,GfK Consumer Confidence,low,1,1, 
+1,2015.03.31 08:15,USD,3,FOMC Member Fischer Speaks,379,59287,Mar 30 2015,7:15pm,USD,FOMC Member Fischer Speaks,medium, , , 
+1,2015.03.31 09:00,AUD,1,HIA New Home Sales m/m,380,54955,Mar 30 2015,8:00pm,AUD,HIA New Home Sales m/m,low,1.8%, ,1.1%
+1,2015.03.31 09:00,NZD,5,ANZ Business Confidence,381,55134,Mar 30 2015,8:00pm,NZD,ANZ Business Confidence,high,34.4, ,35.8
+1,2015.03.31 09:30,AUD,1,Private Sector Credit m/m,382,54855,Mar 30 2015,8:30pm,AUD,Private Sector Credit m/m,low,0.6%,0.5%,0.5%
+1,2015.03.31 14:00,JPY,1,Housing Starts y/y,383,56879,Mar 31,1:00am,JPY,Housing Starts y/y,low,-13.0%,-7.0%, 
+1,2015.03.31 15:00,EUR,3,German Retail Sales m/m,384,57528,Mar 31 2015,2:00am,EUR,German Retail Sales m/m,medium, ,-0.9%, 
+1,2015.03.31 15:45,EUR,3,French Consumer Spending m/m,385,56505,Mar 31 2015,2:45am,EUR,French Consumer Spending m/m,medium, ,0.3%, 
+1,2015.03.31 16:55,EUR,3,German Unemployment Change,386,57540,Mar 31 2015,3:55am,EUR,German Unemployment Change,medium,-20K,-10K, 
+1,2015.03.31 17:00,EUR,1,Italian Monthly Unemployment Rate,387,56636,Mar 31 2015,4:00am,EUR,Italian Monthly Unemployment Rate,low,12.6%,12.5%, 
+1,2015.03.31 17:30,GBP,5,Current Account,388,55937,Mar 31 2015,4:30am,GBP,Current Account,high, ,-21.2B, 
+1,2015.03.31 17:30,GBP,3,Final GDP q/q,389,55941,Mar 31 2015,4:30am,GBP,Final GDP q/q,medium,0.5%,0.5%, 
+1,2015.03.31 17:30,GBP,1,Index of Services 3m/3m,390,55903,Mar 31 2015,4:30am,GBP,Index of Services 3m/3m,low, ,0.7%, 
+1,2015.03.31 17:30,GBP,1,Revised Business Investment q/q,391,55957,Mar 31 2015,4:30am,GBP,Revised Business Investment q/q,low,-1.4%,-1.4%, 
+1,2015.03.31 18:00,EUR,5,CPI Flash Estimate y/y,392,57262,Mar 31 2015,5:00am,EUR,CPI Flash Estimate y/y,high,-0.3%,-0.3%, 
+1,2015.03.31 18:00,EUR,3,Core CPI Flash Estimate y/y,393,57261,Mar 31 2015,5:00am,EUR,Core CPI Flash Estimate y/y,medium, ,0.6%,0.6%
+1,2015.03.31 18:00,EUR,3,Unemployment Rate,394,57263,Mar 31 2015,5:00am,EUR,Unemployment Rate,medium, ,11.2%, 
+1,2015.03.31 18:00,EUR,1,Italian Prelim CPI m/m,395,56681,Mar 31 2015,5:00am,EUR,Italian Prelim CPI m/m,low, ,0.2%, 
+1,2015.03.31 21:00,USD,3,FOMC Member Lacker Speaks,396,59288,Mar 31 2015,8:00am,USD,FOMC Member Lacker Speaks,medium, , , 
+1,2015.03.31 21:30,CAD,5,GDP m/m,397,58500,Mar 31 2015,8:30am,CAD,GDP m/m,high,0.3%,0.2%, 
+1,2015.03.31 21:50,USD,3,FOMC Member Lockhart Speaks,398,59289,Mar 31 2015,8:50am,USD,FOMC Member Lockhart Speaks,medium, , , 
+1,2015.03.31 22:00,USD,1,/CS Composite-20 HPI y/y,399,58119,Mar 31 2015,9:00am,USD,/CS Composite-20 HPI y/y,low, ,4.6%,4.6%
+1,2015.03.31 22:45,USD,3,Chicago PMI,400,56136,Mar 31 2015,9:45am,USD,Chicago PMI,medium,45.8,52.5, 
+1,2015.03.31 23:00,USD,5,CB Consumer Confidence,401,54539,Mar 31 2015,10:00am,USD,CB Consumer Confidence,high, ,96.6, 
+1,2015.04.01 07:30,AUD,1,AIG Manufacturing Index,402,54720,Mar 31 2015,6:30pm,AUD,AIG Manufacturing Index,low,45.4, ,46.3
+1,2015.04.01 08:50,JPY,3,Tankan Manufacturing Index,403,56913,Mar 31 2015,7:50pm,JPY,Tankan Manufacturing Index,medium,12,14, 
+1,2015.04.01 08:50,JPY,3,Tankan Non-Manufacturing Index,404,56914,Mar 31 2015,7:50pm,JPY,Tankan Non-Manufacturing Index,medium,16,17, 
+1,2015.04.01 09:30,AUD,5,Building Approvals m/m,405,54944,Mar 31 2015,8:30pm,AUD,Building Approvals m/m,high, ,-3.8%, 
+1,2015.04.01 10:00,CNY,5,Manufacturing PMI,406,54669,Mar 31 2015,9:00pm,CNY,Manufacturing PMI,high,49.9,49.7, 
+1,2015.04.01 10:00,CNY,3,Non-Manufacturing PMI,407,54682,Mar 31 2015,9:00pm,CNY,Non-Manufacturing PMI,medium,53.9, ,53.7
+1,2015.04.01 10:35,JPY,1,Final Manufacturing PMI,408,55357,Mar 31 2015,9:35pm,JPY,Final Manufacturing PMI,low,50.4,50.4,50.3
+1,2015.04.01 10:45,CNY,5,HSBC Final Manufacturing PMI,409,55356,Mar 31 2015,9:45pm,CNY,HSBC Final Manufacturing PMI,high,49.2,49.3,49.6

@@ -1,0 +1,395 @@
+1,2011.11.01 14:45,AUD,3,Commodity Prices y/y,0,36120,Nov 1 2011,1:45am,AUD,Commodity Prices y/y,medium, , ,19.4%
+0,,EUR,0,French Bank Holiday,1,37012,Nov 1 2011,All Day,EUR,French Bank Holiday,holiday, , , 
+0,,EUR,0,Italian Bank Holiday,2,38031,Nov 1 2011,All Day,EUR,Italian Bank Holiday,holiday, , , 
+1,2011.11.01 16:00,GBP,5,Nationwide HPI m/m,3,36601,Nov 1 2011,3:00am,GBP,Nationwide HPI m/m,high,0.1%,0.1%, 
+1,2011.11.01 17:30,CHF,3,Manufacturing PMI,4,35077,Nov 1 2011,4:30am,CHF,Manufacturing PMI,medium,48.2,47.8, 
+1,2011.11.01 18:30,GBP,5,Manufacturing PMI,5,33164,Nov 1 2011,5:30am,GBP,Manufacturing PMI,high, ,50.0, 
+1,2011.11.01 18:30,GBP,5,Prelim GDP q/q,6,34549,Nov 1 2011,5:30am,GBP,Prelim GDP q/q,high, ,0.4%, 
+1,2011.11.01 18:30,GBP,1,Index of Services 3m/3m,7,34575,Nov 1 2011,5:30am,GBP,Index of Services 3m/3m,low, ,1.4%, 
+1,2011.11.01 22:30,NZD,1,GDT Price Index,8,56262,Nov 1 2011,9:30am,NZD,GDT Price Index,low,2.5%, ,-1.8%
+1,2011.11.01 23:00,CAD,5,BOC Gov Carney Speaks,9,41330,Nov 1 2011,10:00am,CAD,BOC Gov Carney Speaks,high, , , 
+1,2011.11.01 23:00,USD,5,ISM Manufacturing PMI,10,32995,Nov 1 2011,10:00am,USD,ISM Manufacturing PMI,high,51.6,52.1, 
+1,2011.11.01 23:00,USD,1,Construction Spending m/m,11,34115,Nov 1 2011,10:00am,USD,Construction Spending m/m,low, ,0.4%,0.2%
+1,2011.11.01 23:00,USD,1,ISM Manufacturing Prices,12,41295,Nov 1 2011,10:00am,USD,ISM Manufacturing Prices,low,56.0,55.1, 
+0,,USD,1,Total Vehicle Sales,13,33415,Nov 1 2011,All Day,USD,Total Vehicle Sales,low,13.1M,13.1M, 
+1,2011.11.02 08:50,JPY,1,Monetary Base y/y,14,36771,Nov 1 2011,7:50pm,JPY,Monetary Base y/y,low,16.7%,17.3%,17.0%
+1,2011.11.02 09:30,AUD,5,Building Approvals m/m,15,34491,Nov 1 2011,8:30pm,AUD,Building Approvals m/m,high, ,-4.5%, 
+1,2011.11.02 17:15,EUR,3,Spanish Manufacturing PMI,16,43847,Nov 2 2011,4:15am,EUR,Spanish Manufacturing PMI,medium,43.7, ,43.9
+1,2011.11.02 17:45,EUR,3,Italian Manufacturing PMI,17,43501,Nov 2 2011,4:45am,EUR,Italian Manufacturing PMI,medium,48.3,47.3, 
+1,2011.11.02 17:50,EUR,1,French Final Manufacturing PMI,18,58943,Nov 2 2011,4:50am,EUR,French Final Manufacturing PMI,low,49.0,49.0, 
+1,2011.11.02 17:55,EUR,3,German Unemployment Change,19,36913,Nov 2 2011,4:55am,EUR,German Unemployment Change,medium, ,-10K, 
+1,2011.11.02 17:55,EUR,1,German Final Manufacturing PMI,20,59000,Nov 2 2011,4:55am,EUR,German Final Manufacturing PMI,low,48.9,48.9,49.1
+1,2011.11.02 18:00,EUR,1,Final Manufacturing PMI,21,33220,Nov 2 2011,5:00am,EUR,Final Manufacturing PMI,low,47.3,47.3,47.1
+1,2011.11.02 18:30,GBP,5,Construction PMI,22,33176,Nov 2 2011,5:30am,GBP,Construction PMI,high,50.1,50.1, 
+1,2011.11.02 20:30,USD,1,Challenger Job Cuts y/y,23,35471,Nov 2 2011,7:30am,USD,Challenger Job Cuts y/y,low,211.5%, ,12.6%
+1,2011.11.02 21:15,USD,5,ADP Non-Farm Employment Change,24,33208,Nov 2 2011,8:15am,USD,ADP Non-Farm Employment Change,high, ,102K, 
+1,2011.11.02 23:30,USD,3,Crude Oil Inventories,25,36982,Nov 2 2011,10:30am,USD,Crude Oil Inventories,medium,4.7M,1.4M,1.8M
+1,2011.11.03 01:32,USD,5,FOMC Statement,26,32643,Nov 2 2011,12:32pm,USD,FOMC Statement,high, , , 
+1,2011.11.03 01:32,USD,3,Federal Funds Rate,27,32642,Nov 2 2011,12:32pm,USD,Federal Funds Rate,medium,0.25%,0.25%,0.25%
+1,2011.11.03 03:00,USD,3,FOMC Economic Projections,28,42520,Nov 2 2011,2:00pm,USD,FOMC Economic Projections,medium, , , 
+1,2011.11.03 03:15,USD,5,FOMC Press Conference,29,37763,Nov 2 2011,2:15pm,USD,FOMC Press Conference,high, , , 
+1,2011.11.03 03:30,GBP,3,MPC Member Fisher Speaks,30,41329,Nov 2 2011,2:30pm,GBP,MPC Member Fisher Speaks,medium, , , 
+1,2011.11.03 05:15,CAD,5,BOC Gov Carney Speaks,31,41331,Nov 2 2011,4:15pm,CAD,BOC Gov Carney Speaks,high, , , 
+1,2011.11.03 06:45,NZD,5,Employment Change q/q,32,34226,Nov 2 2011,5:45pm,NZD,Employment Change q/q,high, ,0.5%, 
+1,2011.11.03 06:45,NZD,5,Unemployment Rate,33,34223,Nov 2 2011,5:45pm,NZD,Unemployment Rate,high,6.5%,6.4%, 
+1,2011.11.03 07:30,AUD,3,AIG Services Index,34,33030,Nov 2 2011,6:30pm,AUD,AIG Services Index,medium,50.3, ,48.8
+1,2011.11.03 07:30,CAD,5,BOC Gov Carney Speaks,35,41332,Nov 2 2011,6:30pm,CAD,BOC Gov Carney Speaks,high, , , 
+0,,JPY,0,Bank Holiday,36,37033,Nov 2 2011,All Day,JPY,Bank Holiday,holiday, , , 
+1,2011.11.03 09:30,AUD,5,Retail Sales m/m,37,34430,Nov 2 2011,8:30pm,AUD,Retail Sales m/m,high,0.6%,0.5%, 
+1,2011.11.03 10:00,CNY,1,Non-Manufacturing PMI,38,42249,Nov 2 2011,9:00pm,CNY,Non-Manufacturing PMI,low,59.3, ,57.7
+1,2011.11.03 11:30,CNY,1,HSBC Services PMI,39,54020,Nov 2 2011,10:30pm,CNY,HSBC Services PMI,low,53.0, ,54.1
+0,,ALL,3,G20 Meetings,40,37066,Nov 3 2011,Day 1,ALL,G20 Meetings,medium, , , 
+1,2011.11.03 17:00,EUR,3,Spanish Unemployment Change,41,44026,Nov 3 2011,4:00am,EUR,Spanish Unemployment Change,medium,95.8K, ,134.2K
+1,2011.11.03 18:30,GBP,5,Services PMI,42,33188,Nov 3 2011,5:30am,GBP,Services PMI,high,52.9,51.9, 
+1,2011.11.03 18:45,GBP,3,BOE Gov King Speaks,43,41333,Nov 3 2011,5:45am,GBP,BOE Gov King Speaks,medium, , , 
+1,2011.11.03 19:15,GBP,3,MPC Member Bean Speaks,44,41334,Nov 3 2011,6:15am,GBP,MPC Member Bean Speaks,medium, , , 
+1,2011.11.03 20:04,EUR,3,French 10-y Bond Auction,45,42398,Nov 3 2011,7:04am,EUR,French 10-y Bond Auction,medium,2.72|2.0, ,3.22|2.2
+1,2011.11.03 21:30,USD,5,Unemployment Claims,46,35440,Nov 3 2011,8:30am,USD,Unemployment Claims,high, ,401K,397K
+1,2011.11.03 21:30,USD,3,Prelim Nonfarm Productivity q/q,47,34817,Nov 3 2011,8:30am,USD,Prelim Nonfarm Productivity q/q,medium, ,2.6%, 
+1,2011.11.03 21:30,USD,3,Prelim Unit Labor Costs q/q,48,34818,Nov 3 2011,8:30am,USD,Prelim Unit Labor Costs q/q,medium, ,-0.8%, 
+1,2011.11.03 21:45,EUR,5,Minimum Bid Rate,49,32795,Nov 3 2011,8:45am,EUR,Minimum Bid Rate,high,1.50%,1.50%, 
+1,2011.11.03 22:30,EUR,5,ECB Press Conference,50,32796,Nov 3 2011,9:30am,EUR,ECB Press Conference,high, , , 
+1,2011.11.03 23:00,USD,5,ISM Non-Manufacturing PMI,51,32994,Nov 3 2011,10:00am,USD,ISM Non-Manufacturing PMI,high,53.0,53.7, 
+1,2011.11.03 23:00,USD,3,Factory Orders m/m,52,34016,Nov 3 2011,10:00am,USD,Factory Orders m/m,medium, ,0.0%, 
+1,2011.11.03 23:30,USD,1,Natural Gas Storage,53,35439,Nov 3 2011,10:30am,USD,Natural Gas Storage,low,92B,71B,78B
+1,2011.11.04 02:30,CHF,1,Gov Board Member Danthine Speaks,54,41328,Nov 3 2011,1:30pm,CHF,Gov Board Member Danthine Speaks,low, , , 
+1,2011.11.04 09:30,AUD,5,RBA Monetary Policy Statement,55,32653,Nov 3 2011,8:30pm,AUD,RBA Monetary Policy Statement,high, , , 
+0,,ALL,3,G20 Meetings,56,37067,Nov 4 2011,Day 2,ALL,G20 Meetings,medium, , , 
+1,2011.11.04 17:00,CHF,5,Foreign Currency Reserves,57,41361,Nov 4 2011,4:00am,CHF,Foreign Currency Reserves,high, , ,242.7B
+1,2011.11.04 17:15,EUR,1,Spanish Services PMI,58,43943,Nov 4 2011,4:15am,EUR,Spanish Services PMI,low,44.8, ,41.8
+1,2011.11.04 17:45,EUR,1,Italian Services PMI,59,43561,Nov 4 2011,4:45am,EUR,Italian Services PMI,low,45.8,45.5, 
+1,2011.11.04 17:50,EUR,1,French Final Services PMI,60,59162,Nov 4 2011,4:50am,EUR,French Final Services PMI,low,46.0,46.0, 
+1,2011.11.04 17:55,EUR,1,German Final Services PMI,61,59174,Nov 4 2011,4:55am,EUR,German Final Services PMI,low,52.1,52.1, 
+1,2011.11.04 18:00,EUR,1,Final Services PMI,62,35632,Nov 4 2011,5:00am,EUR,Final Services PMI,low,47.2,47.2, 
+1,2011.11.04 19:00,EUR,1,PPI m/m,63,35262,Nov 4 2011,6:00am,EUR,PPI m/m,low, ,0.3%,0.3%
+1,2011.11.04 20:00,CAD,5,Employment Change,64,34225,Nov 4 2011,7:00am,CAD,Employment Change,high,60.9K,16.3K, 
+1,2011.11.04 20:00,CAD,5,Unemployment Rate,65,34222,Nov 4 2011,7:00am,CAD,Unemployment Rate,high,7.1%,7.2%, 
+1,2011.11.04 20:00,EUR,3,German Factory Orders m/m,66,33509,Nov 4 2011,7:00am,EUR,German Factory Orders m/m,medium,-1.4%,0.1%, 
+1,2011.11.04 21:30,CAD,5,Building Permits m/m,67,33885,Nov 4 2011,8:30am,CAD,Building Permits m/m,high, ,2.7%, 
+1,2011.11.04 21:30,USD,5,Non-Farm Employment Change,68,32891,Nov 4 2011,8:30am,USD,Non-Farm Employment Change,high, ,97K, 
+1,2011.11.04 21:30,USD,5,Unemployment Rate,69,32889,Nov 4 2011,8:30am,USD,Unemployment Rate,high,9.1%,9.1%, 
+1,2011.11.04 21:30,USD,3,Average Hourly Earnings m/m,70,32890,Nov 4 2011,8:30am,USD,Average Hourly Earnings m/m,medium, ,0.2%,0.2%
+1,2011.11.04 22:59,CAD,5,Ivey PMI,71,33597,Nov 4 2011,9:59am,CAD,Ivey PMI,high,55.7,55.7, 
+1,2011.11.05 02:00,USD,1,FOMC Member Tarullo Speaks,72,41326,Nov 4 2011,1:00pm,USD,FOMC Member Tarullo Speaks,low, , , 
+0,2011.11.06 16:00,CAD,0,Daylight Saving Time Shift,74,32705,Nov 6 2011,3:00am,CAD,Daylight Saving Time Shift,holiday, , , 
+0,2011.11.06 16:00,USD,0,Daylight Saving Time Shift,75,32706,Nov 6 2011,3:00am,USD,Daylight Saving Time Shift,holiday, , , 
+1,2011.11.07 07:23,AUD,1,AIG Construction Index,76,33031,Nov 6 2011,6:23pm,AUD,AIG Construction Index,low,30.0, ,34.7
+1,2011.11.07 09:30,AUD,5,ANZ Job Advertisements m/m,77,37139,Nov 6 2011,8:30pm,AUD,ANZ Job Advertisements m/m,high, , ,-0.7%
+1,2011.11.07 14:00,JPY,1,Leading Indicators,78,36925,Nov 7 2011,1:00am,JPY,Leading Indicators,low, ,96.3%, 
+1,2011.11.07 15:45,CHF,1,Unemployment Rate,79,36210,Nov 7 2011,2:45am,CHF,Unemployment Rate,low,3.0%,3.0%,3.0%
+1,2011.11.07 17:00,GBP,5,Halifax HPI m/m,80,36602,Nov 7 2011,4:00am,GBP,Halifax HPI m/m,high, ,0.1%, 
+1,2011.11.07 17:15,CHF,3,CPI m/m,81,36439,Nov 7 2011,4:15am,CHF,CPI m/m,medium,0.3%,0.2%, 
+0,,EUR,3,Eurogroup Meetings,82,44084,Nov 7 2011,All Day,EUR,Eurogroup Meetings,medium, , , 
+1,2011.11.07 18:30,EUR,3,Sentix Investor Confidence,83,33617,Nov 7 2011,5:30am,EUR,Sentix Investor Confidence,medium,-18.5,-19.7, 
+1,2011.11.07 19:00,EUR,3,Retail Sales m/m,84,35263,Nov 7 2011,6:00am,EUR,Retail Sales m/m,medium, ,0.0%, 
+1,2011.11.07 20:00,EUR,3,German Industrial Production m/m,85,33473,Nov 7 2011,7:00am,EUR,German Industrial Production m/m,medium, ,-0.7%, 
+1,2011.11.08 02:45,CHF,3,Gov Board Member Jordan Speaks,86,41349,Nov 7 2011,1:45pm,CHF,Gov Board Member Jordan Speaks,medium, , , 
+1,2011.11.08 04:00,USD,1,Loan Officer Survey,87,37144,Nov 7 2011,3:00pm,USD,Loan Officer Survey,low, , , 
+1,2011.11.08 05:00,USD,1,Consumer Credit m/m,88,35499,Nov 7 2011,4:00pm,USD,Consumer Credit m/m,low, ,5.1B, 
+1,2011.11.08 09:01,GBP,3,BRC Retail Sales Monitor y/y,89,35987,Nov 7 2011,8:01pm,GBP,BRC Retail Sales Monitor y/y,medium,0.3%, ,-0.6%
+1,2011.11.08 09:01,GBP,3,RICS House Price Balance,90,35988,Nov 7 2011,8:01pm,GBP,RICS House Price Balance,medium,-23%,-23%, 
+1,2011.11.08 09:30,AUD,5,Trade Balance,91,34442,Nov 7 2011,8:30pm,AUD,Trade Balance,high, ,3.02B, 
+1,2011.11.08 09:30,AUD,3,NAB Business Confidence,92,34527,Nov 7 2011,8:30pm,AUD,NAB Business Confidence,medium, , ,2
+1,2011.11.08 15:45,CHF,3,SECO Consumer Climate,93,35319,Nov 8 2011,2:45am,CHF,SECO Consumer Climate,medium,-17,-23,-24
+1,2011.11.08 16:00,EUR,1,German Trade Balance,94,33461,Nov 8 2011,3:00am,EUR,German Trade Balance,low,13.8B,12.9B, 
+1,2011.11.08 16:45,EUR,1,French Trade Balance,95,35919,Nov 8 2011,3:45am,EUR,French Trade Balance,low, ,-5.6B, 
+0,,EUR,3,ECOFIN Meetings,96,39940,Nov 8 2011,All Day,EUR,ECOFIN Meetings,medium, , , 
+1,2011.11.08 18:30,GBP,5,Manufacturing Production m/m,97,33070,Nov 8 2011,5:30am,GBP,Manufacturing Production m/m,high,-0.3%,0.2%,0.2%
+1,2011.11.08 18:30,GBP,1,Industrial Production m/m,98,33069,Nov 8 2011,5:30am,GBP,Industrial Production m/m,low, ,0.1%, 
+1,2011.11.08 18:40,CHF,3,Gov Board Member Jordan Speaks,99,41350,Nov 8 2011,5:40am,CHF,Gov Board Member Jordan Speaks,medium, , , 
+1,2011.11.08 21:30,USD,1,NFIB Small Business Index,100,48396,Nov 8 2011,8:30am,USD,NFIB Small Business Index,low,88.9,90.0,90.2
+1,2011.11.08 22:05,CAD,3,BOC Gov Carney Speaks,101,41335,Nov 8 2011,9:05am,CAD,BOC Gov Carney Speaks,medium, , , 
+1,2011.11.08 22:14,CAD,5,Housing Starts,102,36463,Nov 8 2011,9:14am,CAD,Housing Starts,high, ,198K, 
+1,2011.11.08 22:30,CHF,5,SNB Chairman Hildebrand Speaks,103,41345,Nov 8 2011,9:30am,CHF,SNB Chairman Hildebrand Speaks,high, , , 
+1,2011.11.08 22:30,EUR,3,German Buba President Weidmann Speaks,104,45074,Nov 8 2011,9:30am,EUR,German Buba President Weidmann Speaks,medium, , , 
+1,2011.11.09 00:00,GBP,3,NIESR GDP Estimate,105,35416,Nov 8 2011,11:00am,GBP,NIESR GDP Estimate,medium,0.5%, ,0.5%
+1,2011.11.09 00:00,USD,1,IBD/TIPP Economic Optimism,106,36154,Nov 8 2011,11:00am,USD,IBD/TIPP Economic Optimism,low,40.3,42.5, 
+1,2011.11.09 00:00,USD,1,JOLTS Job Openings,107,49328,Nov 8 2011,11:00am,USD,JOLTS Job Openings,low, , ,3.35M
+1,2011.11.09 03:00,USD,3,FOMC Member Kocherlakota Speaks,108,41346,Nov 8 2011,2:00pm,USD,FOMC Member Kocherlakota Speaks,medium, , , 
+1,2011.11.09 03:30,USD,3,FOMC Member Plosser Speaks,109,41347,Nov 8 2011,2:30pm,USD,FOMC Member Plosser Speaks,medium, , , 
+1,2011.11.09 08:30,AUD,3,Westpac Consumer Sentiment,110,36132,Nov 8 2011,7:30pm,AUD,Westpac Consumer Sentiment,medium,0.4%, ,6.3%
+1,2011.11.09 08:50,JPY,1,Bank Lending y/y,111,35802,Nov 8 2011,7:50pm,JPY,Bank Lending y/y,low,-0.3%, ,0.0%
+1,2011.11.09 08:50,JPY,1,Current Account,112,35800,Nov 8 2011,7:50pm,JPY,Current Account,low,0.65T,0.96T, 
+1,2011.11.09 09:01,GBP,1,BRC Shop Price Index y/y,113,36883,Nov 8 2011,8:01pm,GBP,BRC Shop Price Index y/y,low,2.7%, ,2.1%
+1,2011.11.09 09:30,AUD,5,Home Loans m/m,114,34479,Nov 8 2011,8:30pm,AUD,Home Loans m/m,high, ,1.7%, 
+1,2011.11.09 10:30,CNY,5,CPI y/y,115,33289,Nov 8 2011,9:30pm,CNY,CPI y/y,high,6.1%,5.4%, 
+1,2011.11.09 10:30,CNY,3,PPI y/y,116,33292,Nov 8 2011,9:30pm,CNY,PPI y/y,medium,6.5%,5.7%, 
+1,2011.11.09 14:00,JPY,1,Economy Watchers Sentiment,117,36804,Nov 9 2011,1:00am,JPY,Economy Watchers Sentiment,low,45.3,46.7, 
+1,2011.11.09 14:32,CNY,1,Retail Sales y/y,118,33293,Nov 9 2011,1:32am,CNY,Retail Sales y/y,low,17.7%,17.5%, 
+1,2011.11.09 14:38,CNY,3,Fixed Asset Investment ytd/y,119,33290,Nov 9 2011,1:38am,CNY,Fixed Asset Investment ytd/y,medium,24.9%,24.7%,24.9%
+1,2011.11.09 14:46,CNY,3,Industrial Production y/y,120,33288,Nov 9 2011,1:46am,CNY,Industrial Production y/y,medium,13.8%,13.3%,13.2%
+1,2011.11.09 16:45,EUR,1,French Gov Budget Balance,121,35920,Nov 9 2011,3:45am,EUR,French Gov Budget Balance,low,-102.8B, ,-92.7B
+1,2011.11.09 18:30,GBP,3,Trade Balance,122,34544,Nov 9 2011,5:30am,GBP,Trade Balance,medium, ,-8.0B, 
+1,2011.11.09 22:30,CAD,3,NHPI m/m,123,34353,Nov 9 2011,9:30am,CAD,NHPI m/m,medium,0.1%,0.2%,0.2%
+1,2011.11.09 23:30,USD,3,Fed Chairman Bernanke Speaks,124,41340,Nov 9 2011,10:30am,USD,Fed Chairman Bernanke Speaks,medium, , , 
+1,2011.11.10 00:00,USD,1,Wholesale Inventories m/m,125,33982,Nov 9 2011,11:00am,USD,Wholesale Inventories m/m,low, ,0.5%, 
+1,2011.11.10 00:30,USD,3,Crude Oil Inventories,126,36983,Nov 9 2011,11:30am,USD,Crude Oil Inventories,medium,1.8M,0.7M,-1.4M
+1,2011.11.10 02:15,USD,1,FOMC Member Tarullo Speaks,127,41341,Nov 9 2011,1:15pm,USD,FOMC Member Tarullo Speaks,low, , , 
+1,2011.11.10 03:00,USD,3,10-y Bond Auction,128,42331,Nov 9 2011,2:00pm,USD,10-y Bond Auction,medium,2.27|2.9, ,2.03|2.6
+1,2011.11.10 05:00,NZD,5,RBNZ Financial Stability Report,129,34332,Nov 9 2011,4:00pm,NZD,RBNZ Financial Stability Report,high, , , 
+1,2011.11.10 06:33,NZD,1,Business NZ Manufacturing Index,130,36895,Nov 9 2011,5:33pm,NZD,Business NZ Manufacturing Index,low, , ,46.5
+1,2011.11.10 07:30,AUD,3,RBA Deputy Gov Lowe Speaks,131,41344,Nov 9 2011,6:30pm,AUD,RBA Deputy Gov Lowe Speaks,medium, , , 
+1,2011.11.10 08:50,JPY,3,Core Machinery Orders m/m,132,35897,Nov 9 2011,7:50pm,JPY,Core Machinery Orders m/m,medium,11.0%,-7.3%, 
+1,2011.11.10 08:50,JPY,1,M2 Money Stock y/y,133,35801,Nov 9 2011,7:50pm,JPY,M2 Money Stock y/y,low,2.7%,2.7%,2.7%
+1,2011.11.10 09:00,AUD,3,MI Inflation Expectations,134,34588,Nov 9 2011,8:00pm,AUD,MI Inflation Expectations,medium,3.1%, ,2.5%
+1,2011.11.10 09:30,AUD,5,Employment Change,135,34466,Nov 9 2011,8:30pm,AUD,Employment Change,high, ,10.1K,10.1K
+1,2011.11.10 09:30,AUD,5,Unemployment Rate,136,34465,Nov 9 2011,8:30pm,AUD,Unemployment Rate,high, ,5.3%, 
+1,2011.11.10 11:01,CNY,5,Trade Balance,137,33294,Nov 9 2011,10:01pm,CNY,Trade Balance,high,14.5B,26.3B, 
+1,2011.11.10 14:00,JPY,1,Consumer Confidence,138,36831,Nov 10 2011,1:00am,JPY,Consumer Confidence,low,38.6,39.3, 
+1,2011.11.10 15:00,JPY,1,Prelim Machine Tool Orders y/y,139,36803,Nov 10 2011,2:00am,JPY,Prelim Machine Tool Orders y/y,low, , ,25.9%
+1,2011.11.10 15:30,EUR,1,French CPI m/m,140,35933,Nov 10 2011,2:30am,EUR,French CPI m/m,low,-0.1%,0.1%, 
+1,2011.11.10 16:00,EUR,1,German Final CPI m/m,141,33497,Nov 10 2011,3:00am,EUR,German Final CPI m/m,low,0.0%,0.0%,0.0%
+1,2011.11.10 16:00,EUR,1,German WPI m/m,142,36626,Nov 10 2011,3:00am,EUR,German WPI m/m,low,0.3%,0.2%, 
+1,2011.11.10 16:45,EUR,3,French Industrial Production m/m,143,36507,Nov 10 2011,3:45am,EUR,French Industrial Production m/m,medium,0.5%,-0.6%, 
+1,2011.11.10 18:00,EUR,3,ECB Monthly Bulletin,144,36010,Nov 10 2011,5:00am,EUR,ECB Monthly Bulletin,medium, , , 
+1,2011.11.10 18:00,EUR,1,Italian Industrial Production m/m,145,36508,Nov 10 2011,5:00am,EUR,Italian Industrial Production m/m,low, ,-2.6%, 
+1,2011.11.10 19:00,EUR,3,EU Economic Forecasts,146,48839,Nov 10 2011,6:00am,EUR,EU Economic Forecasts,medium, , , 
+1,2011.11.10 19:00,GBP,1,CB Leading Index m/m,147,35644,Nov 10 2011,6:00am,GBP,CB Leading Index m/m,low,-0.5%, ,-0.3%
+1,2011.11.10 21:00,GBP,5,Asset Purchase Facility,148,32770,Nov 10 2011,8:00am,GBP,Asset Purchase Facility,high,275B,275B,275B
+1,2011.11.10 21:00,GBP,5,Official Bank Rate,149,32768,Nov 10 2011,8:00am,GBP,Official Bank Rate,high,0.50%,0.50%,0.50%
+1,2011.11.10 22:30,CAD,5,Trade Balance,150,34377,Nov 10 2011,9:30am,CAD,Trade Balance,high, ,-0.5B, 
+1,2011.11.10 22:30,USD,5,Trade Balance,151,33958,Nov 10 2011,9:30am,USD,Trade Balance,high, ,-46.1B, 
+1,2011.11.10 22:30,USD,5,Unemployment Claims,152,35441,Nov 10 2011,9:30am,USD,Unemployment Claims,high, ,401K, 
+1,2011.11.10 22:30,USD,3,Import Prices m/m,153,36676,Nov 10 2011,9:30am,USD,Import Prices m/m,medium, ,0.1%, 
+1,2011.11.11 00:30,USD,1,Natural Gas Storage,154,35442,Nov 10 2011,11:30am,USD,Natural Gas Storage,low,78B,31B,37B
+1,2011.11.11 00:40,USD,3,FOMC Member Evans Speaks,155,41348,Nov 10 2011,11:40am,USD,FOMC Member Evans Speaks,medium, , , 
+1,2011.11.11 01:45,USD,3,Fed Chairman Bernanke Speaks,156,41342,Nov 10 2011,12:45pm,USD,Fed Chairman Bernanke Speaks,medium, , , 
+1,2011.11.11 03:00,USD,1,30-y Bond Auction,157,42941,Nov 10 2011,2:00pm,USD,30-y Bond Auction,low,3.12|2.9, ,3.20|2.4
+1,2011.11.11 04:00,USD,3,Federal Budget Balance,158,36475,Nov 10 2011,3:00pm,USD,Federal Budget Balance,medium, ,-107.5B, 
+1,2011.11.11 06:45,NZD,1,FPI m/m,159,34291,Nov 10 2011,5:45pm,NZD,FPI m/m,low,-1.0%, ,-1.3%
+1,2011.11.11 08:00,NZD,3,REINZ HPI m/m,160,37417,Nov 10 2011,7:00pm,NZD,REINZ HPI m/m,medium,1.7%, ,-0.3%
+1,2011.11.11 08:50,JPY,3,Tertiary Industry Activity m/m,161,35868,Nov 10 2011,7:50pm,JPY,Tertiary Industry Activity m/m,medium, ,-0.4%, 
+1,2011.11.11 08:50,JPY,1,PPI y/y,162,35832,Nov 10 2011,7:50pm,JPY,PPI y/y,low,2.5%,2.3%, 
+0,,EUR,0,French Bank Holiday,163,37014,Nov 11 2011,All Day,EUR,French Bank Holiday,holiday, , , 
+1,2011.11.11 16:06,CNY,3,New Loans,164,37126,Nov 11 2011,3:06am,CNY,New Loans,medium,470B,503B, 
+1,2011.11.11 16:06,CNY,1,M2 Money Supply y/y,165,37125,Nov 11 2011,3:06am,CNY,M2 Money Supply y/y,low,13.0%,13.1%,12.9%
+1,2011.11.11 17:00,EUR,3,Spanish Flash GDP q/q,166,43762,Nov 11 2011,4:00am,EUR,Spanish Flash GDP q/q,medium,0.2%,0.1%, 
+1,2011.11.11 18:30,GBP,5,PPI Input m/m,167,33142,Nov 11 2011,5:30am,GBP,PPI Input m/m,high, ,0.0%, 
+1,2011.11.11 18:30,GBP,1,PPI Output m/m,168,33143,Nov 11 2011,5:30am,GBP,PPI Output m/m,low,0.3%,0.2%, 
+0,,CAD,0,Bank Holiday,169,37042,Nov 11 2011,All Day,CAD,Bank Holiday,holiday, , , 
+0,,USD,0,Bank Holiday,170,35677,Nov 11 2011,All Day,USD,Bank Holiday,holiday, , , 
+1,2011.11.11 23:55,USD,5,Prelim UoM Consumer Sentiment,171,33571,Nov 11 2011,10:55am,USD,Prelim UoM Consumer Sentiment,high, ,61.3, 
+1,2011.11.11 23:55,USD,1,Prelim UoM Inflation Expectations,172,33572,Nov 11 2011,10:55am,USD,Prelim UoM Inflation Expectations,low,3.2%, ,3.2%
+1,2011.11.12 03:15,USD,3,FOMC Member Yellen Speaks,173,41343,Nov 11 2011,2:15pm,USD,FOMC Member Yellen Speaks,medium, , , 
+1,2011.11.14 06:45,NZD,3,Retail Sales q/q,175,37748,Nov 13 2011,5:45pm,NZD,Retail Sales q/q,medium, ,0.6%, 
+1,2011.11.14 06:49,NZD,5,Core Retail Sales q/q,176,37749,Nov 13 2011,5:49pm,NZD,Core Retail Sales q/q,high, ,0.7%, 
+1,2011.11.14 08:50,JPY,5,Prelim GDP q/q,177,35288,Nov 13 2011,7:50pm,JPY,Prelim GDP q/q,high, ,1.5%,1.5%
+1,2011.11.14 08:50,JPY,3,Prelim GDP Price Index y/y,178,35289,Nov 13 2011,7:50pm,JPY,Prelim GDP Price Index y/y,medium,-2.2%,-2.2%, 
+1,2011.11.14 13:30,JPY,1,Revised Industrial Production m/m,179,35854,Nov 14 2011,12:30am,JPY,Revised Industrial Production m/m,low,-4.0%,-3.8%, 
+1,2011.11.14 17:15,CHF,3,PPI m/m,180,36660,Nov 14 2011,4:15am,CHF,PPI m/m,medium,-0.1%,-0.3%, 
+1,2011.11.14 19:00,EUR,3,Industrial Production m/m,181,35264,Nov 14 2011,6:00am,EUR,Industrial Production m/m,medium, ,-2.1%, 
+1,2011.11.15 03:00,CAD,3,BOC Gov Carney Speaks,182,41336,Nov 14 2011,2:00pm,CAD,BOC Gov Carney Speaks,medium, , , 
+1,2011.11.15 09:30,AUD,5,Monetary Policy Meeting Minutes,183,32663,Nov 14 2011,8:30pm,AUD,Monetary Policy Meeting Minutes,high, , , 
+1,2011.11.15 09:30,AUD,3,New Motor Vehicle Sales m/m,184,34503,Nov 14 2011,8:30pm,AUD,New Motor Vehicle Sales m/m,medium, , ,1.1%
+1,2011.11.15 15:30,EUR,3,French Prelim GDP q/q,185,35143,Nov 15 2011,2:30am,EUR,French Prelim GDP q/q,medium, ,0.3%, 
+1,2011.11.15 16:00,EUR,5,German Prelim GDP q/q,186,35138,Nov 15 2011,3:00am,EUR,German Prelim GDP q/q,high, ,0.5%,0.5%
+1,2011.11.15 16:45,EUR,3,French Prelim Non-Farm Payrolls q/q,187,35302,Nov 15 2011,3:45am,EUR,French Prelim Non-Farm Payrolls q/q,medium, ,0.3%, 
+1,2011.11.15 18:00,EUR,1,Italian Trade Balance,188,36755,Nov 15 2011,5:00am,EUR,Italian Trade Balance,low, ,-2.23B, 
+1,2011.11.15 18:30,GBP,5,CPI y/y,189,33116,Nov 15 2011,5:30am,GBP,CPI y/y,high,5.2%,5.1%, 
+1,2011.11.15 18:30,GBP,3,RPI y/y,190,33118,Nov 15 2011,5:30am,GBP,RPI y/y,medium,5.6%,5.5%, 
+1,2011.11.15 18:30,GBP,1,Core CPI y/y,191,33117,Nov 15 2011,5:30am,GBP,Core CPI y/y,low,3.3%,3.3%, 
+1,2011.11.15 18:38,GBP,1,HPI y/y,192,35098,Nov 15 2011,5:38am,GBP,HPI y/y,low,-1.3%,-1.4%,-1.4%
+1,2011.11.15 19:00,EUR,5,German ZEW Economic Sentiment,193,34719,Nov 15 2011,6:00am,EUR,German ZEW Economic Sentiment,high,-48.3,-51.8, 
+1,2011.11.15 19:00,EUR,3,Flash GDP q/q,194,35129,Nov 15 2011,6:00am,EUR,Flash GDP q/q,medium,0.2%,0.2%,0.2%
+1,2011.11.15 19:00,EUR,3,ZEW Economic Sentiment,195,34720,Nov 15 2011,6:00am,EUR,ZEW Economic Sentiment,medium,-51.2,-52.7, 
+1,2011.11.15 19:00,EUR,1,Trade Balance,196,41305,Nov 15 2011,6:00am,EUR,Trade Balance,low, ,-0.8B, 
+1,2011.11.15 19:30,GBP,5,BOE Inflation Letter,197,40485,Nov 15 2011,6:30am,GBP,BOE Inflation Letter,high, , , 
+1,2011.11.15 22:00,USD,3,FOMC Member Evans Speaks,198,41470,Nov 15 2011,9:00am,USD,FOMC Member Evans Speaks,medium, , , 
+1,2011.11.15 22:30,CAD,3,Manufacturing Sales m/m,199,34249,Nov 15 2011,9:30am,CAD,Manufacturing Sales m/m,medium,1.4%,1.1%, 
+1,2011.11.15 22:30,CAD,1,New Motor Vehicle Sales m/m,200,34172,Nov 15 2011,9:30am,CAD,New Motor Vehicle Sales m/m,low,-0.4%,1.9%, 
+1,2011.11.15 22:30,NZD,1,GDT Price Index,201,56263,Nov 15 2011,9:30am,NZD,GDT Price Index,low,-1.8%, ,3.2%
+1,2011.11.15 22:30,USD,5,Core Retail Sales m/m,202,34138,Nov 15 2011,9:30am,USD,Core Retail Sales m/m,high, ,0.2%, 
+1,2011.11.15 22:30,USD,5,PPI m/m,203,36421,Nov 15 2011,9:30am,USD,PPI m/m,high,0.8%,-0.1%, 
+1,2011.11.15 22:30,USD,5,Retail Sales m/m,204,34137,Nov 15 2011,9:30am,USD,Retail Sales m/m,high,1.1%,0.3%, 
+1,2011.11.15 22:30,USD,3,Core PPI m/m,205,36422,Nov 15 2011,9:30am,USD,Core PPI m/m,medium,0.2%,0.1%, 
+1,2011.11.15 22:30,USD,3,Empire State Manufacturing Index,206,35568,Nov 15 2011,9:30am,USD,Empire State Manufacturing Index,medium,-8.5,-2.0, 
+1,2011.11.16 00:00,USD,3,Business Inventories m/m,207,33994,Nov 15 2011,11:00am,USD,Business Inventories m/m,medium, ,0.2%, 
+1,2011.11.16 02:30,USD,3,FOMC Member Fisher Speaks,208,41467,Nov 15 2011,1:30pm,USD,FOMC Member Fisher Speaks,medium, , , 
+1,2011.11.16 08:30,AUD,3,MI Leading Index m/m,209,34570,Nov 15 2011,7:30pm,AUD,MI Leading Index m/m,medium, , ,-0.3%
+1,2011.11.16 09:30,AUD,3,Wage Price Index q/q,210,32898,Nov 15 2011,8:30pm,AUD,Wage Price Index q/q,medium,0.9%,0.9%, 
+1,2011.11.16 10:57,CNY,1,Foreign Direct Investment ytd/y,211,36104,Nov 15 2011,9:57pm,CNY,Foreign Direct Investment ytd/y,low,16.6%, ,15.9%
+1,2011.11.16 12:49,JPY,5,Monetary Policy Statement,212,36869,Nov 15 2011,11:49pm,JPY,Monetary Policy Statement,high, , , 
+1,2011.11.16 12:49,JPY,5,Overnight Call Rate,213,36867,Nov 15 2011,11:49pm,JPY,Overnight Call Rate,high,0.10%,0.10%,0.10%
+1,2011.11.16 16:14,JPY,5,BOJ Press Conference,214,36868,Nov 16 2011,3:14am,JPY,BOJ Press Conference,high, , , 
+1,2011.11.16 18:30,GBP,5,Claimant Count Change,215,34410,Nov 16 2011,5:30am,GBP,Claimant Count Change,high, ,20.4K, 
+1,2011.11.16 18:30,GBP,3,Average Earnings Index 3m/y,216,34411,Nov 16 2011,5:30am,GBP,Average Earnings Index 3m/y,medium, ,2.5%, 
+1,2011.11.16 18:30,GBP,1,Unemployment Rate,217,34409,Nov 16 2011,5:30am,GBP,Unemployment Rate,low,8.1%,8.2%, 
+1,2011.11.16 19:00,EUR,3,Final CPI y/y,218,35265,Nov 16 2011,6:00am,EUR,Final CPI y/y,medium,3.0%,3.0%,3.0%
+1,2011.11.16 19:00,EUR,3,Final Core CPI y/y,219,35266,Nov 16 2011,6:00am,EUR,Final Core CPI y/y,medium,1.6%,1.6%,1.6%
+1,2011.11.16 19:30,GBP,5,BOE Gov King Speaks,220,35821,Nov 16 2011,6:30am,GBP,BOE Gov King Speaks,high, , , 
+1,2011.11.16 19:30,GBP,5,BOE Inflation Report,221,32758,Nov 16 2011,6:30am,GBP,BOE Inflation Report,high, , , 
+1,2011.11.16 22:30,USD,5,Core CPI m/m,222,36424,Nov 16 2011,9:30am,USD,Core CPI m/m,high,0.1%,0.1%,0.1%
+1,2011.11.16 22:30,USD,3,CPI m/m,223,36423,Nov 16 2011,9:30am,USD,CPI m/m,medium,0.3%,0.0%, 
+1,2011.11.16 23:00,USD,5,TIC Long-Term Purchases,224,35766,Nov 16 2011,10:00am,USD,TIC Long-Term Purchases,high, ,63.4B, 
+1,2011.11.16 23:15,USD,3,Capacity Utilization Rate,225,34808,Nov 16 2011,10:15am,USD,Capacity Utilization Rate,medium, ,77.6%, 
+1,2011.11.16 23:15,USD,3,Industrial Production m/m,226,34807,Nov 16 2011,10:15am,USD,Industrial Production m/m,medium, ,0.4%, 
+1,2011.11.17 00:00,USD,1,NAHB Housing Market Index,227,36688,Nov 16 2011,11:00am,USD,NAHB Housing Market Index,low, ,17, 
+1,2011.11.17 00:30,USD,3,Crude Oil Inventories,228,36984,Nov 16 2011,11:30am,USD,Crude Oil Inventories,medium,-1.4M,-1.3M,-1.1M
+1,2011.11.17 06:30,AUD,5,RBA Gov Stevens Speaks,229,41466,Nov 16 2011,5:30pm,AUD,RBA Gov Stevens Speaks,high, , , 
+1,2011.11.17 06:45,NZD,5,PPI Input q/q,230,34237,Nov 16 2011,5:45pm,NZD,PPI Input q/q,high,0.9%,0.6%,0.6%
+1,2011.11.17 06:45,NZD,1,PPI Output q/q,231,34238,Nov 16 2011,5:45pm,NZD,PPI Output q/q,low,1.4%,0.8%, 
+1,2011.11.17 09:01,GBP,3,Nationwide Consumer Confidence,232,34865,Nov 16 2011,8:01pm,GBP,Nationwide Consumer Confidence,medium,45,46, 
+1,2011.11.17 11:00,CNY,1,CB Leading Index m/m,233,37101,Nov 16 2011,10:00pm,CNY,CB Leading Index m/m,low, , ,0.4%
+1,2011.11.17 14:00,JPY,3,BOJ Monthly Report,234,36527,Nov 17 2011,1:00am,JPY,BOJ Monthly Report,medium, , , 
+1,2011.11.17 18:30,GBP,5,Retail Sales m/m,235,33083,Nov 17 2011,5:30am,GBP,Retail Sales m/m,high, ,-0.2%, 
+1,2011.11.17 18:43,EUR,3,Spanish 10-y Bond Auction,236,42496,Nov 17 2011,5:43am,EUR,Spanish 10-y Bond Auction,medium,5.43|1.8, ,6.98|1.5
+1,2011.11.17 19:00,CHF,3,ZEW Economic Expectations,237,36180,Nov 17 2011,6:00am,CHF,ZEW Economic Expectations,medium,-54.4, ,-64.3
+1,2011.11.17 22:30,CAD,3,Foreign Securities Purchases,238,35041,Nov 17 2011,9:30am,CAD,Foreign Securities Purchases,medium, ,9.24B, 
+1,2011.11.17 22:30,USD,5,Building Permits,239,34041,Nov 17 2011,9:30am,USD,Building Permits,high,0.59M,0.60M, 
+1,2011.11.17 22:30,USD,5,Unemployment Claims,240,35443,Nov 17 2011,9:30am,USD,Unemployment Claims,high, ,396K, 
+1,2011.11.17 22:30,USD,3,Housing Starts,241,34040,Nov 17 2011,9:30am,USD,Housing Starts,medium, ,0.61M,0.63M
+1,2011.11.18 00:00,USD,5,Philly Fed Manufacturing Index,242,37184,Nov 17 2011,11:00am,USD,Philly Fed Manufacturing Index,high,8.7,8.7, 
+1,2011.11.18 00:00,USD,3,Mortgage Delinquencies,243,36081,Nov 17 2011,11:00am,USD,Mortgage Delinquencies,medium,8.44%, ,7.99%
+1,2011.11.18 00:30,CAD,1,BOC Review,244,35998,Nov 17 2011,11:30am,CAD,BOC Review,low, , , 
+1,2011.11.18 00:30,USD,1,Natural Gas Storage,245,35444,Nov 17 2011,11:30am,USD,Natural Gas Storage,low,37B,25B,19B
+1,2011.11.18 02:50,USD,1,FOMC Member Dudley Speaks,246,41468,Nov 17 2011,1:50pm,USD,FOMC Member Dudley Speaks,low, , , 
+1,2011.11.18 11:15,CAD,3,Gov Council Member Boivin Speaks,247,41337,Nov 17 2011,10:15pm,CAD,Gov Council Member Boivin Speaks,medium, , , 
+1,2011.11.18 16:00,EUR,3,German PPI m/m,248,33529,Nov 18 2011,3:00am,EUR,German PPI m/m,medium,0.3%,0.1%, 
+1,2011.11.18 17:00,EUR,3,ECB President Draghi Speaks,249,41648,Nov 18 2011,4:00am,EUR,ECB President Draghi Speaks,medium, , , 
+1,2011.11.18 18:00,EUR,3,German Buba President Weidmann Speaks,250,45075,Nov 18 2011,5:00am,EUR,German Buba President Weidmann Speaks,medium, , , 
+1,2011.11.18 21:00,CAD,5,Core CPI m/m,251,34072,Nov 18 2011,8:00am,CAD,Core CPI m/m,high,0.5%,0.2%, 
+1,2011.11.18 21:00,CAD,3,CPI m/m,252,34071,Nov 18 2011,8:00am,CAD,CPI m/m,medium,0.2%,0.1%, 
+1,2011.11.18 22:15,USD,1,FOMC Member Dudley Speaks,253,41469,Nov 18 2011,9:15am,USD,FOMC Member Dudley Speaks,low, , , 
+1,2011.11.18 22:30,CAD,3,Leading Index m/m,254,33849,Nov 18 2011,9:30am,CAD,Leading Index m/m,medium, ,0.2%,0.2%
+1,2011.11.19 00:00,USD,1,CB Leading Index m/m,255,35536,Nov 18 2011,11:00am,USD,CB Leading Index m/m,low, ,0.5%, 
+1,2011.11.19 03:15,USD,3,FOMC Member Fisher Speaks,256,41649,Nov 18 2011,2:15pm,USD,FOMC Member Fisher Speaks,medium, , , 
+1,2011.11.21 08:47,GBP,3,Rightmove HPI m/m,258,36700,Nov 20 2011,7:47pm,GBP,Rightmove HPI m/m,medium,2.8%, ,-3.1%
+1,2011.11.21 08:50,JPY,3,Monetary Policy Meeting Minutes,259,37164,Nov 20 2011,7:50pm,JPY,Monetary Policy Meeting Minutes,medium, , , 
+1,2011.11.21 08:50,JPY,3,Trade Balance,260,37253,Nov 20 2011,7:50pm,JPY,Trade Balance,medium, ,-0.20T, 
+1,2011.11.21 11:00,NZD,1,Credit Card Spending y/y,261,36168,Nov 20 2011,10:00pm,NZD,Credit Card Spending y/y,low, , ,7.9%
+1,2011.11.21 12:10,AUD,3,RBA Assist Gov Debelle Speaks,262,41651,Nov 20 2011,11:10pm,AUD,RBA Assist Gov Debelle Speaks,medium, , , 
+1,2011.11.21 13:30,JPY,1,All Industries Activity m/m,263,35880,Nov 21 2011,12:30am,JPY,All Industries Activity m/m,low, ,-0.9%,-0.9%
+1,2011.11.21 18:00,EUR,3,Current Account,264,36564,Nov 21 2011,5:00am,EUR,Current Account,medium, ,-3.2B, 
+1,2011.11.21 20:00,EUR,1,German Buba Monthly Report,265,50182,Nov 21 2011,7:00am,EUR,German Buba Monthly Report,low, , , 
+1,2011.11.21 22:30,CAD,3,Wholesale Sales m/m,266,34365,Nov 21 2011,9:30am,CAD,Wholesale Sales m/m,medium, ,0.6%, 
+1,2011.11.22 00:00,USD,5,Existing Home Sales,267,34841,Nov 21 2011,11:00am,USD,Existing Home Sales,high, ,4.82M, 
+1,2011.11.22 06:48,NZD,1,Visitor Arrivals m/m,268,34294,Nov 21 2011,5:48pm,NZD,Visitor Arrivals m/m,low, , ,-7.8%
+1,2011.11.22 11:00,NZD,5,Inflation Expectations q/q,269,34337,Nov 21 2011,10:00pm,NZD,Inflation Expectations q/q,high,2.9%, ,2.8%
+1,2011.11.22 16:00,CHF,3,Trade Balance,270,36222,Nov 22 2011,3:00am,CHF,Trade Balance,medium, ,2.06B, 
+1,2011.11.22 18:30,GBP,5,Public Sector Net Borrowing,271,35111,Nov 22 2011,5:30am,GBP,Public Sector Net Borrowing,high, ,4.1B, 
+1,2011.11.22 19:30,GBP,3,MPC Member Miles Speaks,272,41704,Nov 22 2011,6:30am,GBP,MPC Member Miles Speaks,medium, , , 
+1,2011.11.22 22:30,CAD,5,Core Retail Sales m/m,273,33866,Nov 22 2011,9:30am,CAD,Core Retail Sales m/m,high,0.4%,0.4%, 
+1,2011.11.22 22:30,CAD,3,Retail Sales m/m,274,33865,Nov 22 2011,9:30am,CAD,Retail Sales m/m,medium, ,0.5%, 
+1,2011.11.22 22:30,USD,5,Prelim GDP q/q,275,34737,Nov 22 2011,9:30am,USD,Prelim GDP q/q,high,2.5%,2.4%, 
+1,2011.11.22 22:30,USD,1,Prelim GDP Price Index q/q,276,34738,Nov 22 2011,9:30am,USD,Prelim GDP Price Index q/q,low,2.5%,2.5%,2.5%
+1,2011.11.22 23:59,USD,1,Richmond Manufacturing Index,277,33427,Nov 22 2011,10:59am,USD,Richmond Manufacturing Index,low,-6,-2, 
+1,2011.11.23 00:00,EUR,1,Consumer Confidence,278,36722,Nov 22 2011,11:00am,EUR,Consumer Confidence,low,-20,-20,-20
+1,2011.11.23 03:00,USD,3,FOMC Member Kocherlakota Speaks,279,41650,Nov 22 2011,2:00pm,USD,FOMC Member Kocherlakota Speaks,medium, , , 
+1,2011.11.23 03:28,USD,5,FOMC Meeting Minutes,280,37173,Nov 22 2011,2:28pm,USD,FOMC Meeting Minutes,high, , , 
+1,2011.11.23 08:00,AUD,3,CB Leading Index m/m,281,37208,Nov 22 2011,7:00pm,AUD,CB Leading Index m/m,medium, , ,0.1%
+1,2011.11.23 08:20,AUD,3,RBA Assist Gov Debelle Speaks,282,41705,Nov 22 2011,7:20pm,AUD,RBA Assist Gov Debelle Speaks,medium, , , 
+0,,JPY,0,Bank Holiday,283,37034,Nov 22 2011,All Day,JPY,Bank Holiday,holiday, , , 
+1,2011.11.23 09:30,AUD,3,Construction Work Done q/q,284,32902,Nov 22 2011,8:30pm,AUD,Construction Work Done q/q,medium, ,2.1%, 
+1,2011.11.23 11:30,CNY,5,HSBC Flash Manufacturing PMI,285,37561,Nov 22 2011,10:30pm,CNY,HSBC Flash Manufacturing PMI,high, , ,48.0
+1,2011.11.23 17:00,EUR,3,French Flash Manufacturing PMI,286,33392,Nov 23 2011,4:00am,EUR,French Flash Manufacturing PMI,medium, ,47.7,47.6
+1,2011.11.23 17:00,EUR,3,French Flash Services PMI,287,33393,Nov 23 2011,4:00am,EUR,French Flash Services PMI,medium, ,44.5, 
+1,2011.11.23 17:30,EUR,3,German Flash Manufacturing PMI,288,33394,Nov 23 2011,4:30am,EUR,German Flash Manufacturing PMI,medium, ,48.4, 
+1,2011.11.23 17:30,EUR,3,German Flash Services PMI,289,33395,Nov 23 2011,4:30am,EUR,German Flash Services PMI,medium, ,50.1, 
+1,2011.11.23 18:00,EUR,3,Flash Manufacturing PMI,290,33396,Nov 23 2011,5:00am,EUR,Flash Manufacturing PMI,medium, ,46.6,46.4
+1,2011.11.23 18:00,EUR,3,Flash Services PMI,291,33397,Nov 23 2011,5:00am,EUR,Flash Services PMI,medium, ,46.1, 
+1,2011.11.23 18:30,GBP,5,MPC Asset Purchase Facility Votes,292,49158,Nov 23 2011,5:30am,GBP,MPC Asset Purchase Facility Votes,high,9-0-0,0-0-9,0-0-9
+1,2011.11.23 18:30,GBP,5,MPC Official Bank Rate Votes,293,32767,Nov 23 2011,5:30am,GBP,MPC Official Bank Rate Votes,high,0-0-9,0-0-9,0-0-9
+1,2011.11.23 18:30,GBP,3,BBA Mortgage Approvals,294,37062,Nov 23 2011,5:30am,GBP,BBA Mortgage Approvals,medium, ,32.3K, 
+1,2011.11.23 19:00,EUR,3,Industrial New Orders m/m,295,35267,Nov 23 2011,6:00am,EUR,Industrial New Orders m/m,medium, ,-2.4%, 
+1,2011.11.23 19:08,EUR,3,German 10-y Bond Auction,296,42366,Nov 23 2011,6:08am,EUR,German 10-y Bond Auction,medium,2.09|1.1, ,1.98|1.1
+1,2011.11.23 22:30,USD,5,Core Durable Goods Orders m/m,297,34017,Nov 23 2011,9:30am,USD,Core Durable Goods Orders m/m,high, ,0.1%, 
+1,2011.11.23 22:30,USD,5,Unemployment Claims,298,35445,Nov 23 2011,9:30am,USD,Unemployment Claims,high, ,389K,393K
+1,2011.11.23 22:30,USD,3,Core PCE Price Index m/m,299,34783,Nov 23 2011,9:30am,USD,Core PCE Price Index m/m,medium,0.0%,0.1%,0.1%
+1,2011.11.23 22:30,USD,3,Durable Goods Orders m/m,300,34080,Nov 23 2011,9:30am,USD,Durable Goods Orders m/m,medium, ,-1.1%, 
+1,2011.11.23 22:30,USD,3,Personal Spending m/m,301,34782,Nov 23 2011,9:30am,USD,Personal Spending m/m,medium, ,0.4%, 
+1,2011.11.23 22:30,USD,1,Personal Income m/m,302,34781,Nov 23 2011,9:30am,USD,Personal Income m/m,low,0.1%,0.3%, 
+1,2011.11.23 23:55,USD,3,Revised UoM Consumer Sentiment,303,33573,Nov 23 2011,10:55am,USD,Revised UoM Consumer Sentiment,medium,64.2,64.6,64.1
+1,2011.11.23 23:55,USD,1,Revised UoM Inflation Expectations,304,33574,Nov 23 2011,10:55am,USD,Revised UoM Inflation Expectations,low,3.2%, ,3.2%
+1,2011.11.24 00:30,USD,3,Crude Oil Inventories,305,36985,Nov 23 2011,11:30am,USD,Crude Oil Inventories,medium,-1.1M,-0.3M,-6.2M
+1,2011.11.24 02:00,USD,1,Natural Gas Storage,306,35446,Nov 23 2011,1:00pm,USD,Natural Gas Storage,low,19B,17B,9B
+1,2011.11.24 02:40,CAD,3,BOC Gov Carney Speaks,307,41338,Nov 23 2011,1:40pm,CAD,BOC Gov Carney Speaks,medium, , , 
+1,2011.11.24 06:45,NZD,3,Trade Balance,308,34295,Nov 23 2011,5:45pm,NZD,Trade Balance,medium, ,-452M, 
+1,2011.11.24 16:00,EUR,1,German Final GDP q/q,309,35153,Nov 24 2011,3:00am,EUR,German Final GDP q/q,low,0.5%,0.5%,0.5%
+1,2011.11.24 18:00,EUR,5,German Ifo Business Climate,310,35728,Nov 24 2011,5:00am,EUR,German Ifo Business Climate,high,106.4,105.3, 
+1,2011.11.24 18:25,AUD,5,RBA Gov Stevens Speaks,311,41763,Nov 24 2011,5:25am,AUD,RBA Gov Stevens Speaks,high, , , 
+1,2011.11.24 18:30,GBP,5,Second Estimate GDP q/q,312,34553,Nov 24 2011,5:30am,GBP,Second Estimate GDP q/q,high,0.5%,0.5%,0.5%
+1,2011.11.24 18:30,GBP,3,Prelim Business Investment q/q,313,41591,Nov 24 2011,5:30am,GBP,Prelim Business Investment q/q,medium,11.6%,-0.5%, 
+1,2011.11.24 18:30,GBP,1,Index of Services 3m/3m,314,34577,Nov 24 2011,5:30am,GBP,Index of Services 3m/3m,low, ,0.3%, 
+1,2011.11.24 21:00,GBP,3,CBI Industrial Order Expectations,315,35953,Nov 24 2011,8:00am,GBP,CBI Industrial Order Expectations,medium,-18,-19,-19
+0,,USD,0,Bank Holiday,316,35678,Nov 24 2011,All Day,USD,Bank Holiday,holiday, , , 
+1,2011.11.24 22:30,CAD,1,Corporate Profits q/q,317,36109,Nov 24 2011,9:30am,CAD,Corporate Profits q/q,low,-4.9%, ,-0.5%
+1,2011.11.24 23:00,EUR,3,Belgian NBB Business Climate,318,35727,Nov 24 2011,10:00am,EUR,Belgian NBB Business Climate,medium,-10.4,-11.3, 
+1,2011.11.25 08:30,JPY,3,Tokyo Core CPI y/y,319,35612,Nov 24 2011,7:30pm,JPY,Tokyo Core CPI y/y,medium,-0.4%,-0.3%, 
+1,2011.11.25 08:30,JPY,1,National Core CPI y/y,320,35611,Nov 24 2011,7:30pm,JPY,National Core CPI y/y,low,0.2%,-0.1%,-0.1%
+1,2011.11.25 08:50,JPY,1,SPPI y/y,321,35816,Nov 24 2011,7:50pm,JPY,SPPI y/y,low, ,0.0%, 
+1,2011.11.25 15:00,JPY,3,BOJ Gov Shirakawa Speaks,322,41777,Nov 25 2011,2:00am,JPY,BOJ Gov Shirakawa Speaks,medium, , , 
+1,2011.11.25 15:57,EUR,1,German Import Prices m/m,323,36627,Nov 25 2011,2:57am,EUR,German Import Prices m/m,low,0.6%,-0.1%, 
+1,2011.11.25 18:00,EUR,1,Italian Retail Sales m/m,324,36756,Nov 25 2011,5:00am,EUR,Italian Retail Sales m/m,low, ,-0.2%, 
+1,2011.11.25 21:00,GBP,3,MPC Member Weale Speaks,325,41776,Nov 25 2011,8:00am,GBP,MPC Member Weale Speaks,medium, , , 
+0,,NZD,1,Parliamentary Elections,326,41703,Nov 25 2011,All Day,NZD,Parliamentary Elections,low, , , 
+1,2011.11.28 09:00,NZD,5,ANZ Business Confidence,328,36451,Nov 27 2011,8:00pm,NZD,ANZ Business Confidence,high,13.2, ,18.3
+1,2011.11.28 11:30,JPY,3,BOJ Gov Shirakawa Speaks,329,41986,Nov 27 2011,10:30pm,JPY,BOJ Gov Shirakawa Speaks,medium, , , 
+0,,EUR,3,German Prelim CPI m/m,330,33485,Nov 28 2011,All Day,EUR,German Prelim CPI m/m,medium,0.0%,0.1%, 
+1,2011.11.28 18:00,EUR,3,M3 Money Supply y/y,331,35522,Nov 28 2011,5:00am,EUR,M3 Money Supply y/y,medium, ,3.4%, 
+1,2011.11.28 18:00,EUR,1,Private Loans y/y,332,35521,Nov 28 2011,5:00am,EUR,Private Loans y/y,low,2.5%,2.6%, 
+1,2011.11.28 20:00,GBP,3,CBI Realized Sales,333,35965,Nov 28 2011,7:00am,GBP,CBI Realized Sales,medium,-11,-12, 
+1,2011.11.28 21:00,EUR,3,GfK German Consumer Climate,334,36721,Nov 28 2011,8:00am,EUR,GfK German Consumer Climate,medium, ,5.2, 
+1,2011.11.29 00:00,GBP,5,Inflation Report Hearings,335,35941,Nov 28 2011,11:00am,GBP,Inflation Report Hearings,high, , , 
+1,2011.11.29 00:00,USD,5,New Home Sales,336,33970,Nov 28 2011,11:00am,USD,New Home Sales,high, ,313K, 
+1,2011.11.29 08:30,JPY,3,Household Spending y/y,337,35610,Nov 28 2011,7:30pm,JPY,Household Spending y/y,medium,-1.9%,-1.4%, 
+1,2011.11.29 08:30,JPY,1,Unemployment Rate,338,35613,Nov 28 2011,7:30pm,JPY,Unemployment Rate,low,4.1%,4.2%, 
+1,2011.11.29 08:50,JPY,3,Retail Sales y/y,339,36830,Nov 28 2011,7:50pm,JPY,Retail Sales y/y,medium, ,0.7%, 
+1,2011.11.29 10:30,AUD,3,Mid-Year Economic and Fiscal Outlook,340,53762,Nov 28 2011,9:30pm,AUD,Mid-Year Economic and Fiscal Outlook,medium, , , 
+1,2011.11.29 16:00,GBP,5,Nationwide HPI m/m,341,36603,Nov 29 2011,3:00am,GBP,Nationwide HPI m/m,high,0.4%,-0.1%, 
+1,2011.11.29 17:00,EUR,1,Spanish Flash CPI y/y,342,54150,Nov 29 2011,4:00am,EUR,Spanish Flash CPI y/y,low,3.0%,2.7%, 
+1,2011.11.29 18:00,CHF,3,UBS Consumption Indicator,343,35767,Nov 29 2011,5:00am,CHF,UBS Consumption Indicator,medium, , ,0.91
+1,2011.11.29 18:00,EUR,1,Retail PMI,344,43634,Nov 29 2011,5:00am,EUR,Retail PMI,low,50.2, ,46.0
+0,,EUR,3,Eurogroup Meetings,345,44085,Nov 29 2011,All Day,EUR,Eurogroup Meetings,medium, , , 
+1,2011.11.29 18:30,GBP,3,Net Lending to Individuals m/m,346,35669,Nov 29 2011,5:30am,GBP,Net Lending to Individuals m/m,medium, ,1.0B, 
+1,2011.11.29 18:30,GBP,1,M4 Money Supply m/m,347,37196,Nov 29 2011,5:30am,GBP,M4 Money Supply m/m,low,-0.4%,-0.2%,-0.3%
+1,2011.11.29 18:30,GBP,1,Mortgage Approvals,348,35668,Nov 29 2011,5:30am,GBP,Mortgage Approvals,low,51K,52K,53K
+1,2011.11.29 19:18,EUR,3,Italian 10-y Bond Auction,349,42434,Nov 29 2011,6:18am,EUR,Italian 10-y Bond Auction,medium,6.06|1.3, ,7.56|1.3
+1,2011.11.29 21:30,GBP,3,Autumn Forecast Statement,350,41541,Nov 29 2011,8:30am,GBP,Autumn Forecast Statement,medium, , , 
+1,2011.11.29 22:30,CAD,3,Current Account,351,33838,Nov 29 2011,9:30am,CAD,Current Account,medium, ,-11.3B, 
+1,2011.11.29 23:00,USD,3,/CS Composite-20 HPI y/y,352,36552,Nov 29 2011,10:00am,USD,/CS Composite-20 HPI y/y,medium, ,-3.0%, 
+1,2011.11.30 00:00,USD,5,CB Consumer Confidence,353,35487,Nov 29 2011,11:00am,USD,CB Consumer Confidence,high, ,43.9, 
+1,2011.11.30 00:00,USD,1,HPI m/m,354,36098,Nov 29 2011,11:00am,USD,HPI m/m,low, ,0.1%, 
+1,2011.11.30 01:30,USD,3,FOMC Member Yellen Speaks,355,41778,Nov 29 2011,12:30pm,USD,FOMC Member Yellen Speaks,medium, , , 
+1,2011.11.30 02:15,USD,3,FOMC Member Raskin Speaks,356,41779,Nov 29 2011,1:15pm,USD,FOMC Member Raskin Speaks,medium, , , 
+1,2011.11.30 06:45,NZD,5,Building Consents m/m,357,34296,Nov 29 2011,5:45pm,NZD,Building Consents m/m,high, , ,11.2%
+1,2011.11.30 08:15,JPY,1,Final Manufacturing PMI,358,36193,Nov 29 2011,7:15pm,JPY,Final Manufacturing PMI,low,50.6, ,49.1
+1,2011.11.30 08:50,JPY,3,Prelim Industrial Production m/m,359,35855,Nov 29 2011,7:50pm,JPY,Prelim Industrial Production m/m,medium, ,1.1%, 
+1,2011.11.30 09:00,AUD,3,HIA New Home Sales m/m,360,36938,Nov 29 2011,8:00pm,AUD,HIA New Home Sales m/m,medium,-3.5%, ,5.5%
+1,2011.11.30 09:01,GBP,3,GfK Consumer Confidence,361,35369,Nov 29 2011,8:01pm,GBP,GfK Consumer Confidence,medium,-32,-33, 
+1,2011.11.30 09:30,AUD,5,Private Capital Expenditure q/q,362,34419,Nov 29 2011,8:30pm,AUD,Private Capital Expenditure q/q,high, ,8.2%, 
+1,2011.11.30 09:30,AUD,3,Private Sector Credit m/m,363,36155,Nov 29 2011,8:30pm,AUD,Private Sector Credit m/m,medium,0.5%,0.4%, 
+1,2011.11.30 09:30,CAD,3,Gov Council Member Murray Speaks,364,41339,Nov 29 2011,8:30pm,CAD,Gov Council Member Murray Speaks,medium, , , 
+1,2011.11.30 10:00,USD,3,FOMC Member Kocherlakota Speaks,365,41780,Nov 29 2011,9:00pm,USD,FOMC Member Kocherlakota Speaks,medium, , , 
+1,2011.11.30 10:30,JPY,3,Average Cash Earnings y/y,366,36805,Nov 29 2011,9:30pm,JPY,Average Cash Earnings y/y,medium, ,0.0%, 
+1,2011.11.30 14:00,JPY,1,Housing Starts y/y,367,37222,Nov 30 2011,1:00am,JPY,Housing Starts y/y,low,-10.8%,-6.1%,-5.8%
+1,2011.11.30 16:00,EUR,3,German Retail Sales m/m,368,33633,Nov 30 2011,3:00am,EUR,German Retail Sales m/m,medium, ,0.1%, 
+1,2011.11.30 16:45,EUR,3,French Consumer Spending m/m,369,36509,Nov 30 2011,3:45am,EUR,French Consumer Spending m/m,medium, ,0.1%, 
+1,2011.11.30 17:55,EUR,3,German Unemployment Change,370,36914,Nov 30 2011,4:55am,EUR,German Unemployment Change,medium, ,-6K, 
+1,2011.11.30 18:00,EUR,1,Italian Monthly Unemployment Rate,371,37158,Nov 30 2011,5:00am,EUR,Italian Monthly Unemployment Rate,low,8.3%,8.2%, 
+0,,EUR,5,ECOFIN Meetings,372,39941,Nov 30 2011,All Day,EUR,ECOFIN Meetings,high, , , 
+1,2011.11.30 18:30,GBP,1,Housing Equity Withdrawal q/q,373,35457,Nov 30 2011,5:30am,GBP,Housing Equity Withdrawal q/q,low, ,-5.9B, 
+1,2011.11.30 19:00,EUR,3,CPI Flash Estimate y/y,374,35268,Nov 30 2011,6:00am,EUR,CPI Flash Estimate y/y,medium,3.0%,3.0%,3.0%
+1,2011.11.30 19:00,EUR,3,Unemployment Rate,375,35269,Nov 30 2011,6:00am,EUR,Unemployment Rate,medium,10.2%,10.2%, 
+1,2011.11.30 19:00,EUR,1,Italian Prelim CPI m/m,376,36757,Nov 30 2011,6:00am,EUR,Italian Prelim CPI m/m,low,0.6%,0.3%, 
+1,2011.11.30 19:30,CHF,5,KOF Economic Barometer,377,36662,Nov 30 2011,6:30am,CHF,KOF Economic Barometer,high, ,0.65, 
+1,2011.11.30 21:30,USD,1,Challenger Job Cuts y/y,378,35472,Nov 30 2011,8:30am,USD,Challenger Job Cuts y/y,low,12.6%, ,-12.8%
+1,2011.11.30 22:00,USD,5,Fed Announcement,379,41988,Nov 30 2011,9:00am,USD,Fed Announcement,high, , , 
+1,2011.11.30 22:15,USD,5,ADP Non-Farm Employment Change,380,33209,Nov 30 2011,9:15am,USD,ADP Non-Farm Employment Change,high, ,131K, 
+1,2011.11.30 22:30,CAD,5,GDP m/m,381,33833,Nov 30 2011,9:30am,CAD,GDP m/m,high, ,0.3%, 
+1,2011.11.30 22:30,CAD,3,RMPI m/m,382,34103,Nov 30 2011,9:30am,CAD,RMPI m/m,medium,1.4%,1.2%, 
+1,2011.11.30 22:30,CAD,1,IPPI m/m,383,34102,Nov 30 2011,9:30am,CAD,IPPI m/m,low, ,0.3%, 
+1,2011.11.30 22:30,USD,3,Revised Nonfarm Productivity q/q,384,34825,Nov 30 2011,9:30am,USD,Revised Nonfarm Productivity q/q,medium,3.1%,2.6%, 
+1,2011.11.30 22:30,USD,1,Revised Unit Labor Costs q/q,385,34826,Nov 30 2011,9:30am,USD,Revised Unit Labor Costs q/q,low,-2.4%,-2.1%, 
+1,2011.11.30 23:45,USD,3,Chicago PMI,386,35556,Nov 30 2011,10:45am,USD,Chicago PMI,medium,58.4,58.5, 
+1,2011.12.01 00:00,USD,5,Pending Home Sales m/m,387,34853,Nov 30 2011,11:00am,USD,Pending Home Sales m/m,high,-4.6%,1.4%, 
+1,2011.12.01 00:30,USD,3,Crude Oil Inventories,388,36986,Nov 30 2011,11:30am,USD,Crude Oil Inventories,medium,-6.2M,-0.2M,3.9M
+1,2011.12.01 01:00,GBP,3,MPC Member Miles Speaks,389,41987,Nov 30 2011,12:00pm,GBP,MPC Member Miles Speaks,medium, , , 
+1,2011.12.01 04:00,USD,3,Beige Book,390,33586,Nov 30 2011,3:00pm,USD,Beige Book,medium, , , 
+1,2011.12.01 06:45,NZD,1,Overseas Trade Index q/q,391,34310,Nov 30 2011,5:45pm,NZD,Overseas Trade Index q/q,low, ,1.5%, 
+1,2011.12.01 07:22,AUD,1,AIG Manufacturing Index,392,33032,Nov 30 2011,6:22pm,AUD,AIG Manufacturing Index,low,47.4, ,47.8
+1,2011.12.01 09:00,NZD,1,ANZ Commodity Prices m/m,393,34331,Nov 30 2011,8:00pm,NZD,ANZ Commodity Prices m/m,low,-3.5%, ,-1.0%
+1,2011.12.01 09:30,AUD,5,Building Approvals m/m,394,34492,Nov 30 2011,8:30pm,AUD,Building Approvals m/m,high, ,3.6%, 
+1,2011.12.01 09:30,AUD,5,Retail Sales m/m,395,34431,Nov 30 2011,8:30pm,AUD,Retail Sales m/m,high,0.4%,0.4%, 
+1,2011.12.01 10:00,CNY,5,Manufacturing PMI,396,35066,Nov 30 2011,9:00pm,CNY,Manufacturing PMI,high,50.4,49.8, 
+1,2011.12.01 11:30,CNY,3,HSBC Final Manufacturing PMI,397,35065,Nov 30 2011,10:30pm,CNY,HSBC Final Manufacturing PMI,medium,48.0, ,47.7
+1,2011.12.01 12:45,JPY,1,10-y Bond Auction,398,49033,Nov 30 2011,11:45pm,JPY,10-y Bond Auction,low,1.03|3.3, ,1.09|2.5

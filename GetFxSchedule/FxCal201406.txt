@@ -1,0 +1,377 @@
+0,,NZD,0,Bank Holiday,0,53787,Jun 1 2014,All Day,NZD,Bank Holiday,holiday, , , 
+1,2014.06.02 08:30,AUD,1,AIG Manufacturing Index,1,50386,Jun 1 2014,7:30pm,AUD,AIG Manufacturing Index,low,44.8, ,49.2
+1,2014.06.02 08:50,JPY,3,Capital Spending q/y,2,50038,Jun 1 2014,7:50pm,JPY,Capital Spending q/y,medium,4.0%,5.7%, 
+0,,CNY,0,Bank Holiday,3,53772,Jun 1 2014,All Day,CNY,Bank Holiday,holiday, , , 
+1,2014.06.02 09:30,AUD,1,MI Inflation Gauge m/m,4,50700,Jun 1 2014,8:30pm,AUD,MI Inflation Gauge m/m,low,0.4%, ,0.3%
+1,2014.06.02 10:30,AUD,5,Building Approvals m/m,5,50753,Jun 1 2014,9:30pm,AUD,Building Approvals m/m,high, ,2.1%, 
+1,2014.06.02 10:30,AUD,3,Company Operating Profits q/q,6,50584,Jun 1 2014,9:30pm,AUD,Company Operating Profits q/q,medium, ,2.6%, 
+1,2014.06.02 10:35,JPY,1,Final Manufacturing PMI,7,51363,Jun 1 2014,9:35pm,JPY,Final Manufacturing PMI,low,49.9,49.9,49.9
+0,,EUR,0,Italian Bank Holiday,8,53430,Jun 2 2014,All Day,EUR,Italian Bank Holiday,holiday, , , 
+0,,EUR,5,German Prelim CPI m/m,9,53324,Jun 2 2014,All Day,EUR,German Prelim CPI m/m,high,-0.2%,0.1%, 
+1,2014.06.02 15:30,AUD,1,Commodity Prices y/y,10,50668,Jun 2 2014,2:30am,AUD,Commodity Prices y/y,low, , ,-12.8%
+1,2014.06.02 16:15,EUR,3,Spanish Manufacturing PMI,11,50244,Jun 2 2014,3:15am,EUR,Spanish Manufacturing PMI,medium,52.7,52.6,52.9
+1,2014.06.02 16:30,CHF,3,Manufacturing PMI,12,50240,Jun 2 2014,3:30am,CHF,Manufacturing PMI,medium,55.8,55.7, 
+1,2014.06.02 16:45,EUR,3,Italian Manufacturing PMI,13,50243,Jun 2 2014,3:45am,EUR,Italian Manufacturing PMI,medium,54.0,54.3, 
+1,2014.06.02 16:50,EUR,1,French Final Manufacturing PMI,14,59048,Jun 2 2014,3:50am,EUR,French Final Manufacturing PMI,low,49.3,49.3,49.6
+1,2014.06.02 16:55,EUR,1,German Final Manufacturing PMI,15,59049,Jun 2 2014,3:55am,EUR,German Final Manufacturing PMI,low,52.9,52.9, 
+1,2014.06.02 17:00,EUR,1,Final Manufacturing PMI,16,50242,Jun 2 2014,4:00am,EUR,Final Manufacturing PMI,low,52.5,52.5,52.2
+1,2014.06.02 17:30,GBP,5,Manufacturing PMI,17,50241,Jun 2 2014,4:30am,GBP,Manufacturing PMI,high,57.3,57.1,57.0
+1,2014.06.02 17:30,GBP,3,Net Lending to Individuals m/m,18,51608,Jun 2 2014,4:30am,GBP,Net Lending to Individuals m/m,medium, ,2.7B, 
+1,2014.06.02 17:30,GBP,1,M4 Money Supply m/m,19,51831,Jun 2 2014,4:30am,GBP,M4 Money Supply m/m,low,-2.3%,0.3%, 
+1,2014.06.02 17:30,GBP,1,Mortgage Approvals,20,51824,Jun 2 2014,4:30am,GBP,Mortgage Approvals,low,67K,64K,63K
+1,2014.06.02 21:40,USD,3,Treasury Sec Lew Speaks,21,54200,Jun 2 2014,8:40am,USD,Treasury Sec Lew Speaks,medium, , , 
+1,2014.06.02 22:45,USD,1,Final Manufacturing PMI,22,49675,Jun 2 2014,9:45am,USD,Final Manufacturing PMI,low,56.2,56.2,56.4
+1,2014.06.02 23:00,USD,5,ISM Manufacturing PMI,23,49645,Jun 2 2014,10:00am,USD,ISM Manufacturing PMI,high,54.9,55.7,55.4
+1,2014.06.02 23:00,USD,1,Construction Spending m/m,24,49664,Jun 2 2014,10:00am,USD,Construction Spending m/m,low, ,0.8%, 
+1,2014.06.02 23:00,USD,1,ISM Manufacturing Prices,25,49647,Jun 2 2014,10:00am,USD,ISM Manufacturing Prices,low,56.5,56.8, 
+1,2014.06.03 07:45,NZD,3,Overseas Trade Index q/q,26,51023,Jun 2 2014,6:45pm,NZD,Overseas Trade Index q/q,medium, ,1.9%,1.8%
+1,2014.06.03 08:50,JPY,1,Monetary Base y/y,27,51436,Jun 2 2014,7:50pm,JPY,Monetary Base y/y,low,48.5%,51.2%, 
+1,2014.06.03 10:00,CNY,5,Non-Manufacturing PMI,28,50495,Jun 2 2014,9:00pm,CNY,Non-Manufacturing PMI,high,54.8, ,55.5
+1,2014.06.03 10:30,AUD,5,Retail Sales m/m,29,50640,Jun 2 2014,9:30pm,AUD,Retail Sales m/m,high,0.1%,0.3%, 
+1,2014.06.03 10:30,AUD,3,Current Account,30,50576,Jun 2 2014,9:30pm,AUD,Current Account,medium, ,-7.1B, 
+1,2014.06.03 10:30,JPY,3,Average Cash Earnings y/y,31,51314,Jun 2 2014,9:30pm,JPY,Average Cash Earnings y/y,medium,0.7%,0.6%, 
+1,2014.06.03 10:45,CNY,5,HSBC Final Manufacturing PMI,32,50465,Jun 2 2014,9:45pm,CNY,HSBC Final Manufacturing PMI,high,49.7,49.7,49.4
+1,2014.06.03 12:45,JPY,1,10-y Bond Auction,33,51421,Jun 2 2014,11:45pm,JPY,10-y Bond Auction,low,0.60|3.5, ,0.61|3.7
+1,2014.06.03 13:30,AUD,5,Cash Rate,34,49906,Jun 3 2014,12:30am,AUD,Cash Rate,high,2.50%,2.50%,2.50%
+1,2014.06.03 13:30,AUD,5,RBA Rate Statement,35,49907,Jun 3 2014,12:30am,AUD,RBA Rate Statement,high, , , 
+1,2014.06.03 15:00,GBP,3,Nationwide HPI m/m,36,51872,Jun 3 2014,2:00am,GBP,Nationwide HPI m/m,medium,1.2%,0.7%,0.7%
+1,2014.06.03 16:00,EUR,3,Spanish Unemployment Change,37,53296,Jun 3 2014,3:00am,EUR,Spanish Unemployment Change,medium,-111.6K,-112.3K,-111.9K
+1,2014.06.03 17:00,EUR,1,Italian Monthly Unemployment Rate,38,53279,Jun 3 2014,4:00am,EUR,Italian Monthly Unemployment Rate,low, ,12.7%, 
+1,2014.06.03 17:00,EUR,1,Italian Quarterly Unemployment Rate,39,52908,Jun 3 2014,4:00am,EUR,Italian Quarterly Unemployment Rate,low, ,12.7%,12.7%
+1,2014.06.03 17:30,GBP,5,Construction PMI,40,50364,Jun 3 2014,4:30am,GBP,Construction PMI,high,60.8,61.2, 
+1,2014.06.03 18:00,EUR,5,CPI Flash Estimate y/y,41,52146,Jun 3 2014,5:00am,EUR,CPI Flash Estimate y/y,high,0.7%,0.7%, 
+1,2014.06.03 18:00,EUR,3,Core CPI Flash Estimate y/y,42,54119,Jun 3 2014,5:00am,EUR,Core CPI Flash Estimate y/y,medium,1.0%,0.9%, 
+1,2014.06.03 18:00,EUR,3,Unemployment Rate,43,52147,Jun 3 2014,5:00am,EUR,Unemployment Rate,medium,11.8%,11.8%, 
+1,2014.06.03 23:00,USD,3,Factory Orders m/m,44,52853,Jun 3 2014,10:00am,USD,Factory Orders m/m,medium, ,0.6%,0.7%
+1,2014.06.03 23:00,USD,1,IBD/TIPP Economic Optimism,45,49818,Jun 3 2014,10:00am,USD,IBD/TIPP Economic Optimism,low,45.8,46.5, 
+1,2014.06.03 23:39,NZD,3,GDT Price Index,46,56324,Jun 3 2014,10:39am,NZD,GDT Price Index,medium,-1.8%, ,-4.2%
+0,,USD,1,Total Vehicle Sales,47,52777,Jun 3 2014,All Day,USD,Total Vehicle Sales,low,16.0M,16.0M, 
+1,2014.06.04 08:01,GBP,1,BRC Shop Price Index y/y,48,51748,Jun 3 2014,7:01pm,GBP,BRC Shop Price Index y/y,low,-1.4%, ,-1.4%
+1,2014.06.04 08:30,AUD,1,AIG Services Index,49,50387,Jun 3 2014,7:30pm,AUD,AIG Services Index,low,48.6, ,49.9
+1,2014.06.04 10:00,NZD,1,ANZ Commodity Prices m/m,50,50995,Jun 3 2014,9:00pm,NZD,ANZ Commodity Prices m/m,low, , ,-2.2%
+1,2014.06.04 10:30,AUD,5,GDP q/q,51,50580,Jun 3 2014,9:30pm,AUD,GDP q/q,high,0.8%,0.9%, 
+1,2014.06.04 16:15,EUR,3,Spanish Services PMI,52,50423,Jun 4 2014,3:15am,EUR,Spanish Services PMI,medium,56.5,56.1, 
+1,2014.06.04 16:45,EUR,3,Italian Services PMI,53,50417,Jun 4 2014,3:45am,EUR,Italian Services PMI,medium,51.1,51.4,51.6
+1,2014.06.04 16:50,EUR,1,French Final Services PMI,54,59229,Jun 4 2014,3:50am,EUR,French Final Services PMI,low,49.2,49.2,49.1
+1,2014.06.04 16:55,EUR,1,German Final Services PMI,55,59235,Jun 4 2014,3:55am,EUR,German Final Services PMI,low,56.4,56.4, 
+1,2014.06.04 17:00,EUR,1,Final Services PMI,56,50420,Jun 4 2014,4:00am,EUR,Final Services PMI,low,53.5,53.5,53.2
+1,2014.06.04 17:30,GBP,5,Services PMI,57,50352,Jun 4 2014,4:30am,GBP,Services PMI,high,58.7,58.3,58.6
+1,2014.06.04 18:00,EUR,1,PPI m/m,58,52148,Jun 4 2014,5:00am,EUR,PPI m/m,low,-0.2%,-0.1%,-0.1%
+1,2014.06.04 18:00,EUR,1,Revised GDP q/q,59,52214,Jun 4 2014,5:00am,EUR,Revised GDP q/q,low,0.2%,0.2%,0.2%
+0,,ALL,5,G7 Meetings,60,54196,Jun 4 2014,Day 1,ALL,G7 Meetings,high, , , 
+1,2014.06.04 21:15,USD,5,ADP Non-Farm Employment Change,61,49882,Jun 4 2014,8:15am,USD,ADP Non-Farm Employment Change,high, ,217K, 
+1,2014.06.04 21:30,CAD,5,Trade Balance,62,53529,Jun 4 2014,8:30am,CAD,Trade Balance,high, ,-0.2B, 
+1,2014.06.04 21:30,USD,5,Trade Balance,63,52546,Jun 4 2014,8:30am,USD,Trade Balance,high, ,-40.8B, 
+1,2014.06.04 21:30,USD,3,Revised Nonfarm Productivity q/q,64,52461,Jun 4 2014,8:30am,USD,Revised Nonfarm Productivity q/q,medium,-1.7%,-2.2%, 
+1,2014.06.04 21:30,USD,1,Revised Unit Labor Costs q/q,65,52463,Jun 4 2014,8:30am,USD,Revised Unit Labor Costs q/q,low,4.2%,4.8%, 
+1,2014.06.04 22:45,USD,1,Final Services PMI,66,53488,Jun 4 2014,9:45am,USD,Final Services PMI,low,58.4,58.4,58.1
+1,2014.06.04 23:00,CAD,5,BOC Rate Statement,67,49956,Jun 4 2014,10:00am,CAD,BOC Rate Statement,high, , , 
+1,2014.06.04 23:00,CAD,5,Overnight Rate,68,49957,Jun 4 2014,10:00am,CAD,Overnight Rate,high,1.00%,1.00%,1.00%
+1,2014.06.04 23:00,USD,5,ISM Non-Manufacturing PMI,69,52829,Jun 4 2014,10:00am,USD,ISM Non-Manufacturing PMI,high,55.2,55.6, 
+1,2014.06.04 23:30,USD,3,Crude Oil Inventories,70,49602,Jun 4 2014,10:30am,USD,Crude Oil Inventories,medium,1.7M,-0.2M,-3.4M
+1,2014.06.05 03:00,USD,3,Beige Book,71,49808,Jun 4 2014,2:00pm,USD,Beige Book,medium, , , 
+1,2014.06.05 10:30,AUD,5,Trade Balance,72,50628,Jun 4 2014,9:30pm,AUD,Trade Balance,high, ,0.40B, 
+1,2014.06.05 10:45,CNY,3,HSBC Services PMI,73,54051,Jun 4 2014,9:45pm,CNY,HSBC Services PMI,medium,51.4, ,50.7
+1,2014.06.05 12:45,JPY,1,30-y Bond Auction,74,51409,Jun 4 2014,11:45pm,JPY,30-y Bond Auction,low,1.71|4.6, ,1.71|3.0
+1,2014.06.05 15:00,EUR,3,German Factory Orders m/m,75,53044,Jun 5 2014,2:00am,EUR,German Factory Orders m/m,medium,-2.8%,1.3%, 
+1,2014.06.05 16:00,GBP,3,Halifax HPI m/m,76,51807,Jun 5 2014,3:00am,GBP,Halifax HPI m/m,medium, ,0.7%, 
+1,2014.06.05 17:10,EUR,1,Retail PMI,77,50446,Jun 5 2014,4:10am,EUR,Retail PMI,low,51.2, ,49.9
+1,2014.06.05 17:58,EUR,1,French 10-y Bond Auction,78,54194,Jun 5 2014,4:58am,EUR,French 10-y Bond Auction,low,2.00|2.2, ,1.96|1.7
+1,2014.06.05 18:00,EUR,3,Retail Sales m/m,79,52149,Jun 5 2014,5:00am,EUR,Retail Sales m/m,medium, ,0.1%, 
+0,,ALL,5,G7 Meetings,80,54197,Jun 5 2014,Day 2,ALL,G7 Meetings,high, , , 
+1,2014.06.05 20:00,GBP,5,Asset Purchase Facility,81,50052,Jun 5 2014,7:00am,GBP,Asset Purchase Facility,high,375B,375B,375B
+1,2014.06.05 20:00,GBP,5,Official Bank Rate,82,50070,Jun 5 2014,7:00am,GBP,Official Bank Rate,high,0.50%,0.50%,0.50%
+1,2014.06.05 20:30,USD,1,Challenger Job Cuts y/y,83,49884,Jun 5 2014,7:30am,USD,Challenger Job Cuts y/y,low,5.7%, ,45.5%
+1,2014.06.05 20:45,EUR,5,Minimum Bid Rate,84,50008,Jun 5 2014,7:45am,EUR,Minimum Bid Rate,high,0.25%,0.10%, 
+1,2014.06.05 21:30,CAD,5,Building Permits m/m,85,53502,Jun 5 2014,8:30am,CAD,Building Permits m/m,high, ,4.1%, 
+1,2014.06.05 21:30,EUR,5,ECB Press Conference,86,50006,Jun 5 2014,8:30am,EUR,ECB Press Conference,high, , , 
+1,2014.06.05 21:30,USD,5,Unemployment Claims,87,49498,Jun 5 2014,8:30am,USD,Unemployment Claims,high, ,309K,312K
+1,2014.06.05 23:00,CAD,5,Ivey PMI,88,53692,Jun 5 2014,10:00am,CAD,Ivey PMI,high,54.1,56.3, 
+1,2014.06.05 23:30,USD,1,Natural Gas Storage,89,49550,Jun 5 2014,10:30am,USD,Natural Gas Storage,low,114B,116B,119B
+1,2014.06.06 02:30,USD,3,FOMC Member Kocherlakota Speaks,90,54195,Jun 5 2014,1:30pm,USD,FOMC Member Kocherlakota Speaks,medium, , , 
+1,2014.06.06 08:30,AUD,1,AIG Construction Index,91,50388,Jun 5 2014,7:30pm,AUD,AIG Construction Index,low,45.9, ,46.7
+1,2014.06.06 14:00,JPY,1,Leading Indicators,92,51163,Jun 6 2014,1:00am,JPY,Leading Indicators,low, ,106.2%,106.6%
+1,2014.06.06 15:00,EUR,3,German Trade Balance,93,53025,Jun 6 2014,2:00am,EUR,German Trade Balance,medium, ,15.1B, 
+1,2014.06.06 15:00,EUR,1,German Industrial Production m/m,94,53043,Jun 6 2014,2:00am,EUR,German Industrial Production m/m,low, ,0.4%, 
+1,2014.06.06 15:45,EUR,1,French Gov Budget Balance,95,52294,Jun 6 2014,2:45am,EUR,French Gov Budget Balance,low,-28.0B, ,-64.2B
+1,2014.06.06 15:45,EUR,1,French Trade Balance,96,52296,Jun 6 2014,2:45am,EUR,French Trade Balance,low,-4.9B,-5.0B, 
+1,2014.06.06 16:00,CHF,3,Foreign Currency Reserves,97,49991,Jun 6 2014,3:00am,CHF,Foreign Currency Reserves,medium,438.9B, ,444.4B
+1,2014.06.06 16:15,CHF,3,CPI m/m,98,52026,Jun 6 2014,3:15am,CHF,CPI m/m,medium,0.1%,0.2%, 
+1,2014.06.06 17:30,GBP,3,Consumer Inflation Expectations,99,51881,Jun 6 2014,4:30am,GBP,Consumer Inflation Expectations,medium,2.8%, ,2.6%
+1,2014.06.06 17:30,GBP,3,Trade Balance,100,51645,Jun 6 2014,4:30am,GBP,Trade Balance,medium, ,-8.7B, 
+1,2014.06.06 21:30,CAD,5,Employment Change,101,53609,Jun 6 2014,8:30am,CAD,Employment Change,high,-28.9K,24.5K,25.8K
+1,2014.06.06 21:30,CAD,5,Unemployment Rate,102,53612,Jun 6 2014,8:30am,CAD,Unemployment Rate,high,6.9%,6.9%, 
+1,2014.06.06 21:30,CAD,3,Labor Productivity q/q,103,53624,Jun 6 2014,8:30am,CAD,Labor Productivity q/q,medium,1.0%,0.7%, 
+1,2014.06.06 21:30,USD,5,Non-Farm Employment Change,104,49441,Jun 6 2014,8:30am,USD,Non-Farm Employment Change,high, ,214K,217K
+1,2014.06.06 21:30,USD,5,Unemployment Rate,105,49443,Jun 6 2014,8:30am,USD,Unemployment Rate,high,6.3%,6.4%, 
+1,2014.06.06 21:30,USD,3,Average Hourly Earnings m/m,106,49442,Jun 6 2014,8:30am,USD,Average Hourly Earnings m/m,medium,0.0%,0.2%,0.2%
+1,2014.06.07 04:00,USD,1,Consumer Credit m/m,107,52765,Jun 6 2014,3:00pm,USD,Consumer Credit m/m,low, ,15.3B, 
+1,2014.06.07 23:45,JPY,5,BOJ Gov Kuroda Speaks,108,54227,Jun 7 2014,10:45am,JPY,BOJ Gov Kuroda Speaks,high, , , 
+1,2014.06.08 11:28,CNY,5,Trade Balance,109,50895,Jun 7 2014,10:28pm,CNY,Trade Balance,high,18.5B,22.6B, 
+0,,AUD,0,Bank Holiday,110,53374,Jun 8 2014,All Day,AUD,Bank Holiday,holiday, , , 
+1,2014.06.09 08:50,JPY,3,Current Account,111,51126,Jun 8 2014,7:50pm,JPY,Current Account,medium,-0.78T,0.23T, 
+1,2014.06.09 08:50,JPY,3,Final GDP q/q,112,51270,Jun 8 2014,7:50pm,JPY,Final GDP q/q,medium,1.5%,1.4%, 
+1,2014.06.09 08:50,JPY,1,Bank Lending y/y,113,51102,Jun 8 2014,7:50pm,JPY,Bank Lending y/y,low,2.1%, ,2.3%
+1,2014.06.09 08:50,JPY,1,Final GDP Price Index y/y,114,51266,Jun 8 2014,7:50pm,JPY,Final GDP Price Index y/y,low,0.0%,0.0%, 
+1,2014.06.09 14:00,JPY,1,Consumer Confidence,115,51375,Jun 9 2014,1:00am,JPY,Consumer Confidence,low,37.0,37.7, 
+0,,CHF,0,Bank Holiday,116,53421,Jun 9 2014,All Day,CHF,Bank Holiday,holiday, , , 
+0,,EUR,0,French Bank Holiday,117,53440,Jun 9 2014,All Day,EUR,French Bank Holiday,holiday, , , 
+0,,EUR,0,German Bank Holiday,118,53450,Jun 9 2014,All Day,EUR,German Bank Holiday,holiday, , , 
+1,2014.06.09 15:00,JPY,1,Economy Watchers Sentiment,119,51378,Jun 9 2014,2:00am,JPY,Economy Watchers Sentiment,low,41.6,45.2,45.1
+1,2014.06.09 17:30,EUR,1,Sentix Investor Confidence,120,52971,Jun 9 2014,4:30am,EUR,Sentix Investor Confidence,low,12.8,13.5, 
+1,2014.06.09 21:13,CAD,3,Housing Starts,121,53704,Jun 9 2014,8:13am,CAD,Housing Starts,medium, ,185K, 
+1,2014.06.10 01:00,AUD,5,RBA Gov Stevens Speaks,122,54201,Jun 9 2014,12:00pm,AUD,RBA Gov Stevens Speaks,high, , , 
+1,2014.06.10 07:45,NZD,1,Manufacturing Sales q/q,123,50980,Jun 9 2014,6:45pm,NZD,Manufacturing Sales q/q,low, , ,0.6%
+1,2014.06.10 08:01,GBP,3,BRC Retail Sales Monitor y/y,124,51532,Jun 9 2014,7:01pm,GBP,BRC Retail Sales Monitor y/y,medium,4.2%, ,0.5%
+1,2014.06.10 08:50,JPY,3,Tertiary Industry Activity m/m,125,51198,Jun 9 2014,7:50pm,JPY,Tertiary Industry Activity m/m,medium,2.4%,-3.3%, 
+1,2014.06.10 08:50,JPY,1,M2 Money Stock y/y,126,51439,Jun 9 2014,7:50pm,JPY,M2 Money Stock y/y,low, ,3.2%, 
+1,2014.06.10 10:30,AUD,5,NAB Business Confidence,127,50522,Jun 9 2014,9:30pm,AUD,NAB Business Confidence,high, , ,7
+1,2014.06.10 10:30,AUD,3,ANZ Job Advertisements m/m,128,50717,Jun 9 2014,9:30pm,AUD,ANZ Job Advertisements m/m,medium, , ,-5.6%
+1,2014.06.10 10:30,AUD,3,Home Loans m/m,129,50778,Jun 9 2014,9:30pm,AUD,Home Loans m/m,medium, ,0.3%, 
+1,2014.06.10 10:30,CNY,5,CPI y/y,130,50823,Jun 9 2014,9:30pm,CNY,CPI y/y,high,1.8%,2.4%, 
+1,2014.06.10 10:30,CNY,3,PPI y/y,131,50825,Jun 9 2014,9:30pm,CNY,PPI y/y,medium,-2.0%,-1.5%,-1.4%
+1,2014.06.10 14:45,CHF,1,Unemployment Rate,132,52047,Jun 10 2014,1:45am,CHF,Unemployment Rate,low,3.2%,3.2%,3.2%
+1,2014.06.10 14:59,JPY,1,Prelim Machine Tool Orders y/y,133,51174,Jun 10 2014,1:59am,JPY,Prelim Machine Tool Orders y/y,low, , ,24.1%
+1,2014.06.10 15:45,EUR,3,French Industrial Production m/m,134,52314,Jun 10 2014,2:45am,EUR,French Industrial Production m/m,medium, ,0.3%,0.3%
+1,2014.06.10 16:15,CHF,3,Retail Sales y/y,135,51993,Jun 10 2014,3:15am,CHF,Retail Sales y/y,medium, ,2.2%, 
+1,2014.06.10 17:00,EUR,1,Italian Industrial Production m/m,136,52382,Jun 10 2014,4:00am,EUR,Italian Industrial Production m/m,low, ,0.4%, 
+1,2014.06.10 17:30,GBP,5,Manufacturing Production m/m,137,51589,Jun 10 2014,4:30am,GBP,Manufacturing Production m/m,high,0.5%,0.4%,0.4%
+1,2014.06.10 17:30,GBP,1,Industrial Production m/m,138,51588,Jun 10 2014,4:30am,GBP,Industrial Production m/m,low, ,0.4%,0.4%
+1,2014.06.10 18:36,GBP,1,10-y Bond Auction,139,51941,Jun 10 2014,5:36am,GBP,10-y Bond Auction,low,2.82|1.7, ,2.82|2.0
+1,2014.06.10 20:30,USD,1,NFIB Small Business Index,140,52668,Jun 10 2014,7:30am,USD,NFIB Small Business Index,low,95.2,96.1,96.6
+1,2014.06.10 23:00,GBP,3,NIESR GDP Estimate,141,51620,Jun 10 2014,10:00am,GBP,NIESR GDP Estimate,medium, , ,0.9%
+1,2014.06.10 23:00,USD,3,JOLTS Job Openings,142,52462,Jun 10 2014,10:00am,USD,JOLTS Job Openings,medium, ,4.04M, 
+1,2014.06.10 23:00,USD,1,Wholesale Inventories m/m,143,52632,Jun 10 2014,10:00am,USD,Wholesale Inventories m/m,low,1.1%,0.6%, 
+1,2014.06.11 08:50,JPY,3,BSI Manufacturing Index,144,51355,Jun 10 2014,7:50pm,JPY,BSI Manufacturing Index,medium,12.5,14.1, 
+1,2014.06.11 08:50,JPY,1,PPI y/y,145,51339,Jun 10 2014,7:50pm,JPY,PPI y/y,low, ,4.1%, 
+1,2014.06.11 09:30,AUD,5,Westpac Consumer Sentiment,146,50539,Jun 10 2014,8:30pm,AUD,Westpac Consumer Sentiment,high,-6.8%, ,0.2%
+0,,ALL,1,OPEC Meetings,147,53004,Jun 11 2014,All Day,ALL,OPEC Meetings,low, , , 
+1,2014.06.11 17:30,GBP,5,Claimant Count Change,148,51772,Jun 11 2014,4:30am,GBP,Claimant Count Change,high, ,-25.0K, 
+1,2014.06.11 17:30,GBP,5,Unemployment Rate,149,51769,Jun 11 2014,4:30am,GBP,Unemployment Rate,high,6.8%,6.7%, 
+1,2014.06.11 17:30,GBP,3,Average Earnings Index 3m/y,150,51771,Jun 11 2014,4:30am,GBP,Average Earnings Index 3m/y,medium, ,1.2%, 
+1,2014.06.11 22:45,GBP,3,MPC Member Broadbent Speaks,151,54226,Jun 11 2014,9:45am,GBP,MPC Member Broadbent Speaks,medium, , , 
+1,2014.06.11 23:30,USD,3,Crude Oil Inventories,152,49603,Jun 11 2014,10:30am,USD,Crude Oil Inventories,medium,-3.4M,-1.3M,-2.6M
+1,2014.06.12 02:01,USD,3,10-y Bond Auction,153,49829,Jun 11 2014,1:01pm,USD,10-y Bond Auction,medium,2.61|2.6, ,2.65|2.9
+1,2014.06.12 03:00,USD,3,Federal Budget Balance,154,52789,Jun 11 2014,2:00pm,USD,Federal Budget Balance,medium,106.9B,-132.8B,-130.0B
+1,2014.06.12 06:00,NZD,5,Official Cash Rate,155,52921,Jun 11 2014,5:00pm,NZD,Official Cash Rate,high,3.00%,3.25%,3.25%
+1,2014.06.12 06:00,NZD,5,RBNZ Monetary Policy Statement,156,52923,Jun 11 2014,5:00pm,NZD,RBNZ Monetary Policy Statement,high, , , 
+1,2014.06.12 06:00,NZD,5,RBNZ Press Conference,157,52924,Jun 11 2014,5:00pm,NZD,RBNZ Press Conference,high, , , 
+1,2014.06.12 06:00,NZD,5,RBNZ Rate Statement,158,52922,Jun 11 2014,5:00pm,NZD,RBNZ Rate Statement,high, , , 
+1,2014.06.12 08:01,GBP,1,RICS House Price Balance,159,51849,Jun 11 2014,7:01pm,GBP,RICS House Price Balance,low, ,52%, 
+1,2014.06.12 08:50,JPY,3,Core Machinery Orders m/m,160,51114,Jun 11 2014,7:50pm,JPY,Core Machinery Orders m/m,medium,19.1%,-11.5%, 
+1,2014.06.12 09:59,AUD,3,MI Inflation Expectations,161,50541,Jun 11 2014,8:59pm,AUD,MI Inflation Expectations,medium,4.4%, ,4.0%
+1,2014.06.12 10:30,AUD,5,Employment Change,162,50733,Jun 11 2014,9:30pm,AUD,Employment Change,high, ,10.3K, 
+1,2014.06.12 10:30,AUD,5,Unemployment Rate,163,50735,Jun 11 2014,9:30pm,AUD,Unemployment Rate,high,5.8%,5.9%, 
+1,2014.06.12 15:00,EUR,1,German WPI m/m,164,53062,Jun 12 2014,2:00am,EUR,German WPI m/m,low,0.2%,0.3%, 
+1,2014.06.12 15:45,EUR,1,French CPI m/m,165,52277,Jun 12 2014,2:45am,EUR,French CPI m/m,low,0.0%,0.1%, 
+1,2014.06.12 17:00,EUR,3,ECB Monthly Bulletin,166,50027,Jun 12 2014,4:00am,EUR,ECB Monthly Bulletin,medium, , , 
+1,2014.06.12 17:01,CNY,3,New Loans,167,50875,Jun 12 2014,4:01am,CNY,New Loans,medium,775B,750B, 
+1,2014.06.12 17:01,CNY,1,M2 Money Supply y/y,168,50877,Jun 12 2014,4:01am,CNY,M2 Money Supply y/y,low,13.2%,13.1%, 
+1,2014.06.12 18:00,EUR,3,Industrial Production m/m,169,52150,Jun 12 2014,5:00am,EUR,Industrial Production m/m,medium, ,0.5%, 
+1,2014.06.12 21:30,CAD,3,NHPI m/m,170,53644,Jun 12 2014,8:30am,CAD,NHPI m/m,medium,0.2%,0.3%, 
+1,2014.06.12 21:30,CAD,1,Capacity Utilization Rate,171,53572,Jun 12 2014,8:30am,CAD,Capacity Utilization Rate,low, ,82.6%,82.5%
+1,2014.06.12 21:30,USD,5,Core Retail Sales m/m,172,52948,Jun 12 2014,8:30am,USD,Core Retail Sales m/m,high, ,0.4%, 
+1,2014.06.12 21:30,USD,5,Retail Sales m/m,173,52946,Jun 12 2014,8:30am,USD,Retail Sales m/m,high, ,0.5%, 
+1,2014.06.12 21:30,USD,5,Unemployment Claims,174,49504,Jun 12 2014,8:30am,USD,Unemployment Claims,high, ,306K, 
+1,2014.06.12 21:30,USD,3,Import Prices m/m,175,52465,Jun 12 2014,8:30am,USD,Import Prices m/m,medium, ,0.2%,0.1%
+1,2014.06.12 23:00,USD,3,Business Inventories m/m,176,52680,Jun 12 2014,10:00am,USD,Business Inventories m/m,medium,0.4%,0.4%, 
+1,2014.06.12 23:30,CAD,1,BOC Financial System Review,177,58709,Jun 12 2014,10:30am,CAD,BOC Financial System Review,low, , , 
+1,2014.06.12 23:30,USD,1,Natural Gas Storage,178,49551,Jun 12 2014,10:30am,USD,Natural Gas Storage,low,119B,111B,107B
+1,2014.06.13 00:15,CAD,5,BOC Gov Poloz Speaks,179,54202,Jun 12 2014,11:15am,CAD,BOC Gov Poloz Speaks,high, , , 
+1,2014.06.13 02:01,USD,1,30-y Bond Auction,180,49835,Jun 12 2014,1:01pm,USD,30-y Bond Auction,low,3.44|2.1, ,3.44|2.7
+1,2014.06.13 03:00,EUR,3,German Buba President Weidmann Speaks,181,54234,Jun 12 2014,2:00pm,EUR,German Buba President Weidmann Speaks,medium, , , 
+1,2014.06.13 03:00,GBP,1,Chancellor Osborne Speaks,182,54233,Jun 12 2014,2:00pm,GBP,Chancellor Osborne Speaks,low, , , 
+1,2014.06.13 05:00,GBP,5,BOE Gov Carney Speaks,183,54228,Jun 12 2014,4:00pm,GBP,BOE Gov Carney Speaks,high, , , 
+1,2014.06.13 07:30,NZD,3,Business NZ Manufacturing Index,184,50507,Jun 12 2014,6:30pm,NZD,Business NZ Manufacturing Index,medium, , ,52.7
+1,2014.06.13 07:45,NZD,1,FPI m/m,185,51016,Jun 12 2014,6:45pm,NZD,FPI m/m,low,0.6%, ,0.6%
+1,2014.06.13 11:41,JPY,5,Monetary Policy Statement,186,51492,Jun 12 2014,10:41pm,JPY,Monetary Policy Statement,high, , , 
+1,2014.06.13 13:30,JPY,1,Revised Industrial Production m/m,187,51234,Jun 13 2014,12:30am,JPY,Revised Industrial Production m/m,low,-2.5%,-2.5%, 
+1,2014.06.13 14:30,CNY,5,Industrial Production y/y,188,50829,Jun 13 2014,1:30am,CNY,Industrial Production y/y,high,8.7%,8.8%,8.8%
+1,2014.06.13 14:30,CNY,3,Fixed Asset Investment ytd/y,189,50827,Jun 13 2014,1:30am,CNY,Fixed Asset Investment ytd/y,medium,17.3%,17.1%,17.2%
+1,2014.06.13 14:30,CNY,1,Retail Sales y/y,190,50831,Jun 13 2014,1:30am,CNY,Retail Sales y/y,low,11.9%,12.3%,12.5%
+1,2014.06.13 14:30,EUR,1,French Final Non-Farm Payrolls q/q,191,52338,Jun 13 2014,1:30am,EUR,French Final Non-Farm Payrolls q/q,low,-0.1%,-0.1%,-0.1%
+1,2014.06.13 15:00,EUR,1,German Final CPI m/m,192,53338,Jun 13 2014,2:00am,EUR,German Final CPI m/m,low,-0.1%,-0.1%,-0.1%
+1,2014.06.13 15:32,JPY,5,BOJ Press Conference,193,51493,Jun 13 2014,2:32am,JPY,BOJ Press Conference,high, , , 
+1,2014.06.13 17:30,GBP,1,Construction Output m/m,194,54218,Jun 13 2014,4:30am,GBP,Construction Output m/m,low, ,0.7%, 
+1,2014.06.13 18:00,EUR,1,Employment Change q/q,195,52222,Jun 13 2014,5:00am,EUR,Employment Change q/q,low,0.1%,0.1%,0.1%
+1,2014.06.13 18:00,EUR,1,Trade Balance,196,52151,Jun 13 2014,5:00am,EUR,Trade Balance,low, ,15.9B,15.8B
+1,2014.06.13 18:00,GBP,1,CB Leading Index m/m,197,51544,Jun 13 2014,5:00am,GBP,CB Leading Index m/m,low,0.3%, ,0.5%
+1,2014.06.13 21:30,CAD,5,Manufacturing Sales m/m,198,53632,Jun 13 2014,8:30am,CAD,Manufacturing Sales m/m,high, ,0.9%, 
+1,2014.06.13 21:30,USD,5,PPI m/m,199,52466,Jun 13 2014,8:30am,USD,PPI m/m,high,0.6%,0.1%, 
+1,2014.06.13 21:30,USD,3,Core PPI m/m,200,52464,Jun 13 2014,8:30am,USD,Core PPI m/m,medium,0.5%,0.2%, 
+1,2014.06.13 22:55,USD,5,Prelim UoM Consumer Sentiment,201,49727,Jun 13 2014,9:55am,USD,Prelim UoM Consumer Sentiment,high, ,83.2, 
+1,2014.06.13 22:55,USD,1,Prelim UoM Inflation Expectations,202,49729,Jun 13 2014,9:55am,USD,Prelim UoM Inflation Expectations,low, , ,3.0%
+1,2014.06.16 06:49,NZD,3,Westpac Consumer Sentiment,204,51078,Jun 15 2014,5:49pm,NZD,Westpac Consumer Sentiment,medium,121.7, ,121.2
+1,2014.06.16 07:50,NZD,1,REINZ HPI m/m,205,51063,Jun 15 2014,6:50pm,NZD,REINZ HPI m/m,low,0.1%, ,-1.2%
+1,2014.06.16 08:01,GBP,1,BOE Quarterly Bulletin,206,50120,Jun 15 2014,7:01pm,GBP,BOE Quarterly Bulletin,low, , , 
+1,2014.06.16 08:01,GBP,1,Rightmove HPI m/m,207,51861,Jun 15 2014,7:01pm,GBP,Rightmove HPI m/m,low,3.6%, ,0.1%
+1,2014.06.16 12:20,AUD,3,RBA Assist Gov Kent Speaks,208,54229,Jun 15 2014,11:20pm,AUD,RBA Assist Gov Kent Speaks,medium, , , 
+1,2014.06.16 14:00,JPY,1,BOJ Monthly Report,209,51459,Jun 16 2014,1:00am,JPY,BOJ Monthly Report,low, , , 
+1,2014.06.16 18:00,EUR,3,Final CPI y/y,210,52153,Jun 16 2014,5:00am,EUR,Final CPI y/y,medium,0.5%,0.5%,0.5%
+1,2014.06.16 18:00,EUR,1,Final Core CPI y/y,211,52152,Jun 16 2014,5:00am,EUR,Final Core CPI y/y,low,0.7%,0.7%,0.7%
+1,2014.06.16 19:00,EUR,3,German Buba Monthly Report,212,50566,Jun 16 2014,6:00am,EUR,German Buba Monthly Report,medium, , , 
+1,2014.06.16 21:30,CAD,3,Foreign Securities Purchases,213,53516,Jun 16 2014,8:30am,CAD,Foreign Securities Purchases,medium, ,4.27B, 
+1,2014.06.16 21:30,USD,3,Empire State Manufacturing Index,214,52596,Jun 16 2014,8:30am,USD,Empire State Manufacturing Index,medium,19.0,15.2, 
+1,2014.06.16 22:00,USD,3,TIC Long-Term Purchases,215,52728,Jun 16 2014,9:00am,USD,TIC Long-Term Purchases,medium, ,41.3B, 
+1,2014.06.16 22:15,USD,3,Capacity Utilization Rate,216,52611,Jun 16 2014,9:15am,USD,Capacity Utilization Rate,medium, ,78.9%, 
+1,2014.06.16 22:15,USD,3,Industrial Production m/m,217,52612,Jun 16 2014,9:15am,USD,Industrial Production m/m,medium, ,0.6%,0.6%
+1,2014.06.16 23:00,USD,3,NAHB Housing Market Index,218,53750,Jun 16 2014,10:00am,USD,NAHB Housing Market Index,medium,45,47, 
+1,2014.06.17 10:30,AUD,5,Monetary Policy Meeting Minutes,219,49928,Jun 16 2014,9:30pm,AUD,Monetary Policy Meeting Minutes,high, , , 
+1,2014.06.17 10:30,AUD,3,New Motor Vehicle Sales m/m,220,50604,Jun 16 2014,9:30pm,AUD,New Motor Vehicle Sales m/m,medium, , ,0.3%
+1,2014.06.17 11:17,CNY,1,Foreign Direct Investment ytd/y,221,50907,Jun 16 2014,10:17pm,CNY,Foreign Direct Investment ytd/y,low,5.0%, ,2.8%
+1,2014.06.17 14:45,CHF,1,SECO Economic Forecasts,222,52086,Jun 17 2014,1:45am,CHF,SECO Economic Forecasts,low, , , 
+1,2014.06.17 16:15,CHF,3,PPI m/m,223,52029,Jun 17 2014,3:15am,CHF,PPI m/m,medium,-0.3%,0.0%, 
+1,2014.06.17 17:00,EUR,1,Italian Trade Balance,224,53254,Jun 17 2014,4:00am,EUR,Italian Trade Balance,low, ,4.27B, 
+1,2014.06.17 17:30,GBP,5,CPI y/y,225,51704,Jun 17 2014,4:30am,GBP,CPI y/y,high,1.8%,1.7%, 
+1,2014.06.17 17:30,GBP,3,PPI Input m/m,226,51701,Jun 17 2014,4:30am,GBP,PPI Input m/m,medium, ,0.1%, 
+1,2014.06.17 17:30,GBP,3,RPI y/y,227,51705,Jun 17 2014,4:30am,GBP,RPI y/y,medium,2.5%,2.5%, 
+1,2014.06.17 17:30,GBP,1,Core CPI y/y,228,51703,Jun 17 2014,4:30am,GBP,Core CPI y/y,low,2.0%,1.7%, 
+1,2014.06.17 17:30,GBP,1,HPI y/y,229,51706,Jun 17 2014,4:30am,GBP,HPI y/y,low,8.0%,9.1%, 
+1,2014.06.17 17:30,GBP,1,PPI Output m/m,230,51702,Jun 17 2014,4:30am,GBP,PPI Output m/m,low, ,0.1%, 
+1,2014.06.17 18:00,EUR,5,German ZEW Economic Sentiment,231,53120,Jun 17 2014,5:00am,EUR,German ZEW Economic Sentiment,high,33.1,35.2, 
+1,2014.06.17 18:00,EUR,3,ZEW Economic Sentiment,232,53121,Jun 17 2014,5:00am,EUR,ZEW Economic Sentiment,medium,55.2,59.6, 
+1,2014.06.17 21:30,USD,5,Building Permits,233,52704,Jun 17 2014,8:30am,USD,Building Permits,high, ,1.07M, 
+1,2014.06.17 21:30,USD,5,Core CPI m/m,234,52468,Jun 17 2014,8:30am,USD,Core CPI m/m,high,0.2%,0.2%, 
+1,2014.06.17 21:30,USD,3,CPI m/m,235,52467,Jun 17 2014,8:30am,USD,CPI m/m,medium,0.3%,0.2%, 
+1,2014.06.17 21:30,USD,3,Housing Starts,236,52706,Jun 17 2014,8:30am,USD,Housing Starts,medium,1.07M,1.04M, 
+1,2014.06.18 00:05,NZD,3,GDT Price Index,237,56325,Jun 17 2014,11:05am,NZD,GDT Price Index,medium,-4.2%, ,0.9%
+1,2014.06.18 07:45,NZD,3,Current Account,238,50987,Jun 17 2014,6:45pm,NZD,Current Account,medium, ,1.42B,1.41B
+1,2014.06.18 08:50,JPY,3,Monetary Policy Meeting Minutes,239,51473,Jun 17 2014,7:50pm,JPY,Monetary Policy Meeting Minutes,medium, , , 
+1,2014.06.18 08:50,JPY,3,Trade Balance,240,51186,Jun 17 2014,7:50pm,JPY,Trade Balance,medium, ,-1.01T, 
+1,2014.06.18 09:00,AUD,3,CB Leading Index m/m,241,50592,Jun 17 2014,8:00pm,AUD,CB Leading Index m/m,medium,0.0%, ,-0.1%
+1,2014.06.18 09:30,AUD,1,MI Leading Index m/m,242,50616,Jun 17 2014,8:30pm,AUD,MI Leading Index m/m,low,-0.5%, ,0.1%
+1,2014.06.18 17:30,GBP,5,MPC Asset Purchase Facility Votes,243,50092,Jun 18 2014,4:30am,GBP,MPC Asset Purchase Facility Votes,high,0-0-9,0-0-9,0-0-9
+1,2014.06.18 17:30,GBP,5,MPC Official Bank Rate Votes,244,50094,Jun 18 2014,4:30am,GBP,MPC Official Bank Rate Votes,high,0-0-9,0-0-9,0-0-9
+1,2014.06.18 18:00,CHF,3,ZEW Economic Expectations,245,52094,Jun 18 2014,5:00am,CHF,ZEW Economic Expectations,medium,7.4, ,4.8
+1,2014.06.18 18:34,EUR,3,German 10-y Bond Auction,246,53154,Jun 18 2014,5:34am,EUR,German 10-y Bond Auction,medium,1.41|1.1, ,1.39|1.2
+1,2014.06.18 20:15,GBP,5,MPC Member Weale Speaks,247,54235,Jun 18 2014,7:15am,GBP,MPC Member Weale Speaks,high, , , 
+1,2014.06.18 21:30,CAD,5,Wholesale Sales m/m,248,53656,Jun 18 2014,8:30am,CAD,Wholesale Sales m/m,high, ,0.3%, 
+1,2014.06.18 21:30,USD,3,Current Account,249,52547,Jun 18 2014,8:30am,USD,Current Account,medium, ,-96B, 
+1,2014.06.18 23:30,USD,3,Crude Oil Inventories,250,49605,Jun 18 2014,10:30am,USD,Crude Oil Inventories,medium,-2.6M,-0.6M,-0.6M
+1,2014.06.19 02:30,GBP,5,MPC Member Haldane Speaks,251,54236,Jun 18 2014,1:30pm,GBP,MPC Member Haldane Speaks,high, , , 
+1,2014.06.19 03:00,USD,5,FOMC Economic Projections,252,49778,Jun 18 2014,2:00pm,USD,FOMC Economic Projections,high, , , 
+1,2014.06.19 03:00,USD,5,FOMC Statement,253,49776,Jun 18 2014,2:00pm,USD,FOMC Statement,high, , , 
+1,2014.06.19 03:00,USD,3,Federal Funds Rate,254,49775,Jun 18 2014,2:00pm,USD,Federal Funds Rate,medium,0.25%,0.25%,0.25%
+1,2014.06.19 03:30,USD,5,FOMC Press Conference,255,49777,Jun 18 2014,2:30pm,USD,FOMC Press Conference,high, , , 
+1,2014.06.19 07:45,NZD,5,GDP q/q,256,50984,Jun 18 2014,6:45pm,NZD,GDP q/q,high, ,1.2%, 
+1,2014.06.19 10:30,AUD,1,RBA Bulletin,257,49937,Jun 18 2014,9:30pm,AUD,RBA Bulletin,low, , , 
+1,2014.06.19 13:30,CHF,3,SNB Financial Stability Report,258,49985,Jun 19 2014,12:30am,CHF,SNB Financial Stability Report,medium, , , 
+1,2014.06.19 13:30,JPY,1,All Industries Activity m/m,259,51139,Jun 19 2014,12:30am,JPY,All Industries Activity m/m,low,1.5%,-3.7%, 
+1,2014.06.19 16:30,CHF,5,Libor Rate,260,49978,Jun 19 2014,3:30am,CHF,Libor Rate,high,0.25%,0.25%,0.25%
+1,2014.06.19 16:30,CHF,5,SNB Monetary Policy Assessment,261,49977,Jun 19 2014,3:30am,CHF,SNB Monetary Policy Assessment,high, , , 
+1,2014.06.19 16:30,CHF,5,SNB Press Conference,262,49979,Jun 19 2014,3:30am,CHF,SNB Press Conference,high, , , 
+1,2014.06.19 17:30,GBP,5,Retail Sales m/m,263,51646,Jun 19 2014,4:30am,GBP,Retail Sales m/m,high, ,-0.5%,-0.5%
+0,,EUR,3,Eurogroup Meetings,264,54230,Jun 19 2014,All Day,EUR,Eurogroup Meetings,medium, , , 
+1,2014.06.19 19:00,GBP,3,CBI Industrial Order Expectations,265,51906,Jun 19 2014,6:00am,GBP,CBI Industrial Order Expectations,medium,0,3, 
+1,2014.06.19 20:30,GBP,3,MPC Member McCafferty Speaks,266,54237,Jun 19 2014,7:30am,GBP,MPC Member McCafferty Speaks,medium, , , 
+1,2014.06.19 21:30,USD,5,Unemployment Claims,267,49505,Jun 19 2014,8:30am,USD,Unemployment Claims,high, ,316K,312K
+1,2014.06.19 23:00,USD,5,Philly Fed Manufacturing Index,268,52740,Jun 19 2014,10:00am,USD,Philly Fed Manufacturing Index,high,15.4,14.3, 
+1,2014.06.19 23:00,USD,1,CB Leading Index m/m,269,52841,Jun 19 2014,10:00am,USD,CB Leading Index m/m,low, ,0.6%, 
+1,2014.06.19 23:30,USD,1,Natural Gas Storage,270,49552,Jun 19 2014,10:30am,USD,Natural Gas Storage,low,107B,112B,113B
+1,2014.06.20 15:00,EUR,3,German PPI m/m,271,53074,Jun 20 2014,2:00am,EUR,German PPI m/m,medium,-0.1%,0.2%, 
+1,2014.06.20 15:35,JPY,5,BOJ Gov Kuroda Speaks,272,54232,Jun 20 2014,2:35am,JPY,BOJ Gov Kuroda Speaks,high, , , 
+1,2014.06.20 17:00,EUR,3,Current Account,273,52154,Jun 20 2014,4:00am,EUR,Current Account,medium, ,19.4B, 
+1,2014.06.20 17:30,GBP,3,Public Sector Net Borrowing,274,51664,Jun 20 2014,4:30am,GBP,Public Sector Net Borrowing,medium, ,11.8B,11.5B
+0,,EUR,3,ECOFIN Meetings,275,54231,Jun 20 2014,All Day,EUR,ECOFIN Meetings,medium, , , 
+1,2014.06.20 21:30,CAD,5,Core CPI m/m,276,53544,Jun 20 2014,8:30am,CAD,Core CPI m/m,high,0.2%,0.2%, 
+1,2014.06.20 21:30,CAD,5,Core Retail Sales m/m,277,53674,Jun 20 2014,8:30am,CAD,Core Retail Sales m/m,high, ,0.4%, 
+1,2014.06.20 21:30,CAD,3,CPI m/m,278,53546,Jun 20 2014,8:30am,CAD,CPI m/m,medium,0.3%,0.2%, 
+1,2014.06.20 21:30,CAD,3,Retail Sales m/m,279,53672,Jun 20 2014,8:30am,CAD,Retail Sales m/m,medium, ,0.4%, 
+1,2014.06.20 23:00,EUR,1,Consumer Confidence,280,53871,Jun 20 2014,10:00am,EUR,Consumer Confidence,low,-7,-6, 
+1,2014.06.23 07:45,NZD,1,Visitor Arrivals m/m,282,50952,Jun 22 2014,6:45pm,NZD,Visitor Arrivals m/m,low,1.7%, ,0.3%
+1,2014.06.23 10:35,JPY,1,Flash Manufacturing PMI,283,54136,Jun 22 2014,9:35pm,JPY,Flash Manufacturing PMI,low,49.9, ,51.1
+1,2014.06.23 10:45,CNY,5,HSBC Flash Manufacturing PMI,284,50466,Jun 22 2014,9:45pm,CNY,HSBC Flash Manufacturing PMI,high, ,49.7, 
+1,2014.06.23 12:00,NZD,1,Credit Card Spending y/y,285,50972,Jun 22 2014,11:00pm,NZD,Credit Card Spending y/y,low,3.2%, ,7.5%
+1,2014.06.23 15:00,JPY,5,BOJ Gov Kuroda Speaks,286,54238,Jun 23 2014,2:00am,JPY,BOJ Gov Kuroda Speaks,high, , , 
+1,2014.06.23 16:00,EUR,5,French Flash Manufacturing PMI,287,50307,Jun 23 2014,3:00am,EUR,French Flash Manufacturing PMI,high, ,49.6, 
+1,2014.06.23 16:00,EUR,3,French Flash Services PMI,288,50308,Jun 23 2014,3:00am,EUR,French Flash Services PMI,medium, ,49.5, 
+1,2014.06.23 16:30,EUR,5,German Flash Manufacturing PMI,289,50309,Jun 23 2014,3:30am,EUR,German Flash Manufacturing PMI,high, ,52.7,52.4
+1,2014.06.23 16:30,EUR,3,German Flash Services PMI,290,50310,Jun 23 2014,3:30am,EUR,German Flash Services PMI,medium, ,55.8, 
+1,2014.06.23 17:00,EUR,3,Flash Manufacturing PMI,291,50305,Jun 23 2014,4:00am,EUR,Flash Manufacturing PMI,medium, ,52.2,51.9
+1,2014.06.23 17:00,EUR,3,Flash Services PMI,292,50306,Jun 23 2014,4:00am,EUR,Flash Services PMI,medium, ,53.4, 
+1,2014.06.23 17:30,GBP,3,BOE Credit Conditions Survey,293,50116,Jun 23 2014,4:30am,GBP,BOE Credit Conditions Survey,medium, , , 
+1,2014.06.23 22:45,USD,3,Flash Manufacturing PMI,294,49688,Jun 23 2014,9:45am,USD,Flash Manufacturing PMI,medium, ,56.1, 
+1,2014.06.23 23:00,USD,5,Existing Home Sales,295,52649,Jun 23 2014,10:00am,USD,Existing Home Sales,high, ,4.74M, 
+1,2014.06.24 11:00,CNY,1,CB Leading Index m/m,296,50919,Jun 23 2014,10:00pm,CNY,CB Leading Index m/m,low, , ,0.7%
+1,2014.06.24 15:00,CHF,3,Trade Balance,297,51995,Jun 24 2014,2:00am,CHF,Trade Balance,medium, ,2.77B,2.77B
+1,2014.06.24 17:00,EUR,5,German Ifo Business Climate,298,53220,Jun 24 2014,4:00am,EUR,German Ifo Business Climate,high,110.4,110.3, 
+1,2014.06.24 17:30,GBP,5,Inflation Report Hearings,299,50213,Jun 24 2014,4:30am,GBP,Inflation Report Hearings,high, , , 
+1,2014.06.24 17:30,GBP,3,BBA Mortgage Approvals,300,51796,Jun 24 2014,4:30am,GBP,BBA Mortgage Approvals,medium, ,41.3K, 
+1,2014.06.24 21:05,USD,3,FOMC Member Plosser Speaks,301,54239,Jun 24 2014,8:05am,USD,FOMC Member Plosser Speaks,medium, , , 
+1,2014.06.24 22:00,EUR,1,Belgian NBB Business Climate,302,52752,Jun 24 2014,9:00am,EUR,Belgian NBB Business Climate,low,-6.8,-4.1, 
+1,2014.06.24 22:00,USD,3,/CS Composite-20 HPI y/y,303,52817,Jun 24 2014,9:00am,USD,/CS Composite-20 HPI y/y,medium,12.4%,11.7%, 
+1,2014.06.24 22:03,USD,1,HPI m/m,304,52805,Jun 24 2014,9:03am,USD,HPI m/m,low,0.7%,0.6%, 
+1,2014.06.24 22:59,USD,1,Richmond Manufacturing Index,305,53314,Jun 24 2014,9:59am,USD,Richmond Manufacturing Index,low,7,6, 
+1,2014.06.24 23:00,USD,5,CB Consumer Confidence,306,49760,Jun 24 2014,10:00am,USD,CB Consumer Confidence,high, ,83.6, 
+1,2014.06.24 23:00,USD,5,New Home Sales,307,52701,Jun 24 2014,10:00am,USD,New Home Sales,high, ,442K, 
+1,2014.06.24 23:00,USD,1,Treasury Sec Lew Speaks,308,54240,Jun 24 2014,10:00am,USD,Treasury Sec Lew Speaks,low, , , 
+1,2014.06.25 08:50,JPY,1,SPPI y/y,309,51327,Jun 24 2014,7:50pm,JPY,SPPI y/y,low,3.4%,3.2%, 
+1,2014.06.25 12:00,AUD,3,RBA Deputy Gov Lowe Speaks,310,54241,Jun 24 2014,11:00pm,AUD,RBA Deputy Gov Lowe Speaks,medium, , , 
+1,2014.06.25 15:00,CHF,1,UBS Consumption Indicator,311,51999,Jun 25 2014,2:00am,CHF,UBS Consumption Indicator,low, , ,1.77
+1,2014.06.25 15:00,EUR,3,GfK German Consumer Climate,312,53232,Jun 25 2014,2:00am,EUR,GfK German Consumer Climate,medium, ,8.6, 
+1,2014.06.25 17:00,EUR,1,Italian Retail Sales m/m,313,53255,Jun 25 2014,4:00am,EUR,Italian Retail Sales m/m,low,-0.2%,0.2%, 
+1,2014.06.25 19:00,GBP,3,CBI Realized Sales,314,51907,Jun 25 2014,6:00am,GBP,CBI Realized Sales,medium,16,25, 
+1,2014.06.25 21:30,USD,5,Core Durable Goods Orders m/m,315,52871,Jun 25 2014,8:30am,USD,Core Durable Goods Orders m/m,high, ,0.3%, 
+1,2014.06.25 21:30,USD,5,Final GDP q/q,316,52548,Jun 25 2014,8:30am,USD,Final GDP q/q,high,-1.0%,-1.8%, 
+1,2014.06.25 21:30,USD,3,Durable Goods Orders m/m,317,52870,Jun 25 2014,8:30am,USD,Durable Goods Orders m/m,medium, ,-0.1%, 
+1,2014.06.25 21:30,USD,1,Final GDP Price Index q/q,318,52549,Jun 25 2014,8:30am,USD,Final GDP Price Index q/q,low,1.3%,1.3%,1.3%
+1,2014.06.25 22:00,CHF,1,SNB Quarterly Bulletin,319,49972,Jun 25 2014,9:00am,CHF,SNB Quarterly Bulletin,low, , , 
+1,2014.06.25 22:45,USD,1,Flash Services PMI,320,53472,Jun 25 2014,9:45am,USD,Flash Services PMI,low, ,58.6, 
+1,2014.06.25 23:30,USD,3,Crude Oil Inventories,321,49604,Jun 25 2014,10:30am,USD,Crude Oil Inventories,medium,-0.6M,-1.2M,1.7M
+1,2014.06.26 17:30,GBP,3,FPC Statement,322,57072,Jun 26 2014,4:30am,GBP,FPC Statement,medium, , , 
+0,,EUR,3,EU Economic Summit,323,54244,Jun 26 2014,Day 1,EUR,EU Economic Summit,medium, , , 
+1,2014.06.26 18:30,GBP,5,BOE Gov Carney Speaks,324,54242,Jun 26 2014,5:30am,GBP,BOE Gov Carney Speaks,high, , , 
+1,2014.06.26 18:30,GBP,3,BOE Financial Stability Report,325,50209,Jun 26 2014,5:30am,GBP,BOE Financial Stability Report,medium, , , 
+1,2014.06.26 21:30,USD,5,Unemployment Claims,326,49506,Jun 26 2014,8:30am,USD,Unemployment Claims,high, ,314K,312K
+1,2014.06.26 21:30,USD,3,Core PCE Price Index m/m,327,52551,Jun 26 2014,8:30am,USD,Core PCE Price Index m/m,medium,0.2%,0.2%,0.2%
+1,2014.06.26 21:30,USD,3,Personal Spending m/m,328,52552,Jun 26 2014,8:30am,USD,Personal Spending m/m,medium, ,0.4%, 
+1,2014.06.26 21:30,USD,1,Personal Income m/m,329,52550,Jun 26 2014,8:30am,USD,Personal Income m/m,low,0.3%,0.5%, 
+1,2014.06.26 23:30,USD,1,Natural Gas Storage,330,49553,Jun 26 2014,10:30am,USD,Natural Gas Storage,low,113B,101B,110B
+1,2014.06.27 07:45,NZD,5,Trade Balance,331,50940,Jun 26 2014,6:45pm,NZD,Trade Balance,high, ,250M, 
+1,2014.06.27 08:05,GBP,1,GfK Consumer Confidence,332,51889,Jun 26 2014,7:05pm,GBP,GfK Consumer Confidence,low,0,2, 
+1,2014.06.27 08:30,JPY,3,Household Spending y/y,333,51150,Jun 26 2014,7:30pm,JPY,Household Spending y/y,medium,-4.6%,-1.9%, 
+1,2014.06.27 08:30,JPY,3,Tokyo Core CPI y/y,334,51287,Jun 26 2014,7:30pm,JPY,Tokyo Core CPI y/y,medium,2.8%,2.8%,2.8%
+1,2014.06.27 08:30,JPY,1,National Core CPI y/y,335,51306,Jun 26 2014,7:30pm,JPY,National Core CPI y/y,low,3.2%,3.4%,3.4%
+1,2014.06.27 08:30,JPY,1,Unemployment Rate,336,51278,Jun 26 2014,7:30pm,JPY,Unemployment Rate,low,3.6%,3.6%, 
+1,2014.06.27 08:50,JPY,3,Retail Sales y/y,337,51211,Jun 26 2014,7:50pm,JPY,Retail Sales y/y,medium, ,-1.9%, 
+1,2014.06.27 15:00,EUR,1,German Import Prices m/m,338,53090,Jun 27 2014,2:00am,EUR,German Import Prices m/m,low,-0.3%,0.2%, 
+0,,EUR,5,German Prelim CPI m/m,339,53326,Jun 27 2014,All Day,EUR,German Prelim CPI m/m,high,-0.1%,0.2%, 
+1,2014.06.27 15:45,EUR,3,French Consumer Spending m/m,340,52266,Jun 27 2014,2:45am,EUR,French Consumer Spending m/m,medium, ,0.3%, 
+1,2014.06.27 16:00,CHF,3,KOF Economic Barometer,341,51975,Jun 27 2014,3:00am,CHF,KOF Economic Barometer,medium, ,100.2, 
+1,2014.06.27 16:00,EUR,3,Spanish Flash CPI y/y,342,54181,Jun 27 2014,3:00am,EUR,Spanish Flash CPI y/y,medium,0.2%,0.3%, 
+1,2014.06.27 17:30,GBP,5,Current Account,343,51552,Jun 27 2014,4:30am,GBP,Current Account,high, ,-17.1B, 
+1,2014.06.27 17:30,GBP,3,Final GDP q/q,344,51560,Jun 27 2014,4:30am,GBP,Final GDP q/q,medium,0.8%,0.8%,0.8%
+1,2014.06.27 17:30,GBP,1,Index of Services 3m/3m,345,51572,Jun 27 2014,4:30am,GBP,Index of Services 3m/3m,low, ,0.9%,0.9%
+1,2014.06.27 17:30,GBP,1,Revised Business Investment q/q,346,51630,Jun 27 2014,4:30am,GBP,Revised Business Investment q/q,low,2.7%,2.7%, 
+0,,EUR,3,EU Economic Summit,347,54245,Jun 27 2014,Day 2,EUR,EU Economic Summit,medium, , , 
+1,2014.06.27 18:21,EUR,1,Italian 10-y Bond Auction,348,52354,Jun 27 2014,5:21am,EUR,Italian 10-y Bond Auction,low,3.01|1.3, ,2.81|1.4
+1,2014.06.27 21:30,CAD,3,RMPI m/m,349,53588,Jun 27 2014,8:30am,CAD,RMPI m/m,medium,0.1%,1.3%, 
+1,2014.06.27 21:30,CAD,1,IPPI m/m,350,53590,Jun 27 2014,8:30am,CAD,IPPI m/m,low,-0.2%,0.4%, 
+1,2014.06.27 22:55,USD,3,Revised UoM Consumer Sentiment,351,49728,Jun 27 2014,9:55am,USD,Revised UoM Consumer Sentiment,medium,81.2,82.2,82.5
+1,2014.06.27 22:55,USD,1,Revised UoM Inflation Expectations,352,49730,Jun 27 2014,9:55am,USD,Revised UoM Inflation Expectations,low,3.0%, ,3.1%
+1,2014.06.30 07:45,NZD,3,Building Consents m/m,354,51049,Jun 29 2014,6:45pm,NZD,Building Consents m/m,medium, , ,-4.6%
+1,2014.06.30 08:50,JPY,3,Prelim Industrial Production m/m,355,51222,Jun 29 2014,7:50pm,JPY,Prelim Industrial Production m/m,medium, ,0.9%, 
+1,2014.06.30 09:30,AUD,1,MI Inflation Gauge m/m,356,50701,Jun 29 2014,8:30pm,AUD,MI Inflation Gauge m/m,low,0.3%, ,0.0%
+1,2014.06.30 10:00,AUD,3,HIA New Home Sales m/m,357,50766,Jun 29 2014,9:00pm,AUD,HIA New Home Sales m/m,medium,2.9%, ,-4.3%
+1,2014.06.30 10:00,NZD,5,ANZ Business Confidence,358,51085,Jun 29 2014,9:00pm,NZD,ANZ Business Confidence,high,53.5, ,42.8
+1,2014.06.30 10:30,AUD,1,Private Sector Credit m/m,359,50656,Jun 29 2014,9:30pm,AUD,Private Sector Credit m/m,low, ,0.4%,0.4%
+1,2014.06.30 14:00,JPY,1,Housing Starts y/y,360,51398,Jun 30 2014,1:00am,JPY,Housing Starts y/y,low,-3.3%,-10.1%, 
+1,2014.06.30 15:00,EUR,3,German Retail Sales m/m,361,53102,Jun 30 2014,2:00am,EUR,German Retail Sales m/m,medium, ,0.8%, 
+1,2014.06.30 17:00,EUR,3,M3 Money Supply y/y,362,53730,Jun 30 2014,4:00am,EUR,M3 Money Supply y/y,medium, ,0.7%, 
+1,2014.06.30 17:00,EUR,3,Private Loans y/y,363,53732,Jun 30 2014,4:00am,EUR,Private Loans y/y,medium,-1.8%,-1.7%, 
+1,2014.06.30 17:30,GBP,3,Net Lending to Individuals m/m,364,51607,Jun 30 2014,4:30am,GBP,Net Lending to Individuals m/m,medium,2.4B,2.5B, 
+1,2014.06.30 17:30,GBP,1,M4 Money Supply m/m,365,51829,Jun 30 2014,4:30am,GBP,M4 Money Supply m/m,low,-0.2%,0.2%, 
+1,2014.06.30 17:30,GBP,1,Mortgage Approvals,366,51825,Jun 30 2014,4:30am,GBP,Mortgage Approvals,low,63K,62K,62K
+1,2014.06.30 18:00,EUR,5,CPI Flash Estimate y/y,367,52155,Jun 30 2014,5:00am,EUR,CPI Flash Estimate y/y,high,0.5%,0.6%, 
+1,2014.06.30 18:00,EUR,3,Core CPI Flash Estimate y/y,368,54120,Jun 30 2014,5:00am,EUR,Core CPI Flash Estimate y/y,medium,0.7%,0.7%, 
+1,2014.06.30 18:00,EUR,1,Italian Prelim CPI m/m,369,53256,Jun 30 2014,5:00am,EUR,Italian Prelim CPI m/m,low,-0.1%,0.2%, 
+1,2014.06.30 21:30,CAD,5,GDP m/m,370,53564,Jun 30 2014,8:30am,CAD,GDP m/m,high,0.1%,0.2%, 
+1,2014.06.30 22:45,USD,3,Chicago PMI,371,49700,Jun 30 2014,9:45am,USD,Chicago PMI,medium,65.5,63.2, 
+1,2014.06.30 23:00,USD,5,Pending Home Sales m/m,372,52650,Jun 30 2014,10:00am,USD,Pending Home Sales m/m,high, ,1.4%, 
+1,2014.07.01 08:29,AUD,1,AIG Manufacturing Index,373,50389,Jun 30 2014,7:29pm,AUD,AIG Manufacturing Index,low,49.2, ,48.9
+1,2014.07.01 08:50,JPY,3,Tankan Manufacturing Index,374,51348,Jun 30 2014,7:50pm,JPY,Tankan Manufacturing Index,medium,17,16, 
+1,2014.07.01 08:50,JPY,3,Tankan Non-Manufacturing Index,375,51351,Jun 30 2014,7:50pm,JPY,Tankan Non-Manufacturing Index,medium,24,19,19
+1,2014.07.01 09:59,CNY,5,Manufacturing PMI,376,50484,Jun 30 2014,8:59pm,CNY,Manufacturing PMI,high,50.8,51.0,51.0
+1,2014.07.01 10:30,JPY,3,Average Cash Earnings y/y,377,51315,Jun 30 2014,9:30pm,JPY,Average Cash Earnings y/y,medium, ,0.8%,0.8%
+1,2014.07.01 10:35,JPY,1,Final Manufacturing PMI,378,51362,Jun 30 2014,9:35pm,JPY,Final Manufacturing PMI,low,51.1,51.2,51.5
+1,2014.07.01 10:45,CNY,5,HSBC Final Manufacturing PMI,379,50467,Jun 30 2014,9:45pm,CNY,HSBC Final Manufacturing PMI,high,50.8,50.8,50.7

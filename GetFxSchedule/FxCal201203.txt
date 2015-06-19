@@ -1,0 +1,400 @@
+1,2012.03.01 14:30,AUD,1,Commodity Prices y/y,0,39182,Mar 1 2012,1:30am,AUD,Commodity Prices y/y,low, , ,3.5%
+1,2012.03.01 15:45,CHF,3,GDP q/q,1,39292,Mar 1 2012,2:45am,CHF,GDP q/q,medium, ,-0.1%, 
+1,2012.03.01 16:00,GBP,3,Nationwide HPI m/m,2,40582,Mar 1 2012,3:00am,GBP,Nationwide HPI m/m,medium, ,0.3%, 
+1,2012.03.01 17:15,EUR,3,Spanish Manufacturing PMI,3,43851,Mar 1 2012,4:15am,EUR,Spanish Manufacturing PMI,medium,45.1, ,45.0
+1,2012.03.01 17:30,CHF,3,Manufacturing PMI,4,38497,Mar 1 2012,4:30am,CHF,Manufacturing PMI,medium,47.3,48.6, 
+1,2012.03.01 17:45,EUR,3,Italian Manufacturing PMI,5,43505,Mar 1 2012,4:45am,EUR,Italian Manufacturing PMI,medium,46.8,47.2, 
+1,2012.03.01 17:50,EUR,1,French Final Manufacturing PMI,6,58946,Mar 1 2012,4:50am,EUR,French Final Manufacturing PMI,low,50.2,50.3,50.0
+1,2012.03.01 17:55,EUR,1,German Final Manufacturing PMI,7,59004,Mar 1 2012,4:55am,EUR,German Final Manufacturing PMI,low,50.1,50.1,50.2
+1,2012.03.01 18:00,EUR,3,Final Manufacturing PMI,8,38496,Mar 1 2012,5:00am,EUR,Final Manufacturing PMI,medium,49.0,49.0,49.0
+1,2012.03.01 18:00,EUR,1,Italian Monthly Unemployment Rate,9,40830,Mar 1 2012,5:00am,EUR,Italian Monthly Unemployment Rate,low,8.9%,8.9%, 
+0,,EUR,3,EU Economic Summit,10,42981,Mar 1 2012,Day 1,EUR,EU Economic Summit,medium, , , 
+1,2012.03.01 18:30,GBP,5,Manufacturing PMI,11,38536,Mar 1 2012,5:30am,GBP,Manufacturing PMI,high, ,51.9, 
+1,2012.03.01 18:59,EUR,3,French 10-y Bond Auction,12,42402,Mar 1 2012,5:59am,EUR,French 10-y Bond Auction,medium,3.13|1.7, ,2.91|2.2
+1,2012.03.01 19:00,EUR,3,CPI Flash Estimate y/y,13,41376,Mar 1 2012,6:00am,EUR,CPI Flash Estimate y/y,medium, ,2.6%, 
+1,2012.03.01 19:00,EUR,3,Unemployment Rate,14,41442,Mar 1 2012,6:00am,EUR,Unemployment Rate,medium, ,10.4%, 
+1,2012.03.01 19:00,EUR,1,Italian Prelim CPI m/m,15,40828,Mar 1 2012,6:00am,EUR,Italian Prelim CPI m/m,low,0.3%,0.2%, 
+1,2012.03.01 19:00,GBP,3,MPC Member Miles Speaks,16,42984,Mar 1 2012,6:00am,GBP,MPC Member Miles Speaks,medium, , , 
+1,2012.03.01 19:35,GBP,3,10-y Bond Auction,17,42471,Mar 1 2012,6:35am,GBP,10-y Bond Auction,medium,2.09|2.2, ,2.18|2.1
+1,2012.03.01 22:00,USD,3,FOMC Member Pianalto Speaks,18,42985,Mar 1 2012,9:00am,USD,FOMC Member Pianalto Speaks,medium, , , 
+1,2012.03.01 22:30,CAD,3,Current Account,19,41958,Mar 1 2012,9:30am,CAD,Current Account,medium, ,-9.4B, 
+1,2012.03.01 22:30,CAD,3,RMPI m/m,20,41967,Mar 1 2012,9:30am,CAD,RMPI m/m,medium, ,0.3%, 
+1,2012.03.01 22:30,CAD,1,IPPI m/m,21,41966,Mar 1 2012,9:30am,CAD,IPPI m/m,low, ,0.4%, 
+1,2012.03.01 22:30,USD,5,Unemployment Claims,22,39808,Mar 1 2012,9:30am,USD,Unemployment Claims,high, ,350K,351K
+1,2012.03.01 22:30,USD,3,Core PCE Price Index m/m,23,40898,Mar 1 2012,9:30am,USD,Core PCE Price Index m/m,medium, ,0.2%,0.2%
+1,2012.03.01 22:30,USD,3,Personal Spending m/m,24,40896,Mar 1 2012,9:30am,USD,Personal Spending m/m,medium,0.0%,0.4%, 
+1,2012.03.01 22:30,USD,1,Personal Income m/m,25,40897,Mar 1 2012,9:30am,USD,Personal Income m/m,low,0.5%,0.5%, 
+1,2012.03.02 00:00,USD,5,Fed Chairman Bernanke Testifies,26,42517,Mar 1 2012,11:00am,USD,Fed Chairman Bernanke Testifies,high, , , 
+1,2012.03.02 00:00,USD,5,ISM Manufacturing PMI,27,38472,Mar 1 2012,11:00am,USD,ISM Manufacturing PMI,high,54.1,54.6, 
+1,2012.03.02 00:00,USD,1,Construction Spending m/m,28,40357,Mar 1 2012,11:00am,USD,Construction Spending m/m,low, ,1.1%, 
+1,2012.03.02 00:00,USD,1,ISM Manufacturing Prices,29,38473,Mar 1 2012,11:00am,USD,ISM Manufacturing Prices,low,55.5,57.6, 
+1,2012.03.02 00:30,USD,3,FOMC Member Raskin Speaks,30,42971,Mar 1 2012,11:30am,USD,FOMC Member Raskin Speaks,medium, , , 
+1,2012.03.02 00:30,USD,1,Natural Gas Storage,31,39756,Mar 1 2012,11:30am,USD,Natural Gas Storage,low,-166B,-89B,-82B
+0,,USD,1,Total Vehicle Sales,32,39949,Mar 1 2012,All Day,USD,Total Vehicle Sales,low,14.2M,14.0M, 
+1,2012.03.02 02:30,USD,3,FOMC Member Lockhart Speaks,33,42972,Mar 1 2012,1:30pm,USD,FOMC Member Lockhart Speaks,medium, , , 
+1,2012.03.02 08:30,JPY,3,Household Spending y/y,34,38701,Mar 1 2012,7:30pm,JPY,Household Spending y/y,medium,0.5%,-0.7%, 
+1,2012.03.02 08:30,JPY,3,Tokyo Core CPI y/y,35,38724,Mar 1 2012,7:30pm,JPY,Tokyo Core CPI y/y,medium,-0.4%,-0.4%, 
+1,2012.03.02 08:30,JPY,1,National Core CPI y/y,36,38723,Mar 1 2012,7:30pm,JPY,National Core CPI y/y,low,-0.1%,-0.2%, 
+1,2012.03.02 08:30,JPY,1,Unemployment Rate,37,38700,Mar 1 2012,7:30pm,JPY,Unemployment Rate,low,4.6%,4.5%, 
+1,2012.03.02 08:50,JPY,1,Monetary Base y/y,38,39150,Mar 1 2012,7:50pm,JPY,Monetary Base y/y,low,15.0%,15.6%, 
+1,2012.03.02 09:00,NZD,1,ANZ Commodity Prices m/m,39,40069,Mar 1 2012,8:00pm,NZD,ANZ Commodity Prices m/m,low, , ,0.0%
+1,2012.03.02 16:00,EUR,3,German Retail Sales m/m,40,39357,Mar 2 2012,3:00am,EUR,German Retail Sales m/m,medium, ,0.5%, 
+1,2012.03.02 17:00,EUR,3,Spanish Unemployment Change,41,44030,Mar 2 2012,4:00am,EUR,Spanish Unemployment Change,medium,177.5K, ,112.3K
+0,,EUR,3,EU Economic Summit,42,42982,Mar 2 2012,Day 2,EUR,EU Economic Summit,medium, , , 
+1,2012.03.02 18:30,GBP,5,Construction PMI,43,38535,Mar 2 2012,5:30am,GBP,Construction PMI,high,51.4,51.3, 
+1,2012.03.02 19:00,EUR,1,PPI m/m,44,41272,Mar 2 2012,6:00am,EUR,PPI m/m,low,-0.2%,0.6%, 
+1,2012.03.02 22:30,CAD,5,GDP m/m,45,41940,Mar 2 2012,9:30am,CAD,GDP m/m,high,-0.1%,0.3%, 
+1,2012.03.03 10:00,CNY,1,Non-Manufacturing PMI,46,42254,Mar 2 2012,9:00pm,CNY,Non-Manufacturing PMI,low,52.9, ,48.4
+1,2012.03.05 06:48,NZD,1,Visitor Arrivals m/m,48,40046,Mar 4 2012,5:48pm,NZD,Visitor Arrivals m/m,low, , ,-2.3%
+1,2012.03.05 07:22,AUD,3,AIG Services Index,49,38427,Mar 4 2012,6:22pm,AUD,AIG Services Index,medium,51.9, ,46.7
+1,2012.03.05 08:30,AUD,1,MI Inflation Gauge m/m,50,39230,Mar 4 2012,7:30pm,AUD,MI Inflation Gauge m/m,low,0.2%, ,0.1%
+1,2012.03.05 09:30,AUD,5,ANZ Job Advertisements m/m,51,39507,Mar 4 2012,8:30pm,AUD,ANZ Job Advertisements m/m,high, , ,3.3%
+1,2012.03.05 09:30,AUD,3,Company Operating Profits q/q,52,39457,Mar 4 2012,8:30pm,AUD,Company Operating Profits q/q,medium, ,0.2%, 
+1,2012.03.05 11:30,CNY,1,HSBC Services PMI,53,54024,Mar 4 2012,10:30pm,CNY,HSBC Services PMI,low,52.5, ,53.9
+1,2012.03.05 17:15,CHF,5,Retail Sales y/y,54,39281,Mar 5 2012,4:15am,CHF,Retail Sales y/y,high, ,2.0%, 
+1,2012.03.05 17:15,EUR,1,Spanish Services PMI,55,43947,Mar 5 2012,4:15am,EUR,Spanish Services PMI,low,46.1, ,41.9
+1,2012.03.05 17:45,EUR,1,Italian Services PMI,56,43565,Mar 5 2012,4:45am,EUR,Italian Services PMI,low,44.8,45.3, 
+1,2012.03.05 17:50,EUR,1,French Final Services PMI,57,59178,Mar 5 2012,4:50am,EUR,French Final Services PMI,low,50.3,50.3,50.0
+1,2012.03.05 17:55,EUR,1,German Final Services PMI,58,59190,Mar 5 2012,4:55am,EUR,German Final Services PMI,low,52.6,52.6,52.8
+1,2012.03.05 18:00,EUR,3,Final Services PMI,59,38518,Mar 5 2012,5:00am,EUR,Final Services PMI,medium,49.4,49.5, 
+1,2012.03.05 18:30,EUR,3,Sentix Investor Confidence,60,39858,Mar 5 2012,5:30am,EUR,Sentix Investor Confidence,medium,-11.1,-5.4, 
+1,2012.03.05 18:30,GBP,5,Services PMI,61,38534,Mar 5 2012,5:30am,GBP,Services PMI,high,56.0,55.0, 
+1,2012.03.05 19:00,EUR,3,Retail Sales m/m,62,41284,Mar 5 2012,6:00am,EUR,Retail Sales m/m,medium, ,0.0%, 
+1,2012.03.06 00:00,USD,5,ISM Non-Manufacturing PMI,63,38458,Mar 5 2012,11:00am,USD,ISM Non-Manufacturing PMI,high,56.8,56.1, 
+1,2012.03.06 00:00,USD,3,Factory Orders m/m,64,41060,Mar 5 2012,11:00am,USD,Factory Orders m/m,medium, ,-1.3%, 
+1,2012.03.06 09:00,GBP,3,BRC Retail Sales Monitor y/y,65,40194,Mar 5 2012,8:00pm,GBP,BRC Retail Sales Monitor y/y,medium,-0.3%, ,-0.3%
+1,2012.03.06 09:30,AUD,3,Current Account,66,39453,Mar 5 2012,8:30pm,AUD,Current Account,medium, ,-8.0B, 
+1,2012.03.06 10:30,JPY,3,Average Cash Earnings y/y,67,39001,Mar 5 2012,9:30pm,JPY,Average Cash Earnings y/y,medium, ,-0.3%, 
+1,2012.03.06 12:30,AUD,5,Cash Rate,68,38351,Mar 5 2012,11:30pm,AUD,Cash Rate,high,4.25%,4.25%,4.25%
+1,2012.03.06 12:30,AUD,5,RBA Rate Statement,69,38352,Mar 5 2012,11:30pm,AUD,RBA Rate Statement,high, , , 
+1,2012.03.06 12:45,JPY,1,30-y Bond Auction,70,49090,Mar 5 2012,11:45pm,JPY,30-y Bond Auction,low,1.92|3.5, ,1.96|4.0
+1,2012.03.06 17:00,GBP,5,Halifax HPI m/m,71,39916,Mar 6 2012,4:00am,GBP,Halifax HPI m/m,high,0.6%,0.3%, 
+1,2012.03.06 19:00,EUR,1,Revised GDP q/q,72,41260,Mar 6 2012,6:00am,EUR,Revised GDP q/q,low,-0.3%,-0.3%,-0.3%
+1,2012.03.06 22:30,NZD,1,GDT Price Index,73,56270,Mar 6 2012,9:30am,NZD,GDT Price Index,low,-3.7%, ,-0.4%
+1,2012.03.07 00:00,CAD,5,Ivey PMI,74,40168,Mar 6 2012,11:00am,CAD,Ivey PMI,high,64.1,62.1, 
+1,2012.03.07 06:30,AUD,3,RBA Deputy Gov Lowe Speaks,75,43034,Mar 6 2012,5:30pm,AUD,RBA Deputy Gov Lowe Speaks,medium, , , 
+1,2012.03.07 07:22,AUD,1,AIG Construction Index,76,38428,Mar 6 2012,6:22pm,AUD,AIG Construction Index,low,39.8, ,35.6
+1,2012.03.07 09:00,GBP,1,BRC Shop Price Index y/y,77,40193,Mar 6 2012,8:00pm,GBP,BRC Shop Price Index y/y,low,1.4%, ,1.2%
+1,2012.03.07 09:30,AUD,5,GDP q/q,78,39461,Mar 6 2012,8:30pm,AUD,GDP q/q,high, ,0.7%, 
+1,2012.03.07 14:00,JPY,1,Leading Indicators,79,38964,Mar 7 2012,1:00am,JPY,Leading Indicators,low, ,95.1%,94.9%
+1,2012.03.07 15:45,CHF,1,Unemployment Rate,80,39330,Mar 7 2012,2:45am,CHF,Unemployment Rate,low,3.1%,3.1%,3.1%
+1,2012.03.07 17:00,CHF,5,Foreign Currency Reserves,81,42069,Mar 7 2012,4:00am,CHF,Foreign Currency Reserves,high, , ,224.9B
+1,2012.03.07 20:00,EUR,3,German Factory Orders m/m,82,40753,Mar 7 2012,7:00am,EUR,German Factory Orders m/m,medium, ,0.6%, 
+1,2012.03.07 22:15,USD,5,ADP Non-Farm Employment Change,83,38327,Mar 7 2012,9:15am,USD,ADP Non-Farm Employment Change,high, ,204K, 
+1,2012.03.07 22:30,CAD,5,Building Permits m/m,84,41845,Mar 7 2012,9:30am,CAD,Building Permits m/m,high, ,-3.1%, 
+1,2012.03.07 22:30,USD,3,Revised Nonfarm Productivity q/q,85,41028,Mar 7 2012,9:30am,USD,Revised Nonfarm Productivity q/q,medium,0.7%,0.8%,0.9%
+1,2012.03.07 22:30,USD,1,Revised Unit Labor Costs q/q,86,41029,Mar 7 2012,9:30am,USD,Revised Unit Labor Costs q/q,low,1.2%,1.2%, 
+1,2012.03.08 00:30,USD,3,Crude Oil Inventories,87,41605,Mar 7 2012,11:30am,USD,Crude Oil Inventories,medium,4.2M,1.0M,0.8M
+1,2012.03.08 05:00,NZD,5,Official Cash Rate,88,38807,Mar 7 2012,4:00pm,NZD,Official Cash Rate,high,2.50%,2.50%,2.50%
+1,2012.03.08 05:00,NZD,5,RBNZ Press Conference,89,40126,Mar 7 2012,4:00pm,NZD,RBNZ Press Conference,high, , , 
+1,2012.03.08 05:00,NZD,5,RBNZ Rate Statement,90,38808,Mar 7 2012,4:00pm,NZD,RBNZ Rate Statement,high, , , 
+1,2012.03.08 05:00,NZD,3,RBNZ Monetary Policy Statement,91,40122,Mar 7 2012,4:00pm,NZD,RBNZ Monetary Policy Statement,medium, , , 
+1,2012.03.08 05:00,USD,1,Consumer Credit m/m,92,41148,Mar 7 2012,4:00pm,USD,Consumer Credit m/m,low, ,10.0B, 
+1,2012.03.08 06:45,NZD,1,Manufacturing Sales q/q,93,40039,Mar 7 2012,5:45pm,NZD,Manufacturing Sales q/q,low, , ,1.2%
+1,2012.03.08 08:50,JPY,3,Final GDP q/q,94,38885,Mar 7 2012,7:50pm,JPY,Final GDP q/q,medium,-0.6%,-0.2%,-0.2%
+1,2012.03.08 08:50,JPY,1,Bank Lending y/y,95,38918,Mar 7 2012,7:50pm,JPY,Bank Lending y/y,low,0.6%, ,0.6%
+1,2012.03.08 08:50,JPY,1,Current Account,96,38916,Mar 7 2012,7:50pm,JPY,Current Account,low, ,0.33T, 
+1,2012.03.08 08:52,JPY,1,Final GDP Price Index y/y,97,38884,Mar 7 2012,7:52pm,JPY,Final GDP Price Index y/y,low,-1.6%,-1.6%, 
+1,2012.03.08 09:30,AUD,5,Employment Change,98,39522,Mar 7 2012,8:30pm,AUD,Employment Change,high, ,5.1K, 
+1,2012.03.08 09:30,AUD,5,Unemployment Rate,99,39521,Mar 7 2012,8:30pm,AUD,Unemployment Rate,high,5.1%,5.2%,5.2%
+1,2012.03.08 14:00,JPY,1,Economy Watchers Sentiment,100,39110,Mar 8 2012,1:00am,JPY,Economy Watchers Sentiment,low,44.1,46.3, 
+1,2012.03.08 15:00,JPY,1,Prelim Machine Tool Orders y/y,101,39061,Mar 8 2012,2:00am,JPY,Prelim Machine Tool Orders y/y,low, , ,-8.6%
+1,2012.03.08 15:30,EUR,1,French Final Non-Farm Payrolls q/q,102,40298,Mar 8 2012,2:30am,EUR,French Final Non-Farm Payrolls q/q,low,-0.2%,-0.1%,-0.1%
+1,2012.03.08 16:45,EUR,1,French Trade Balance,103,39397,Mar 8 2012,3:45am,EUR,French Trade Balance,low, ,-5.2B,-5.3B
+1,2012.03.08 17:15,CHF,5,CPI m/m,104,39260,Mar 8 2012,4:15am,CHF,CPI m/m,high,-0.4%,0.2%, 
+1,2012.03.08 20:00,EUR,3,German Industrial Production m/m,105,40754,Mar 8 2012,7:00am,EUR,German Industrial Production m/m,medium, ,1.1%, 
+1,2012.03.08 21:00,GBP,5,Asset Purchase Facility,106,38758,Mar 8 2012,8:00am,GBP,Asset Purchase Facility,high,325B,325B,325B
+1,2012.03.08 21:00,GBP,5,Official Bank Rate,107,38754,Mar 8 2012,8:00am,GBP,Official Bank Rate,high,0.50%,0.50%,0.50%
+1,2012.03.08 21:30,USD,1,Challenger Job Cuts y/y,108,38328,Mar 8 2012,8:30am,USD,Challenger Job Cuts y/y,low,38.9%, ,2.0%
+1,2012.03.08 21:45,EUR,5,Minimum Bid Rate,109,38760,Mar 8 2012,8:45am,EUR,Minimum Bid Rate,high,1.00%,1.00%,1.00%
+1,2012.03.08 22:15,CAD,3,Housing Starts,110,41693,Mar 8 2012,9:15am,CAD,Housing Starts,medium,198K,199K,201K
+1,2012.03.08 22:30,CAD,3,NHPI m/m,111,41882,Mar 8 2012,9:30am,CAD,NHPI m/m,medium,0.1%,0.2%, 
+1,2012.03.08 22:30,EUR,5,ECB Press Conference,112,38763,Mar 8 2012,9:30am,EUR,ECB Press Conference,high, , , 
+1,2012.03.08 22:30,USD,5,Unemployment Claims,113,39809,Mar 8 2012,9:30am,USD,Unemployment Claims,high, ,352K, 
+1,2012.03.08 23:00,CAD,5,BOC Rate Statement,114,38391,Mar 8 2012,10:00am,CAD,BOC Rate Statement,high, , , 
+1,2012.03.08 23:00,CAD,5,Overnight Rate,115,38390,Mar 8 2012,10:00am,CAD,Overnight Rate,high,1.00%,1.00%,1.00%
+1,2012.03.09 00:30,USD,1,Natural Gas Storage,116,39757,Mar 8 2012,11:30am,USD,Natural Gas Storage,low,-82B,-85B,-80B
+1,2012.03.09 08:50,JPY,1,M2 Money Stock y/y,117,38917,Mar 8 2012,7:50pm,JPY,M2 Money Stock y/y,low, ,3.1%, 
+1,2012.03.09 09:30,AUD,5,Trade Balance,118,39486,Mar 8 2012,8:30pm,AUD,Trade Balance,high, ,1.52B, 
+1,2012.03.09 10:30,CNY,5,CPI y/y,119,39612,Mar 8 2012,9:30pm,CNY,CPI y/y,high,4.5%,3.5%, 
+1,2012.03.09 10:30,CNY,3,PPI y/y,120,39613,Mar 8 2012,9:30pm,CNY,PPI y/y,medium,0.7%,0.1%,0.0%
+1,2012.03.09 14:30,CNY,3,Fixed Asset Investment ytd/y,121,39610,Mar 9 2012,1:30am,CNY,Fixed Asset Investment ytd/y,medium,23.8%,19.8%, 
+1,2012.03.09 14:30,CNY,3,Industrial Production y/y,122,39607,Mar 9 2012,1:30am,CNY,Industrial Production y/y,medium,12.8%,12.4%, 
+1,2012.03.09 14:30,CNY,1,Retail Sales y/y,123,39611,Mar 9 2012,1:30am,CNY,Retail Sales y/y,low,18.1%,17.4%, 
+1,2012.03.09 16:00,EUR,1,German Final CPI m/m,124,40718,Mar 9 2012,3:00am,EUR,German Final CPI m/m,low,0.7%,0.7%,0.7%
+1,2012.03.09 16:00,EUR,1,German Trade Balance,125,42122,Mar 9 2012,3:00am,EUR,German Trade Balance,low,13.9B,13.8B,14.2B
+1,2012.03.09 16:45,EUR,3,French Industrial Production m/m,126,39418,Mar 9 2012,3:45am,EUR,French Industrial Production m/m,medium, ,0.6%, 
+1,2012.03.09 16:45,EUR,1,French Gov Budget Balance,127,39396,Mar 9 2012,3:45am,EUR,French Gov Budget Balance,low,-90.8B, ,-12.5B
+1,2012.03.09 17:00,CNY,3,New Loans,128,39672,Mar 9 2012,4:00am,CNY,New Loans,medium,738B,800B, 
+1,2012.03.09 17:00,CNY,1,M2 Money Supply y/y,129,39671,Mar 9 2012,4:00am,CNY,M2 Money Supply y/y,low,12.4%,12.7%, 
+1,2012.03.09 18:00,EUR,1,Italian Industrial Production m/m,130,40833,Mar 9 2012,5:00am,EUR,Italian Industrial Production m/m,low, ,-0.7%, 
+1,2012.03.09 18:30,GBP,5,Manufacturing Production m/m,131,40459,Mar 9 2012,5:30am,GBP,Manufacturing Production m/m,high, ,0.3%, 
+1,2012.03.09 18:30,GBP,5,PPI Input m/m,132,40229,Mar 9 2012,5:30am,GBP,PPI Input m/m,high, ,0.9%, 
+1,2012.03.09 18:30,GBP,3,Consumer Inflation Expectations,133,40614,Mar 9 2012,5:30am,GBP,Consumer Inflation Expectations,medium,4.1%, ,3.5%
+1,2012.03.09 18:30,GBP,1,Industrial Production m/m,134,40458,Mar 9 2012,5:30am,GBP,Industrial Production m/m,low, ,0.4%, 
+1,2012.03.09 18:30,GBP,1,PPI Output m/m,135,40230,Mar 9 2012,5:30am,GBP,PPI Output m/m,low, ,0.4%, 
+1,2012.03.09 21:00,CAD,5,Employment Change,136,41920,Mar 9 2012,8:00am,CAD,Employment Change,high,2.3K,14.2K, 
+1,2012.03.09 21:00,CAD,5,Unemployment Rate,137,41919,Mar 9 2012,8:00am,CAD,Unemployment Rate,high,7.6%,7.6%, 
+1,2012.03.09 22:30,CAD,5,Trade Balance,138,40873,Mar 9 2012,9:30am,CAD,Trade Balance,high, ,2.0B,2.1B
+1,2012.03.09 22:30,CAD,3,Labor Productivity q/q,139,41950,Mar 9 2012,9:30am,CAD,Labor Productivity q/q,medium, ,0.6%, 
+1,2012.03.09 22:30,USD,5,Non-Farm Employment Change,140,38283,Mar 9 2012,9:30am,USD,Non-Farm Employment Change,high, ,209K, 
+1,2012.03.09 22:30,USD,5,Trade Balance,141,40874,Mar 9 2012,9:30am,USD,Trade Balance,high, ,-48.9B, 
+1,2012.03.09 22:30,USD,5,Unemployment Rate,142,38282,Mar 9 2012,9:30am,USD,Unemployment Rate,high,8.3%,8.3%,8.3%
+1,2012.03.09 22:30,USD,3,Average Hourly Earnings m/m,143,38284,Mar 9 2012,9:30am,USD,Average Hourly Earnings m/m,medium, ,0.2%, 
+1,2012.03.10 00:00,GBP,3,NIESR GDP Estimate,144,40533,Mar 9 2012,11:00am,GBP,NIESR GDP Estimate,medium,-0.2%, ,0.1%
+1,2012.03.10 00:00,USD,1,Wholesale Inventories m/m,145,41160,Mar 9 2012,11:00am,USD,Wholesale Inventories m/m,low, ,0.7%, 
+1,2012.03.10 12:00,CNY,5,Trade Balance,146,39695,Mar 9 2012,11:00pm,CNY,Trade Balance,high,27.3B,-5.2B,-31.5B
+0,2012.03.11 16:00,CAD,0,Daylight Saving Time Shift,148,38266,Mar 11 2012,3:00am,CAD,Daylight Saving Time Shift,holiday, , , 
+0,2012.03.11 16:00,USD,0,Daylight Saving Time Shift,149,38267,Mar 11 2012,3:00am,USD,Daylight Saving Time Shift,holiday, , , 
+1,2012.03.12 08:50,JPY,3,Core Machinery Orders m/m,150,38951,Mar 11 2012,7:50pm,JPY,Core Machinery Orders m/m,medium,-7.1%,1.9%, 
+1,2012.03.12 08:50,JPY,1,PPI y/y,151,38978,Mar 11 2012,7:50pm,JPY,PPI y/y,low,0.5%,0.6%,0.6%
+1,2012.03.12 14:00,JPY,1,Consumer Confidence,152,39109,Mar 12 2012,1:00am,JPY,Consumer Confidence,low,40.0,40.8, 
+1,2012.03.12 16:00,EUR,1,German WPI m/m,153,39892,Mar 12 2012,3:00am,EUR,German WPI m/m,low,1.2%,1.1%,1.0%
+0,,EUR,3,Eurogroup Meetings,154,44089,Mar 12 2012,All Day,EUR,Eurogroup Meetings,medium, , , 
+1,2012.03.13 01:30,CAD,1,Gov Council Member Macklem Speaks,155,43232,Mar 12 2012,12:30pm,CAD,Gov Council Member Macklem Speaks,low, , , 
+1,2012.03.13 02:59,USD,3,Federal Budget Balance,156,39988,Mar 12 2012,1:59pm,USD,Federal Budget Balance,medium,-27.4B,-229.2B,-231.7B
+1,2012.03.13 06:00,NZD,3,REINZ HPI m/m,157,40138,Mar 12 2012,5:00pm,NZD,REINZ HPI m/m,medium,-1.4%, ,0.8%
+1,2012.03.13 06:45,NZD,1,FPI m/m,158,40082,Mar 12 2012,5:45pm,NZD,FPI m/m,low,0.0%, ,0.6%
+1,2012.03.13 08:50,JPY,3,Tertiary Industry Activity m/m,159,39002,Mar 12 2012,7:50pm,JPY,Tertiary Industry Activity m/m,medium, ,0.4%, 
+1,2012.03.13 09:01,GBP,3,RICS House Price Balance,160,40620,Mar 12 2012,8:01pm,GBP,RICS House Price Balance,medium,-16%,-14%, 
+1,2012.03.13 09:30,AUD,5,Home Loans m/m,161,39543,Mar 12 2012,8:30pm,AUD,Home Loans m/m,high, ,-0.5%, 
+1,2012.03.13 09:30,AUD,3,NAB Business Confidence,162,39242,Mar 12 2012,8:30pm,AUD,NAB Business Confidence,medium,4, ,1
+1,2012.03.13 14:07,JPY,5,Monetary Policy Statement,163,41478,Mar 13 2012,1:07am,JPY,Monetary Policy Statement,high, , , 
+1,2012.03.13 14:07,JPY,5,Overnight Call Rate,164,41477,Mar 13 2012,1:07am,JPY,Overnight Call Rate,high,0.10%,0.10%,0.10%
+1,2012.03.13 15:30,EUR,1,French CPI m/m,165,40775,Mar 13 2012,2:30am,EUR,French CPI m/m,low,-0.4%,0.4%,0.4%
+1,2012.03.13 16:19,JPY,5,BOJ Press Conference,166,41476,Mar 13 2012,3:19am,JPY,BOJ Press Conference,high, , , 
+1,2012.03.13 17:15,CHF,3,PPI m/m,167,39261,Mar 13 2012,4:15am,CHF,PPI m/m,medium,0.0%,0.4%, 
+1,2012.03.13 17:35,GBP,3,MPC Member Tucker Speaks,168,43240,Mar 13 2012,4:35am,GBP,MPC Member Tucker Speaks,medium, , , 
+0,,EUR,3,ECOFIN Meetings,169,43231,Mar 13 2012,All Day,EUR,ECOFIN Meetings,medium, , , 
+1,2012.03.13 18:30,GBP,3,Trade Balance,170,40227,Mar 13 2012,5:30am,GBP,Trade Balance,medium, ,-7.8B, 
+1,2012.03.13 18:30,GBP,1,HPI y/y,171,39917,Mar 13 2012,5:30am,GBP,HPI y/y,low,0.1%,0.2%,0.2%
+1,2012.03.13 19:00,EUR,5,German ZEW Economic Sentiment,172,39859,Mar 13 2012,6:00am,EUR,German ZEW Economic Sentiment,high,5.4,10.6, 
+1,2012.03.13 19:00,EUR,3,ZEW Economic Sentiment,173,39860,Mar 13 2012,6:00am,EUR,ZEW Economic Sentiment,medium,-8.1,3.8, 
+1,2012.03.13 19:00,GBP,1,CB Leading Index m/m,174,41731,Mar 13 2012,6:00am,GBP,CB Leading Index m/m,low,-0.5%, ,0.9%
+1,2012.03.13 20:30,EUR,5,ECB President Draghi Speaks,175,43238,Mar 13 2012,7:30am,EUR,ECB President Draghi Speaks,high, , , 
+1,2012.03.13 21:30,USD,5,Core Retail Sales m/m,176,40983,Mar 13 2012,8:30am,USD,Core Retail Sales m/m,high, ,0.8%, 
+1,2012.03.13 21:30,USD,5,Retail Sales m/m,177,40981,Mar 13 2012,8:30am,USD,Retail Sales m/m,high, ,1.1%,1.1%
+1,2012.03.13 21:30,USD,1,NFIB Small Business Index,178,48400,Mar 13 2012,8:30am,USD,NFIB Small Business Index,low,93.9,94.5,94.3
+1,2012.03.13 23:00,USD,3,Business Inventories m/m,179,41172,Mar 13 2012,10:00am,USD,Business Inventories m/m,medium, ,0.5%, 
+1,2012.03.13 23:00,USD,1,IBD/TIPP Economic Optimism,180,41236,Mar 13 2012,10:00am,USD,IBD/TIPP Economic Optimism,low,49.4,53.2, 
+1,2012.03.14 00:00,USD,1,JOLTS Job Openings,181,49332,Mar 13 2012,11:00am,USD,JOLTS Job Openings,low, , ,3.46M
+1,2012.03.14 02:00,USD,3,10-y Bond Auction,182,42335,Mar 13 2012,1:00pm,USD,10-y Bond Auction,medium,2.02|3.1, ,2.08|3.2
+1,2012.03.14 03:15,USD,5,FOMC Statement,183,38407,Mar 13 2012,2:15pm,USD,FOMC Statement,high, , , 
+1,2012.03.14 03:15,USD,3,Federal Funds Rate,184,38406,Mar 13 2012,2:15pm,USD,Federal Funds Rate,medium,0.25%,0.25%,0.25%
+1,2012.03.14 05:30,USD,5,Bank Stress Test Results,185,43239,Mar 13 2012,4:30pm,USD,Bank Stress Test Results,high, , , 
+1,2012.03.14 08:30,AUD,3,Westpac Consumer Sentiment,186,39199,Mar 13 2012,7:30pm,AUD,Westpac Consumer Sentiment,medium,4.2%, ,-5.0%
+1,2012.03.14 08:50,JPY,3,BSI Manufacturing Index,187,39129,Mar 13 2012,7:50pm,JPY,BSI Manufacturing Index,medium,-6.1,1.3, 
+1,2012.03.14 09:30,AUD,1,Housing Starts q/q,188,39594,Mar 13 2012,8:30pm,AUD,Housing Starts q/q,low, ,-3.9%, 
+1,2012.03.14 13:30,JPY,1,Revised Industrial Production m/m,189,39049,Mar 14 2012,12:30am,JPY,Revised Industrial Production m/m,low,2.0%,2.1%, 
+1,2012.03.14 14:00,JPY,3,BOJ Monthly Report,190,39145,Mar 14 2012,1:00am,JPY,BOJ Monthly Report,medium, , , 
+1,2012.03.14 18:30,GBP,5,Claimant Count Change,191,40424,Mar 14 2012,5:30am,GBP,Claimant Count Change,high, ,6.5K, 
+1,2012.03.14 18:30,GBP,3,Unemployment Rate,192,40425,Mar 14 2012,5:30am,GBP,Unemployment Rate,medium,8.4%,8.4%,8.4%
+1,2012.03.14 18:30,GBP,1,Average Earnings Index 3m/y,193,40426,Mar 14 2012,5:30am,GBP,Average Earnings Index 3m/y,low, ,1.9%, 
+1,2012.03.14 19:00,CHF,3,ZEW Economic Expectations,194,39346,Mar 14 2012,6:00am,CHF,ZEW Economic Expectations,medium,-21.2, ,0.0
+1,2012.03.14 19:00,EUR,3,Final CPI y/y,195,41378,Mar 14 2012,6:00am,EUR,Final CPI y/y,medium,2.7%,2.7%,2.7%
+1,2012.03.14 19:00,EUR,3,Final Core CPI y/y,196,41377,Mar 14 2012,6:00am,EUR,Final Core CPI y/y,medium,1.5%,1.6%, 
+1,2012.03.14 19:00,EUR,3,Industrial Production m/m,197,41248,Mar 14 2012,6:00am,EUR,Industrial Production m/m,medium,-1.1%,0.8%, 
+1,2012.03.14 21:30,CAD,3,Capacity Utilization Rate,198,41954,Mar 14 2012,8:30am,CAD,Capacity Utilization Rate,medium, ,81.6%, 
+1,2012.03.14 21:30,CAD,1,New Motor Vehicle Sales m/m,199,41869,Mar 14 2012,8:30am,CAD,New Motor Vehicle Sales m/m,low,-3.0%,2.1%, 
+1,2012.03.14 21:30,USD,3,Current Account,200,41182,Mar 14 2012,8:30am,USD,Current Account,medium, ,-114B, 
+1,2012.03.14 21:30,USD,3,Import Prices m/m,201,41048,Mar 14 2012,8:30am,USD,Import Prices m/m,medium, ,0.6%, 
+1,2012.03.14 23:00,USD,5,Fed Chairman Bernanke Speaks,202,43233,Mar 14 2012,10:00am,USD,Fed Chairman Bernanke Speaks,high, , , 
+1,2012.03.14 23:30,USD,3,Crude Oil Inventories,203,41606,Mar 14 2012,10:30am,USD,Crude Oil Inventories,medium,0.8M,2.2M,1.8M
+1,2012.03.15 02:00,USD,1,30-y Bond Auction,204,42945,Mar 14 2012,1:00pm,USD,30-y Bond Auction,low,3.24|2.5, ,3.38|2.7
+1,2012.03.15 06:23,NZD,1,Business NZ Manufacturing Index,205,38676,Mar 14 2012,5:23pm,NZD,Business NZ Manufacturing Index,low, , ,57.7
+1,2012.03.15 09:00,AUD,3,MI Inflation Expectations,206,39198,Mar 14 2012,8:00pm,AUD,MI Inflation Expectations,medium,2.5%, ,2.7%
+1,2012.03.15 09:30,AUD,3,New Motor Vehicle Sales m/m,207,39467,Mar 14 2012,8:30pm,AUD,New Motor Vehicle Sales m/m,medium, , ,0.0%
+1,2012.03.15 09:30,AUD,1,RBA Bulletin,208,38353,Mar 14 2012,8:30pm,AUD,RBA Bulletin,low, , , 
+1,2012.03.15 10:52,CNY,1,Foreign Direct Investment ytd/y,209,39696,Mar 14 2012,9:52pm,CNY,Foreign Direct Investment ytd/y,low,-0.3%, ,-0.6%
+1,2012.03.15 15:45,CHF,3,SECO Economic Forecasts,210,39443,Mar 15 2012,2:45am,CHF,SECO Economic Forecasts,medium, , , 
+1,2012.03.15 17:30,CHF,5,Libor Rate,211,39428,Mar 15 2012,4:30am,CHF,Libor Rate,high,0.25%,0.25%,0.25%
+1,2012.03.15 17:30,CHF,5,SNB Monetary Policy Assessment,212,39429,Mar 15 2012,4:30am,CHF,SNB Monetary Policy Assessment,high, , , 
+1,2012.03.15 18:00,EUR,3,ECB Monthly Bulletin,213,41429,Mar 15 2012,5:00am,EUR,ECB Monthly Bulletin,medium, , , 
+1,2012.03.15 19:00,EUR,1,Employment Change q/q,214,41296,Mar 15 2012,6:00am,EUR,Employment Change q/q,low, ,-0.2%,-0.2%
+1,2012.03.15 19:37,GBP,1,30-y Bond Auction,215,43251,Mar 15 2012,6:37am,GBP,30-y Bond Auction,low,3.29|2.0, ,3.43|1.7
+1,2012.03.15 20:30,GBP,3,MPC Member Broadbent Speaks,216,43241,Mar 15 2012,7:30am,GBP,MPC Member Broadbent Speaks,medium, , , 
+1,2012.03.15 21:30,USD,5,PPI m/m,217,40933,Mar 15 2012,8:30am,USD,PPI m/m,high,0.1%,0.5%, 
+1,2012.03.15 21:30,USD,5,Unemployment Claims,218,39810,Mar 15 2012,8:30am,USD,Unemployment Claims,high, ,357K, 
+1,2012.03.15 21:30,USD,3,Core PPI m/m,219,40935,Mar 15 2012,8:30am,USD,Core PPI m/m,medium,0.4%,0.2%,0.2%
+1,2012.03.15 21:30,USD,3,Empire State Manufacturing Index,220,41581,Mar 15 2012,8:30am,USD,Empire State Manufacturing Index,medium,19.5,17.6, 
+1,2012.03.15 22:00,USD,5,TIC Long-Term Purchases,221,39961,Mar 15 2012,9:00am,USD,TIC Long-Term Purchases,high, ,38.9B, 
+1,2012.03.15 23:00,USD,5,Philly Fed Manufacturing Index,222,41569,Mar 15 2012,10:00am,USD,Philly Fed Manufacturing Index,high,10.2,11.9, 
+1,2012.03.15 23:30,USD,1,Natural Gas Storage,223,39758,Mar 15 2012,10:30am,USD,Natural Gas Storage,low,-80B,-58B,-64B
+1,2012.03.16 08:50,JPY,3,Monetary Policy Meeting Minutes,224,41556,Mar 15 2012,7:50pm,JPY,Monetary Policy Meeting Minutes,medium, , , 
+1,2012.03.16 18:00,EUR,1,Italian Trade Balance,225,40806,Mar 16 2012,5:00am,EUR,Italian Trade Balance,low, ,1.62B, 
+1,2012.03.16 19:00,EUR,1,Trade Balance,226,41307,Mar 16 2012,6:00am,EUR,Trade Balance,low, ,6.2B, 
+1,2012.03.16 21:30,CAD,3,Foreign Securities Purchases,227,41785,Mar 16 2012,8:30am,CAD,Foreign Securities Purchases,medium, ,6.27B, 
+1,2012.03.16 21:30,CAD,3,Manufacturing Sales m/m,228,41893,Mar 16 2012,8:30am,CAD,Manufacturing Sales m/m,medium,0.6%,0.4%, 
+1,2012.03.16 21:30,USD,5,Core CPI m/m,229,40960,Mar 16 2012,8:30am,USD,Core CPI m/m,high,0.2%,0.2%, 
+1,2012.03.16 21:30,USD,3,CPI m/m,230,40957,Mar 16 2012,8:30am,USD,CPI m/m,medium,0.2%,0.4%,0.4%
+1,2012.03.16 22:15,USD,3,Capacity Utilization Rate,231,40334,Mar 16 2012,9:15am,USD,Capacity Utilization Rate,medium, ,78.9%, 
+1,2012.03.16 22:15,USD,3,Industrial Production m/m,232,40335,Mar 16 2012,9:15am,USD,Industrial Production m/m,medium, ,0.4%, 
+1,2012.03.16 22:55,USD,5,Prelim UoM Consumer Sentiment,233,38829,Mar 16 2012,9:55am,USD,Prelim UoM Consumer Sentiment,high, ,75.8, 
+1,2012.03.16 22:55,USD,1,Prelim UoM Inflation Expectations,234,38830,Mar 16 2012,9:55am,USD,Prelim UoM Inflation Expectations,low, , ,4.0%
+1,2012.03.19 06:00,NZD,3,Westpac Consumer Sentiment,236,40154,Mar 18 2012,5:00pm,NZD,Westpac Consumer Sentiment,medium,101.3, ,102.4
+1,2012.03.19 08:48,GBP,3,Rightmove HPI m/m,237,40586,Mar 18 2012,7:48pm,GBP,Rightmove HPI m/m,medium,4.1%, ,1.6%
+1,2012.03.19 10:00,AUD,5,RBA Gov Stevens Speaks,238,43234,Mar 18 2012,9:00pm,AUD,RBA Gov Stevens Speaks,high, , , 
+1,2012.03.19 18:00,EUR,3,Current Account,239,41454,Mar 19 2012,5:00am,EUR,Current Account,medium, ,3.3B, 
+1,2012.03.19 20:00,EUR,1,German Buba Monthly Report,240,50186,Mar 19 2012,7:00am,EUR,German Buba Monthly Report,low, , , 
+1,2012.03.19 21:30,CAD,3,Wholesale Sales m/m,241,41857,Mar 19 2012,8:30am,CAD,Wholesale Sales m/m,medium, ,0.4%, 
+1,2012.03.19 21:35,USD,3,FOMC Member Dudley Speaks,242,43246,Mar 19 2012,8:35am,USD,FOMC Member Dudley Speaks,medium, , , 
+1,2012.03.19 23:00,USD,1,NAHB Housing Market Index,243,40392,Mar 19 2012,10:00am,USD,NAHB Housing Market Index,low, ,30, 
+1,2012.03.20 02:40,USD,1,FOMC Member Dudley Speaks,244,43247,Mar 19 2012,1:40pm,USD,FOMC Member Dudley Speaks,low, , , 
+1,2012.03.20 08:00,AUD,3,CB Leading Index m/m,245,41666,Mar 19 2012,7:00pm,AUD,CB Leading Index m/m,medium, , ,1.1%
+0,,JPY,0,Bank Holiday,246,42056,Mar 19 2012,All Day,JPY,Bank Holiday,holiday, , , 
+1,2012.03.20 09:30,AUD,5,Monetary Policy Meeting Minutes,247,38354,Mar 19 2012,8:30pm,AUD,Monetary Policy Meeting Minutes,high, , , 
+1,2012.03.20 12:30,AUD,3,RBA Assist Gov Edey Speaks,248,43235,Mar 19 2012,11:30pm,AUD,RBA Assist Gov Edey Speaks,medium, , , 
+1,2012.03.20 16:00,EUR,3,German PPI m/m,249,40739,Mar 20 2012,3:00am,EUR,German PPI m/m,medium,0.6%,0.5%, 
+1,2012.03.20 17:15,CHF,3,Industrial Production q/q,250,39296,Mar 20 2012,4:15am,CHF,Industrial Production q/q,medium, ,0.4%, 
+1,2012.03.20 18:30,GBP,5,CPI y/y,251,40231,Mar 20 2012,5:30am,GBP,CPI y/y,high,3.6%,3.4%,3.4%
+1,2012.03.20 18:30,GBP,3,RPI y/y,252,40233,Mar 20 2012,5:30am,GBP,RPI y/y,medium,3.9%,3.4%, 
+1,2012.03.20 18:30,GBP,1,Core CPI y/y,253,40232,Mar 20 2012,5:30am,GBP,Core CPI y/y,low,2.6%,2.4%,2.4%
+1,2012.03.20 19:30,EUR,3,German Buba President Weidmann Speaks,254,45077,Mar 20 2012,6:30am,EUR,German Buba President Weidmann Speaks,medium, , , 
+1,2012.03.20 20:00,GBP,3,CBI Industrial Order Expectations,255,40659,Mar 20 2012,7:00am,GBP,CBI Industrial Order Expectations,medium,-3,-5, 
+1,2012.03.20 21:30,USD,5,Building Permits,256,41109,Mar 20 2012,8:30am,USD,Building Permits,high,0.68M,0.69M, 
+1,2012.03.20 21:30,USD,3,Housing Starts,257,41108,Mar 20 2012,8:30am,USD,Housing Starts,medium, ,0.70M,0.70M
+1,2012.03.20 22:30,NZD,1,GDT Price Index,258,56271,Mar 20 2012,9:30am,NZD,GDT Price Index,low,-0.4%, ,-5.1%
+1,2012.03.20 23:00,USD,3,Treasury Sec Geithner Speaks,259,43255,Mar 20 2012,10:00am,USD,Treasury Sec Geithner Speaks,medium, , , 
+1,2012.03.21 01:45,USD,3,Fed Chairman Bernanke Speaks,260,43242,Mar 20 2012,12:45pm,USD,Fed Chairman Bernanke Speaks,medium, , , 
+1,2012.03.21 06:45,NZD,5,Current Account,261,40031,Mar 20 2012,5:45pm,NZD,Current Account,high, ,-2.77B,-2.76B
+1,2012.03.21 06:47,NZD,1,Visitor Arrivals m/m,262,40047,Mar 20 2012,5:47pm,NZD,Visitor Arrivals m/m,low, , ,-4.9%
+1,2012.03.21 08:30,AUD,3,MI Leading Index m/m,263,39200,Mar 20 2012,7:30pm,AUD,MI Leading Index m/m,medium, , ,0.6%
+1,2012.03.21 11:00,NZD,1,Credit Card Spending y/y,264,40021,Mar 20 2012,10:00pm,NZD,Credit Card Spending y/y,low,3.1%, ,4.0%
+1,2012.03.21 13:30,JPY,1,All Industries Activity m/m,265,38900,Mar 21 2012,12:30am,JPY,All Industries Activity m/m,low, ,-0.5%, 
+1,2012.03.21 18:30,GBP,5,MPC Asset Purchase Facility Votes,266,49162,Mar 21 2012,5:30am,GBP,MPC Asset Purchase Facility Votes,high,2-0-7,2-0-7,2-0-7
+1,2012.03.21 18:30,GBP,5,MPC Official Bank Rate Votes,267,40500,Mar 21 2012,5:30am,GBP,MPC Official Bank Rate Votes,high,0-0-9,0-0-9,0-0-9
+1,2012.03.21 18:30,GBP,5,Public Sector Net Borrowing,268,40404,Mar 21 2012,5:30am,GBP,Public Sector Net Borrowing,high, ,5.2B, 
+1,2012.03.21 21:30,CAD,3,Leading Index m/m,269,41905,Mar 21 2012,8:30am,CAD,Leading Index m/m,medium, ,0.5%, 
+1,2012.03.21 21:30,GBP,5,Annual Budget Release,270,40478,Mar 21 2012,8:30am,GBP,Annual Budget Release,high, , , 
+1,2012.03.21 22:30,USD,5,Fed Chairman Bernanke Testifies,271,43256,Mar 21 2012,9:30am,USD,Fed Chairman Bernanke Testifies,high, , , 
+1,2012.03.21 23:00,USD,5,Existing Home Sales,272,41190,Mar 21 2012,10:00am,USD,Existing Home Sales,high, ,4.61M, 
+1,2012.03.21 23:30,USD,3,Crude Oil Inventories,273,41607,Mar 21 2012,10:30am,USD,Crude Oil Inventories,medium,1.8M,2.4M,-1.2M
+1,2012.03.22 06:45,NZD,5,GDP q/q,274,40038,Mar 21 2012,5:45pm,NZD,GDP q/q,high, ,0.6%, 
+1,2012.03.22 07:10,AUD,3,RBA Assist Gov Debelle Speaks,275,43236,Mar 21 2012,6:10pm,AUD,RBA Assist Gov Debelle Speaks,medium, , , 
+1,2012.03.22 08:50,JPY,3,Trade Balance,276,39066,Mar 21 2012,7:50pm,JPY,Trade Balance,medium, ,-0.34T,-0.31T
+1,2012.03.22 11:30,CNY,5,HSBC Flash Manufacturing PMI,277,38664,Mar 21 2012,10:30pm,CNY,HSBC Flash Manufacturing PMI,high, , ,48.1
+1,2012.03.22 16:00,CHF,3,Trade Balance,278,39314,Mar 22 2012,3:00am,CHF,Trade Balance,medium, ,1.97B, 
+1,2012.03.22 17:00,EUR,3,French Flash Manufacturing PMI,279,38578,Mar 22 2012,4:00am,EUR,French Flash Manufacturing PMI,medium, ,50.4, 
+1,2012.03.22 17:00,EUR,3,French Flash Services PMI,280,38579,Mar 22 2012,4:00am,EUR,French Flash Services PMI,medium, ,50.6, 
+1,2012.03.22 17:30,EUR,3,German Flash Manufacturing PMI,281,38580,Mar 22 2012,4:30am,EUR,German Flash Manufacturing PMI,medium, ,51.1, 
+1,2012.03.22 17:30,EUR,3,German Flash Services PMI,282,38581,Mar 22 2012,4:30am,EUR,German Flash Services PMI,medium, ,53.1, 
+1,2012.03.22 18:00,EUR,3,Flash Manufacturing PMI,283,38582,Mar 22 2012,5:00am,EUR,Flash Manufacturing PMI,medium,49.0,49.6, 
+1,2012.03.22 18:00,EUR,3,Flash Services PMI,284,38583,Mar 22 2012,5:00am,EUR,Flash Services PMI,medium, ,49.3, 
+1,2012.03.22 18:30,GBP,5,Retail Sales m/m,285,40228,Mar 22 2012,5:30am,GBP,Retail Sales m/m,high, ,-0.5%, 
+1,2012.03.22 19:07,EUR,3,Industrial New Orders m/m,286,41306,Mar 22 2012,6:07am,EUR,Industrial New Orders m/m,medium, ,-2.0%, 
+1,2012.03.22 21:30,CAD,5,Core Retail Sales m/m,287,41799,Mar 22 2012,8:30am,CAD,Core Retail Sales m/m,high, ,0.5%, 
+1,2012.03.22 21:30,CAD,3,Retail Sales m/m,288,41800,Mar 22 2012,8:30am,CAD,Retail Sales m/m,medium, ,1.8%, 
+1,2012.03.22 21:30,USD,5,Unemployment Claims,289,39811,Mar 22 2012,8:30am,USD,Unemployment Claims,high, ,353K, 
+1,2012.03.22 23:00,EUR,3,Belgian NBB Business Climate,290,39730,Mar 22 2012,10:00am,EUR,Belgian NBB Business Climate,medium,-7.7,-6.6, 
+1,2012.03.22 23:00,USD,1,CB Leading Index m/m,291,41721,Mar 22 2012,10:00am,USD,CB Leading Index m/m,low, ,0.6%, 
+1,2012.03.22 23:00,USD,1,FOMC Member Tarullo Speaks,292,43253,Mar 22 2012,10:00am,USD,FOMC Member Tarullo Speaks,low, , , 
+1,2012.03.22 23:00,USD,1,HPI m/m,293,41212,Mar 22 2012,10:00am,USD,HPI m/m,low, ,0.2%, 
+1,2012.03.22 23:30,USD,1,Natural Gas Storage,294,39759,Mar 22 2012,10:30am,USD,Natural Gas Storage,low,-64B,10B,11B
+1,2012.03.23 00:00,EUR,1,Consumer Confidence,295,41654,Mar 22 2012,11:00am,EUR,Consumer Confidence,low,-20,-20, 
+1,2012.03.23 01:00,EUR,5,ECB President Draghi Speaks,296,42126,Mar 22 2012,12:00pm,EUR,ECB President Draghi Speaks,high, , , 
+1,2012.03.23 01:45,USD,3,Fed Chairman Bernanke Speaks,297,43243,Mar 22 2012,12:45pm,USD,Fed Chairman Bernanke Speaks,medium, , , 
+1,2012.03.23 02:00,CHF,3,Gov Board Member Danthine Speaks,298,43237,Mar 22 2012,1:00pm,CHF,Gov Board Member Danthine Speaks,medium, , , 
+1,2012.03.23 08:30,USD,1,FOMC Member Dudley Speaks,299,43257,Mar 22 2012,7:30pm,USD,FOMC Member Dudley Speaks,low, , , 
+1,2012.03.23 09:01,GBP,3,Nationwide Consumer Confidence,300,40644,Mar 22 2012,8:01pm,GBP,Nationwide Consumer Confidence,medium,47,49, 
+1,2012.03.23 11:00,CNY,1,CB Leading Index m/m,301,41766,Mar 22 2012,10:00pm,CNY,CB Leading Index m/m,low, , ,0.8%
+1,2012.03.23 17:30,CHF,1,SNB Quarterly Bulletin,302,39439,Mar 23 2012,4:30am,CHF,SNB Quarterly Bulletin,low, , , 
+1,2012.03.23 18:00,EUR,1,Italian Retail Sales m/m,303,40805,Mar 23 2012,5:00am,EUR,Italian Retail Sales m/m,low, ,0.2%, 
+1,2012.03.23 18:30,GBP,3,BBA Mortgage Approvals,304,40565,Mar 23 2012,5:30am,GBP,BBA Mortgage Approvals,medium, ,39.1K, 
+1,2012.03.23 18:30,GBP,1,FPC Statement,305,57062,Mar 23 2012,5:30am,GBP,FPC Statement,low, , , 
+1,2012.03.23 20:00,CAD,5,Core CPI m/m,306,41824,Mar 23 2012,7:00am,CAD,Core CPI m/m,high,0.2%,0.3%, 
+1,2012.03.23 20:00,CAD,3,CPI m/m,307,41823,Mar 23 2012,7:00am,CAD,CPI m/m,medium,0.4%,0.4%,0.4%
+1,2012.03.23 23:00,USD,5,New Home Sales,308,41135,Mar 23 2012,10:00am,USD,New Home Sales,high, ,326K, 
+1,2012.03.24 02:45,USD,3,Fed Chairman Bernanke Speaks,309,43254,Mar 23 2012,1:45pm,USD,Fed Chairman Bernanke Speaks,medium, , , 
+1,2012.03.24 03:30,USD,3,FOMC Member Lockhart Speaks,310,43248,Mar 23 2012,2:30pm,USD,FOMC Member Lockhart Speaks,medium, , , 
+1,2012.03.24 21:30,GBP,3,MPC Member Tucker Speaks,311,43266,Mar 24 2012,8:30am,GBP,MPC Member Tucker Speaks,medium, , , 
+1,2012.03.25 05:30,USD,3,FOMC Member Yellen Speaks,312,43259,Mar 24 2012,4:30pm,USD,FOMC Member Yellen Speaks,medium, , , 
+0,2012.03.25 10:00,CHF,0,Daylight Saving Time Shift,313,38268,Mar 24 2012,9:00pm,CHF,Daylight Saving Time Shift,holiday, , , 
+0,2012.03.25 10:00,EUR,0,Daylight Saving Time Shift,314,38269,Mar 24 2012,9:00pm,EUR,Daylight Saving Time Shift,holiday, , , 
+0,2012.03.25 10:00,GBP,0,Daylight Saving Time Shift,315,38270,Mar 24 2012,9:00pm,GBP,Daylight Saving Time Shift,holiday, , , 
+1,2012.03.26 06:45,NZD,3,Trade Balance,316,40048,Mar 25 2012,5:45pm,NZD,Trade Balance,medium, ,154M, 
+1,2012.03.26 17:00,EUR,5,German Ifo Business Climate,317,39728,Mar 26 2012,4:00am,EUR,German Ifo Business Climate,high, ,109.7,109.8
+1,2012.03.26 21:00,USD,5,Fed Chairman Bernanke Speaks,318,43249,Mar 26 2012,8:00am,USD,Fed Chairman Bernanke Speaks,high, , , 
+1,2012.03.26 23:00,USD,5,Pending Home Sales m/m,319,41191,Mar 26 2012,10:00am,USD,Pending Home Sales m/m,high,2.0%,1.0%, 
+1,2012.03.27 01:00,EUR,3,ECB President Draghi Speaks,320,43260,Mar 26 2012,12:00pm,EUR,ECB President Draghi Speaks,medium, , , 
+1,2012.03.27 02:00,CAD,3,BOC Gov Carney Speaks,321,43261,Mar 26 2012,1:00pm,CAD,BOC Gov Carney Speaks,medium, , , 
+1,2012.03.27 05:45,GBP,3,MPC Member Miles Speaks,322,43267,Mar 26 2012,4:45pm,GBP,MPC Member Miles Speaks,medium, , , 
+1,2012.03.27 07:15,AUD,3,RBA Assist Gov Debelle Speaks,323,43270,Mar 26 2012,6:15pm,AUD,RBA Assist Gov Debelle Speaks,medium, , , 
+1,2012.03.27 08:01,GBP,1,BOE Quarterly Bulletin,324,40490,Mar 26 2012,7:01pm,GBP,BOE Quarterly Bulletin,low, , , 
+1,2012.03.27 08:50,JPY,1,SPPI y/y,325,38979,Mar 26 2012,7:50pm,JPY,SPPI y/y,low, ,-0.3%, 
+1,2012.03.27 15:00,CHF,1,UBS Consumption Indicator,326,38285,Mar 27 2012,2:00am,CHF,UBS Consumption Indicator,low, , ,0.87
+1,2012.03.27 15:00,EUR,3,GfK German Consumer Climate,327,40686,Mar 27 2012,2:00am,EUR,GfK German Consumer Climate,medium,6.0,6.2, 
+1,2012.03.27 15:00,EUR,1,German Import Prices m/m,328,39893,Mar 27 2012,2:00am,EUR,German Import Prices m/m,low,1.3%,0.9%, 
+1,2012.03.27 19:00,GBP,3,CBI Realized Sales,329,40660,Mar 27 2012,6:00am,GBP,CBI Realized Sales,medium,-2,-4, 
+1,2012.03.27 22:00,USD,3,/CS Composite-20 HPI y/y,330,41224,Mar 27 2012,9:00am,USD,/CS Composite-20 HPI y/y,medium, ,-3.8%,-3.8%
+1,2012.03.27 22:59,USD,1,Richmond Manufacturing Index,331,41519,Mar 27 2012,9:59am,USD,Richmond Manufacturing Index,low,20,18, 
+1,2012.03.27 23:00,USD,5,CB Consumer Confidence,332,38872,Mar 27 2012,10:00am,USD,CB Consumer Confidence,high, ,70.3,70.2
+1,2012.03.27 23:00,USD,1,FOMC Member Dudley Speaks,333,43262,Mar 27 2012,10:00am,USD,FOMC Member Dudley Speaks,low, , , 
+1,2012.03.27 23:30,GBP,5,BOE Gov King Speaks,334,43273,Mar 27 2012,10:30am,GBP,BOE Gov King Speaks,high, , , 
+1,2012.03.28 01:45,USD,3,Fed Chairman Bernanke Speaks,335,43244,Mar 27 2012,12:45pm,USD,Fed Chairman Bernanke Speaks,medium, , , 
+1,2012.03.28 02:00,GBP,3,MPC Member Posen Speaks,336,43271,Mar 27 2012,1:00pm,GBP,MPC Member Posen Speaks,medium, , , 
+1,2012.03.28 04:45,USD,1,FOMC Member Duke Speaks,337,43263,Mar 27 2012,3:45pm,USD,FOMC Member Duke Speaks,low, , , 
+1,2012.03.28 09:30,AUD,3,RBA Financial Stability Review,338,41465,Mar 27 2012,8:30pm,AUD,RBA Financial Stability Review,medium, , , 
+0,,EUR,3,German Prelim CPI m/m,339,40717,Mar 28 2012,All Day,EUR,German Prelim CPI m/m,medium,0.7%,0.3%,0.3%
+1,2012.03.28 17:00,EUR,3,M3 Money Supply y/y,340,41746,Mar 28 2012,4:00am,EUR,M3 Money Supply y/y,medium,2.5%,2.5%, 
+1,2012.03.28 17:00,EUR,1,Private Loans y/y,341,41745,Mar 28 2012,4:00am,EUR,Private Loans y/y,low,1.1%,1.3%, 
+1,2012.03.28 17:30,GBP,5,Current Account,342,40319,Mar 28 2012,4:30am,GBP,Current Account,high, ,-8.5B,-8.5B
+1,2012.03.28 17:30,GBP,3,Final GDP q/q,343,40308,Mar 28 2012,4:30am,GBP,Final GDP q/q,medium,-0.2%,-0.2%, 
+1,2012.03.28 17:30,GBP,1,FPC Meeting Minutes,344,57078,Mar 28 2012,4:30am,GBP,FPC Meeting Minutes,low, , , 
+1,2012.03.28 17:30,GBP,1,Revised Business Investment q/q,345,40414,Mar 28 2012,4:30am,GBP,Revised Business Investment q/q,low,-5.6%,-5.4%, 
+1,2012.03.28 21:00,EUR,3,German Buba President Weidmann Speaks,346,45078,Mar 28 2012,8:00am,EUR,German Buba President Weidmann Speaks,medium, , , 
+1,2012.03.28 21:30,USD,5,Core Durable Goods Orders m/m,347,41075,Mar 28 2012,8:30am,USD,Core Durable Goods Orders m/m,high, ,1.6%,1.6%
+1,2012.03.28 21:30,USD,3,Durable Goods Orders m/m,348,41074,Mar 28 2012,8:30am,USD,Durable Goods Orders m/m,medium, ,3.0%, 
+1,2012.03.28 23:30,USD,3,Crude Oil Inventories,349,41608,Mar 28 2012,10:30am,USD,Crude Oil Inventories,medium,-1.2M,2.8M,7.1M
+1,2012.03.29 08:50,JPY,3,Retail Sales y/y,350,39027,Mar 28 2012,7:50pm,JPY,Retail Sales y/y,medium, ,1.4%, 
+1,2012.03.29 09:00,NZD,5,ANZ Business Confidence,351,41707,Mar 28 2012,8:00pm,NZD,ANZ Business Confidence,high,28.0, ,33.8
+1,2012.03.29 15:00,GBP,3,Nationwide HPI m/m,352,40584,Mar 29 2012,2:00am,GBP,Nationwide HPI m/m,medium, ,0.3%, 
+1,2012.03.29 16:00,EUR,1,Spanish Flash CPI y/y,353,54154,Mar 29 2012,3:00am,EUR,Spanish Flash CPI y/y,low,2.0%,1.9%,1.9%
+1,2012.03.29 16:55,EUR,3,German Unemployment Change,354,40685,Mar 29 2012,3:55am,EUR,German Unemployment Change,medium, ,-10K, 
+1,2012.03.29 17:10,GBP,3,MPC Member Fisher Speaks,355,43272,Mar 29 2012,4:10am,GBP,MPC Member Fisher Speaks,medium, , , 
+1,2012.03.29 17:30,GBP,3,BOE Credit Conditions Survey,356,40479,Mar 29 2012,4:30am,GBP,BOE Credit Conditions Survey,medium, , , 
+1,2012.03.29 17:30,GBP,1,Index of Services 3m/3m,357,40534,Mar 29 2012,4:30am,GBP,Index of Services 3m/3m,low, ,0.2%, 
+1,2012.03.29 17:30,GBP,1,M4 Money Supply m/m,358,40512,Mar 29 2012,4:30am,GBP,M4 Money Supply m/m,low, ,1.2%, 
+1,2012.03.29 17:30,GBP,1,Mortgage Approvals,359,40585,Mar 29 2012,4:30am,GBP,Mortgage Approvals,low, ,59K, 
+1,2012.03.29 17:32,GBP,3,Net Lending to Individuals m/m,360,40535,Mar 29 2012,4:32am,GBP,Net Lending to Individuals m/m,medium,1.8B,1.5B,1.6B
+1,2012.03.29 18:00,EUR,1,Retail PMI,361,43638,Mar 29 2012,5:00am,EUR,Retail PMI,low,47.9, ,49.1
+1,2012.03.29 18:18,EUR,5,Italian 10-y Bond Auction,362,42438,Mar 29 2012,5:18am,EUR,Italian 10-y Bond Auction,high,5.50|1.4, ,5.24|1.7
+1,2012.03.29 21:30,CAD,3,RMPI m/m,363,41969,Mar 29 2012,8:30am,CAD,RMPI m/m,medium, ,0.4%, 
+1,2012.03.29 21:30,CAD,1,IPPI m/m,364,41968,Mar 29 2012,8:30am,CAD,IPPI m/m,low, ,0.5%, 
+1,2012.03.29 21:30,USD,5,Unemployment Claims,365,39812,Mar 29 2012,8:30am,USD,Unemployment Claims,high, ,351K, 
+1,2012.03.29 21:30,USD,3,Final GDP q/q,366,41006,Mar 29 2012,8:30am,USD,Final GDP q/q,medium,3.0%,3.0%,3.0%
+1,2012.03.29 21:30,USD,1,Final GDP Price Index q/q,367,41007,Mar 29 2012,8:30am,USD,Final GDP Price Index q/q,low,0.9%,0.9%,0.9%
+1,2012.03.29 23:30,USD,1,Natural Gas Storage,368,39760,Mar 29 2012,10:30am,USD,Natural Gas Storage,low,11B,49B,57B
+1,2012.03.30 01:15,USD,3,FOMC Member Lockhart Speaks,369,43264,Mar 29 2012,12:15pm,USD,FOMC Member Lockhart Speaks,medium, , , 
+1,2012.03.30 01:45,USD,3,Fed Chairman Bernanke Speaks,370,43245,Mar 29 2012,12:45pm,USD,Fed Chairman Bernanke Speaks,medium, , , 
+1,2012.03.30 05:00,CAD,3,Annual Budget Release,371,41676,Mar 29 2012,4:00pm,CAD,Annual Budget Release,medium, , , 
+1,2012.03.30 06:45,NZD,3,Building Consents m/m,372,40132,Mar 29 2012,5:45pm,NZD,Building Consents m/m,medium, , ,-6.7%
+1,2012.03.30 07:45,USD,3,FOMC Member Lacker Speaks,373,43265,Mar 29 2012,6:45pm,USD,FOMC Member Lacker Speaks,medium, , , 
+1,2012.03.30 08:01,GBP,3,GfK Consumer Confidence,374,40632,Mar 29 2012,7:01pm,GBP,GfK Consumer Confidence,medium,-29,-29, 
+1,2012.03.30 08:15,JPY,1,Final Manufacturing PMI,375,38688,Mar 29 2012,7:15pm,JPY,Final Manufacturing PMI,low,50.5, ,51.1
+1,2012.03.30 08:30,JPY,3,Household Spending y/y,376,38703,Mar 29 2012,7:30pm,JPY,Household Spending y/y,medium,-2.3%,-0.3%, 
+1,2012.03.30 08:30,JPY,3,Tokyo Core CPI y/y,377,38726,Mar 29 2012,7:30pm,JPY,Tokyo Core CPI y/y,medium,-0.3%,-0.3%,-0.3%
+1,2012.03.30 08:30,JPY,1,National Core CPI y/y,378,38725,Mar 29 2012,7:30pm,JPY,National Core CPI y/y,low,-0.1%,-0.1%, 
+1,2012.03.30 08:30,JPY,1,Unemployment Rate,379,38702,Mar 29 2012,7:30pm,JPY,Unemployment Rate,low,4.6%,4.6%, 
+1,2012.03.30 08:50,JPY,3,Prelim Industrial Production m/m,380,39026,Mar 29 2012,7:50pm,JPY,Prelim Industrial Production m/m,medium, ,1.3%, 
+1,2012.03.30 09:00,AUD,3,HIA New Home Sales m/m,381,41410,Mar 29 2012,8:00pm,AUD,HIA New Home Sales m/m,medium,-7.3%, ,3.0%
+1,2012.03.30 09:30,AUD,3,Private Sector Credit m/m,382,39170,Mar 29 2012,8:30pm,AUD,Private Sector Credit m/m,medium,0.2%,0.3%, 
+1,2012.03.30 13:00,AUD,3,RBA Assist Gov Edey Speaks,383,43275,Mar 30 2012,12:00am,AUD,RBA Assist Gov Edey Speaks,medium, , , 
+1,2012.03.30 14:00,JPY,1,Housing Starts y/y,384,39094,Mar 30 2012,1:00am,JPY,Housing Starts y/y,low,-1.1%,-1.4%, 
+1,2012.03.30 15:00,EUR,3,German Retail Sales m/m,385,39358,Mar 30 2012,2:00am,EUR,German Retail Sales m/m,medium, ,1.3%, 
+1,2012.03.30 15:45,EUR,3,French Consumer Spending m/m,386,39382,Mar 30 2012,2:45am,EUR,French Consumer Spending m/m,medium,-0.4%,0.2%, 
+1,2012.03.30 16:00,CHF,3,KOF Economic Barometer,387,39302,Mar 30 2012,3:00am,CHF,KOF Economic Barometer,medium, ,0.06,0.08
+1,2012.03.30 18:00,EUR,3,CPI Flash Estimate y/y,388,41379,Mar 30 2012,5:00am,EUR,CPI Flash Estimate y/y,medium,2.7%,2.5%, 
+1,2012.03.30 18:00,EUR,1,Italian Prelim CPI m/m,389,40831,Mar 30 2012,5:00am,EUR,Italian Prelim CPI m/m,low,0.4%,0.2%, 
+0,,EUR,3,ECOFIN Meetings,390,43268,Mar 30 2012,Day 1,EUR,ECOFIN Meetings,medium, , , 
+1,2012.03.30 21:30,CAD,5,GDP m/m,391,41941,Mar 30 2012,8:30am,CAD,GDP m/m,high, ,0.1%,0.1%
+1,2012.03.30 21:30,USD,3,Core PCE Price Index m/m,392,40899,Mar 30 2012,8:30am,USD,Core PCE Price Index m/m,medium,0.2%,0.1%,0.1%
+1,2012.03.30 21:30,USD,3,Personal Spending m/m,393,40900,Mar 30 2012,8:30am,USD,Personal Spending m/m,medium, ,0.6%, 
+1,2012.03.30 21:30,USD,1,Personal Income m/m,394,40901,Mar 30 2012,8:30am,USD,Personal Income m/m,low, ,0.4%, 
+1,2012.03.30 22:45,USD,3,Chicago PMI,395,40369,Mar 30 2012,9:45am,USD,Chicago PMI,medium,64.0,63.2, 
+1,2012.03.30 22:55,USD,3,Revised UoM Consumer Sentiment,396,38831,Mar 30 2012,9:55am,USD,Revised UoM Consumer Sentiment,medium,74.3,74.9, 
+1,2012.03.30 22:55,USD,1,Revised UoM Inflation Expectations,397,38832,Mar 30 2012,9:55am,USD,Revised UoM Inflation Expectations,low,4.0%, ,3.9%
+0,,EUR,3,ECOFIN Meetings,398,43269,Mar 31 2012,Day 2,EUR,ECOFIN Meetings,medium, , , 
+0,2012.03.31 23:00,NZD,0,Daylight Saving Time Shift,399,38261,Mar 31 2012,10:00am,NZD,Daylight Saving Time Shift,holiday, , , 
+0,2012.04.01 01:00,AUD,0,Daylight Saving Time Shift,400,38260,Mar 31 2012,12:00pm,AUD,Daylight Saving Time Shift,holiday, , , 
+1,2012.04.01 10:00,CNY,5,Manufacturing PMI,401,38645,Mar 31 2012,9:00pm,CNY,Manufacturing PMI,high,51.0,50.9, 
+1,2012.04.01 11:30,CNY,3,HSBC Final Manufacturing PMI,402,38644,Mar 31 2012,10:30pm,CNY,HSBC Final Manufacturing PMI,medium,48.1, ,48.3

@@ -1,0 +1,380 @@
+1,2013.09.02 07:45,NZD,3,Overseas Trade Index q/q,0,44661,Sep 1 2013,6:45pm,NZD,Overseas Trade Index q/q,medium, ,3.9%, 
+1,2013.09.02 08:25,AUD,1,AIG Manufacturing Index,1,44279,Sep 1 2013,7:25pm,AUD,AIG Manufacturing Index,low,42.0, ,46.4
+1,2013.09.02 08:50,JPY,3,Capital Spending q/y,2,45300,Sep 1 2013,7:50pm,JPY,Capital Spending q/y,medium,-3.9%,-2.0%, 
+1,2013.09.02 09:30,AUD,1,MI Inflation Gauge m/m,3,44461,Sep 1 2013,8:30pm,AUD,MI Inflation Gauge m/m,low,0.5%, ,0.1%
+1,2013.09.02 10:30,AUD,5,Building Approvals m/m,4,44358,Sep 1 2013,9:30pm,AUD,Building Approvals m/m,high, ,4.1%, 
+1,2013.09.02 10:30,AUD,3,Company Operating Profits q/q,5,44479,Sep 1 2013,9:30pm,AUD,Company Operating Profits q/q,medium, ,1.1%, 
+1,2013.09.02 10:45,CNY,3,HSBC Final Manufacturing PMI,6,44764,Sep 1 2013,9:45pm,CNY,HSBC Final Manufacturing PMI,medium,50.1,50.2,50.1
+1,2013.09.02 15:30,AUD,1,Commodity Prices y/y,7,44473,Sep 2 2013,2:30am,AUD,Commodity Prices y/y,low, , ,-7.3%
+1,2013.09.02 16:15,EUR,3,Spanish Manufacturing PMI,8,47235,Sep 2 2013,3:15am,EUR,Spanish Manufacturing PMI,medium,49.8,50.1, 
+1,2013.09.02 16:30,CHF,3,Manufacturing PMI,9,45354,Sep 2 2013,3:30am,CHF,Manufacturing PMI,medium,57.4,55.9, 
+1,2013.09.02 16:45,EUR,3,Italian Manufacturing PMI,10,47231,Sep 2 2013,3:45am,EUR,Italian Manufacturing PMI,medium,50.4,50.7, 
+1,2013.09.02 16:50,EUR,1,French Final Manufacturing PMI,11,59027,Sep 2 2013,3:50am,EUR,French Final Manufacturing PMI,low,49.7,49.7,49.7
+1,2013.09.02 16:55,EUR,1,German Final Manufacturing PMI,12,59029,Sep 2 2013,3:55am,EUR,German Final Manufacturing PMI,low,52.0,52.0,51.8
+1,2013.09.02 17:00,EUR,1,Final Manufacturing PMI,13,47227,Sep 2 2013,4:00am,EUR,Final Manufacturing PMI,low,51.3,51.3,51.4
+1,2013.09.02 17:30,GBP,5,Manufacturing PMI,14,45818,Sep 2 2013,4:30am,GBP,Manufacturing PMI,high, ,55.2, 
+0,,CAD,0,Bank Holiday,15,48151,Sep 2 2013,All Day,CAD,Bank Holiday,holiday, , , 
+0,,USD,0,Bank Holiday,16,48181,Sep 2 2013,All Day,USD,Bank Holiday,holiday, , , 
+1,2013.09.03 08:01,GBP,3,BRC Retail Sales Monitor y/y,17,46141,Sep 2 2013,7:01pm,GBP,BRC Retail Sales Monitor y/y,medium,2.2%, ,1.8%
+1,2013.09.03 08:50,JPY,1,Monetary Base y/y,18,44990,Sep 2 2013,7:50pm,JPY,Monetary Base y/y,low,38.0%,41.3%,42.0%
+1,2013.09.03 10:00,CNY,3,Non-Manufacturing PMI,19,44780,Sep 2 2013,9:00pm,CNY,Non-Manufacturing PMI,medium,54.1, ,53.9
+1,2013.09.03 10:00,NZD,1,ANZ Commodity Prices m/m,20,44647,Sep 2 2013,9:00pm,NZD,ANZ Commodity Prices m/m,low,0.6%, ,0.7%
+1,2013.09.03 10:30,AUD,5,Retail Sales m/m,21,44545,Sep 2 2013,9:30pm,AUD,Retail Sales m/m,high,0.0%,0.4%, 
+1,2013.09.03 10:30,AUD,3,Current Account,22,44483,Sep 2 2013,9:30pm,AUD,Current Account,medium, ,-8.3B, 
+1,2013.09.03 10:30,JPY,3,Average Cash Earnings y/y,23,45124,Sep 2 2013,9:30pm,JPY,Average Cash Earnings y/y,medium, ,0.8%, 
+1,2013.09.03 12:45,JPY,1,10-y Bond Auction,24,49054,Sep 2 2013,11:45pm,JPY,10-y Bond Auction,low,0.80|3.5, ,0.77|3.5
+1,2013.09.03 13:30,AUD,5,Cash Rate,25,44236,Sep 3 2013,12:30am,AUD,Cash Rate,high,2.50%,2.50%,2.50%
+1,2013.09.03 13:30,AUD,5,RBA Rate Statement,26,44237,Sep 3 2013,12:30am,AUD,RBA Rate Statement,high, , , 
+1,2013.09.03 14:45,CHF,3,GDP q/q,27,45468,Sep 3 2013,1:45am,CHF,GDP q/q,medium,0.6%,0.3%, 
+1,2013.09.03 16:00,EUR,3,Spanish Unemployment Change,28,47436,Sep 3 2013,3:00am,EUR,Spanish Unemployment Change,medium,-64.9K,-5.2K, 
+1,2013.09.03 17:30,GBP,5,Construction PMI,29,45819,Sep 3 2013,4:30am,GBP,Construction PMI,high,57.0,58.4, 
+1,2013.09.03 18:00,EUR,1,PPI m/m,30,46874,Sep 3 2013,5:00am,EUR,PPI m/m,low,0.0%,0.2%, 
+1,2013.09.03 22:00,USD,1,Final Manufacturing PMI,31,46766,Sep 3 2013,9:00am,USD,Final Manufacturing PMI,low,53.9,53.9, 
+1,2013.09.03 23:00,USD,5,ISM Manufacturing PMI,32,46730,Sep 3 2013,10:00am,USD,ISM Manufacturing PMI,high,55.4,54.2, 
+1,2013.09.03 23:00,USD,1,Construction Spending m/m,33,46262,Sep 3 2013,10:00am,USD,Construction Spending m/m,low, ,0.3%, 
+1,2013.09.03 23:00,USD,1,ISM Manufacturing Prices,34,46742,Sep 3 2013,10:00am,USD,ISM Manufacturing Prices,low,49.0,51.6, 
+1,2013.09.03 23:30,NZD,1,GDT Price Index,35,56306,Sep 3 2013,10:30am,NZD,GDT Price Index,low,2.3%, ,-1.1%
+1,2013.09.04 08:01,GBP,1,BRC Shop Price Index y/y,36,46117,Sep 3 2013,7:01pm,GBP,BRC Shop Price Index y/y,low,-0.5%, ,-0.5%
+1,2013.09.04 08:28,AUD,1,AIG Services Index,37,44280,Sep 3 2013,7:28pm,AUD,AIG Services Index,low,39.4, ,39.0
+1,2013.09.04 10:30,AUD,5,GDP q/q,38,44487,Sep 3 2013,9:30pm,AUD,GDP q/q,high, ,0.6%,0.6%
+1,2013.09.04 10:45,CNY,3,HSBC Services PMI,39,54042,Sep 3 2013,9:45pm,CNY,HSBC Services PMI,medium,51.3, ,52.8
+1,2013.09.04 16:15,EUR,3,Spanish Services PMI,40,47271,Sep 4 2013,3:15am,EUR,Spanish Services PMI,medium,48.5,49.3, 
+1,2013.09.04 16:45,EUR,3,Italian Services PMI,41,47267,Sep 4 2013,3:45am,EUR,Italian Services PMI,medium,48.7,49.2, 
+1,2013.09.04 16:50,EUR,1,French Final Services PMI,42,59208,Sep 4 2013,3:50am,EUR,French Final Services PMI,low,47.7,47.7, 
+1,2013.09.04 16:55,EUR,1,German Final Services PMI,43,59220,Sep 4 2013,3:55am,EUR,German Final Services PMI,low,52.4,52.4, 
+1,2013.09.04 17:00,EUR,1,Final Services PMI,44,47263,Sep 4 2013,4:00am,EUR,Final Services PMI,low,51.0,51.0,50.7
+1,2013.09.04 17:30,GBP,5,Services PMI,45,45835,Sep 4 2013,4:30am,GBP,Services PMI,high,60.2,59.3, 
+1,2013.09.04 18:00,EUR,3,Retail Sales m/m,46,46898,Sep 4 2013,5:00am,EUR,Retail Sales m/m,medium, ,0.5%, 
+1,2013.09.04 18:00,EUR,1,Revised GDP q/q,47,46934,Sep 4 2013,5:00am,EUR,Revised GDP q/q,low,0.3%,0.3%,0.3%
+1,2013.09.04 21:30,CAD,5,Trade Balance,48,47925,Sep 4 2013,8:30am,CAD,Trade Balance,high, ,-0.3B, 
+1,2013.09.04 21:30,USD,5,Trade Balance,49,46298,Sep 4 2013,8:30am,USD,Trade Balance,high, ,-38.7B,-39.1B
+1,2013.09.04 23:00,CAD,5,BOC Rate Statement,50,45768,Sep 4 2013,10:00am,CAD,BOC Rate Statement,high, , , 
+1,2013.09.04 23:00,CAD,5,Overnight Rate,51,45769,Sep 4 2013,10:00am,CAD,Overnight Rate,high,1.00%,1.00%,1.00%
+1,2013.09.04 23:00,USD,1,IBD/TIPP Economic Optimism,52,48074,Sep 4 2013,10:00am,USD,IBD/TIPP Economic Optimism,low,45.1,46.2,46.0
+0,,USD,1,Total Vehicle Sales,53,46464,Sep 4 2013,All Day,USD,Total Vehicle Sales,low,15.7M,15.8M, 
+1,2013.09.05 03:00,USD,3,Beige Book,54,44201,Sep 4 2013,2:00pm,USD,Beige Book,medium, , , 
+1,2013.09.05 10:30,AUD,5,Trade Balance,55,44546,Sep 4 2013,9:30pm,AUD,Trade Balance,high, ,0.10B, 
+1,2013.09.05 11:42,JPY,5,Monetary Policy Statement,56,50042,Sep 4 2013,10:42pm,JPY,Monetary Policy Statement,high, , , 
+1,2013.09.05 16:39,JPY,5,BOJ Press Conference,57,50041,Sep 5 2013,3:39am,JPY,BOJ Press Conference,high, , , 
+1,2013.09.05 17:41,EUR,3,Spanish 10-y Bond Auction,58,47610,Sep 5 2013,4:41am,EUR,Spanish 10-y Bond Auction,medium,4.72|2.3, ,4.50|2.0
+1,2013.09.05 18:00,EUR,1,French 10-y Bond Auction,59,47595,Sep 5 2013,5:00am,EUR,French 10-y Bond Auction,low,2.32|1.7, ,2.57|1.9
+1,2013.09.05 19:00,EUR,3,German Factory Orders m/m,60,50043,Sep 5 2013,6:00am,EUR,German Factory Orders m/m,medium, ,-0.7%, 
+1,2013.09.05 20:00,GBP,5,Asset Purchase Facility,61,45746,Sep 5 2013,7:00am,GBP,Asset Purchase Facility,high,375B,375B,375B
+1,2013.09.05 20:00,GBP,5,Official Bank Rate,62,45748,Sep 5 2013,7:00am,GBP,Official Bank Rate,high,0.50%,0.50%,0.50%
+1,2013.09.05 20:30,USD,1,Challenger Job Cuts y/y,63,45689,Sep 5 2013,7:30am,USD,Challenger Job Cuts y/y,low,2.3%, ,56.5%
+1,2013.09.05 20:45,EUR,5,Minimum Bid Rate,64,45713,Sep 5 2013,7:45am,EUR,Minimum Bid Rate,high,0.50%,0.50%,0.50%
+1,2013.09.05 21:15,USD,5,ADP Non-Farm Employment Change,65,45688,Sep 5 2013,8:15am,USD,ADP Non-Farm Employment Change,high, ,175K,176K
+1,2013.09.05 21:30,EUR,5,ECB Press Conference,66,45712,Sep 5 2013,8:30am,EUR,ECB Press Conference,high, , , 
+1,2013.09.05 21:30,USD,5,Unemployment Claims,67,45515,Sep 5 2013,8:30am,USD,Unemployment Claims,high, ,332K, 
+1,2013.09.05 21:30,USD,3,Revised Nonfarm Productivity q/q,68,46568,Sep 5 2013,8:30am,USD,Revised Nonfarm Productivity q/q,medium,0.9%,1.6%, 
+1,2013.09.05 21:30,USD,1,Revised Unit Labor Costs q/q,69,46571,Sep 5 2013,8:30am,USD,Revised Unit Labor Costs q/q,low,1.4%,0.9%, 
+1,2013.09.05 23:00,USD,5,ISM Non-Manufacturing PMI,70,46754,Sep 5 2013,10:00am,USD,ISM Non-Manufacturing PMI,high,56.0,55.2, 
+1,2013.09.05 23:00,USD,3,Factory Orders m/m,71,46392,Sep 5 2013,10:00am,USD,Factory Orders m/m,medium, ,-3.4%, 
+1,2013.09.05 23:30,USD,1,Natural Gas Storage,72,45566,Sep 5 2013,10:30am,USD,Natural Gas Storage,low,67B,55B,58B
+1,2013.09.06 00:00,USD,3,Crude Oil Inventories,73,45618,Sep 5 2013,11:00am,USD,Crude Oil Inventories,medium,3.0M,-1.9M,-1.8M
+0,,ALL,5,G20 Meetings,74,47995,Sep 5 2013,Day 1,ALL,G20 Meetings,high, , , 
+1,2013.09.06 08:30,AUD,1,AIG Construction Index,75,44281,Sep 5 2013,7:30pm,AUD,AIG Construction Index,low,44.1, ,43.7
+1,2013.09.06 14:00,JPY,1,BOJ Monthly Report,76,44925,Sep 6 2013,1:00am,JPY,BOJ Monthly Report,low, , , 
+1,2013.09.06 14:00,JPY,1,Leading Indicators,77,45222,Sep 6 2013,1:00am,JPY,Leading Indicators,low, ,107.9%,107.8%
+1,2013.09.06 15:00,EUR,3,German Trade Balance,78,47017,Sep 6 2013,2:00am,EUR,German Trade Balance,medium, ,15.9B, 
+1,2013.09.06 15:45,EUR,1,French Gov Budget Balance,79,47476,Sep 6 2013,2:45am,EUR,French Gov Budget Balance,low,-59.3B, ,-80.8B
+1,2013.09.06 15:45,EUR,1,French Trade Balance,80,47005,Sep 6 2013,2:45am,EUR,French Trade Balance,low, ,-4.5B, 
+1,2013.09.06 16:00,CHF,3,Foreign Currency Reserves,81,45342,Sep 6 2013,3:00am,CHF,Foreign Currency Reserves,medium, , ,434.2B
+1,2013.09.06 16:00,GBP,3,Halifax HPI m/m,82,45951,Sep 6 2013,3:00am,GBP,Halifax HPI m/m,medium,0.9%,0.7%, 
+1,2013.09.06 16:15,CHF,5,CPI m/m,83,45386,Sep 6 2013,3:15am,CHF,CPI m/m,high,-0.4%,0.0%, 
+1,2013.09.06 17:30,GBP,5,Manufacturing Production m/m,84,46178,Sep 6 2013,4:30am,GBP,Manufacturing Production m/m,high, ,0.3%, 
+1,2013.09.06 17:30,GBP,3,Consumer Inflation Expectations,85,45865,Sep 6 2013,4:30am,GBP,Consumer Inflation Expectations,medium,3.6%, ,3.2%
+1,2013.09.06 17:30,GBP,3,Trade Balance,86,46130,Sep 6 2013,4:30am,GBP,Trade Balance,medium, ,-8.2B, 
+1,2013.09.06 17:30,GBP,1,Industrial Production m/m,87,46166,Sep 6 2013,4:30am,GBP,Industrial Production m/m,low, ,0.2%, 
+1,2013.09.06 19:00,EUR,3,German Industrial Production m/m,88,47042,Sep 6 2013,6:00am,EUR,German Industrial Production m/m,medium, ,-0.3%, 
+1,2013.09.06 21:00,USD,3,FOMC Member Evans Speaks,89,50573,Sep 6 2013,8:00am,USD,FOMC Member Evans Speaks,medium, , , 
+1,2013.09.06 21:30,CAD,5,Employment Change,90,47845,Sep 6 2013,8:30am,CAD,Employment Change,high,-39.4K,21.2K, 
+1,2013.09.06 21:30,CAD,5,Unemployment Rate,91,47847,Sep 6 2013,8:30am,CAD,Unemployment Rate,high,7.2%,7.2%, 
+1,2013.09.06 21:30,CAD,3,Labor Productivity q/q,92,47827,Sep 6 2013,8:30am,CAD,Labor Productivity q/q,medium, ,0.3%, 
+1,2013.09.06 21:30,USD,5,Non-Farm Employment Change,93,45660,Sep 6 2013,8:30am,USD,Non-Farm Employment Change,high, ,178K, 
+1,2013.09.06 21:30,USD,5,Unemployment Rate,94,45661,Sep 6 2013,8:30am,USD,Unemployment Rate,high,7.4%,7.4%, 
+1,2013.09.06 21:30,USD,3,Average Hourly Earnings m/m,95,45662,Sep 6 2013,8:30am,USD,Average Hourly Earnings m/m,medium, ,0.2%,0.2%
+1,2013.09.06 22:57,GBP,3,NIESR GDP Estimate,96,46214,Sep 6 2013,9:57am,GBP,NIESR GDP Estimate,medium,0.7%, ,0.9%
+1,2013.09.06 23:00,CAD,5,Ivey PMI,97,46797,Sep 6 2013,10:00am,CAD,Ivey PMI,high,48.4,52.6, 
+0,,ALL,3,G20 Meetings,98,47994,Sep 6 2013,Day 2,ALL,G20 Meetings,medium, , , 
+1,2013.09.07 02:30,USD,3,FOMC Member George Speaks,99,50574,Sep 6 2013,1:30pm,USD,FOMC Member George Speaks,medium, , , 
+0,,AUD,3,Parliamentary Elections,100,49421,Sep 6 2013,All Day,AUD,Parliamentary Elections,medium, , , 
+1,2013.09.08 10:51,CNY,5,Trade Balance,101,44904,Sep 7 2013,9:51pm,CNY,Trade Balance,high,17.8B,20.3B, 
+1,2013.09.09 07:45,NZD,1,Manufacturing Sales q/q,102,44693,Sep 8 2013,6:45pm,NZD,Manufacturing Sales q/q,low, , ,-2.0%
+1,2013.09.09 08:50,JPY,3,Current Account,103,45186,Sep 8 2013,7:50pm,JPY,Current Account,medium,0.65T,0.32T,0.33T
+1,2013.09.09 08:50,JPY,3,Final GDP q/q,104,45313,Sep 8 2013,7:50pm,JPY,Final GDP q/q,medium,0.6%,1.0%, 
+1,2013.09.09 08:50,JPY,1,Bank Lending y/y,105,45174,Sep 8 2013,7:50pm,JPY,Bank Lending y/y,low,2.0%, ,2.0%
+1,2013.09.09 08:50,JPY,1,Final GDP Price Index y/y,106,45312,Sep 8 2013,7:50pm,JPY,Final GDP Price Index y/y,low,-0.3%,-0.3%, 
+1,2013.09.09 10:30,AUD,3,ANZ Job Advertisements m/m,107,44422,Sep 8 2013,9:30pm,AUD,ANZ Job Advertisements m/m,medium,-1.1%, ,-2.0%
+1,2013.09.09 10:30,AUD,3,Home Loans m/m,108,44338,Sep 8 2013,9:30pm,AUD,Home Loans m/m,medium, ,2.2%, 
+1,2013.09.09 10:30,CNY,5,CPI y/y,109,44812,Sep 8 2013,9:30pm,CNY,CPI y/y,high,2.7%,2.6%,2.6%
+1,2013.09.09 10:30,CNY,3,PPI y/y,110,44813,Sep 8 2013,9:30pm,CNY,PPI y/y,medium,-2.3%,-1.7%,-1.6%
+1,2013.09.09 14:00,JPY,1,Consumer Confidence,111,45055,Sep 9 2013,1:00am,JPY,Consumer Confidence,low,43.6,44.3, 
+1,2013.09.09 14:45,CHF,1,Unemployment Rate,112,45458,Sep 9 2013,1:45am,CHF,Unemployment Rate,low,3.2%,3.2%,3.2%
+1,2013.09.09 15:00,JPY,1,Economy Watchers Sentiment,113,45067,Sep 9 2013,2:00am,JPY,Economy Watchers Sentiment,low,52.3,53.8, 
+1,2013.09.09 16:15,CHF,3,Retail Sales y/y,114,45410,Sep 9 2013,3:15am,CHF,Retail Sales y/y,medium,2.3%,3.2%, 
+1,2013.09.09 17:30,EUR,1,Sentix Investor Confidence,115,47727,Sep 9 2013,4:30am,EUR,Sentix Investor Confidence,low,-4.9,-4.0, 
+1,2013.09.09 21:30,CAD,5,Building Permits m/m,116,47954,Sep 9 2013,8:30am,CAD,Building Permits m/m,high, ,4.4%, 
+1,2013.09.10 04:00,USD,1,Consumer Credit m/m,117,46328,Sep 9 2013,3:00pm,USD,Consumer Credit m/m,low, ,12.7B, 
+1,2013.09.10 08:01,GBP,1,RICS House Price Balance,118,45887,Sep 9 2013,7:01pm,GBP,RICS House Price Balance,low, ,38%, 
+1,2013.09.10 08:50,JPY,3,Monetary Policy Meeting Minutes,119,44939,Sep 9 2013,7:50pm,JPY,Monetary Policy Meeting Minutes,medium, , , 
+1,2013.09.10 08:50,JPY,3,Tertiary Industry Activity m/m,120,45294,Sep 9 2013,7:50pm,JPY,Tertiary Industry Activity m/m,medium, ,-0.4%,-0.4%
+1,2013.09.10 08:50,JPY,1,M2 Money Stock y/y,121,45002,Sep 9 2013,7:50pm,JPY,M2 Money Stock y/y,low,3.7%,3.8%, 
+1,2013.09.10 10:30,AUD,3,NAB Business Confidence,122,44299,Sep 9 2013,9:30pm,AUD,NAB Business Confidence,medium,-3, ,6
+1,2013.09.10 12:45,JPY,1,30-y Bond Auction,123,49103,Sep 9 2013,11:45pm,JPY,30-y Bond Auction,low,1.79|4.1, ,1.80|3.9
+1,2013.09.10 14:30,CNY,3,Fixed Asset Investment ytd/y,124,44845,Sep 10 2013,1:30am,CNY,Fixed Asset Investment ytd/y,medium,20.1%,20.2%,20.3%
+1,2013.09.10 14:30,CNY,3,Industrial Production y/y,125,44844,Sep 10 2013,1:30am,CNY,Industrial Production y/y,medium,9.7%,9.9%, 
+1,2013.09.10 14:30,CNY,1,Retail Sales y/y,126,44846,Sep 10 2013,1:30am,CNY,Retail Sales y/y,low,13.2%,13.3%,13.4%
+1,2013.09.10 15:00,JPY,1,Prelim Machine Tool Orders y/y,127,45270,Sep 10 2013,2:00am,JPY,Prelim Machine Tool Orders y/y,low,-12.1%, ,-1.8%
+1,2013.09.10 15:45,EUR,3,French Industrial Production m/m,128,46993,Sep 10 2013,2:45am,EUR,French Industrial Production m/m,medium,-1.4%,0.7%, 
+1,2013.09.10 17:00,CNY,3,New Loans,129,44880,Sep 10 2013,4:00am,CNY,New Loans,medium,700B,731B, 
+1,2013.09.10 17:00,CNY,1,M2 Money Supply y/y,130,44881,Sep 10 2013,4:00am,CNY,M2 Money Supply y/y,low,14.5%,14.6%,14.7%
+1,2013.09.10 18:34,GBP,1,30-y Bond Auction,131,50793,Sep 10 2013,5:34am,GBP,30-y Bond Auction,low,3.55|1.7, ,3.74|1.5
+1,2013.09.10 20:30,USD,1,NFIB Small Business Index,132,48418,Sep 10 2013,7:30am,USD,NFIB Small Business Index,low,94.1,94.8,94.1
+1,2013.09.10 21:13,CAD,1,Housing Starts,133,46819,Sep 10 2013,8:13am,CAD,Housing Starts,low,193K,190K, 
+1,2013.09.10 23:00,USD,3,JOLTS Job Openings,134,49350,Sep 10 2013,10:00am,USD,JOLTS Job Openings,medium, ,3.96M, 
+1,2013.09.11 08:50,JPY,3,BSI Manufacturing Index,135,45008,Sep 10 2013,7:50pm,JPY,BSI Manufacturing Index,medium,5.0,7.2, 
+1,2013.09.11 08:50,JPY,1,PPI y/y,136,45150,Sep 10 2013,7:50pm,JPY,PPI y/y,low, ,2.3%,2.4%
+1,2013.09.11 09:30,AUD,3,Westpac Consumer Sentiment,137,44324,Sep 10 2013,8:30pm,AUD,Westpac Consumer Sentiment,medium,3.5%, ,4.7%
+1,2013.09.11 10:00,USD,3,President Obama Speaks,138,50797,Sep 10 2013,9:00pm,USD,President Obama Speaks,medium, , , 
+1,2013.09.11 14:30,EUR,1,French Final Non-Farm Payrolls q/q,139,47454,Sep 11 2013,1:30am,EUR,French Final Non-Farm Payrolls q/q,low, ,-0.2%,-0.2%
+1,2013.09.11 15:00,EUR,1,German Final CPI m/m,140,47396,Sep 11 2013,2:00am,EUR,German Final CPI m/m,low,0.0%,0.0%,0.0%
+1,2013.09.11 17:30,GBP,5,Claimant Count Change,141,46033,Sep 11 2013,4:30am,GBP,Claimant Count Change,high, ,-21.2K, 
+1,2013.09.11 17:30,GBP,3,Average Earnings Index 3m/y,142,46045,Sep 11 2013,4:30am,GBP,Average Earnings Index 3m/y,medium, ,1.3%, 
+1,2013.09.11 17:30,GBP,3,Unemployment Rate,143,46021,Sep 11 2013,4:30am,GBP,Unemployment Rate,medium,7.8%,7.8%, 
+1,2013.09.11 18:00,GBP,1,CB Leading Index m/m,144,48277,Sep 11 2013,5:00am,GBP,CB Leading Index m/m,low, , ,0.7%
+1,2013.09.11 18:33,EUR,3,German 10-y Bond Auction,145,47585,Sep 11 2013,5:33am,EUR,German 10-y Bond Auction,medium,1.80|1.3, ,2.06|1.3
+1,2013.09.11 23:00,USD,1,Wholesale Inventories m/m,146,46274,Sep 11 2013,10:00am,USD,Wholesale Inventories m/m,low,-0.2%,0.3%, 
+1,2013.09.11 23:30,USD,3,Crude Oil Inventories,147,45619,Sep 11 2013,10:30am,USD,Crude Oil Inventories,medium,-1.8M,-2.2M,-0.2M
+1,2013.09.12 00:30,GBP,3,MPC Member Miles Speaks,148,50709,Sep 11 2013,11:30am,GBP,MPC Member Miles Speaks,medium, , , 
+1,2013.09.12 02:00,USD,3,10-y Bond Auction,149,47679,Sep 11 2013,1:00pm,USD,10-y Bond Auction,medium,2.62|2.5, ,2.95|2.9
+1,2013.09.12 06:00,NZD,5,Official Cash Rate,150,44570,Sep 11 2013,5:00pm,NZD,Official Cash Rate,high,2.50%,2.50%,2.50%
+1,2013.09.12 06:00,NZD,5,RBNZ Press Conference,151,44572,Sep 11 2013,5:00pm,NZD,RBNZ Press Conference,high, , , 
+1,2013.09.12 06:00,NZD,5,RBNZ Rate Statement,152,44571,Sep 11 2013,5:00pm,NZD,RBNZ Rate Statement,high, , , 
+1,2013.09.12 06:00,NZD,3,RBNZ Monetary Policy Statement,153,44573,Sep 11 2013,5:00pm,NZD,RBNZ Monetary Policy Statement,medium, , , 
+1,2013.09.12 08:50,JPY,3,Core Machinery Orders m/m,154,45210,Sep 11 2013,7:50pm,JPY,Core Machinery Orders m/m,medium,-2.7%,2.5%, 
+1,2013.09.12 10:00,AUD,3,MI Inflation Expectations,155,44323,Sep 11 2013,9:00pm,AUD,MI Inflation Expectations,medium,2.3%, ,1.5%
+1,2013.09.12 10:10,NZD,5,RBNZ Gov Wheeler Speaks,156,50796,Sep 11 2013,9:10pm,NZD,RBNZ Gov Wheeler Speaks,high, , , 
+1,2013.09.12 10:30,AUD,5,Employment Change,157,44406,Sep 11 2013,9:30pm,AUD,Employment Change,high, ,10.2K, 
+1,2013.09.12 10:30,AUD,5,Unemployment Rate,158,44407,Sep 11 2013,9:30pm,AUD,Unemployment Rate,high,5.7%,5.8%,5.8%
+1,2013.09.12 15:00,EUR,1,German WPI m/m,159,47347,Sep 12 2013,2:00am,EUR,German WPI m/m,low,-0.3%,0.2%, 
+1,2013.09.12 15:45,EUR,1,French CPI m/m,160,47349,Sep 12 2013,2:45am,EUR,French CPI m/m,low,-0.3%,0.5%,0.5%
+1,2013.09.12 17:00,EUR,3,ECB Monthly Bulletin,161,47464,Sep 12 2013,4:00am,EUR,ECB Monthly Bulletin,medium, , , 
+1,2013.09.12 17:00,EUR,1,Italian Industrial Production m/m,162,47104,Sep 12 2013,4:00am,EUR,Italian Industrial Production m/m,low, ,0.3%, 
+1,2013.09.12 18:00,EUR,3,Industrial Production m/m,163,46910,Sep 12 2013,5:00am,EUR,Industrial Production m/m,medium, ,-0.1%, 
+1,2013.09.12 18:00,GBP,5,Inflation Report Hearings,164,45999,Sep 12 2013,5:00am,GBP,Inflation Report Hearings,high, , , 
+1,2013.09.12 18:34,GBP,3,10-y Bond Auction,165,50707,Sep 12 2013,5:34am,GBP,10-y Bond Auction,medium,2.58|1.8, ,2.98|1.6
+1,2013.09.12 20:40,EUR,5,ECB President Draghi Speaks,166,50711,Sep 12 2013,7:40am,EUR,ECB President Draghi Speaks,high, , , 
+1,2013.09.12 21:30,CAD,3,NHPI m/m,167,47809,Sep 12 2013,8:30am,CAD,NHPI m/m,medium,0.2%,0.2%,0.2%
+1,2013.09.12 21:30,USD,5,Unemployment Claims,168,45517,Sep 12 2013,8:30am,USD,Unemployment Claims,high,323K,332K, 
+1,2013.09.12 21:30,USD,3,Import Prices m/m,169,46524,Sep 12 2013,8:30am,USD,Import Prices m/m,medium, ,0.6%, 
+1,2013.09.12 22:00,USD,3,FOMC Member Dudley Speaks,170,50795,Sep 12 2013,9:00am,USD,FOMC Member Dudley Speaks,medium, , , 
+1,2013.09.12 23:30,USD,1,Natural Gas Storage,171,45567,Sep 12 2013,10:30am,USD,Natural Gas Storage,low,58B,65B,65B
+1,2013.09.13 02:00,USD,1,30-y Bond Auction,172,47715,Sep 12 2013,1:00pm,USD,30-y Bond Auction,low,3.65|2.1, ,3.82|2.4
+1,2013.09.13 02:38,USD,3,Federal Budget Balance,173,44212,Sep 12 2013,1:38pm,USD,Federal Budget Balance,medium,-97.6B,-155.3B, 
+1,2013.09.13 07:24,NZD,3,Business NZ Manufacturing Index,174,44589,Sep 12 2013,6:24pm,NZD,Business NZ Manufacturing Index,medium,59.5, ,57.5
+1,2013.09.13 07:45,NZD,1,FPI m/m,175,44679,Sep 12 2013,6:45pm,NZD,FPI m/m,low,0.5%, ,-0.5%
+1,2013.09.13 13:30,JPY,1,Revised Industrial Production m/m,176,45246,Sep 13 2013,12:30am,JPY,Revised Industrial Production m/m,low,3.2%,3.2%, 
+1,2013.09.13 16:15,CHF,3,PPI m/m,177,45398,Sep 13 2013,3:15am,CHF,PPI m/m,medium,0.0%,0.2%,0.2%
+1,2013.09.13 17:30,GBP,1,Construction Output m/m,178,54209,Sep 13 2013,4:30am,GBP,Construction Output m/m,low, ,2.0%,2.2%
+1,2013.09.13 18:00,EUR,1,Employment Change q/q,179,46940,Sep 13 2013,5:00am,EUR,Employment Change q/q,low, ,-0.2%, 
+0,,EUR,3,ECOFIN Meetings,180,50708,Sep 13 2013,All Day,EUR,ECOFIN Meetings,medium, , , 
+0,,EUR,3,Eurogroup Meetings,181,50710,Sep 13 2013,Day 1,EUR,Eurogroup Meetings,medium, , , 
+1,2013.09.13 21:30,CAD,1,Capacity Utilization Rate,182,47879,Sep 13 2013,8:30am,CAD,Capacity Utilization Rate,low, ,81.3%, 
+1,2013.09.13 21:30,USD,5,Core Retail Sales m/m,183,46364,Sep 13 2013,8:30am,USD,Core Retail Sales m/m,high, ,0.3%, 
+1,2013.09.13 21:30,USD,5,PPI m/m,184,46500,Sep 13 2013,8:30am,USD,PPI m/m,high,0.0%,0.2%, 
+1,2013.09.13 21:30,USD,5,Retail Sales m/m,185,46377,Sep 13 2013,8:30am,USD,Retail Sales m/m,high, ,0.5%, 
+1,2013.09.13 21:30,USD,3,Core PPI m/m,186,46512,Sep 13 2013,8:30am,USD,Core PPI m/m,medium,0.1%,0.2%, 
+1,2013.09.13 22:55,USD,5,Prelim UoM Consumer Sentiment,187,46682,Sep 13 2013,9:55am,USD,Prelim UoM Consumer Sentiment,high, ,82.6, 
+1,2013.09.13 22:55,USD,1,Prelim UoM Inflation Expectations,188,46683,Sep 13 2013,9:55am,USD,Prelim UoM Inflation Expectations,low, , ,3.2%
+1,2013.09.13 23:00,USD,3,Business Inventories m/m,189,46316,Sep 13 2013,10:00am,USD,Business Inventories m/m,medium, ,0.4%,0.4%
+0,,EUR,3,ECOFIN Meetings,190,50794,Sep 14 2013,Day 2,EUR,ECOFIN Meetings,medium, , , 
+1,2013.09.16 06:45,NZD,1,REINZ HPI m/m,191,44621,Sep 15 2013,5:45pm,NZD,REINZ HPI m/m,low,-0.5%, ,2.1%
+1,2013.09.16 07:00,NZD,3,Westpac Consumer Sentiment,192,44603,Sep 15 2013,6:00pm,NZD,Westpac Consumer Sentiment,medium,116.6, ,115.4
+1,2013.09.16 08:01,GBP,1,Rightmove HPI m/m,193,45899,Sep 15 2013,7:01pm,GBP,Rightmove HPI m/m,low,-1.8%, ,-1.5%
+0,,JPY,0,Bank Holiday,194,48195,Sep 15 2013,All Day,JPY,Bank Holiday,holiday, , , 
+1,2013.09.16 17:00,EUR,5,ECB President Draghi Speaks,195,51094,Sep 16 2013,4:00am,EUR,ECB President Draghi Speaks,high, , , 
+1,2013.09.16 17:00,EUR,1,Italian Trade Balance,196,47083,Sep 16 2013,4:00am,EUR,Italian Trade Balance,low,3.62B,4.13B, 
+1,2013.09.16 18:00,EUR,3,Final CPI y/y,197,46862,Sep 16 2013,5:00am,EUR,Final CPI y/y,medium,1.3%,1.3%,1.3%
+1,2013.09.16 18:00,EUR,1,Final Core CPI y/y,198,46850,Sep 16 2013,5:00am,EUR,Final Core CPI y/y,low,1.1%,1.1%,1.1%
+1,2013.09.16 21:30,CAD,3,Foreign Securities Purchases,199,47939,Sep 16 2013,8:30am,CAD,Foreign Securities Purchases,medium, ,-2.23B, 
+1,2013.09.16 21:30,USD,3,Empire State Manufacturing Index,200,48014,Sep 16 2013,8:30am,USD,Empire State Manufacturing Index,medium,8.2,9.2, 
+1,2013.09.16 22:15,USD,3,Capacity Utilization Rate,201,46416,Sep 16 2013,9:15am,USD,Capacity Utilization Rate,medium,77.6%,77.8%,77.8%
+1,2013.09.16 22:15,USD,3,Industrial Production m/m,202,46404,Sep 16 2013,9:15am,USD,Industrial Production m/m,medium,0.0%,0.5%, 
+1,2013.09.17 08:01,GBP,1,BOE Quarterly Bulletin,203,45995,Sep 16 2013,7:01pm,GBP,BOE Quarterly Bulletin,low, , , 
+1,2013.09.17 10:30,AUD,5,Monetary Policy Meeting Minutes,204,44251,Sep 16 2013,9:30pm,AUD,Monetary Policy Meeting Minutes,high, , , 
+1,2013.09.17 10:30,AUD,3,New Motor Vehicle Sales m/m,205,44506,Sep 16 2013,9:30pm,AUD,New Motor Vehicle Sales m/m,medium, , ,0.8%
+1,2013.09.17 11:00,CNY,1,CB Leading Index m/m,206,48316,Sep 16 2013,10:00pm,CNY,CB Leading Index m/m,low,1.4%, ,0.7%
+1,2013.09.17 11:00,CNY,1,Foreign Direct Investment ytd/y,207,44905,Sep 16 2013,10:00pm,CNY,Foreign Direct Investment ytd/y,low,7.1%, ,6.4%
+1,2013.09.17 17:00,EUR,3,Current Account,208,46965,Sep 17 2013,4:00am,EUR,Current Account,medium, ,18.3B, 
+1,2013.09.17 17:30,GBP,5,CPI y/y,209,46057,Sep 17 2013,4:30am,GBP,CPI y/y,high,2.8%,2.7%,2.7%
+1,2013.09.17 17:30,GBP,3,PPI Input m/m,210,46093,Sep 17 2013,4:30am,GBP,PPI Input m/m,medium, ,0.3%, 
+1,2013.09.17 17:30,GBP,3,RPI y/y,211,46081,Sep 17 2013,4:30am,GBP,RPI y/y,medium,3.1%,3.2%, 
+1,2013.09.17 17:30,GBP,1,Core CPI y/y,212,46069,Sep 17 2013,4:30am,GBP,Core CPI y/y,low,2.0%,2.1%, 
+1,2013.09.17 17:30,GBP,1,HPI y/y,213,45939,Sep 17 2013,4:30am,GBP,HPI y/y,low,3.1%,3.4%,3.3%
+1,2013.09.17 17:30,GBP,1,PPI Output m/m,214,46105,Sep 17 2013,4:30am,GBP,PPI Output m/m,low,0.2%,0.2%,0.1%
+1,2013.09.17 18:00,EUR,5,German ZEW Economic Sentiment,215,47966,Sep 17 2013,5:00am,EUR,German ZEW Economic Sentiment,high,42.0,45.3, 
+1,2013.09.17 18:00,EUR,3,ZEW Economic Sentiment,216,47978,Sep 17 2013,5:00am,EUR,ZEW Economic Sentiment,medium,44.0,47.2, 
+1,2013.09.17 18:00,EUR,1,Trade Balance,217,46922,Sep 17 2013,5:00am,EUR,Trade Balance,low, ,15.3B, 
+1,2013.09.17 21:15,USD,3,Treasury Sec Lew Speaks,218,51092,Sep 17 2013,8:15am,USD,Treasury Sec Lew Speaks,medium, , , 
+1,2013.09.17 21:30,CAD,5,Manufacturing Sales m/m,219,47820,Sep 17 2013,8:30am,CAD,Manufacturing Sales m/m,high, ,0.6%, 
+1,2013.09.17 21:30,USD,5,Core CPI m/m,220,46476,Sep 17 2013,8:30am,USD,Core CPI m/m,high,0.2%,0.1%,0.1%
+1,2013.09.17 21:30,USD,3,CPI m/m,221,46488,Sep 17 2013,8:30am,USD,CPI m/m,medium,0.2%,0.2%, 
+1,2013.09.17 22:00,USD,3,TIC Long-Term Purchases,222,48106,Sep 17 2013,9:00am,USD,TIC Long-Term Purchases,medium, ,-45.3B, 
+1,2013.09.17 23:00,USD,3,NAHB Housing Market Index,223,48038,Sep 17 2013,10:00am,USD,NAHB Housing Market Index,medium, ,59, 
+1,2013.09.17 23:30,NZD,1,GDT Price Index,224,56307,Sep 17 2013,10:30am,NZD,GDT Price Index,low,-1.1%, ,0.3%
+1,2013.09.18 07:45,NZD,3,Current Account,225,44701,Sep 17 2013,6:45pm,NZD,Current Account,medium, ,-1.85B, 
+1,2013.09.18 09:00,AUD,3,CB Leading Index m/m,226,48317,Sep 17 2013,8:00pm,AUD,CB Leading Index m/m,medium, , ,0.3%
+1,2013.09.18 09:30,AUD,1,MI Leading Index m/m,227,44505,Sep 17 2013,8:30pm,AUD,MI Leading Index m/m,low,0.0%, ,0.6%
+1,2013.09.18 10:30,AUD,3,RBA Assist Gov Edey Speaks,228,50927,Sep 17 2013,9:30pm,AUD,RBA Assist Gov Edey Speaks,medium, , , 
+1,2013.09.18 17:30,GBP,5,MPC Asset Purchase Facility Votes,229,49180,Sep 18 2013,4:30am,GBP,MPC Asset Purchase Facility Votes,high,0-0-9,0-0-9,0-0-9
+1,2013.09.18 17:30,GBP,5,MPC Official Bank Rate Votes,230,45975,Sep 18 2013,4:30am,GBP,MPC Official Bank Rate Votes,high,0-0-9,0-0-9,0-0-9
+1,2013.09.18 18:00,CHF,3,ZEW Economic Expectations,231,45374,Sep 18 2013,5:00am,CHF,ZEW Economic Expectations,medium,7.2, ,16.3
+1,2013.09.18 21:30,USD,5,Building Permits,232,46586,Sep 18 2013,8:30am,USD,Building Permits,high, ,0.95M, 
+1,2013.09.18 21:30,USD,3,Housing Starts,233,46590,Sep 18 2013,8:30am,USD,Housing Starts,medium, ,0.93M, 
+1,2013.09.18 23:30,USD,3,Crude Oil Inventories,234,45620,Sep 18 2013,10:30am,USD,Crude Oil Inventories,medium,-0.2M,-1.2M,-4.4M
+1,2013.09.18 23:40,CAD,3,BOC Gov Poloz Speaks,235,50928,Sep 18 2013,10:40am,CAD,BOC Gov Poloz Speaks,medium, , , 
+1,2013.09.19 03:00,USD,5,FOMC Economic Projections,236,44179,Sep 18 2013,2:00pm,USD,FOMC Economic Projections,high, , , 
+1,2013.09.19 03:00,USD,5,FOMC Statement,237,44176,Sep 18 2013,2:00pm,USD,FOMC Statement,high, , , 
+1,2013.09.19 03:00,USD,3,Federal Funds Rate,238,44177,Sep 18 2013,2:00pm,USD,Federal Funds Rate,medium,0.25%,0.25%,0.25%
+1,2013.09.19 03:30,USD,5,FOMC Press Conference,239,44178,Sep 18 2013,2:30pm,USD,FOMC Press Conference,high, , , 
+1,2013.09.19 07:45,NZD,5,GDP q/q,240,44697,Sep 18 2013,6:45pm,NZD,GDP q/q,high, ,0.2%,0.2%
+1,2013.09.19 08:50,JPY,3,Trade Balance,241,45282,Sep 18 2013,7:50pm,JPY,Trade Balance,medium, ,-0.83T,-0.79T
+0,,CNY,0,Bank Holiday,242,48217,Sep 18 2013,All Day,CNY,Bank Holiday,holiday, , , 
+1,2013.09.19 10:30,AUD,1,RBA Bulletin,243,44380,Sep 18 2013,9:30pm,AUD,RBA Bulletin,low, , , 
+1,2013.09.19 13:30,JPY,1,All Industries Activity m/m,244,45198,Sep 19 2013,12:30am,JPY,All Industries Activity m/m,low, ,0.3%, 
+1,2013.09.19 14:45,CHF,1,SECO Economic Forecasts,245,45360,Sep 19 2013,1:45am,CHF,SECO Economic Forecasts,low, , , 
+1,2013.09.19 15:00,CHF,1,Trade Balance,246,45434,Sep 19 2013,2:00am,CHF,Trade Balance,low, ,2.74B, 
+1,2013.09.19 15:32,JPY,5,BOJ Gov Kuroda Speaks,247,50930,Sep 19 2013,2:32am,JPY,BOJ Gov Kuroda Speaks,high, , , 
+1,2013.09.19 16:30,CHF,5,Libor Rate,248,45325,Sep 19 2013,3:30am,CHF,Libor Rate,high,0.25%,0.25%,0.25%
+1,2013.09.19 16:30,CHF,5,SNB Monetary Policy Assessment,249,45326,Sep 19 2013,3:30am,CHF,SNB Monetary Policy Assessment,high, , , 
+1,2013.09.19 17:30,GBP,5,Retail Sales m/m,250,46190,Sep 19 2013,4:30am,GBP,Retail Sales m/m,high,1.1%,0.4%, 
+1,2013.09.19 19:00,GBP,3,CBI Industrial Order Expectations,251,45846,Sep 19 2013,6:00am,GBP,CBI Industrial Order Expectations,medium,0,2, 
+1,2013.09.19 21:30,CAD,3,Wholesale Sales m/m,252,47769,Sep 19 2013,8:30am,CAD,Wholesale Sales m/m,medium, ,1.1%, 
+1,2013.09.19 21:30,USD,5,Unemployment Claims,253,45516,Sep 19 2013,8:30am,USD,Unemployment Claims,high, ,331K, 
+1,2013.09.19 21:30,USD,3,Current Account,254,46382,Sep 19 2013,8:30am,USD,Current Account,medium, ,-96B, 
+1,2013.09.19 23:00,USD,5,Existing Home Sales,255,46618,Sep 19 2013,10:00am,USD,Existing Home Sales,high,5.39M,5.27M, 
+1,2013.09.19 23:00,USD,5,Philly Fed Manufacturing Index,256,48050,Sep 19 2013,10:00am,USD,Philly Fed Manufacturing Index,high,9.3,10.2, 
+1,2013.09.19 23:00,USD,1,CB Leading Index m/m,257,48063,Sep 19 2013,10:00am,USD,CB Leading Index m/m,low, ,0.6%, 
+1,2013.09.19 23:30,USD,1,Natural Gas Storage,258,45568,Sep 19 2013,10:30am,USD,Natural Gas Storage,low,65B,60B,46B
+1,2013.09.20 07:45,NZD,1,Visitor Arrivals m/m,259,44719,Sep 19 2013,6:45pm,NZD,Visitor Arrivals m/m,low, , ,0.0%
+0,,CNY,0,Bank Holiday,260,48218,Sep 19 2013,All Day,CNY,Bank Holiday,holiday, , , 
+1,2013.09.20 11:30,JPY,5,BOJ Gov Kuroda Speaks,261,50931,Sep 19 2013,10:30pm,JPY,BOJ Gov Kuroda Speaks,high, , , 
+1,2013.09.20 12:00,NZD,1,Credit Card Spending y/y,262,44735,Sep 19 2013,11:00pm,NZD,Credit Card Spending y/y,low, , ,6.6%
+1,2013.09.20 17:30,GBP,3,Public Sector Net Borrowing,263,46226,Sep 20 2013,4:30am,GBP,Public Sector Net Borrowing,medium, ,11.9B, 
+1,2013.09.20 20:30,EUR,3,German Buba President Weidmann Speaks,264,51241,Sep 20 2013,7:30am,EUR,German Buba President Weidmann Speaks,medium, , , 
+1,2013.09.20 21:30,CAD,5,Core CPI m/m,265,47911,Sep 20 2013,8:30am,CAD,Core CPI m/m,high,0.0%,0.1%, 
+1,2013.09.20 21:30,CAD,3,CPI m/m,266,47909,Sep 20 2013,8:30am,CAD,CPI m/m,medium,0.1%,0.1%, 
+1,2013.09.20 23:00,EUR,1,Consumer Confidence,267,47739,Sep 20 2013,10:00am,EUR,Consumer Confidence,low,-16,-14, 
+1,2013.09.21 01:30,USD,3,FOMC Member George Speaks,268,50932,Sep 20 2013,12:30pm,USD,FOMC Member George Speaks,medium, , , 
+1,2013.09.21 01:40,USD,1,FOMC Member Tarullo Speaks,269,51093,Sep 20 2013,12:40pm,USD,FOMC Member Tarullo Speaks,low, , , 
+1,2013.09.21 01:55,USD,5,FOMC Member Bullard Speaks,270,50933,Sep 20 2013,12:55pm,USD,FOMC Member Bullard Speaks,high, , , 
+0,,EUR,5,German Federal Elections,272,49425,Sep 22 2013,All Day,EUR,German Federal Elections,high, , , 
+0,,JPY,0,Bank Holiday,273,48196,Sep 22 2013,All Day,JPY,Bank Holiday,holiday, , , 
+1,2013.09.23 10:45,CNY,5,HSBC Flash Manufacturing PMI,274,44792,Sep 22 2013,9:45pm,CNY,HSBC Flash Manufacturing PMI,high,50.1,50.9,51.2
+1,2013.09.23 16:00,EUR,5,French Flash Manufacturing PMI,275,47179,Sep 23 2013,3:00am,EUR,French Flash Manufacturing PMI,high,49.7,50.2, 
+1,2013.09.23 16:00,EUR,3,French Flash Services PMI,276,47183,Sep 23 2013,3:00am,EUR,French Flash Services PMI,medium, ,49.3, 
+1,2013.09.23 16:30,EUR,5,German Flash Manufacturing PMI,277,47187,Sep 23 2013,3:30am,EUR,German Flash Manufacturing PMI,high, ,52.3, 
+1,2013.09.23 16:30,EUR,3,German Flash Services PMI,278,47191,Sep 23 2013,3:30am,EUR,German Flash Services PMI,medium, ,53.2, 
+1,2013.09.23 17:00,EUR,3,Flash Manufacturing PMI,279,47195,Sep 23 2013,4:00am,EUR,Flash Manufacturing PMI,medium, ,51.8, 
+1,2013.09.23 17:00,EUR,3,Flash Services PMI,280,47199,Sep 23 2013,4:00am,EUR,Flash Services PMI,medium, ,51.1, 
+1,2013.09.23 19:00,EUR,3,German Buba Monthly Report,281,50557,Sep 23 2013,6:00am,EUR,German Buba Monthly Report,medium, , , 
+1,2013.09.23 22:00,EUR,5,ECB President Draghi Speaks,282,51242,Sep 23 2013,9:00am,EUR,ECB President Draghi Speaks,high, , , 
+1,2013.09.23 22:00,USD,3,Flash Manufacturing PMI,283,46778,Sep 23 2013,9:00am,USD,Flash Manufacturing PMI,medium, ,54.2, 
+1,2013.09.23 22:30,USD,3,FOMC Member Dudley Speaks,284,51243,Sep 23 2013,9:30am,USD,FOMC Member Dudley Speaks,medium, , , 
+1,2013.09.24 00:15,CHF,5,SNB Chairman Jordan Speaks,285,51254,Sep 23 2013,11:15am,CHF,SNB Chairman Jordan Speaks,high, , , 
+1,2013.09.24 03:00,GBP,3,MPC Member Broadbent Speaks,286,51253,Sep 23 2013,2:00pm,GBP,MPC Member Broadbent Speaks,medium, , , 
+1,2013.09.24 17:00,EUR,5,German Ifo Business Climate,287,47307,Sep 24 2013,4:00am,EUR,German Ifo Business Climate,high, ,108.4, 
+1,2013.09.24 17:30,GBP,3,BBA Mortgage Approvals,288,45963,Sep 24 2013,4:30am,GBP,BBA Mortgage Approvals,medium, ,38.6K,38.2K
+1,2013.09.24 19:30,GBP,3,MPC Member Miles Speaks,289,51255,Sep 24 2013,6:30am,GBP,MPC Member Miles Speaks,medium, , , 
+1,2013.09.24 21:30,CAD,5,Core Retail Sales m/m,290,47789,Sep 24 2013,8:30am,CAD,Core Retail Sales m/m,high, ,0.6%, 
+1,2013.09.24 21:30,CAD,3,Retail Sales m/m,291,47791,Sep 24 2013,8:30am,CAD,Retail Sales m/m,medium,-0.6%,0.6%,0.6%
+1,2013.09.24 21:45,GBP,3,MPC Member Tucker Speaks,292,51244,Sep 24 2013,8:45am,GBP,MPC Member Tucker Speaks,medium, , , 
+1,2013.09.24 22:00,USD,3,/CS Composite-20 HPI y/y,293,46646,Sep 24 2013,9:00am,USD,/CS Composite-20 HPI y/y,medium,12.1%,12.5%,12.4%
+1,2013.09.24 22:00,USD,1,HPI m/m,294,46606,Sep 24 2013,9:00am,USD,HPI m/m,low,0.7%,0.9%, 
+1,2013.09.24 22:30,EUR,1,Belgian NBB Business Climate,295,47294,Sep 24 2013,9:30am,EUR,Belgian NBB Business Climate,low,-8.6,-7.1, 
+1,2013.09.24 22:59,USD,1,Richmond Manufacturing Index,296,48026,Sep 24 2013,9:59am,USD,Richmond Manufacturing Index,low,14,17, 
+1,2013.09.24 23:00,USD,5,CB Consumer Confidence,297,46706,Sep 24 2013,10:00am,USD,CB Consumer Confidence,high, ,79.9,79.7
+1,2013.09.25 01:30,CAD,3,Gov Council Member Schembri Speaks,298,50929,Sep 24 2013,12:30pm,CAD,Gov Council Member Schembri Speaks,medium, , , 
+1,2013.09.25 02:00,GBP,3,MPC Member Bean Speaks,299,51246,Sep 24 2013,1:00pm,GBP,MPC Member Bean Speaks,medium, , , 
+1,2013.09.25 02:00,USD,3,FOMC Member George Speaks,300,51245,Sep 24 2013,1:00pm,USD,FOMC Member George Speaks,medium, , , 
+1,2013.09.25 07:45,NZD,5,Trade Balance,301,44720,Sep 24 2013,6:45pm,NZD,Trade Balance,high, ,-722M, 
+1,2013.09.25 08:50,JPY,1,SPPI y/y,302,45162,Sep 24 2013,7:50pm,JPY,SPPI y/y,low, ,0.5%, 
+1,2013.09.25 10:30,AUD,3,RBA Financial Stability Review,303,44389,Sep 24 2013,9:30pm,AUD,RBA Financial Stability Review,medium, , , 
+1,2013.09.25 15:00,CHF,1,UBS Consumption Indicator,304,45423,Sep 25 2013,2:00am,CHF,UBS Consumption Indicator,low,1.41, ,1.32
+1,2013.09.25 15:00,EUR,3,GfK German Consumer Climate,305,47751,Sep 25 2013,2:00am,EUR,GfK German Consumer Climate,medium, ,7.1,7.1
+1,2013.09.25 17:30,GBP,1,FPC Statement,306,57069,Sep 25 2013,4:30am,GBP,FPC Statement,low, , , 
+1,2013.09.25 19:00,GBP,3,CBI Realized Sales,307,45858,Sep 25 2013,6:00am,GBP,CBI Realized Sales,medium,27,24, 
+1,2013.09.25 21:30,USD,5,Core Durable Goods Orders m/m,308,46340,Sep 25 2013,8:30am,USD,Core Durable Goods Orders m/m,high, ,1.1%, 
+1,2013.09.25 21:30,USD,3,Durable Goods Orders m/m,309,46352,Sep 25 2013,8:30am,USD,Durable Goods Orders m/m,medium, ,0.0%,0.1%
+1,2013.09.25 23:00,USD,5,New Home Sales,310,46287,Sep 25 2013,10:00am,USD,New Home Sales,high, ,422K,421K
+1,2013.09.25 23:30,USD,3,Crude Oil Inventories,311,45621,Sep 25 2013,10:30am,USD,Crude Oil Inventories,medium,-4.4M,-1.0M,2.6M
+1,2013.09.26 17:00,EUR,3,M3 Money Supply y/y,312,48092,Sep 26 2013,4:00am,EUR,M3 Money Supply y/y,medium,2.2%,2.3%,2.3%
+1,2013.09.26 17:00,EUR,1,Italian Retail Sales m/m,313,47095,Sep 26 2013,4:00am,EUR,Italian Retail Sales m/m,low,-0.2%,0.3%, 
+1,2013.09.26 17:00,EUR,1,Private Loans y/y,314,48094,Sep 26 2013,4:00am,EUR,Private Loans y/y,low,-1.9%,-1.7%, 
+1,2013.09.26 17:30,GBP,5,Current Account,315,46230,Sep 26 2013,4:30am,GBP,Current Account,high, ,-11.2B, 
+1,2013.09.26 17:30,GBP,3,Final GDP q/q,316,46236,Sep 26 2013,4:30am,GBP,Final GDP q/q,medium,0.7%,0.7%,0.7%
+1,2013.09.26 17:30,GBP,1,Revised Business Investment q/q,317,46251,Sep 26 2013,4:30am,GBP,Revised Business Investment q/q,low,0.9%,0.9%, 
+1,2013.09.26 21:30,USD,5,Unemployment Claims,318,45518,Sep 26 2013,8:30am,USD,Unemployment Claims,high, ,319K, 
+1,2013.09.26 21:30,USD,3,Final GDP q/q,319,46538,Sep 26 2013,8:30am,USD,Final GDP q/q,medium,2.5%,2.7%, 
+1,2013.09.26 21:30,USD,1,Final GDP Price Index q/q,320,46551,Sep 26 2013,8:30am,USD,Final GDP Price Index q/q,low,0.8%,0.8%, 
+1,2013.09.26 22:00,CHF,1,SNB Quarterly Bulletin,321,45333,Sep 26 2013,9:00am,CHF,SNB Quarterly Bulletin,low, , , 
+1,2013.09.26 23:00,USD,5,Pending Home Sales m/m,322,46630,Sep 26 2013,10:00am,USD,Pending Home Sales m/m,high, ,-0.9%, 
+1,2013.09.26 23:10,USD,3,FOMC Member Stein Speaks,323,51256,Sep 26 2013,10:10am,USD,FOMC Member Stein Speaks,medium, , , 
+1,2013.09.26 23:30,USD,1,Natural Gas Storage,324,45569,Sep 26 2013,10:30am,USD,Natural Gas Storage,low,46B,60B,87B
+1,2013.09.27 08:05,GBP,1,GfK Consumer Confidence,325,45875,Sep 26 2013,7:05pm,GBP,GfK Consumer Confidence,low,-13,-10,-10
+1,2013.09.27 08:30,JPY,3,National Core CPI y/y,326,45109,Sep 26 2013,7:30pm,JPY,National Core CPI y/y,medium,0.7%,0.7%, 
+1,2013.09.27 08:30,JPY,3,Tokyo Core CPI y/y,327,45110,Sep 26 2013,7:30pm,JPY,Tokyo Core CPI y/y,medium,0.4%,0.3%, 
+1,2013.09.27 10:15,USD,3,FOMC Member George Speaks,328,51247,Sep 26 2013,9:15pm,USD,FOMC Member George Speaks,medium, , , 
+1,2013.09.27 15:00,GBP,3,Nationwide HPI m/m,329,45923,Sep 27 2013,2:00am,GBP,Nationwide HPI m/m,medium, ,0.5%, 
+0,,EUR,3,German Prelim CPI m/m,330,47399,Sep 27 2013,All Day,EUR,German Prelim CPI m/m,medium,0.0%,0.0%,0.0%
+0,,EUR,1,French Consumer Spending m/m,331,46981,Sep 27 2013,Jul Data,EUR,French Consumer Spending m/m,low,-0.8%,0.3%, 
+1,2013.09.27 15:45,EUR,3,French Consumer Spending m/m,332,46980,Sep 27 2013,2:45am,EUR,French Consumer Spending m/m,medium,0.4%,0.1%, 
+1,2013.09.27 16:00,CHF,3,KOF Economic Barometer,333,45446,Sep 27 2013,3:00am,CHF,KOF Economic Barometer,medium, ,1.46, 
+1,2013.09.27 16:00,EUR,1,Spanish Flash CPI y/y,334,54172,Sep 27 2013,3:00am,EUR,Spanish Flash CPI y/y,low,1.5%,0.9%, 
+1,2013.09.27 17:10,EUR,1,Retail PMI,335,47283,Sep 27 2013,4:10am,EUR,Retail PMI,low,50.3, ,48.6
+1,2013.09.27 17:30,GBP,1,Index of Services 3m/3m,336,46151,Sep 27 2013,4:30am,GBP,Index of Services 3m/3m,low,0.6%,0.6%, 
+1,2013.09.27 18:00,EUR,5,ECB President Draghi Speaks,337,51248,Sep 27 2013,5:00am,EUR,ECB President Draghi Speaks,high, , , 
+1,2013.09.27 18:15,EUR,5,Italian 10-y Bond Auction,338,47628,Sep 27 2013,5:15am,EUR,Italian 10-y Bond Auction,high,4.46|1.5, ,4.50|1.4
+1,2013.09.27 18:45,USD,5,FOMC Member Evans Speaks,339,51249,Sep 27 2013,5:45am,USD,FOMC Member Evans Speaks,high, , , 
+1,2013.09.27 21:30,USD,3,Core PCE Price Index m/m,340,46453,Sep 27 2013,8:30am,USD,Core PCE Price Index m/m,medium,0.1%,0.1%, 
+1,2013.09.27 21:30,USD,3,FOMC Member Rosengren Speaks,341,51250,Sep 27 2013,8:30am,USD,FOMC Member Rosengren Speaks,medium, , , 
+1,2013.09.27 21:30,USD,3,Personal Spending m/m,342,46451,Sep 27 2013,8:30am,USD,Personal Spending m/m,medium, ,0.3%,0.3%
+1,2013.09.27 21:30,USD,1,Personal Income m/m,343,46428,Sep 27 2013,8:30am,USD,Personal Income m/m,low, ,0.5%, 
+1,2013.09.27 22:55,USD,3,Revised UoM Consumer Sentiment,344,46684,Sep 27 2013,9:55am,USD,Revised UoM Consumer Sentiment,medium,76.8,78.2, 
+1,2013.09.27 22:55,USD,1,Revised UoM Inflation Expectations,345,46685,Sep 27 2013,9:55am,USD,Revised UoM Inflation Expectations,low,3.2%, ,3.3%
+1,2013.09.27 23:45,USD,3,FOMC Member Evans Speaks,346,51251,Sep 27 2013,10:45am,USD,FOMC Member Evans Speaks,medium, , , 
+1,2013.09.28 03:00,USD,3,FOMC Member Dudley Speaks,347,51252,Sep 27 2013,2:00pm,USD,FOMC Member Dudley Speaks,medium, , , 
+1,2013.09.28 04:30,USD,1,President Obama Speaks,348,51514,Sep 27 2013,3:30pm,USD,President Obama Speaks,low, , , 
+0,2013.09.28 23:00,NZD,0,Daylight Saving Time Shift,349,44153,Sep 28 2013,10:00am,NZD,Daylight Saving Time Shift,holiday, , , 
+1,2013.09.30 06:45,NZD,3,Building Consents m/m,350,44622,Sep 29 2013,5:45pm,NZD,Building Consents m/m,medium, , ,1.4%
+1,2013.09.30 08:15,JPY,1,Final Manufacturing PMI,351,45026,Sep 29 2013,7:15pm,JPY,Final Manufacturing PMI,low,52.2, ,52.5
+1,2013.09.30 08:50,JPY,3,Prelim Industrial Production m/m,352,45234,Sep 29 2013,7:50pm,JPY,Prelim Industrial Production m/m,medium, ,-0.2%, 
+1,2013.09.30 08:50,JPY,3,Retail Sales y/y,353,45258,Sep 29 2013,7:50pm,JPY,Retail Sales y/y,medium,-0.3%,1.1%,1.1%
+1,2013.09.30 09:00,NZD,5,ANZ Business Confidence,354,48296,Sep 29 2013,8:00pm,NZD,ANZ Business Confidence,high,48.1, ,54.1
+1,2013.09.30 09:30,AUD,1,MI Inflation Gauge m/m,355,44462,Sep 29 2013,8:30pm,AUD,MI Inflation Gauge m/m,low,0.1%, ,0.2%
+1,2013.09.30 10:30,AUD,3,Private Sector Credit m/m,356,44525,Sep 29 2013,9:30pm,AUD,Private Sector Credit m/m,medium,0.4%,0.4%, 
+1,2013.09.30 10:45,CNY,3,HSBC Final Manufacturing PMI,357,44766,Sep 29 2013,9:45pm,CNY,HSBC Final Manufacturing PMI,medium,51.2,51.2, 
+1,2013.09.30 14:00,JPY,1,Housing Starts y/y,358,45038,Sep 30 2013,1:00am,JPY,Housing Starts y/y,low,12.0%,12.9%, 
+1,2013.09.30 15:00,EUR,3,German Retail Sales m/m,359,47029,Sep 30 2013,2:00am,EUR,German Retail Sales m/m,medium, ,0.9%, 
+1,2013.09.30 17:30,GBP,3,Net Lending to Individuals m/m,360,46202,Sep 30 2013,4:30am,GBP,Net Lending to Individuals m/m,medium, ,1.6B,1.6B
+1,2013.09.30 17:30,GBP,1,M4 Money Supply m/m,361,46009,Sep 30 2013,4:30am,GBP,M4 Money Supply m/m,low,0.6%,0.7%,0.7%
+1,2013.09.30 17:30,GBP,1,Mortgage Approvals,362,45911,Sep 30 2013,4:30am,GBP,Mortgage Approvals,low,61K,61K,62K
+1,2013.09.30 18:00,EUR,3,CPI Flash Estimate y/y,363,46839,Sep 30 2013,5:00am,EUR,CPI Flash Estimate y/y,medium,1.3%,1.3%, 
+1,2013.09.30 18:00,EUR,1,Core CPI Flash Estimate y/y,364,54111,Sep 30 2013,5:00am,EUR,Core CPI Flash Estimate y/y,low,1.1%, ,1.0%
+1,2013.09.30 18:00,EUR,1,Italian Prelim CPI m/m,365,47327,Sep 30 2013,5:00am,EUR,Italian Prelim CPI m/m,low, ,0.3%, 
+1,2013.09.30 21:30,CAD,5,GDP m/m,366,47889,Sep 30 2013,8:30am,CAD,GDP m/m,high,-0.5%,0.6%,0.6%
+1,2013.09.30 21:30,CAD,3,RMPI m/m,367,47872,Sep 30 2013,8:30am,CAD,RMPI m/m,medium, ,3.2%, 
+1,2013.09.30 21:30,CAD,1,IPPI m/m,368,47870,Sep 30 2013,8:30am,CAD,IPPI m/m,low,0.3%,0.9%, 
+1,2013.09.30 22:45,USD,3,Chicago PMI,369,46718,Sep 30 2013,9:45am,USD,Chicago PMI,medium,53.0,54.5, 
+1,2013.10.01 08:30,AUD,1,AIG Manufacturing Index,370,44282,Sep 30 2013,7:30pm,AUD,AIG Manufacturing Index,low,46.4, ,51.7
+1,2013.10.01 08:30,JPY,3,Household Spending y/y,371,45137,Sep 30 2013,7:30pm,JPY,Household Spending y/y,medium,0.1%,0.2%, 
+1,2013.10.01 08:30,JPY,1,Unemployment Rate,372,45089,Sep 30 2013,7:30pm,JPY,Unemployment Rate,low,3.8%,3.8%, 
+1,2013.10.01 08:50,JPY,3,Tankan Manufacturing Index,373,45014,Sep 30 2013,7:50pm,JPY,Tankan Manufacturing Index,medium,4,7, 
+1,2013.10.01 08:50,JPY,3,Tankan Non-Manufacturing Index,374,45015,Sep 30 2013,7:50pm,JPY,Tankan Non-Manufacturing Index,medium,12,14,14
+0,,CNY,0,Bank Holiday,375,48219,Sep 30 2013,All Day,CNY,Bank Holiday,holiday, , , 
+1,2013.10.01 09:58,CNY,5,Manufacturing PMI,376,44767,Sep 30 2013,8:58pm,CNY,Manufacturing PMI,high,51.0,51.6, 
+1,2013.10.01 10:00,AUD,3,HIA New Home Sales m/m,377,44359,Sep 30 2013,9:00pm,AUD,HIA New Home Sales m/m,medium,-4.7%, ,3.4%
+1,2013.10.01 10:30,AUD,5,Retail Sales m/m,378,44547,Sep 30 2013,9:30pm,AUD,Retail Sales m/m,high,0.1%,0.3%, 
+1,2013.10.01 10:30,JPY,3,Average Cash Earnings y/y,379,45125,Sep 30 2013,9:30pm,JPY,Average Cash Earnings y/y,medium, ,-0.2%, 
+1,2013.10.01 12:45,JPY,1,10-y Bond Auction,380,49055,Sep 30 2013,11:45pm,JPY,10-y Bond Auction,low,0.77|3.5, ,0.68|3.7

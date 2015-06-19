@@ -1,0 +1,363 @@
+1,2010.02.01 14:35,AUD,3,Commodity Prices y/y,0,27158,Feb 1 2010,1:35am,AUD,Commodity Prices y/y,medium, , ,-11.7%
+1,2010.02.01 17:15,EUR,3,Spanish Manufacturing PMI,1,43826,Feb 1 2010,4:15am,EUR,Spanish Manufacturing PMI,medium,45.2, ,45.3
+1,2010.02.01 17:30,CHF,3,Manufacturing PMI,2,24656,Feb 1 2010,4:30am,CHF,Manufacturing PMI,medium,54.6,55.4, 
+1,2010.02.01 17:45,EUR,1,Italian Manufacturing PMI,3,43480,Feb 1 2010,4:45am,EUR,Italian Manufacturing PMI,low,50.8,51.2, 
+1,2010.02.01 17:50,EUR,1,French Final Manufacturing PMI,4,58921,Feb 1 2010,4:50am,EUR,French Final Manufacturing PMI,low,54.7,54.7, 
+1,2010.02.01 17:55,EUR,1,German Final Manufacturing PMI,5,58978,Feb 1 2010,4:55am,EUR,German Final Manufacturing PMI,low,53.4,53.4,53.7
+1,2010.02.01 18:00,EUR,1,Final Manufacturing PMI,6,24655,Feb 1 2010,5:00am,EUR,Final Manufacturing PMI,low,52.0,52.0, 
+1,2010.02.01 18:30,GBP,5,Manufacturing PMI,7,24516,Feb 1 2010,5:30am,GBP,Manufacturing PMI,high, ,54.1, 
+1,2010.02.01 18:30,GBP,3,Net Lending to Individuals m/m,8,28151,Feb 1 2010,5:30am,GBP,Net Lending to Individuals m/m,medium, ,1.2B,1.2B
+1,2010.02.01 18:30,GBP,1,Mortgage Approvals,9,28150,Feb 1 2010,5:30am,GBP,Mortgage Approvals,low, ,62K, 
+1,2010.02.01 22:30,USD,3,Core PCE Price Index m/m,10,26119,Feb 1 2010,9:30am,USD,Core PCE Price Index m/m,medium,0.0%,0.1%,0.1%
+1,2010.02.01 22:30,USD,3,Personal Spending m/m,11,26120,Feb 1 2010,9:30am,USD,Personal Spending m/m,medium, ,0.3%, 
+1,2010.02.01 22:30,USD,1,Personal Income m/m,12,26121,Feb 1 2010,9:30am,USD,Personal Income m/m,low, ,0.4%,0.4%
+1,2010.02.02 00:00,USD,5,ISM Manufacturing PMI,13,24800,Feb 1 2010,11:00am,USD,ISM Manufacturing PMI,high,55.9,55.5, 
+1,2010.02.02 00:00,USD,3,Treasury Sec Geithner Speaks,14,29674,Feb 1 2010,11:00am,USD,Treasury Sec Geithner Speaks,medium, , , 
+1,2010.02.02 00:00,USD,1,Construction Spending m/m,15,25366,Feb 1 2010,11:00am,USD,Construction Spending m/m,low, ,-0.4%, 
+1,2010.02.02 00:00,USD,1,ISM Manufacturing Prices,16,24801,Feb 1 2010,11:00am,USD,ISM Manufacturing Prices,low,61.5,63.0, 
+1,2010.02.02 04:00,USD,1,Loan Officer Survey,17,28495,Feb 1 2010,3:00pm,USD,Loan Officer Survey,low, , , 
+1,2010.02.02 06:45,NZD,5,Labor Cost Index q/q,18,27485,Feb 1 2010,5:45pm,NZD,Labor Cost Index q/q,high,0.4%,0.5%, 
+1,2010.02.02 08:50,JPY,1,Monetary Base y/y,19,25830,Feb 1 2010,7:50pm,JPY,Monetary Base y/y,low,5.2%,4.9%,4.9%
+1,2010.02.02 09:30,AUD,3,NAB Business Confidence,20,29019,Feb 1 2010,8:30pm,AUD,NAB Business Confidence,medium,19, ,8
+1,2010.02.02 10:30,JPY,3,Average Cash Earnings y/y,21,28372,Feb 1 2010,9:30pm,JPY,Average Cash Earnings y/y,medium, ,-2.6%, 
+1,2010.02.02 12:30,AUD,5,Cash Rate,22,24443,Feb 1 2010,11:30pm,AUD,Cash Rate,high,3.75%,4.00%, 
+1,2010.02.02 12:30,AUD,5,RBA Rate Statement,23,24444,Feb 1 2010,11:30pm,AUD,RBA Rate Statement,high, , , 
+1,2010.02.02 12:45,JPY,1,10-y Bond Auction,24,49011,Feb 1 2010,11:45pm,JPY,10-y Bond Auction,low,1.34|2.6, ,1.35|3.6
+1,2010.02.02 15:45,CHF,3,SECO Consumer Climate,25,25400,Feb 2 2010,2:45am,CHF,SECO Consumer Climate,medium,-14,-10, 
+1,2010.02.02 16:00,EUR,3,German Retail Sales m/m,26,25202,Feb 2 2010,3:00am,EUR,German Retail Sales m/m,medium, ,0.9%,0.8%
+1,2010.02.02 17:00,EUR,3,Spanish Unemployment Change,27,44005,Feb 2 2010,4:00am,EUR,Spanish Unemployment Change,medium,54.7K, ,124.9K
+1,2010.02.02 18:30,GBP,3,Construction PMI,28,24517,Feb 2 2010,5:30am,GBP,Construction PMI,medium,47.1,47.7, 
+1,2010.02.02 19:00,EUR,1,PPI m/m,29,27237,Feb 2 2010,6:00am,EUR,PPI m/m,low, ,0.0%, 
+1,2010.02.02 22:30,NZD,1,GDT Price Index,30,56226,Feb 2 2010,9:30am,NZD,GDT Price Index,low,-5.4%, ,-2.5%
+1,2010.02.03 00:00,USD,5,Pending Home Sales m/m,31,27361,Feb 2 2010,11:00am,USD,Pending Home Sales m/m,high, ,0.4%, 
+1,2010.02.03 00:00,USD,3,Treasury Sec Geithner Speaks,32,29677,Feb 2 2010,11:00am,USD,Treasury Sec Geithner Speaks,medium, , , 
+0,,USD,1,Total Vehicle Sales,33,25323,Feb 2 2010,All Day,USD,Total Vehicle Sales,low,11.3M,11.1M, 
+1,2010.02.03 07:30,AUD,3,AIG Services Index,34,24577,Feb 2 2010,6:30pm,AUD,AIG Services Index,medium,50.0, ,47.4
+1,2010.02.03 09:01,GBP,3,Nationwide Consumer Confidence,35,26059,Feb 2 2010,8:01pm,GBP,Nationwide Consumer Confidence,medium, ,70, 
+1,2010.02.03 09:01,GBP,1,BRC Shop Price Index y/y,36,28173,Feb 2 2010,8:01pm,GBP,BRC Shop Price Index y/y,low,2.2%, ,2.3%
+1,2010.02.03 09:30,AUD,5,Trade Balance,37,24617,Feb 2 2010,8:30pm,AUD,Trade Balance,high, ,-2.36B, 
+1,2010.02.03 10:00,CNY,1,Non-Manufacturing PMI,38,42267,Feb 2 2010,9:00pm,CNY,Non-Manufacturing PMI,low,57.5, ,55.1
+1,2010.02.03 17:15,EUR,1,Spanish Services PMI,39,43922,Feb 3 2010,4:15am,EUR,Spanish Services PMI,low,45.0, ,48.8
+1,2010.02.03 17:45,EUR,1,Italian Services PMI,40,43540,Feb 3 2010,4:45am,EUR,Italian Services PMI,low,53.9,52.9, 
+1,2010.02.03 17:50,EUR,1,French Final Services PMI,41,59129,Feb 3 2010,4:50am,EUR,French Final Services PMI,low,57.0,57.0, 
+1,2010.02.03 17:55,EUR,1,German Final Services PMI,42,59141,Feb 3 2010,4:55am,EUR,German Final Services PMI,low,51.2,51.2, 
+1,2010.02.03 18:00,EUR,1,Final Services PMI,43,24657,Feb 3 2010,5:00am,EUR,Final Services PMI,low,52.3,52.3,52.5
+1,2010.02.03 18:30,GBP,5,Services PMI,44,24518,Feb 3 2010,5:30am,GBP,Services PMI,high,56.8,56.6, 
+1,2010.02.03 19:00,EUR,3,Retail Sales m/m,45,27213,Feb 3 2010,6:00am,EUR,Retail Sales m/m,medium, ,0.4%, 
+1,2010.02.03 21:30,USD,1,Challenger Job Cuts y/y,46,27464,Feb 3 2010,8:30am,USD,Challenger Job Cuts y/y,low,-72.9%, ,-70.4%
+1,2010.02.03 22:15,USD,5,ADP Non-Farm Employment Change,47,26960,Feb 3 2010,9:15am,USD,ADP Non-Farm Employment Change,high, ,-31K, 
+1,2010.02.04 00:00,USD,5,ISM Non-Manufacturing PMI,48,25377,Feb 3 2010,11:00am,USD,ISM Non-Manufacturing PMI,high,50.1,51.1, 
+1,2010.02.04 00:00,USD,1,Treasury Sec Geithner Speaks,49,29678,Feb 3 2010,11:00am,USD,Treasury Sec Geithner Speaks,low, , , 
+1,2010.02.04 00:30,USD,3,Crude Oil Inventories,50,24697,Feb 3 2010,11:30am,USD,Crude Oil Inventories,medium,-3.9M,0.4M,2.3M
+1,2010.02.04 02:00,USD,3,FOMC Member Warsh Speaks,51,29675,Feb 3 2010,1:00pm,USD,FOMC Member Warsh Speaks,medium, , , 
+1,2010.02.04 06:45,NZD,5,Employment Change q/q,52,27487,Feb 3 2010,5:45pm,NZD,Employment Change q/q,high,-0.8%,-0.1%,-0.1%
+1,2010.02.04 06:45,NZD,5,Unemployment Rate,53,27486,Feb 3 2010,5:45pm,NZD,Unemployment Rate,high,6.5%,6.8%, 
+1,2010.02.04 06:45,NZD,1,Visitor Arrivals m/m,54,27517,Feb 3 2010,5:45pm,NZD,Visitor Arrivals m/m,low, , ,8.5%
+1,2010.02.04 09:30,AUD,5,Building Approvals m/m,55,27432,Feb 3 2010,8:30pm,AUD,Building Approvals m/m,high, ,-0.2%, 
+1,2010.02.04 09:30,AUD,5,Retail Sales m/m,56,27324,Feb 3 2010,8:30pm,AUD,Retail Sales m/m,high, ,0.3%, 
+1,2010.02.04 16:15,CHF,3,Trade Balance,57,25534,Feb 4 2010,3:15am,CHF,Trade Balance,medium, ,2.33B, 
+1,2010.02.04 17:00,CHF,5,Foreign Currency Reserves,58,42156,Feb 4 2010,4:00am,CHF,Foreign Currency Reserves,high,94.7B, ,93.9B
+1,2010.02.04 18:00,GBP,5,Halifax HPI m/m,59,24519,Feb 4 2010,5:00am,GBP,Halifax HPI m/m,high, ,0.9%, 
+1,2010.02.04 19:02,EUR,3,French 10-y Bond Auction,60,42380,Feb 4 2010,6:02am,EUR,French 10-y Bond Auction,medium,3.60|1.7, ,3.58|1.7
+1,2010.02.04 20:00,EUR,3,German Factory Orders m/m,61,25190,Feb 4 2010,7:00am,EUR,German Factory Orders m/m,medium, ,0.2%, 
+1,2010.02.04 21:00,GBP,5,Asset Purchase Facility,62,25051,Feb 4 2010,8:00am,GBP,Asset Purchase Facility,high,200B,200B,200B
+1,2010.02.04 21:00,GBP,5,MPC Rate Statement,63,25050,Feb 4 2010,8:00am,GBP,MPC Rate Statement,high, , , 
+1,2010.02.04 21:00,GBP,5,Official Bank Rate,64,25049,Feb 4 2010,8:00am,GBP,Official Bank Rate,high,0.50%,0.50%,0.50%
+1,2010.02.04 21:45,EUR,5,Minimum Bid Rate,65,24160,Feb 4 2010,8:45am,EUR,Minimum Bid Rate,high,1.00%,1.00%,1.00%
+1,2010.02.04 22:30,CAD,5,Building Permits m/m,66,26948,Feb 4 2010,9:30am,CAD,Building Permits m/m,high, ,2.7%, 
+1,2010.02.04 22:30,EUR,5,ECB Press Conference,67,24161,Feb 4 2010,9:30am,EUR,ECB Press Conference,high, , , 
+1,2010.02.04 22:30,USD,5,Unemployment Claims,68,28874,Feb 4 2010,9:30am,USD,Unemployment Claims,high, ,461K, 
+1,2010.02.04 22:30,USD,3,Prelim Nonfarm Productivity q/q,69,26103,Feb 4 2010,9:30am,USD,Prelim Nonfarm Productivity q/q,medium, ,5.7%, 
+1,2010.02.04 22:30,USD,3,Prelim Unit Labor Costs q/q,70,26104,Feb 4 2010,9:30am,USD,Prelim Unit Labor Costs q/q,medium, ,-2.3%, 
+1,2010.02.05 00:00,CAD,5,Ivey PMI,71,25595,Feb 4 2010,11:00am,CAD,Ivey PMI,high,48.4,52.3, 
+1,2010.02.05 00:00,USD,3,Factory Orders m/m,72,26265,Feb 4 2010,11:00am,USD,Factory Orders m/m,medium, ,0.7%, 
+1,2010.02.05 00:00,USD,1,Treasury Sec Geithner Speaks,73,29679,Feb 4 2010,11:00am,USD,Treasury Sec Geithner Speaks,low, , , 
+1,2010.02.05 00:30,USD,1,Natural Gas Storage,74,24698,Feb 4 2010,11:30am,USD,Natural Gas Storage,low,-86B,-123B,-115B
+1,2010.02.05 03:45,CAD,3,BOC Gov Carney Speaks,75,29662,Feb 4 2010,2:45pm,CAD,BOC Gov Carney Speaks,medium, , , 
+1,2010.02.05 04:00,USD,5,FOMC Member Hoenig Speaks,76,29681,Feb 4 2010,3:00pm,USD,FOMC Member Hoenig Speaks,high, , , 
+1,2010.02.05 07:30,AUD,1,AIG Construction Index,77,24576,Feb 4 2010,6:30pm,AUD,AIG Construction Index,low,49.3, ,57.7
+1,2010.02.05 09:30,AUD,5,RBA Monetary Policy Statement,78,27194,Feb 4 2010,8:30pm,AUD,RBA Monetary Policy Statement,high, , , 
+1,2010.02.05 14:00,JPY,1,Leading Indicators,79,29004,Feb 5 2010,1:00am,JPY,Leading Indicators,low, ,93.7%,94.0%
+1,2010.02.05 16:45,EUR,1,French Gov Budget Balance,80,26617,Feb 5 2010,3:45am,EUR,French Gov Budget Balance,low,-143.3B, ,-138.0B
+1,2010.02.05 16:45,EUR,1,French Trade Balance,81,26549,Feb 5 2010,3:45am,EUR,French Trade Balance,low, ,-3.9B, 
+1,2010.02.05 18:30,GBP,5,PPI Input m/m,82,26694,Feb 5 2010,5:30am,GBP,PPI Input m/m,high, ,0.7%, 
+1,2010.02.05 18:30,GBP,1,PPI Output m/m,83,26695,Feb 5 2010,5:30am,GBP,PPI Output m/m,low,0.5%,0.3%,0.4%
+1,2010.02.05 19:00,EUR,1,Italian Prelim CPI m/m,84,26532,Feb 5 2010,6:00am,EUR,Italian Prelim CPI m/m,low,0.2%,0.3%, 
+1,2010.02.05 20:00,EUR,3,German Industrial Production m/m,85,25168,Feb 5 2010,7:00am,EUR,German Industrial Production m/m,medium,0.7%,0.6%, 
+1,2010.02.05 21:00,CAD,5,Employment Change,86,26719,Feb 5 2010,8:00am,CAD,Employment Change,high,-2.6K,15.2K, 
+1,2010.02.05 21:00,CAD,5,Unemployment Rate,87,26718,Feb 5 2010,8:00am,CAD,Unemployment Rate,high,8.5%,8.5%, 
+1,2010.02.05 22:30,USD,5,Non-Farm Employment Change,88,24201,Feb 5 2010,9:30am,USD,Non-Farm Employment Change,high, ,10K, 
+1,2010.02.05 22:30,USD,5,Unemployment Rate,89,24202,Feb 5 2010,9:30am,USD,Unemployment Rate,high,10.0%,10.0%, 
+1,2010.02.05 22:30,USD,3,Average Hourly Earnings m/m,90,24203,Feb 5 2010,9:30am,USD,Average Hourly Earnings m/m,medium,0.2%,0.2%,0.2%
+0,,ALL,3,G7 Meetings,91,29086,Feb 5 2010,Day 1,ALL,G7 Meetings,medium, , , 
+1,2010.02.06 05:00,USD,1,Consumer Credit m/m,92,24923,Feb 5 2010,4:00pm,USD,Consumer Credit m/m,low, ,-9.2B, 
+1,2010.02.06 07:15,USD,3,FOMC Member Bullard Speaks,93,29676,Feb 5 2010,6:15pm,USD,FOMC Member Bullard Speaks,medium, , , 
+0,,ALL,5,G7 Meetings,94,29087,Feb 6 2010,Day 2,ALL,G7 Meetings,high, , , 
+1,2010.02.07 03:15,USD,5,Treasury Sec Geithner Speaks,95,29680,Feb 6 2010,2:15pm,USD,Treasury Sec Geithner Speaks,high, , , 
+1,2010.02.08 08:50,JPY,1,Bank Lending y/y,96,28458,Feb 7 2010,7:50pm,JPY,Bank Lending y/y,low,-1.0%, ,-1.5%
+1,2010.02.08 08:50,JPY,1,Current Account,97,28321,Feb 7 2010,7:50pm,JPY,Current Account,low,1.30T,1.27T, 
+1,2010.02.08 08:50,JPY,1,M2 Money Stock y/y,98,28521,Feb 7 2010,7:50pm,JPY,M2 Money Stock y/y,low,3.1%,3.0%, 
+1,2010.02.08 14:00,JPY,1,Economy Watchers Sentiment,99,26243,Feb 8 2010,1:00am,JPY,Economy Watchers Sentiment,low,35.4,35.9, 
+1,2010.02.08 15:45,CHF,1,Unemployment Rate,100,27784,Feb 8 2010,2:45am,CHF,Unemployment Rate,low,4.2%,4.3%, 
+1,2010.02.08 17:15,CHF,5,Retail Sales y/y,101,25551,Feb 8 2010,4:15am,CHF,Retail Sales y/y,high, ,1.3%, 
+1,2010.02.08 18:30,EUR,1,Sentix Investor Confidence,102,25083,Feb 8 2010,5:30am,EUR,Sentix Investor Confidence,low,-3.7,-2.3, 
+1,2010.02.08 22:15,CAD,5,Housing Starts,103,27916,Feb 8 2010,9:15am,CAD,Housing Starts,high, ,180K, 
+1,2010.02.09 03:00,CAD,3,Gov Council Member Duguay Speaks,104,29663,Feb 8 2010,2:00pm,CAD,Gov Council Member Duguay Speaks,medium, , , 
+1,2010.02.09 07:00,EUR,3,ECB President Trichet Speaks,105,29684,Feb 8 2010,6:00pm,EUR,ECB President Trichet Speaks,medium, , , 
+1,2010.02.09 09:01,GBP,3,BRC Retail Sales Monitor y/y,106,28277,Feb 8 2010,8:01pm,GBP,BRC Retail Sales Monitor y/y,medium,4.2%, ,-0.7%
+1,2010.02.09 09:01,GBP,3,RICS House Price Balance,107,28265,Feb 8 2010,8:01pm,GBP,RICS House Price Balance,medium,30%,28%, 
+1,2010.02.09 12:45,JPY,1,30-y Bond Auction,108,49073,Feb 8 2010,11:45pm,JPY,30-y Bond Auction,low,2.21|3.5, ,2.31|3.9
+1,2010.02.09 15:00,JPY,1,Prelim Machine Tool Orders y/y,109,26242,Feb 9 2010,2:00am,JPY,Prelim Machine Tool Orders y/y,low, , ,192.0%
+1,2010.02.09 16:00,EUR,1,German Final CPI m/m,110,25144,Feb 9 2010,3:00am,EUR,German Final CPI m/m,low,-0.6%,-0.6%,-0.6%
+1,2010.02.09 16:00,EUR,1,German Trade Balance,111,25095,Feb 9 2010,3:00am,EUR,German Trade Balance,low, ,14.8B, 
+1,2010.02.09 18:30,GBP,3,Trade Balance,112,26681,Feb 9 2010,5:30am,GBP,Trade Balance,medium,-6.8B,-6.6B, 
+1,2010.02.09 21:30,USD,1,NFIB Small Business Index,113,48375,Feb 9 2010,8:30am,USD,NFIB Small Business Index,low,88.0, ,89.3
+1,2010.02.10 00:00,USD,1,IBD/TIPP Economic Optimism,114,28231,Feb 9 2010,11:00am,USD,IBD/TIPP Economic Optimism,low,48.8,49.3, 
+1,2010.02.10 00:00,USD,1,JOLTS Job Openings,115,49306,Feb 9 2010,11:00am,USD,JOLTS Job Openings,low, , ,2.50M
+1,2010.02.10 00:00,USD,1,Wholesale Inventories m/m,116,27953,Feb 9 2010,11:00am,USD,Wholesale Inventories m/m,low, ,0.5%, 
+1,2010.02.10 08:30,AUD,3,Westpac Consumer Sentiment,117,27175,Feb 9 2010,7:30pm,AUD,Westpac Consumer Sentiment,medium,5.6%, ,-2.6%
+1,2010.02.10 08:50,JPY,3,Core Machinery Orders m/m,118,28333,Feb 9 2010,7:50pm,JPY,Core Machinery Orders m/m,medium,-11.3%,8.1%, 
+1,2010.02.10 08:50,JPY,1,PPI y/y,119,28361,Feb 9 2010,7:50pm,JPY,PPI y/y,low,-3.9%,-2.3%, 
+1,2010.02.10 09:30,AUD,5,Home Loans m/m,120,26156,Feb 9 2010,8:30pm,AUD,Home Loans m/m,high, ,-4.8%, 
+1,2010.02.10 12:30,CNY,5,Trade Balance,121,26376,Feb 9 2010,11:30pm,CNY,Trade Balance,high,18.4B,20.2B, 
+1,2010.02.10 16:45,EUR,3,French Industrial Production m/m,122,26561,Feb 10 2010,3:45am,EUR,French Industrial Production m/m,medium, ,0.6%, 
+1,2010.02.10 18:00,EUR,1,Italian Industrial Production m/m,123,26497,Feb 10 2010,5:00am,EUR,Italian Industrial Production m/m,low, ,0.0%, 
+1,2010.02.10 18:30,GBP,5,Manufacturing Production m/m,124,27000,Feb 10 2010,5:30am,GBP,Manufacturing Production m/m,high, ,0.4%, 
+1,2010.02.10 18:30,GBP,1,Industrial Production m/m,125,26999,Feb 10 2010,5:30am,GBP,Industrial Production m/m,low,0.4%,0.2%, 
+1,2010.02.10 19:06,EUR,3,German 10-y Bond Auction,126,42346,Feb 10 2010,6:06am,EUR,German 10-y Bond Auction,medium,3.38|1.6, ,3.22|1.7
+1,2010.02.10 19:30,GBP,5,BOE Gov King Speaks,127,25254,Feb 10 2010,6:30am,GBP,BOE Gov King Speaks,high, , , 
+1,2010.02.10 19:30,GBP,5,BOE Inflation Report,128,25247,Feb 10 2010,6:30am,GBP,BOE Inflation Report,high, , , 
+1,2010.02.10 22:30,CAD,5,Trade Balance,129,26741,Feb 10 2010,9:30am,CAD,Trade Balance,high, ,-0.1B,-0.2B
+1,2010.02.10 22:30,USD,5,Trade Balance,130,25898,Feb 10 2010,9:30am,USD,Trade Balance,high,-36.4B,-35.8B, 
+1,2010.02.11 00:00,GBP,3,NIESR GDP Estimate,131,26978,Feb 10 2010,11:00am,GBP,NIESR GDP Estimate,medium, , ,0.4%
+1,2010.02.11 00:00,USD,5,Fed Chairman Bernanke Testifies,132,29683,Feb 10 2010,11:00am,USD,Fed Chairman Bernanke Testifies,high, , , 
+1,2010.02.11 03:00,USD,3,10-y Bond Auction,133,42310,Feb 10 2010,2:00pm,USD,10-y Bond Auction,medium,3.75|3.0, ,3.69|2.7
+1,2010.02.11 06:36,NZD,1,Business NZ Manufacturing Index,134,27296,Feb 10 2010,5:36pm,NZD,Business NZ Manufacturing Index,low, , ,52.0
+1,2010.02.11 06:49,NZD,1,FPI m/m,135,27502,Feb 10 2010,5:49pm,NZD,FPI m/m,low,-0.3%, ,2.1%
+1,2010.02.11 09:00,AUD,3,MI Inflation Expectations,136,28442,Feb 10 2010,8:00pm,AUD,MI Inflation Expectations,medium,3.5%, ,3.2%
+0,,JPY,0,Bank Holiday,137,28966,Feb 10 2010,All Day,JPY,Bank Holiday,holiday, , , 
+1,2010.02.11 09:30,AUD,5,Employment Change,138,26219,Feb 10 2010,8:30pm,AUD,Employment Change,high, ,15.1K, 
+1,2010.02.11 09:30,AUD,5,Unemployment Rate,139,26218,Feb 10 2010,8:30pm,AUD,Unemployment Rate,high,5.5%,5.6%, 
+1,2010.02.11 11:02,CNY,3,CPI y/y,140,24836,Feb 10 2010,10:02pm,CNY,CPI y/y,medium,1.9%,2.2%, 
+1,2010.02.11 11:02,CNY,3,PPI y/y,141,24835,Feb 10 2010,10:02pm,CNY,PPI y/y,medium,1.7%,3.9%, 
+1,2010.02.11 11:07,CNY,3,New Loans,142,26378,Feb 10 2010,10:07pm,CNY,New Loans,medium,380B, ,1390B
+1,2010.02.11 11:07,CNY,1,M2 Money Supply y/y,143,26379,Feb 10 2010,10:07pm,CNY,M2 Money Supply y/y,low,27.7%,26.3%, 
+1,2010.02.11 16:00,EUR,1,German WPI m/m,144,25107,Feb 11 2010,3:00am,EUR,German WPI m/m,low,0.2%,0.1%, 
+1,2010.02.11 17:00,EUR,3,Spanish Flash GDP q/q,145,43755,Feb 11 2010,4:00am,EUR,Spanish Flash GDP q/q,medium,-0.3%,-0.1%,-0.1%
+1,2010.02.11 17:15,CHF,3,CPI m/m,146,25523,Feb 11 2010,4:15am,CHF,CPI m/m,medium,-0.2%,-0.4%, 
+1,2010.02.11 18:00,EUR,3,ECB Monthly Bulletin,147,27284,Feb 11 2010,5:00am,EUR,ECB Monthly Bulletin,medium, , , 
+0,,EUR,5,EU Economic Summit,148,29765,Feb 11 2010,All Day,EUR,EU Economic Summit,high, , , 
+1,2010.02.11 22:30,CAD,3,NHPI m/m,149,26832,Feb 11 2010,9:30am,CAD,NHPI m/m,medium,0.4%,0.4%,0.4%
+1,2010.02.11 22:30,USD,5,Unemployment Claims,150,28875,Feb 11 2010,9:30am,USD,Unemployment Claims,high, ,460K, 
+1,2010.02.12 03:00,USD,1,30-y Bond Auction,151,42920,Feb 11 2010,2:00pm,USD,30-y Bond Auction,low,4.64|2.7, ,4.72|2.4
+1,2010.02.12 06:00,NZD,3,REINZ HPI m/m,152,37357,Feb 11 2010,5:00pm,NZD,REINZ HPI m/m,medium,-0.9%, ,-1.6%
+1,2010.02.12 06:45,NZD,5,Core Retail Sales m/m,153,26649,Feb 11 2010,5:45pm,NZD,Core Retail Sales m/m,high,0.8%,0.3%, 
+1,2010.02.12 06:45,NZD,3,Retail Sales m/m,154,26645,Feb 11 2010,5:45pm,NZD,Retail Sales m/m,medium,0.8%,0.7%, 
+1,2010.02.12 06:45,NZD,1,Core Retail Sales q/q,155,37739,Feb 11 2010,5:45pm,NZD,Core Retail Sales q/q,low, , ,1.3%
+1,2010.02.12 06:45,NZD,1,Retail Sales q/q,156,37722,Feb 11 2010,5:45pm,NZD,Retail Sales q/q,low, ,1.5%, 
+1,2010.02.12 14:00,JPY,1,Consumer Confidence,157,29493,Feb 12 2010,1:00am,JPY,Consumer Confidence,low,37.6,38.2, 
+1,2010.02.12 16:00,EUR,5,German Prelim GDP q/q,158,26989,Feb 12 2010,3:00am,EUR,German Prelim GDP q/q,high,0.7%,0.2%, 
+1,2010.02.12 16:45,EUR,3,French Prelim Non-Farm Payrolls q/q,159,26584,Feb 12 2010,3:45am,EUR,French Prelim Non-Farm Payrolls q/q,medium, ,-0.2%, 
+1,2010.02.12 16:45,EUR,1,French Prelim GDP q/q,160,28344,Feb 12 2010,3:45am,EUR,French Prelim GDP q/q,low, ,0.5%, 
+1,2010.02.12 18:00,EUR,1,Italian Prelim GDP q/q,161,26544,Feb 12 2010,5:00am,EUR,Italian Prelim GDP q/q,low,0.6%,0.1%, 
+1,2010.02.12 19:00,EUR,3,Flash GDP q/q,162,27419,Feb 12 2010,6:00am,EUR,Flash GDP q/q,medium,0.4%,0.4%, 
+1,2010.02.12 19:00,EUR,3,Industrial Production m/m,163,27201,Feb 12 2010,6:00am,EUR,Industrial Production m/m,medium, ,0.3%, 
+1,2010.02.12 19:00,GBP,1,CB Leading Index m/m,164,28977,Feb 12 2010,6:00am,GBP,CB Leading Index m/m,low,0.9%, ,0.4%
+1,2010.02.12 22:30,CAD,1,New Motor Vehicle Sales m/m,165,26820,Feb 12 2010,9:30am,CAD,New Motor Vehicle Sales m/m,low, ,2.0%, 
+1,2010.02.12 22:30,USD,5,Core Retail Sales m/m,166,25914,Feb 12 2010,9:30am,USD,Core Retail Sales m/m,high,-0.2%,0.4%, 
+1,2010.02.12 22:30,USD,5,Retail Sales m/m,167,25911,Feb 12 2010,9:30am,USD,Retail Sales m/m,high, ,0.4%, 
+1,2010.02.12 23:55,USD,5,Prelim UoM Consumer Sentiment,168,25278,Feb 12 2010,10:55am,USD,Prelim UoM Consumer Sentiment,high, ,74.8, 
+1,2010.02.12 23:55,USD,1,Prelim UoM Inflation Expectations,169,25279,Feb 12 2010,10:55am,USD,Prelim UoM Inflation Expectations,low,2.8%, ,2.7%
+1,2010.02.13 00:00,USD,3,Business Inventories m/m,170,27308,Feb 12 2010,11:00am,USD,Business Inventories m/m,medium, ,0.3%, 
+1,2010.02.13 00:30,USD,1,Natural Gas Storage,171,24700,Feb 12 2010,11:30am,USD,Natural Gas Storage,low,-115B,-176B,-191B
+1,2010.02.13 01:00,USD,3,Crude Oil Inventories,172,24699,Feb 12 2010,12:00pm,USD,Crude Oil Inventories,medium,2.3M,1.4M,2.4M
+1,2010.02.13 04:30,USD,1,FOMC Member Tarullo Speaks,173,29682,Feb 12 2010,3:30pm,USD,FOMC Member Tarullo Speaks,low, , , 
+1,2010.02.13 13:30,CAD,3,BOC Gov Carney Speaks,174,29664,Feb 13 2010,12:30am,CAD,BOC Gov Carney Speaks,medium, , , 
+1,2010.02.15 08:50,JPY,5,Prelim GDP q/q,175,27703,Feb 14 2010,7:50pm,JPY,Prelim GDP q/q,high, ,1.0%, 
+1,2010.02.15 08:52,JPY,3,Prelim GDP Price Index y/y,176,27704,Feb 14 2010,7:52pm,JPY,Prelim GDP Price Index y/y,medium, ,-2.2%, 
+0,,CNY,0,Bank Holiday,177,29267,Feb 14 2010,All Day,CNY,Bank Holiday,holiday, , , 
+1,2010.02.15 09:01,GBP,3,Rightmove HPI m/m,178,27970,Feb 14 2010,8:01pm,GBP,Rightmove HPI m/m,medium,0.4%, ,3.2%
+1,2010.02.15 13:30,JPY,1,Revised Industrial Production m/m,179,28773,Feb 15 2010,12:30am,JPY,Revised Industrial Production m/m,low,2.2%,2.2%, 
+1,2010.02.15 17:15,CHF,3,PPI m/m,180,25405,Feb 15 2010,4:15am,CHF,PPI m/m,medium, ,0.1%, 
+1,2010.02.15 18:00,EUR,1,Italian Trade Balance,181,26509,Feb 15 2010,5:00am,EUR,Italian Trade Balance,low, ,-0.72B, 
+0,,EUR,3,Eurogroup Meetings,182,44070,Feb 15 2010,All Day,EUR,Eurogroup Meetings,medium, , , 
+0,,USD,0,Bank Holiday,183,28937,Feb 15 2010,All Day,USD,Bank Holiday,holiday, , , 
+1,2010.02.16 06:45,NZD,5,PPI Input q/q,184,27586,Feb 15 2010,5:45pm,NZD,PPI Input q/q,high,-1.1%,0.5%, 
+1,2010.02.16 06:45,NZD,1,PPI Output q/q,185,27587,Feb 15 2010,5:45pm,NZD,PPI Output q/q,low,-1.4%,0.4%, 
+0,,CNY,0,Bank Holiday,186,29268,Feb 15 2010,All Day,CNY,Bank Holiday,holiday, , , 
+1,2010.02.16 09:30,AUD,5,Monetary Policy Meeting Minutes,187,24620,Feb 15 2010,8:30pm,AUD,Monetary Policy Meeting Minutes,high, , , 
+1,2010.02.16 09:30,AUD,3,NAB Business Confidence,188,29020,Feb 15 2010,8:30pm,AUD,NAB Business Confidence,medium,8, ,15
+1,2010.02.16 10:45,AUD,3,RBA Assist Gov Debelle Speaks,189,29785,Feb 15 2010,9:45pm,AUD,RBA Assist Gov Debelle Speaks,medium, , , 
+0,,EUR,3,ECOFIN Meetings,190,36359,Feb 16 2010,All Day,EUR,ECOFIN Meetings,medium, , , 
+1,2010.02.16 18:30,GBP,5,CPI y/y,191,25419,Feb 16 2010,5:30am,GBP,CPI y/y,high,2.9%,3.6%, 
+1,2010.02.16 18:30,GBP,3,Core CPI y/y,192,25420,Feb 16 2010,5:30am,GBP,Core CPI y/y,medium,2.8%,3.2%, 
+1,2010.02.16 18:30,GBP,1,HPI y/y,193,25702,Feb 16 2010,5:30am,GBP,HPI y/y,low, ,1.4%, 
+1,2010.02.16 18:30,GBP,1,RPI y/y,194,25421,Feb 16 2010,5:30am,GBP,RPI y/y,low,2.4%,3.8%, 
+1,2010.02.16 19:00,EUR,5,German ZEW Economic Sentiment,195,27681,Feb 16 2010,6:00am,EUR,German ZEW Economic Sentiment,high,47.2,42.5, 
+1,2010.02.16 19:00,EUR,3,ZEW Economic Sentiment,196,27682,Feb 16 2010,6:00am,EUR,ZEW Economic Sentiment,medium,46.4,42.6, 
+1,2010.02.16 19:30,GBP,5,BOE Inflation Letter,197,29623,Feb 16 2010,6:30am,GBP,BOE Inflation Letter,high, , , 
+1,2010.02.16 22:30,CAD,3,Manufacturing Sales m/m,198,26796,Feb 16 2010,9:30am,CAD,Manufacturing Sales m/m,medium,0.1%,2.1%, 
+1,2010.02.16 22:30,USD,3,Empire State Manufacturing Index,199,27083,Feb 16 2010,9:30am,USD,Empire State Manufacturing Index,medium,15.9,17.9, 
+1,2010.02.16 23:00,USD,5,TIC Long-Term Purchases,200,24490,Feb 16 2010,10:00am,USD,TIC Long-Term Purchases,high, ,50.3B, 
+1,2010.02.17 02:00,USD,3,FOMC Member Hoenig Speaks,201,29778,Feb 16 2010,1:00pm,USD,FOMC Member Hoenig Speaks,medium, , , 
+1,2010.02.17 03:00,USD,1,NAHB Housing Market Index,202,26853,Feb 16 2010,2:00pm,USD,NAHB Housing Market Index,low,15,16, 
+1,2010.02.17 08:30,AUD,3,MI Leading Index m/m,203,29034,Feb 16 2010,7:30pm,AUD,MI Leading Index m/m,medium,1.0%, ,0.5%
+1,2010.02.17 08:50,JPY,3,Tertiary Industry Activity m/m,204,28737,Feb 16 2010,7:50pm,JPY,Tertiary Industry Activity m/m,medium, ,-0.2%, 
+0,,CNY,0,Bank Holiday,205,29269,Feb 16 2010,All Day,CNY,Bank Holiday,holiday, , , 
+1,2010.02.17 18:30,GBP,5,Claimant Count Change,206,24938,Feb 17 2010,5:30am,GBP,Claimant Count Change,high, ,-14.6K, 
+1,2010.02.17 18:30,GBP,5,MPC Asset Purchase Facility Votes,207,49137,Feb 17 2010,5:30am,GBP,MPC Asset Purchase Facility Votes,high,0-0-9,0-0-9,0-0-9
+1,2010.02.17 18:30,GBP,5,MPC Official Bank Rate Votes,208,28253,Feb 17 2010,5:30am,GBP,MPC Official Bank Rate Votes,high,0-0-9,0-0-9,0-0-9
+1,2010.02.17 18:30,GBP,3,Average Earnings Index 3m/y,209,24939,Feb 17 2010,5:30am,GBP,Average Earnings Index 3m/y,medium, ,1.2%, 
+1,2010.02.17 18:30,GBP,1,Unemployment Rate,210,24937,Feb 17 2010,5:30am,GBP,Unemployment Rate,low,7.8%,7.8%,7.8%
+1,2010.02.17 19:00,EUR,1,Trade Balance,211,27396,Feb 17 2010,6:00am,EUR,Trade Balance,low, ,4.2B, 
+1,2010.02.17 22:30,CAD,3,Wholesale Sales m/m,212,27904,Feb 17 2010,9:30am,CAD,Wholesale Sales m/m,medium, ,0.6%,0.7%
+1,2010.02.17 22:30,USD,5,Building Permits,213,27750,Feb 17 2010,9:30am,USD,Building Permits,high,0.65M,0.63M,0.62M
+1,2010.02.17 22:30,USD,3,Housing Starts,214,27749,Feb 17 2010,9:30am,USD,Housing Starts,medium, ,0.58M,0.59M
+1,2010.02.17 22:30,USD,3,Import Prices m/m,215,26007,Feb 17 2010,9:30am,USD,Import Prices m/m,medium, ,0.9%, 
+1,2010.02.17 23:15,USD,3,Capacity Utilization Rate,216,26078,Feb 17 2010,10:15am,USD,Capacity Utilization Rate,medium, ,72.6%,72.6%
+1,2010.02.17 23:15,USD,3,Industrial Production m/m,217,26077,Feb 17 2010,10:15am,USD,Industrial Production m/m,medium, ,0.7%, 
+1,2010.02.18 02:35,CAD,3,Gov Council Member Longworth Speaks,218,29665,Feb 17 2010,1:35pm,CAD,Gov Council Member Longworth Speaks,medium, , , 
+1,2010.02.18 04:00,USD,5,FOMC Meeting Minutes,219,26636,Feb 17 2010,3:00pm,USD,FOMC Meeting Minutes,high, , , 
+1,2010.02.18 04:00,USD,3,Federal Budget Balance,220,25563,Feb 17 2010,3:00pm,USD,Federal Budget Balance,medium,-91.9B,-44.2B,-42.6B
+1,2010.02.18 07:20,AUD,3,RBA Deputy Gov Lowe Speaks,221,29786,Feb 17 2010,6:20pm,AUD,RBA Deputy Gov Lowe Speaks,medium, , , 
+0,,CNY,0,Bank Holiday,222,29270,Feb 17 2010,All Day,CNY,Bank Holiday,holiday, , , 
+1,2010.02.18 09:30,AUD,3,NAB Quarterly Business Confidence,223,27169,Feb 17 2010,8:30pm,AUD,NAB Quarterly Business Confidence,medium,16, ,18
+1,2010.02.18 11:45,JPY,3,Monetary Policy Statement,224,28789,Feb 17 2010,10:45pm,JPY,Monetary Policy Statement,medium, , , 
+1,2010.02.18 11:45,JPY,3,Overnight Call Rate,225,28788,Feb 17 2010,10:45pm,JPY,Overnight Call Rate,medium,0.10%,0.10%,0.10%
+1,2010.02.18 16:15,CHF,3,Trade Balance,226,25535,Feb 18 2010,3:15am,CHF,Trade Balance,medium,1.36B,1.79B, 
+1,2010.02.18 16:22,JPY,5,BOJ Press Conference,227,28790,Feb 18 2010,3:22am,JPY,BOJ Press Conference,high, , , 
+1,2010.02.18 18:30,GBP,3,Prelim Mortgage Approvals,228,30386,Feb 18 2010,5:30am,GBP,Prelim Mortgage Approvals,medium,62K,63K, 
+1,2010.02.18 18:30,GBP,3,Public Sector Net Borrowing,229,25670,Feb 18 2010,5:30am,GBP,Public Sector Net Borrowing,medium, ,-2.4B, 
+1,2010.02.18 18:30,GBP,1,M4 Money Supply m/m,230,25671,Feb 18 2010,5:30am,GBP,M4 Money Supply m/m,low, ,0.6%,0.6%
+1,2010.02.18 19:00,CHF,3,ZEW Economic Expectations,231,28923,Feb 18 2010,6:00am,CHF,ZEW Economic Expectations,medium,56.2, ,52.5
+1,2010.02.18 20:00,EUR,1,German Buba Monthly Report,232,50161,Feb 18 2010,7:00am,EUR,German Buba Monthly Report,low, , , 
+1,2010.02.18 20:00,GBP,3,CBI Industrial Order Expectations,233,28185,Feb 18 2010,7:00am,GBP,CBI Industrial Order Expectations,medium,-39,-35,-36
+1,2010.02.18 21:00,CAD,5,Core CPI m/m,234,26904,Feb 18 2010,8:00am,CAD,Core CPI m/m,high,-0.3%,0.1%,0.1%
+1,2010.02.18 21:00,CAD,3,CPI m/m,235,26903,Feb 18 2010,8:00am,CAD,CPI m/m,medium,-0.3%,0.3%,0.3%
+1,2010.02.18 22:30,CAD,3,Foreign Securities Purchases,236,26808,Feb 18 2010,9:30am,CAD,Foreign Securities Purchases,medium, ,7.21B, 
+1,2010.02.18 22:30,USD,5,PPI m/m,237,25984,Feb 18 2010,9:30am,USD,PPI m/m,high,0.2%,0.8%, 
+1,2010.02.18 22:30,USD,5,Unemployment Claims,238,28876,Feb 18 2010,9:30am,USD,Unemployment Claims,high, ,440K, 
+1,2010.02.18 22:30,USD,3,Core PPI m/m,239,25985,Feb 18 2010,9:30am,USD,Core PPI m/m,medium,0.0%,0.2%, 
+1,2010.02.18 23:00,EUR,1,Consumer Confidence,240,27669,Feb 18 2010,10:00am,EUR,Consumer Confidence,low,-16,-17,-17
+1,2010.02.19 00:00,USD,5,Philly Fed Manufacturing Index,241,27575,Feb 18 2010,11:00am,USD,Philly Fed Manufacturing Index,high,15.2,17.2, 
+1,2010.02.19 00:00,USD,1,CB Leading Index m/m,242,28110,Feb 18 2010,11:00am,USD,CB Leading Index m/m,low, ,0.6%, 
+1,2010.02.19 00:30,CAD,1,BOC Review,243,27186,Feb 18 2010,11:30am,CAD,BOC Review,low, , , 
+1,2010.02.19 00:30,USD,1,Natural Gas Storage,244,24702,Feb 18 2010,11:30am,USD,Natural Gas Storage,low,-191B,-185B,-190B
+1,2010.02.19 01:00,USD,3,Crude Oil Inventories,245,24701,Feb 18 2010,12:00pm,USD,Crude Oil Inventories,medium,2.4M,1.5M,3.1M
+1,2010.02.19 04:00,GBP,3,MPC Member Fisher Speaks,246,29788,Feb 18 2010,3:00pm,GBP,MPC Member Fisher Speaks,medium, , , 
+1,2010.02.19 06:30,USD,5,Fed Announcement,247,29885,Feb 18 2010,5:30pm,USD,Fed Announcement,high, , , 
+1,2010.02.19 07:30,AUD,5,RBA Gov Stevens Speaks,248,29787,Feb 18 2010,6:30pm,AUD,RBA Gov Stevens Speaks,high, , , 
+1,2010.02.19 08:00,USD,1,FOMC Member Duke Speaks,249,29779,Feb 18 2010,7:00pm,USD,FOMC Member Duke Speaks,low, , , 
+0,,CNY,0,Bank Holiday,250,29271,Feb 18 2010,All Day,CNY,Bank Holiday,holiday, , , 
+1,2010.02.19 10:30,USD,3,FOMC Member Bullard Speaks,251,29780,Feb 18 2010,9:30pm,USD,FOMC Member Bullard Speaks,medium, , , 
+1,2010.02.19 11:00,NZD,1,Credit Card Spending y/y,252,28420,Feb 18 2010,10:00pm,NZD,Credit Card Spending y/y,low, , ,2.6%
+1,2010.02.19 13:30,JPY,1,All Industries Activity m/m,253,28545,Feb 19 2010,12:30am,JPY,All Industries Activity m/m,low, ,0.3%, 
+1,2010.02.19 14:00,JPY,3,BOJ Monthly Report,254,28856,Feb 19 2010,1:00am,JPY,BOJ Monthly Report,medium, , , 
+1,2010.02.19 16:00,EUR,3,German PPI m/m,255,25119,Feb 19 2010,3:00am,EUR,German PPI m/m,medium,-0.1%,0.4%, 
+1,2010.02.19 17:00,EUR,3,French Flash Manufacturing PMI,256,26426,Feb 19 2010,4:00am,EUR,French Flash Manufacturing PMI,medium, ,55.3, 
+1,2010.02.19 17:00,EUR,3,French Flash Services PMI,257,26427,Feb 19 2010,4:00am,EUR,French Flash Services PMI,medium, ,56.4, 
+1,2010.02.19 17:30,EUR,3,German Flash Manufacturing PMI,258,26428,Feb 19 2010,4:30am,EUR,German Flash Manufacturing PMI,medium, ,54.1, 
+1,2010.02.19 17:30,EUR,3,German Flash Services PMI,259,26429,Feb 19 2010,4:30am,EUR,German Flash Services PMI,medium, ,52.5, 
+1,2010.02.19 18:00,EUR,3,Current Account,260,27225,Feb 19 2010,5:00am,EUR,Current Account,medium, ,-0.6B, 
+1,2010.02.19 18:00,EUR,3,Flash Manufacturing PMI,261,26431,Feb 19 2010,5:00am,EUR,Flash Manufacturing PMI,medium, ,52.8, 
+1,2010.02.19 18:00,EUR,3,Flash Services PMI,262,26430,Feb 19 2010,5:00am,EUR,Flash Services PMI,medium, ,52.6, 
+1,2010.02.19 18:30,GBP,5,Retail Sales m/m,263,26043,Feb 19 2010,5:30am,GBP,Retail Sales m/m,high,0.3%,-0.5%, 
+1,2010.02.19 22:00,USD,1,FOMC Member Dudley Speaks,264,29781,Feb 19 2010,9:00am,USD,FOMC Member Dudley Speaks,low, , , 
+1,2010.02.19 22:30,CAD,5,Core Retail Sales m/m,265,26867,Feb 19 2010,9:30am,CAD,Core Retail Sales m/m,high, ,0.4%,0.4%
+1,2010.02.19 22:30,CAD,3,Leading Index m/m,266,27929,Feb 19 2010,9:30am,CAD,Leading Index m/m,medium,1.5%,1.1%, 
+1,2010.02.19 22:30,CAD,3,Retail Sales m/m,267,26866,Feb 19 2010,9:30am,CAD,Retail Sales m/m,medium, ,0.6%, 
+1,2010.02.19 22:30,USD,5,Core CPI m/m,268,26021,Feb 19 2010,9:30am,USD,Core CPI m/m,high,0.1%,0.2%, 
+1,2010.02.19 22:30,USD,3,CPI m/m,269,26020,Feb 19 2010,9:30am,USD,CPI m/m,medium, ,0.3%, 
+1,2010.02.20 00:00,USD,3,Mortgage Delinquencies,270,30050,Feb 19 2010,11:00am,USD,Mortgage Delinquencies,medium,9.64%, ,9.47%
+1,2010.02.20 20:27,CNY,1,Foreign Direct Investment ytd/y,271,26377,Feb 20 2010,7:27am,CNY,Foreign Direct Investment ytd/y,low,-2.6%, ,7.8%
+1,2010.02.22 09:30,AUD,3,New Motor Vehicle Sales m/m,272,26782,Feb 21 2010,8:30pm,AUD,New Motor Vehicle Sales m/m,medium, , ,-3.4%
+1,2010.02.23 04:30,CAD,3,Gov Council Member Jenkins Speaks,273,29888,Feb 22 2010,3:30pm,CAD,Gov Council Member Jenkins Speaks,medium, , , 
+1,2010.02.23 08:50,JPY,3,Monetary Policy Meeting Minutes,274,29057,Feb 22 2010,7:50pm,JPY,Monetary Policy Meeting Minutes,medium, , , 
+1,2010.02.23 11:00,NZD,5,Inflation Expectations q/q,275,27263,Feb 22 2010,10:00pm,NZD,Inflation Expectations q/q,high,2.6%, ,2.7%
+1,2010.02.23 16:00,AUD,3,RBA Deputy Gov Battellino Speaks,276,29893,Feb 23 2010,3:00am,AUD,RBA Deputy Gov Battellino Speaks,medium, , , 
+1,2010.02.23 16:00,CHF,3,UBS Consumption Indicator,277,24446,Feb 23 2010,3:00am,CHF,UBS Consumption Indicator,medium, , ,1.36
+1,2010.02.23 16:45,EUR,3,French Consumer Spending m/m,278,26593,Feb 23 2010,3:45am,EUR,French Consumer Spending m/m,medium, ,-0.6%, 
+1,2010.02.23 16:45,EUR,1,French CPI m/m,279,26573,Feb 23 2010,3:45am,EUR,French CPI m/m,low,0.3%,-0.3%, 
+1,2010.02.23 18:00,EUR,5,German Ifo Business Climate,280,27796,Feb 23 2010,5:00am,EUR,German Ifo Business Climate,high,95.8,96.2, 
+1,2010.02.23 18:15,GBP,5,Inflation Report Hearings,281,26492,Feb 23 2010,5:15am,GBP,Inflation Report Hearings,high, , , 
+1,2010.02.23 18:30,GBP,3,BBA Mortgage Approvals,282,29075,Feb 23 2010,5:30am,GBP,BBA Mortgage Approvals,medium, ,45.3K, 
+1,2010.02.23 21:10,GBP,3,MPC Member Tucker Speaks,283,29889,Feb 23 2010,8:10am,GBP,MPC Member Tucker Speaks,medium, , , 
+1,2010.02.23 23:00,EUR,3,Belgian NBB Business Climate,284,27808,Feb 23 2010,10:00am,EUR,Belgian NBB Business Climate,medium,-7.0,-4.9, 
+1,2010.02.23 23:00,USD,3,/CS Composite-20 HPI y/y,285,27772,Feb 23 2010,10:00am,USD,/CS Composite-20 HPI y/y,medium,-5.3%,-3.0%,-3.1%
+1,2010.02.23 23:59,USD,1,Richmond Manufacturing Index,286,27022,Feb 23 2010,10:59am,USD,Richmond Manufacturing Index,low,-2,0, 
+1,2010.02.24 00:00,USD,5,CB Consumer Confidence,287,24445,Feb 23 2010,11:00am,USD,CB Consumer Confidence,high, ,55.0, 
+1,2010.02.24 07:05,USD,3,FOMC Member Bullard Speaks,288,29782,Feb 23 2010,6:05pm,USD,FOMC Member Bullard Speaks,medium, , , 
+1,2010.02.24 08:50,JPY,3,Trade Balance,289,28533,Feb 23 2010,7:50pm,JPY,Trade Balance,medium, ,0.51T, 
+1,2010.02.24 08:50,JPY,1,SPPI y/y,290,28349,Feb 23 2010,7:50pm,JPY,SPPI y/y,low,-1.5%,-1.1%, 
+1,2010.02.24 09:30,AUD,3,Construction Work Done q/q,291,28470,Feb 23 2010,8:30pm,AUD,Construction Work Done q/q,medium, ,2.1%, 
+1,2010.02.24 09:30,AUD,3,Wage Price Index q/q,292,27719,Feb 23 2010,8:30pm,AUD,Wage Price Index q/q,medium,0.7%,0.8%, 
+1,2010.02.24 16:00,EUR,3,GfK German Consumer Climate,293,27941,Feb 24 2010,3:00am,EUR,GfK German Consumer Climate,medium, ,3.1,3.2
+1,2010.02.24 16:00,EUR,1,German Final GDP q/q,294,26993,Feb 24 2010,3:00am,EUR,German Final GDP q/q,low,0.0%,0.0%,0.0%
+1,2010.02.24 18:00,EUR,1,Italian Retail Sales m/m,295,26521,Feb 24 2010,5:00am,EUR,Italian Retail Sales m/m,low,0.0%,0.1%, 
+1,2010.02.24 18:25,GBP,3,MPC Member Posen Speaks,296,29890,Feb 24 2010,5:25am,GBP,MPC Member Posen Speaks,medium, , , 
+1,2010.02.24 19:00,EUR,3,Industrial New Orders m/m,297,27250,Feb 24 2010,6:00am,EUR,Industrial New Orders m/m,medium, ,-1.1%, 
+1,2010.02.24 19:46,GBP,3,10-y Bond Auction,298,42449,Feb 24 2010,6:46am,GBP,10-y Bond Auction,medium,4.09|2.4, ,4.13|2.3
+1,2010.02.24 22:30,CAD,1,Corporate Profits q/q,299,27267,Feb 24 2010,9:30am,CAD,Corporate Profits q/q,low,7.9%, ,7.9%
+1,2010.02.25 00:00,USD,5,Fed Chairman Bernanke Testifies,300,29884,Feb 24 2010,11:00am,USD,Fed Chairman Bernanke Testifies,high, , , 
+1,2010.02.25 00:00,USD,5,New Home Sales,301,26277,Feb 24 2010,11:00am,USD,New Home Sales,high, ,354K, 
+1,2010.02.25 00:00,USD,3,Treasury Sec Geithner Speaks,302,29777,Feb 24 2010,11:00am,USD,Treasury Sec Geithner Speaks,medium, , , 
+1,2010.02.25 00:30,USD,3,Crude Oil Inventories,303,24703,Feb 24 2010,11:30am,USD,Crude Oil Inventories,medium,3.1M,1.8M,3.0M
+1,2010.02.25 08:00,AUD,3,CB Leading Index m/m,304,28137,Feb 24 2010,7:00pm,AUD,CB Leading Index m/m,medium,-0.3%, ,0.6%
+1,2010.02.25 09:30,AUD,5,Private Capital Expenditure q/q,305,28196,Feb 24 2010,8:30pm,AUD,Private Capital Expenditure q/q,high, ,1.5%, 
+1,2010.02.25 11:00,NZD,5,ANZ Business Confidence,306,28499,Feb 24 2010,10:00pm,NZD,ANZ Business Confidence,high,38.5, ,50.1
+1,2010.02.25 17:15,CHF,3,Employment Level,307,25546,Feb 25 2010,4:15am,CHF,Employment Level,medium,3.96M,3.95M,3.96M
+1,2010.02.25 17:55,EUR,3,German Unemployment Change,308,28220,Feb 25 2010,4:55am,EUR,German Unemployment Change,medium, ,18K, 
+1,2010.02.25 18:00,EUR,3,M3 Money Supply y/y,309,27725,Feb 25 2010,5:00am,EUR,M3 Money Supply y/y,medium, ,0.1%,0.1%
+1,2010.02.25 18:00,EUR,1,Private Loans y/y,310,27726,Feb 25 2010,5:00am,EUR,Private Loans y/y,low, ,0.1%, 
+1,2010.02.25 18:00,EUR,1,Retail PMI,311,43613,Feb 25 2010,5:00am,EUR,Retail PMI,low,46.5, ,44.6
+1,2010.02.25 18:30,GBP,5,BOE Gov King Speaks,312,29892,Feb 25 2010,5:30am,GBP,BOE Gov King Speaks,high, , , 
+1,2010.02.25 18:30,GBP,3,Prelim Business Investment q/q,313,25214,Feb 25 2010,5:30am,GBP,Prelim Business Investment q/q,medium, ,0.2%, 
+1,2010.02.25 19:24,EUR,3,Italian 10-y Bond Auction,314,42413,Feb 25 2010,6:24am,EUR,Italian 10-y Bond Auction,medium,4.08|1.3, ,3.99|1.4
+1,2010.02.25 21:45,GBP,5,CBI Realized Sales,315,28202,Feb 25 2010,8:45am,GBP,CBI Realized Sales,high,-8,-1, 
+1,2010.02.25 22:30,USD,5,Core Durable Goods Orders m/m,316,25936,Feb 25 2010,9:30am,USD,Core Durable Goods Orders m/m,high, ,1.1%, 
+1,2010.02.25 22:30,USD,5,Unemployment Claims,317,28877,Feb 25 2010,9:30am,USD,Unemployment Claims,high, ,461K, 
+1,2010.02.25 22:30,USD,3,Durable Goods Orders m/m,318,25935,Feb 25 2010,9:30am,USD,Durable Goods Orders m/m,medium, ,1.6%, 
+1,2010.02.25 22:35,USD,3,FOMC Member Pianalto Speaks,319,29974,Feb 25 2010,9:35am,USD,FOMC Member Pianalto Speaks,medium, , , 
+1,2010.02.25 23:00,USD,5,Fed Chairman Bernanke Testifies,320,29886,Feb 25 2010,10:00am,USD,Fed Chairman Bernanke Testifies,high, , , 
+1,2010.02.26 00:02,USD,1,HPI m/m,321,26889,Feb 25 2010,11:02am,USD,HPI m/m,low, ,0.6%, 
+1,2010.02.26 00:30,USD,1,Natural Gas Storage,322,24704,Feb 25 2010,11:30am,USD,Natural Gas Storage,low,-190B,-165B,-172B
+1,2010.02.26 03:00,GBP,3,MPC Member Miles Speaks,323,29891,Feb 25 2010,2:00pm,GBP,MPC Member Miles Speaks,medium, , , 
+1,2010.02.26 06:45,NZD,5,Building Consents m/m,324,27531,Feb 25 2010,5:45pm,NZD,Building Consents m/m,high, , ,-2.8%
+1,2010.02.26 06:45,NZD,3,Trade Balance,325,27544,Feb 25 2010,5:45pm,NZD,Trade Balance,medium, ,-99M, 
+1,2010.02.26 07:15,USD,3,FOMC Member Bullard Speaks,326,29783,Feb 25 2010,6:15pm,USD,FOMC Member Bullard Speaks,medium, , , 
+1,2010.02.26 08:15,JPY,1,Final Manufacturing PMI,327,28992,Feb 25 2010,7:15pm,JPY,Final Manufacturing PMI,low,52.5, ,52.5
+1,2010.02.26 08:30,JPY,3,Tokyo Core CPI y/y,328,25886,Feb 25 2010,7:30pm,JPY,Tokyo Core CPI y/y,medium,-2.0%,-1.9%, 
+1,2010.02.26 08:30,JPY,1,National Core CPI y/y,329,25887,Feb 25 2010,7:30pm,JPY,National Core CPI y/y,low,-1.3%,-1.3%,-1.3%
+1,2010.02.26 08:50,JPY,3,Prelim Industrial Production m/m,330,28761,Feb 25 2010,7:50pm,JPY,Prelim Industrial Production m/m,medium, ,1.1%, 
+1,2010.02.26 08:50,JPY,3,Retail Sales y/y,331,28749,Feb 25 2010,7:50pm,JPY,Retail Sales y/y,medium, ,-0.1%, 
+1,2010.02.26 09:01,GBP,3,GfK Consumer Confidence,332,27068,Feb 25 2010,8:01pm,GBP,GfK Consumer Confidence,medium,-17,-17, 
+1,2010.02.26 09:30,AUD,3,Private Sector Credit m/m,333,28408,Feb 25 2010,8:30pm,AUD,Private Sector Credit m/m,medium,0.3%,0.2%, 
+1,2010.02.26 14:00,JPY,1,Housing Starts y/y,334,28396,Feb 26 2010,1:00am,JPY,Housing Starts y/y,low,-15.7%,-11.6%, 
+1,2010.02.26 16:00,GBP,5,Nationwide HPI m/m,335,24520,Feb 26 2010,3:00am,GBP,Nationwide HPI m/m,high, ,0.4%, 
+0,,EUR,3,German Prelim CPI m/m,336,25132,Feb 26 2010,All Day,EUR,German Prelim CPI m/m,medium,-0.6%,0.5%, 
+1,2010.02.26 18:30,GBP,5,Second Estimate GDP q/q,337,26672,Feb 26 2010,5:30am,GBP,Second Estimate GDP q/q,high,0.1%,0.2%, 
+1,2010.02.26 18:30,GBP,1,Index of Services 3m/3m,338,28289,Feb 26 2010,5:30am,GBP,Index of Services 3m/3m,low,0.1%,0.3%, 
+1,2010.02.26 19:00,EUR,3,Final CPI y/y,339,27349,Feb 26 2010,6:00am,EUR,Final CPI y/y,medium,1.0%,1.0%,1.0%
+1,2010.02.26 19:00,EUR,3,Final Core CPI y/y,340,27350,Feb 26 2010,6:00am,EUR,Final Core CPI y/y,medium,1.1%,1.2%, 
+1,2010.02.26 19:30,CHF,5,KOF Economic Barometer,341,25389,Feb 26 2010,6:30am,CHF,KOF Economic Barometer,high, ,1.81, 
+1,2010.02.26 22:30,CAD,3,Current Account,342,26752,Feb 26 2010,9:30am,CAD,Current Account,medium, ,-8.7B, 
+1,2010.02.26 22:30,USD,5,Prelim GDP q/q,343,25960,Feb 26 2010,9:30am,USD,Prelim GDP q/q,high,5.7%,5.6%, 
+1,2010.02.26 22:30,USD,3,FOMC Member Hoenig Speaks,344,29976,Feb 26 2010,9:30am,USD,FOMC Member Hoenig Speaks,medium, , , 
+1,2010.02.26 22:30,USD,1,Prelim GDP Price Index q/q,345,25961,Feb 26 2010,9:30am,USD,Prelim GDP Price Index q/q,low,0.6%,0.6%, 
+1,2010.02.26 23:00,USD,1,FOMC Member Duke Speaks,346,29977,Feb 26 2010,10:00am,USD,FOMC Member Duke Speaks,low, , , 
+1,2010.02.26 23:45,USD,3,Chicago PMI,347,25263,Feb 26 2010,10:45am,USD,Chicago PMI,medium,61.5,59.6, 
+1,2010.02.26 23:55,USD,3,Revised UoM Consumer Sentiment,348,25280,Feb 26 2010,10:55am,USD,Revised UoM Consumer Sentiment,medium,73.7,74.0,73.6
+1,2010.02.26 23:55,USD,1,Revised UoM Inflation Expectations,349,25281,Feb 26 2010,10:55am,USD,Revised UoM Inflation Expectations,low,2.7%, ,2.7%
+1,2010.02.27 00:00,USD,5,Existing Home Sales,350,27362,Feb 26 2010,11:00am,USD,Existing Home Sales,high, ,5.51M, 
+1,2010.02.27 00:15,USD,1,FOMC Member Dudley Speaks,351,29975,Feb 26 2010,11:15am,USD,FOMC Member Dudley Speaks,low, , , 
+1,2010.02.27 03:30,USD,1,FOMC Member Tarullo Speaks,352,29887,Feb 26 2010,2:30pm,USD,FOMC Member Tarullo Speaks,low, , , 
+1,2010.03.01 06:45,NZD,1,Visitor Arrivals m/m,354,27520,Feb 28 2010,5:45pm,NZD,Visitor Arrivals m/m,low, , ,-2.4%
+1,2010.03.01 07:30,AUD,1,AIG Manufacturing Index,355,24578,Feb 28 2010,6:30pm,AUD,AIG Manufacturing Index,low,51.0, ,53.8
+1,2010.03.01 07:45,AUD,5,RBA Gov Stevens Speaks,356,30092,Feb 28 2010,6:45pm,AUD,RBA Gov Stevens Speaks,high, , , 
+1,2010.03.01 08:30,AUD,1,MI Inflation Gauge m/m,357,29032,Feb 28 2010,7:30pm,AUD,MI Inflation Gauge m/m,low,0.8%, ,0.1%
+1,2010.03.01 09:04,AUD,3,HIA New Home Sales m/m,358,28980,Feb 28 2010,8:04pm,AUD,HIA New Home Sales m/m,medium, , ,9.5%
+1,2010.03.01 09:30,AUD,3,Current Account,359,26332,Feb 28 2010,8:30pm,AUD,Current Account,medium, ,-17.3B,-17.5B
+1,2010.03.01 09:30,AUD,1,Company Operating Profits q/q,360,27319,Feb 28 2010,8:30pm,AUD,Company Operating Profits q/q,low, ,2.4%, 
+1,2010.03.01 09:57,CNY,5,Manufacturing PMI,361,24838,Feb 28 2010,8:57pm,CNY,Manufacturing PMI,high,55.8,55.2, 
+1,2010.03.01 11:04,NZD,1,ANZ Commodity Prices m/m,362,27273,Feb 28 2010,10:04pm,NZD,ANZ Commodity Prices m/m,low,0.4%, ,3.8%
+1,2010.03.01 11:30,CNY,3,HSBC Final Manufacturing PMI,363,24839,Feb 28 2010,10:30pm,CNY,HSBC Final Manufacturing PMI,medium,57.4, ,55.8

@@ -1,0 +1,378 @@
+1,2009.09.01 13:30,AUD,5,Cash Rate,0,10583,Sep 1 2009,12:30am,AUD,Cash Rate,high,3.00%,3.00%,3.00%
+1,2009.09.01 13:30,AUD,5,RBA Rate Statement,1,10584,Sep 1 2009,12:30am,AUD,RBA Rate Statement,high, , , 
+1,2009.09.01 14:45,CHF,3,GDP q/q,2,12538,Sep 1 2009,1:45am,CHF,GDP q/q,medium, ,-0.9%, 
+1,2009.09.01 15:00,EUR,3,German Retail Sales m/m,3,11797,Sep 1 2009,2:00am,EUR,German Retail Sales m/m,medium, ,0.7%,0.7%
+1,2009.09.01 15:30,AUD,3,Commodity Prices y/y,4,14062,Sep 1 2009,2:30am,AUD,Commodity Prices y/y,medium, , ,-31.8%
+1,2009.09.01 16:15,EUR,1,Spanish Manufacturing PMI,5,43821,Sep 1 2009,3:15am,EUR,Spanish Manufacturing PMI,low,47.3, ,47.2
+1,2009.09.01 16:30,CHF,3,Manufacturing PMI,6,11106,Sep 1 2009,3:30am,CHF,Manufacturing PMI,medium,44.3,47.1, 
+1,2009.09.01 16:45,EUR,1,Italian Manufacturing PMI,7,43475,Sep 1 2009,3:45am,EUR,Italian Manufacturing PMI,low,45.4,46.1, 
+1,2009.09.01 16:50,EUR,1,French Final Manufacturing PMI,8,58856,Sep 1 2009,3:50am,EUR,French Final Manufacturing PMI,low,50.2,50.2, 
+1,2009.09.01 16:55,EUR,3,German Unemployment Change,9,11809,Sep 1 2009,3:55am,EUR,German Unemployment Change,medium, ,33K, 
+1,2009.09.01 16:55,EUR,1,German Final Manufacturing PMI,10,58974,Sep 1 2009,3:55am,EUR,German Final Manufacturing PMI,low,49.0,49.0,49.2
+1,2009.09.01 17:00,EUR,1,Final Manufacturing PMI,11,10933,Sep 1 2009,4:00am,EUR,Final Manufacturing PMI,low,47.9,47.9,48.2
+1,2009.09.01 17:30,GBP,5,Manufacturing PMI,12,10887,Sep 1 2009,4:30am,GBP,Manufacturing PMI,high, ,51.5, 
+1,2009.09.01 17:30,GBP,3,Net Lending to Individuals m/m,13,13261,Sep 1 2009,4:30am,GBP,Net Lending to Individuals m/m,medium, ,0.4B, 
+1,2009.09.01 17:30,GBP,1,Mortgage Approvals,14,12403,Sep 1 2009,4:30am,GBP,Mortgage Approvals,low,48K,51K,50K
+1,2009.09.01 18:00,EUR,3,Unemployment Rate,15,13655,Sep 1 2009,5:00am,EUR,Unemployment Rate,medium,9.4%,9.5%,9.5%
+1,2009.09.01 23:00,USD,5,ISM Manufacturing PMI,16,10784,Sep 1 2009,10:00am,USD,ISM Manufacturing PMI,high,48.9,50.6, 
+1,2009.09.01 23:00,USD,5,Pending Home Sales m/m,17,13335,Sep 1 2009,10:00am,USD,Pending Home Sales m/m,high,3.6%,1.7%, 
+1,2009.09.01 23:00,USD,1,Construction Spending m/m,18,11123,Sep 1 2009,10:00am,USD,Construction Spending m/m,low, ,-0.1%,-0.2%
+1,2009.09.01 23:00,USD,1,ISM Manufacturing Prices,19,10785,Sep 1 2009,10:00am,USD,ISM Manufacturing Prices,low,55.0,57.3, 
+1,2009.09.01 23:30,NZD,1,GDT Price Index,20,56221,Sep 1 2009,10:30am,NZD,GDT Price Index,low,24.3%, ,23.9%
+0,,USD,1,Total Vehicle Sales,21,12964,Sep 1 2009,All Day,USD,Total Vehicle Sales,low,11.2M,13.1M, 
+1,2009.09.02 08:50,JPY,1,Monetary Base y/y,22,13825,Sep 1 2009,7:50pm,JPY,Monetary Base y/y,low,6.1%,6.6%,6.1%
+1,2009.09.02 10:30,AUD,5,GDP q/q,23,10801,Sep 1 2009,9:30pm,AUD,GDP q/q,high,0.4%,0.3%, 
+1,2009.09.02 16:00,EUR,1,Spanish Unemployment Change,24,44000,Sep 2 2009,3:00am,EUR,Spanish Unemployment Change,low,-20.8K, ,85.0K
+1,2009.09.02 17:30,GBP,3,Construction PMI,25,10888,Sep 2 2009,4:30am,GBP,Construction PMI,medium,47.0,48.1, 
+1,2009.09.02 18:00,EUR,3,Revised GDP q/q,26,12554,Sep 2 2009,5:00am,EUR,Revised GDP q/q,medium,-0.1%,-0.1%,-0.1%
+1,2009.09.02 18:00,EUR,1,PPI m/m,27,12977,Sep 2 2009,5:00am,EUR,PPI m/m,low, ,-0.5%, 
+1,2009.09.02 20:30,USD,1,Challenger Job Cuts y/y,28,13849,Sep 2 2009,7:30am,USD,Challenger Job Cuts y/y,low,-5.7%, ,-13.8%
+1,2009.09.02 21:15,USD,5,ADP Non-Farm Employment Change,29,11605,Sep 2 2009,8:15am,USD,ADP Non-Farm Employment Change,high, ,-250K, 
+1,2009.09.02 21:30,USD,3,Revised Nonfarm Productivity q/q,30,11569,Sep 2 2009,8:30am,USD,Revised Nonfarm Productivity q/q,medium,6.4%,6.5%,6.6%
+1,2009.09.02 21:30,USD,1,Revised Unit Labor Costs q/q,31,11570,Sep 2 2009,8:30am,USD,Revised Unit Labor Costs q/q,low,-5.8%,-5.7%, 
+1,2009.09.02 23:00,USD,3,Factory Orders m/m,32,11543,Sep 2 2009,10:00am,USD,Factory Orders m/m,medium, ,2.3%, 
+1,2009.09.02 23:30,USD,3,Crude Oil Inventories,33,14654,Sep 2 2009,10:30am,USD,Crude Oil Inventories,medium,0.2M,-0.8M,-0.4M
+1,2009.09.03 00:30,USD,3,FOMC Member Lockhart Speaks,34,24088,Sep 2 2009,11:30am,USD,FOMC Member Lockhart Speaks,medium, , , 
+1,2009.09.03 03:00,USD,5,FOMC Meeting Minutes,35,10988,Sep 2 2009,2:00pm,USD,FOMC Meeting Minutes,high, , , 
+1,2009.09.03 08:30,AUD,1,AIG Services Index,36,10864,Sep 2 2009,7:30pm,AUD,AIG Services Index,low,44.1, ,48.0
+1,2009.09.03 10:00,CNY,1,Non-Manufacturing PMI,37,42280,Sep 2 2009,9:00pm,CNY,Non-Manufacturing PMI,low,58.9, ,59.9
+1,2009.09.03 10:30,AUD,5,Trade Balance,38,12835,Sep 2 2009,9:30pm,AUD,Trade Balance,high, ,-0.80B, 
+1,2009.09.03 12:03,NZD,1,ANZ Commodity Prices m/m,39,13986,Sep 2 2009,11:03pm,NZD,ANZ Commodity Prices m/m,low,1.0%, ,4.3%
+1,2009.09.03 16:15,EUR,1,Spanish Services PMI,40,43917,Sep 3 2009,3:15am,EUR,Spanish Services PMI,low,40.8, ,45.3
+1,2009.09.03 16:45,EUR,1,Italian Services PMI,41,43535,Sep 3 2009,3:45am,EUR,Italian Services PMI,low,44.5,46.2,46.4
+1,2009.09.03 16:50,EUR,1,French Final Services PMI,42,59112,Sep 3 2009,3:50am,EUR,French Final Services PMI,low,48.9,48.9, 
+1,2009.09.03 16:55,EUR,1,German Final Services PMI,43,59124,Sep 3 2009,3:55am,EUR,German Final Services PMI,low,54.1,54.1,53.8
+1,2009.09.03 17:00,EUR,1,Final Services PMI,44,10963,Sep 3 2009,4:00am,EUR,Final Services PMI,low,49.5,49.5, 
+1,2009.09.03 17:30,GBP,5,Services PMI,45,10890,Sep 3 2009,4:30am,GBP,Services PMI,high,53.2,53.9,54.1
+1,2009.09.03 18:00,EUR,3,Retail Sales m/m,46,12994,Sep 3 2009,5:00am,EUR,Retail Sales m/m,medium, ,0.2%, 
+1,2009.09.03 18:09,EUR,1,French 10-y Bond Auction,47,43352,Sep 3 2009,5:09am,EUR,French 10-y Bond Auction,low,3.82|1.7, ,3.56|1.9
+1,2009.09.03 18:39,GBP,1,30-y Bond Auction,48,43136,Sep 3 2009,5:39am,GBP,30-y Bond Auction,low,4.46|1.8, ,4.17|1.6
+1,2009.09.03 20:45,EUR,5,Minimum Bid Rate,49,10643,Sep 3 2009,7:45am,EUR,Minimum Bid Rate,high,1.00%,1.00%,1.00%
+1,2009.09.03 21:30,EUR,5,ECB Press Conference,50,10644,Sep 3 2009,8:30am,EUR,ECB Press Conference,high, , , 
+1,2009.09.03 21:30,USD,5,Unemployment Claims,51,14713,Sep 3 2009,8:30am,USD,Unemployment Claims,high, ,563K, 
+1,2009.09.03 23:00,USD,5,ISM Non-Manufacturing PMI,52,10786,Sep 3 2009,10:00am,USD,ISM Non-Manufacturing PMI,high,46.4,48.3,48.4
+1,2009.09.03 23:30,USD,1,Natural Gas Storage,53,11746,Sep 3 2009,10:30am,USD,Natural Gas Storage,low,54B,67B,65B
+1,2009.09.04 08:50,JPY,3,Capital Spending q/y,54,13802,Sep 3 2009,7:50pm,JPY,Capital Spending q/y,medium,-25.3%,-22.9%, 
+1,2009.09.04 15:45,EUR,1,French Gov Budget Balance,55,13950,Sep 4 2009,2:45am,EUR,French Gov Budget Balance,low,-86.6B, ,-109.0B
+1,2009.09.04 15:50,EUR,3,ECB President Trichet Speaks,56,24092,Sep 4 2009,2:50am,EUR,ECB President Trichet Speaks,medium, , , 
+1,2009.09.04 16:00,CHF,3,Foreign Currency Reserves,57,42171,Sep 4 2009,3:00am,CHF,Foreign Currency Reserves,medium,81.2B, ,81.6B
+1,2009.09.04 16:15,CHF,3,CPI m/m,58,13544,Sep 4 2009,3:15am,CHF,CPI m/m,medium,-0.7%,0.3%, 
+1,2009.09.04 17:00,EUR,1,Italian Trade Balance,59,14377,Sep 4 2009,4:00am,EUR,Italian Trade Balance,low, ,0.93B, 
+0,,ALL,3,G20 Meetings,60,24090,Sep 4 2009,Day 1,ALL,G20 Meetings,medium, , , 
+1,2009.09.04 20:00,CAD,5,Employment Change,61,13464,Sep 4 2009,7:00am,CAD,Employment Change,high,-44.5K,-12.4K, 
+1,2009.09.04 20:00,CAD,5,Unemployment Rate,62,13463,Sep 4 2009,7:00am,CAD,Unemployment Rate,high,8.6%,8.7%,8.7%
+1,2009.09.04 21:30,USD,5,Non-Farm Employment Change,63,10616,Sep 4 2009,8:30am,USD,Non-Farm Employment Change,high, ,-223K, 
+1,2009.09.04 21:30,USD,5,Unemployment Rate,64,10615,Sep 4 2009,8:30am,USD,Unemployment Rate,high,9.4%,9.5%, 
+1,2009.09.04 21:30,USD,3,Average Hourly Earnings m/m,65,10617,Sep 4 2009,8:30am,USD,Average Hourly Earnings m/m,medium, ,0.1%, 
+1,2009.09.04 23:00,CAD,5,Ivey PMI,66,13862,Sep 4 2009,10:00am,CAD,Ivey PMI,high,51.8,54.3, 
+0,,ALL,3,G20 Meetings,67,24091,Sep 5 2009,Day 2,ALL,G20 Meetings,medium, , , 
+1,2009.09.06 00:30,USD,5,Treasury Sec Geithner Speaks,68,24235,Sep 5 2009,11:30am,USD,Treasury Sec Geithner Speaks,high, , , 
+1,2009.09.07 08:30,AUD,1,AIG Construction Index,69,10867,Sep 6 2009,7:30pm,AUD,AIG Construction Index,low,39.5, ,42.4
+1,2009.09.07 10:30,AUD,3,ANZ Job Advertisements m/m,70,19270,Sep 6 2009,9:30pm,AUD,ANZ Job Advertisements m/m,medium,-1.7%, ,4.1%
+1,2009.09.07 17:30,EUR,1,Sentix Investor Confidence,71,13778,Sep 7 2009,4:30am,EUR,Sentix Investor Confidence,low,-17.0,-13.5, 
+1,2009.09.07 19:00,EUR,3,German Factory Orders m/m,72,11692,Sep 7 2009,6:00am,EUR,German Factory Orders m/m,medium, ,2.0%, 
+0,,CAD,0,Bank Holiday,73,14749,Sep 7 2009,All Day,CAD,Bank Holiday,holiday, , , 
+0,,USD,0,Bank Holiday,74,12015,Sep 7 2009,All Day,USD,Bank Holiday,holiday, , , 
+1,2009.09.08 08:01,GBP,3,BRC Retail Sales Monitor y/y,75,12701,Sep 7 2009,7:01pm,GBP,BRC Retail Sales Monitor y/y,medium,1.8%, ,-0.1%
+1,2009.09.08 08:50,JPY,1,Bank Lending y/y,76,13837,Sep 7 2009,7:50pm,JPY,Bank Lending y/y,low,2.1%, ,1.8%
+1,2009.09.08 08:50,JPY,1,Current Account,77,14535,Sep 7 2009,7:50pm,JPY,Current Account,low,1.80T,1.41T, 
+1,2009.09.08 08:50,JPY,1,M2 Money Stock y/y,78,14332,Sep 7 2009,7:50pm,JPY,M2 Money Stock y/y,low,2.7%,2.7%, 
+1,2009.09.08 10:30,AUD,3,NAB Business Confidence,79,13067,Sep 7 2009,9:30pm,AUD,NAB Business Confidence,medium,10, ,18
+1,2009.09.08 14:00,JPY,1,Economy Watchers Sentiment,80,14431,Sep 8 2009,1:00am,JPY,Economy Watchers Sentiment,low,42.4,43.1, 
+1,2009.09.08 14:45,CHF,1,Unemployment Rate,81,13584,Sep 8 2009,1:45am,CHF,Unemployment Rate,low,3.9%,4.1%, 
+1,2009.09.08 15:00,EUR,1,German Trade Balance,82,11821,Sep 8 2009,2:00am,EUR,German Trade Balance,low, ,11.2B, 
+1,2009.09.08 17:30,GBP,5,Manufacturing Production m/m,83,10821,Sep 8 2009,4:30am,GBP,Manufacturing Production m/m,high, ,0.3%, 
+1,2009.09.08 17:30,GBP,1,Industrial Production m/m,84,10820,Sep 8 2009,4:30am,GBP,Industrial Production m/m,low, ,0.3%, 
+1,2009.09.08 18:39,GBP,1,10-y Bond Auction,85,43127,Sep 8 2009,5:39am,GBP,10-y Bond Auction,low,3.93|1.9, ,3.78|2.2
+1,2009.09.08 19:00,EUR,3,German Industrial Production m/m,86,11680,Sep 8 2009,6:00am,EUR,German Industrial Production m/m,medium, ,1.6%, 
+1,2009.09.08 20:30,USD,1,NFIB Small Business Index,87,48370,Sep 8 2009,7:30am,USD,NFIB Small Business Index,low,86.5, ,88.6
+1,2009.09.08 21:30,CAD,5,Building Permits m/m,88,13502,Sep 8 2009,8:30am,CAD,Building Permits m/m,high, ,0.5%, 
+1,2009.09.08 23:00,GBP,3,NIESR GDP Estimate,89,13273,Sep 8 2009,10:00am,GBP,NIESR GDP Estimate,medium, , ,0.2%
+1,2009.09.08 23:45,EUR,3,German Buba President Weber Speaks,90,24501,Sep 8 2009,10:45am,EUR,German Buba President Weber Speaks,medium, , , 
+1,2009.09.09 04:00,USD,1,Consumer Credit m/m,91,11583,Sep 8 2009,3:00pm,USD,Consumer Credit m/m,low, ,-3.8B, 
+1,2009.09.09 08:01,GBP,3,Nationwide Consumer Confidence,92,13017,Sep 8 2009,7:01pm,GBP,Nationwide Consumer Confidence,medium, ,62, 
+1,2009.09.09 08:01,GBP,1,BRC Shop Price Index y/y,93,12713,Sep 8 2009,7:01pm,GBP,BRC Shop Price Index y/y,low,0.5%, ,-0.1%
+1,2009.09.09 10:00,AUD,3,Westpac Consumer Sentiment,94,14774,Sep 8 2009,9:00pm,AUD,Westpac Consumer Sentiment,medium,3.7%, ,5.2%
+1,2009.09.09 10:30,AUD,5,Home Loans m/m,95,13091,Sep 8 2009,9:30pm,AUD,Home Loans m/m,high, ,-1.5%, 
+1,2009.09.09 10:30,AUD,5,Retail Sales m/m,96,12725,Sep 8 2009,9:30pm,AUD,Retail Sales m/m,high, ,0.6%, 
+1,2009.09.09 14:00,JPY,1,Leading Indicators,97,14432,Sep 9 2009,1:00am,JPY,Leading Indicators,low, ,81.9%, 
+1,2009.09.09 15:00,EUR,1,German Final CPI m/m,98,11855,Sep 9 2009,2:00am,EUR,German Final CPI m/m,low,0.2%,0.2%,0.2%
+1,2009.09.09 15:03,JPY,1,Prelim Machine Tool Orders y/y,99,14602,Sep 9 2009,2:03am,JPY,Prelim Machine Tool Orders y/y,low, , ,-71.3%
+0,,ALL,1,OPEC Meetings,100,21096,Sep 9 2009,All Day,ALL,OPEC Meetings,low, , , 
+1,2009.09.09 17:30,GBP,3,Trade Balance,101,12670,Sep 9 2009,4:30am,GBP,Trade Balance,medium,-6.5B,-6.3B, 
+1,2009.09.09 21:00,USD,3,FOMC Member Evans Speaks,102,24367,Sep 9 2009,8:00am,USD,FOMC Member Evans Speaks,medium, , , 
+1,2009.09.09 21:15,CAD,5,Housing Starts,103,14202,Sep 9 2009,8:15am,CAD,Housing Starts,high, ,138K, 
+1,2009.09.09 23:00,USD,1,JOLTS Job Openings,104,49301,Sep 9 2009,10:00am,USD,JOLTS Job Openings,low, , ,2.39M
+1,2009.09.10 02:00,USD,3,10-y Bond Auction,105,43086,Sep 9 2009,1:00pm,USD,10-y Bond Auction,medium,3.73|2.5, ,3.51|2.8
+1,2009.09.10 03:00,USD,3,Beige Book,106,10996,Sep 9 2009,2:00pm,USD,Beige Book,medium, , , 
+1,2009.09.10 06:00,NZD,5,Official Cash Rate,107,12590,Sep 9 2009,5:00pm,NZD,Official Cash Rate,high,2.50%,2.50%,2.50%
+1,2009.09.10 06:00,NZD,5,RBNZ Press Conference,108,12620,Sep 9 2009,5:00pm,NZD,RBNZ Press Conference,high, , , 
+1,2009.09.10 06:00,NZD,5,RBNZ Rate Statement,109,12591,Sep 9 2009,5:00pm,NZD,RBNZ Rate Statement,high, , , 
+1,2009.09.10 06:00,NZD,3,RBNZ Monetary Policy Statement,110,13196,Sep 9 2009,5:00pm,NZD,RBNZ Monetary Policy Statement,medium, , , 
+1,2009.09.10 07:45,NZD,1,Overseas Trade Index q/q,111,12574,Sep 9 2009,6:45pm,NZD,Overseas Trade Index q/q,low, ,-2.9%, 
+1,2009.09.10 08:50,JPY,3,Core Machinery Orders m/m,112,13801,Sep 9 2009,7:50pm,JPY,Core Machinery Orders m/m,medium,9.7%,-3.2%, 
+1,2009.09.10 08:50,JPY,1,PPI y/y,113,13800,Sep 9 2009,7:50pm,JPY,PPI y/y,low,-8.5%,-8.3%, 
+1,2009.09.10 10:00,AUD,3,MI Inflation Expectations,114,12746,Sep 9 2009,9:00pm,AUD,MI Inflation Expectations,medium,3.5%, ,3.5%
+1,2009.09.10 10:30,AUD,5,Employment Change,115,13526,Sep 9 2009,9:30pm,AUD,Employment Change,high, ,-14.3K, 
+1,2009.09.10 10:30,AUD,5,Unemployment Rate,116,13525,Sep 9 2009,9:30pm,AUD,Unemployment Rate,high,5.8%,5.9%, 
+1,2009.09.10 15:45,EUR,3,French Industrial Production m/m,117,13886,Sep 10 2009,2:45am,EUR,French Industrial Production m/m,medium, ,0.6%, 
+1,2009.09.10 15:45,EUR,1,French Final Non-Farm Payrolls q/q,118,12513,Sep 10 2009,2:45am,EUR,French Final Non-Farm Payrolls q/q,low,-0.5%,-0.5%, 
+1,2009.09.10 15:45,EUR,1,French Trade Balance,119,13874,Sep 10 2009,2:45am,EUR,French Trade Balance,low, ,-3.9B, 
+1,2009.09.10 17:00,EUR,3,ECB Monthly Bulletin,120,10671,Sep 10 2009,4:00am,EUR,ECB Monthly Bulletin,medium, , , 
+1,2009.09.10 17:00,GBP,5,Halifax HPI m/m,121,12257,Sep 10 2009,4:00am,GBP,Halifax HPI m/m,high, ,1.0%, 
+1,2009.09.10 17:30,EUR,3,German Buba President Weber Speaks,122,24608,Sep 10 2009,4:30am,EUR,German Buba President Weber Speaks,medium, , , 
+1,2009.09.10 18:00,GBP,1,CB Leading Index m/m,123,14046,Sep 10 2009,5:00am,GBP,CB Leading Index m/m,low,1.0%, ,0.7%
+1,2009.09.10 20:00,GBP,5,Asset Purchase Facility,124,24571,Sep 10 2009,7:00am,GBP,Asset Purchase Facility,high,175B,175B,175B
+1,2009.09.10 20:00,GBP,5,MPC Rate Statement,125,11645,Sep 10 2009,7:00am,GBP,MPC Rate Statement,high, , , 
+1,2009.09.10 20:00,GBP,5,Official Bank Rate,126,11646,Sep 10 2009,7:00am,GBP,Official Bank Rate,high,0.50%,0.50%,0.50%
+1,2009.09.10 21:15,EUR,1,German Buba President Weber Speaks,127,24611,Sep 10 2009,8:15am,EUR,German Buba President Weber Speaks,low, , , 
+1,2009.09.10 21:30,CAD,5,Trade Balance,128,13230,Sep 10 2009,8:30am,CAD,Trade Balance,high, ,-0.1B, 
+1,2009.09.10 21:30,USD,5,Trade Balance,129,11531,Sep 10 2009,8:30am,USD,Trade Balance,high, ,-27.1B, 
+1,2009.09.10 21:30,USD,5,Unemployment Claims,130,14714,Sep 10 2009,8:30am,USD,Unemployment Claims,high, ,560K, 
+1,2009.09.10 22:00,CAD,5,BOC Rate Statement,131,10563,Sep 10 2009,9:00am,CAD,BOC Rate Statement,high, , , 
+1,2009.09.10 22:00,CAD,5,Overnight Rate,132,10564,Sep 10 2009,9:00am,CAD,Overnight Rate,high,0.25%,0.25%,0.25%
+1,2009.09.10 23:30,USD,1,Natural Gas Storage,133,11747,Sep 10 2009,10:30am,USD,Natural Gas Storage,low,65B,77B,69B
+1,2009.09.11 00:00,USD,3,Crude Oil Inventories,134,14655,Sep 10 2009,11:00am,USD,Crude Oil Inventories,medium,-0.4M,-1.5M,-5.9M
+1,2009.09.11 01:30,USD,3,FOMC Member Lockhart Speaks,135,24368,Sep 10 2009,12:30pm,USD,FOMC Member Lockhart Speaks,medium, , , 
+1,2009.09.11 02:00,USD,3,Treasury Sec Geithner Speaks,136,24442,Sep 10 2009,1:00pm,USD,Treasury Sec Geithner Speaks,medium, , , 
+1,2009.09.11 02:00,USD,1,30-y Bond Auction,137,43104,Sep 10 2009,1:00pm,USD,30-y Bond Auction,low,4.54|2.5, ,4.24|2.9
+1,2009.09.11 05:15,USD,3,FOMC Member Kohn Speaks,138,24441,Sep 10 2009,4:15pm,USD,FOMC Member Kohn Speaks,medium, , , 
+1,2009.09.11 07:48,NZD,1,FPI m/m,139,13998,Sep 10 2009,6:48pm,NZD,FPI m/m,low,0.6%, ,-0.9%
+1,2009.09.11 08:50,JPY,3,Final GDP q/q,140,12568,Sep 10 2009,7:50pm,JPY,Final GDP q/q,medium,0.9%,0.9%, 
+1,2009.09.11 08:50,JPY,1,Final GDP Price Index y/y,141,12569,Sep 10 2009,7:50pm,JPY,Final GDP Price Index y/y,low,0.5%,0.5%,0.5%
+1,2009.09.11 11:00,CNY,5,Industrial Production y/y,142,18468,Sep 10 2009,10:00pm,CNY,Industrial Production y/y,high,10.8%,11.9%, 
+1,2009.09.11 11:00,CNY,3,CPI y/y,143,18514,Sep 10 2009,10:00pm,CNY,CPI y/y,medium,-1.8%,-1.3%, 
+1,2009.09.11 11:00,CNY,3,Fixed Asset Investment ytd/y,144,19756,Sep 10 2009,10:00pm,CNY,Fixed Asset Investment ytd/y,medium,32.9%,32.7%, 
+1,2009.09.11 11:00,CNY,3,NBS Press Conference,145,23835,Sep 10 2009,10:00pm,CNY,NBS Press Conference,medium, , , 
+1,2009.09.11 11:00,CNY,3,PPI y/y,146,18553,Sep 10 2009,10:00pm,CNY,PPI y/y,medium,-8.2%,-7.8%,-7.9%
+1,2009.09.11 11:00,CNY,1,Retail Sales y/y,147,23241,Sep 10 2009,10:00pm,CNY,Retail Sales y/y,low,15.2%,15.3%,15.4%
+1,2009.09.11 11:10,CNY,3,New Loans,148,25774,Sep 10 2009,10:10pm,CNY,New Loans,medium,356B, ,410B
+1,2009.09.11 11:10,CNY,1,M2 Money Supply y/y,149,25773,Sep 10 2009,10:10pm,CNY,M2 Money Supply y/y,low,28.4%,28.4%,28.5%
+1,2009.09.11 12:27,CNY,5,Trade Balance,150,18377,Sep 10 2009,11:27pm,CNY,Trade Balance,high,10.6B,13.9B, 
+1,2009.09.11 14:00,JPY,1,Consumer Confidence,151,14543,Sep 11 2009,1:00am,JPY,Consumer Confidence,low,39.4,41.1, 
+1,2009.09.11 15:00,EUR,1,German WPI m/m,152,11902,Sep 11 2009,2:00am,EUR,German WPI m/m,low,-0.5%,0.3%, 
+1,2009.09.11 17:00,EUR,1,Italian Industrial Production m/m,153,14366,Sep 11 2009,4:00am,EUR,Italian Industrial Production m/m,low, ,0.4%, 
+1,2009.09.11 17:30,GBP,5,PPI Input m/m,154,12473,Sep 11 2009,4:30am,GBP,PPI Input m/m,high, ,0.9%, 
+1,2009.09.11 17:30,GBP,1,PPI Output m/m,155,12474,Sep 11 2009,4:30am,GBP,PPI Output m/m,low, ,0.3%,0.2%
+1,2009.09.11 21:30,CAD,3,NHPI m/m,156,12803,Sep 11 2009,8:30am,CAD,NHPI m/m,medium,-0.2%,-0.1%, 
+1,2009.09.11 21:30,USD,3,Import Prices m/m,157,11555,Sep 11 2009,8:30am,USD,Import Prices m/m,medium,-0.7%,1.0%, 
+1,2009.09.11 22:30,USD,1,FOMC Member Evans Speaks,158,24609,Sep 11 2009,9:30am,USD,FOMC Member Evans Speaks,low, , , 
+1,2009.09.11 22:55,USD,3,Prelim UoM Consumer Sentiment,159,10691,Sep 11 2009,9:55am,USD,Prelim UoM Consumer Sentiment,medium, ,67.2, 
+1,2009.09.11 22:55,USD,1,Prelim UoM Inflation Expectations,160,10719,Sep 11 2009,9:55am,USD,Prelim UoM Inflation Expectations,low,2.8%, ,2.6%
+1,2009.09.11 23:00,USD,1,Wholesale Inventories m/m,161,11704,Sep 11 2009,10:00am,USD,Wholesale Inventories m/m,low, ,-1.0%, 
+1,2009.09.12 03:00,USD,3,Federal Budget Balance,162,14826,Sep 11 2009,2:00pm,USD,Federal Budget Balance,medium,-180.7B,-155.5B, 
+1,2009.09.12 05:45,USD,3,Treasury Sec Geithner Speaks,163,24610,Sep 11 2009,4:45pm,USD,Treasury Sec Geithner Speaks,medium, , , 
+1,2009.09.14 07:45,NZD,5,Core Retail Sales m/m,165,12880,Sep 13 2009,6:45pm,NZD,Core Retail Sales m/m,high, ,0.5%, 
+1,2009.09.14 07:45,NZD,3,Retail Sales m/m,166,12879,Sep 13 2009,6:45pm,NZD,Retail Sales m/m,medium, ,0.6%, 
+1,2009.09.14 13:30,JPY,1,Revised Industrial Production m/m,167,14433,Sep 14 2009,12:30am,JPY,Revised Industrial Production m/m,low,1.9%,1.9%, 
+1,2009.09.14 16:15,CHF,3,PPI m/m,168,13556,Sep 14 2009,3:15am,CHF,PPI m/m,medium,0.0%,0.1%,0.1%
+1,2009.09.14 18:00,EUR,3,Industrial Production m/m,169,13766,Sep 14 2009,5:00am,EUR,Industrial Production m/m,medium, ,-0.3%,-0.3%
+1,2009.09.14 18:00,EUR,1,Employment Change q/q,170,12983,Sep 14 2009,5:00am,EUR,Employment Change q/q,low, , ,-0.5%
+1,2009.09.14 21:30,CAD,1,Capacity Utilization Rate,171,13492,Sep 14 2009,8:30am,CAD,Capacity Utilization Rate,low, ,65.8%, 
+1,2009.09.14 21:35,USD,1,FOMC Member Duke Speaks,172,24613,Sep 14 2009,8:35am,USD,FOMC Member Duke Speaks,low, , , 
+1,2009.09.15 01:10,USD,1,President Obama Speaks,173,24612,Sep 14 2009,12:10pm,USD,President Obama Speaks,low, , , 
+1,2009.09.15 01:30,USD,3,FOMC Member Lacker Speaks,174,24369,Sep 14 2009,12:30pm,USD,FOMC Member Lacker Speaks,medium, , , 
+1,2009.09.15 04:50,USD,3,FOMC Member Yellen Speaks,175,24370,Sep 14 2009,3:50pm,USD,FOMC Member Yellen Speaks,medium, , , 
+1,2009.09.15 07:00,NZD,3,REINZ HPI m/m,176,37378,Sep 14 2009,6:00pm,NZD,REINZ HPI m/m,medium,1.0%, ,1.2%
+1,2009.09.15 07:45,NZD,1,Manufacturing Sales q/q,177,12578,Sep 14 2009,6:45pm,NZD,Manufacturing Sales q/q,low, , ,-4.8%
+1,2009.09.15 08:01,GBP,3,RICS House Price Balance,178,12306,Sep 14 2009,7:01pm,GBP,RICS House Price Balance,medium, ,-1%, 
+1,2009.09.15 10:30,AUD,5,Monetary Policy Meeting Minutes,179,12381,Sep 14 2009,9:30pm,AUD,Monetary Policy Meeting Minutes,high, , , 
+1,2009.09.15 10:30,AUD,3,Housing Starts q/q,180,12735,Sep 14 2009,9:30pm,AUD,Housing Starts q/q,medium, ,2.1%, 
+1,2009.09.15 11:10,CNY,1,Foreign Direct Investment ytd/y,181,19314,Sep 14 2009,10:10pm,CNY,Foreign Direct Investment ytd/y,low,-20.3%, ,-17.5%
+1,2009.09.15 15:45,EUR,1,French CPI m/m,182,13898,Sep 15 2009,2:45am,EUR,French CPI m/m,low,-0.4%,0.4%, 
+1,2009.09.15 16:15,CHF,3,Industrial Production q/q,183,13603,Sep 15 2009,3:15am,CHF,Industrial Production q/q,medium,-13.1%,7.8%, 
+1,2009.09.15 17:30,GBP,5,CPI y/y,184,13162,Sep 15 2009,4:30am,GBP,CPI y/y,high,1.8%,1.4%, 
+1,2009.09.15 17:30,GBP,3,RPI y/y,185,13164,Sep 15 2009,4:30am,GBP,RPI y/y,medium,-1.4%,-1.5%, 
+1,2009.09.15 17:30,GBP,1,Core CPI y/y,186,13163,Sep 15 2009,4:30am,GBP,Core CPI y/y,low,1.8%,1.6%, 
+1,2009.09.15 17:30,GBP,1,HPI y/y,187,12453,Sep 15 2009,4:30am,GBP,HPI y/y,low,-10.7%,-9.5%, 
+1,2009.09.15 17:45,GBP,5,Inflation Report Hearings,188,14810,Sep 15 2009,4:45am,GBP,Inflation Report Hearings,high, , , 
+1,2009.09.15 18:00,EUR,5,German ZEW Economic Sentiment,189,11930,Sep 15 2009,5:00am,EUR,German ZEW Economic Sentiment,high,56.1,59.9, 
+1,2009.09.15 18:00,EUR,3,ZEW Economic Sentiment,190,11931,Sep 15 2009,5:00am,EUR,ZEW Economic Sentiment,medium,54.9,57.8, 
+1,2009.09.15 21:29,USD,3,Empire State Manufacturing Index,191,14010,Sep 15 2009,8:29am,USD,Empire State Manufacturing Index,medium,12.1,14.7, 
+1,2009.09.15 21:30,CAD,3,Labor Productivity q/q,192,13473,Sep 15 2009,8:30am,CAD,Labor Productivity q/q,medium, ,0.4%, 
+1,2009.09.15 21:30,CAD,1,New Motor Vehicle Sales m/m,193,13432,Sep 15 2009,8:30am,CAD,New Motor Vehicle Sales m/m,low, ,5.1%, 
+1,2009.09.15 21:30,USD,5,Core Retail Sales m/m,194,11430,Sep 15 2009,8:30am,USD,Core Retail Sales m/m,high, ,0.4%, 
+1,2009.09.15 21:30,USD,5,PPI m/m,195,11491,Sep 15 2009,8:30am,USD,PPI m/m,high,-0.9%,0.9%, 
+1,2009.09.15 21:30,USD,5,Retail Sales m/m,196,11431,Sep 15 2009,8:30am,USD,Retail Sales m/m,high, ,1.9%, 
+1,2009.09.15 21:30,USD,3,Core PPI m/m,197,11492,Sep 15 2009,8:30am,USD,Core PPI m/m,medium,-0.1%,0.1%, 
+1,2009.09.15 22:30,CAD,3,Gov Council Member Murray Speaks,198,24651,Sep 15 2009,9:30am,CAD,Gov Council Member Murray Speaks,medium, , , 
+1,2009.09.15 23:00,USD,5,Fed Chairman Bernanke Speaks,199,24614,Sep 15 2009,10:00am,USD,Fed Chairman Bernanke Speaks,high, , , 
+1,2009.09.15 23:00,USD,3,Business Inventories m/m,200,11617,Sep 15 2009,10:00am,USD,Business Inventories m/m,medium, ,-0.8%, 
+1,2009.09.15 23:00,USD,1,IBD/TIPP Economic Optimism,201,14739,Sep 15 2009,10:00am,USD,IBD/TIPP Economic Optimism,low,50.3,52.1,52.5
+1,2009.09.16 10:00,AUD,3,MI Leading Index m/m,202,14087,Sep 15 2009,9:00pm,AUD,MI Leading Index m/m,medium, , ,1.1%
+1,2009.09.16 16:15,CHF,5,Retail Sales y/y,203,13596,Sep 16 2009,3:15am,CHF,Retail Sales y/y,high,0.9%,1.0%,1.0%
+1,2009.09.16 17:30,GBP,5,Claimant Count Change,204,10753,Sep 16 2009,4:30am,GBP,Claimant Count Change,high, ,24.7K,24.4K
+1,2009.09.16 17:30,GBP,3,Average Earnings Index 3m/y,205,10754,Sep 16 2009,4:30am,GBP,Average Earnings Index 3m/y,medium,2.5%,2.1%, 
+1,2009.09.16 17:30,GBP,1,Unemployment Rate,206,10755,Sep 16 2009,4:30am,GBP,Unemployment Rate,low,7.8%,8.0%, 
+1,2009.09.16 18:00,CHF,3,ZEW Economic Expectations,207,13614,Sep 16 2009,5:00am,CHF,ZEW Economic Expectations,medium,18.6, ,58.0
+1,2009.09.16 18:00,EUR,3,Final CPI y/y,208,13748,Sep 16 2009,5:00am,EUR,Final CPI y/y,medium,-0.2%,-0.2%,-0.2%
+1,2009.09.16 18:00,EUR,3,Final Core CPI y/y,209,13749,Sep 16 2009,5:00am,EUR,Final Core CPI y/y,medium,1.3%,1.2%, 
+1,2009.09.16 18:08,EUR,1,German 10-y Bond Auction,210,43221,Sep 16 2009,5:08am,EUR,German 10-y Bond Auction,low,3.43|1.8, ,3.28|1.6
+1,2009.09.16 21:30,CAD,3,Manufacturing Sales m/m,211,13420,Sep 16 2009,8:30am,CAD,Manufacturing Sales m/m,medium, ,2.4%, 
+1,2009.09.16 21:30,USD,5,Core CPI m/m,212,11516,Sep 16 2009,8:30am,USD,Core CPI m/m,high,0.1%,0.1%,0.1%
+1,2009.09.16 21:30,USD,3,CPI m/m,213,11515,Sep 16 2009,8:30am,USD,CPI m/m,medium,0.0%,0.3%, 
+1,2009.09.16 21:30,USD,3,Current Account,214,11376,Sep 16 2009,8:30am,USD,Current Account,medium, ,-92B, 
+1,2009.09.16 22:00,USD,5,TIC Long-Term Purchases,215,12145,Sep 16 2009,9:00am,USD,TIC Long-Term Purchases,high, ,65.3B, 
+1,2009.09.16 22:15,USD,3,Capacity Utilization Rate,216,11146,Sep 16 2009,9:15am,USD,Capacity Utilization Rate,medium, ,69.1%, 
+1,2009.09.16 22:15,USD,3,Industrial Production m/m,217,11145,Sep 16 2009,9:15am,USD,Industrial Production m/m,medium, ,0.7%, 
+1,2009.09.16 23:30,USD,3,Crude Oil Inventories,218,14656,Sep 16 2009,10:30am,USD,Crude Oil Inventories,medium,-5.9M,-2.6M,-4.7M
+1,2009.09.17 02:00,USD,1,NAHB Housing Market Index,219,13974,Sep 16 2009,1:00pm,USD,NAHB Housing Market Index,low,18,19,19
+1,2009.09.17 07:23,NZD,1,Business NZ Manufacturing Index,220,14498,Sep 16 2009,6:23pm,NZD,Business NZ Manufacturing Index,low, , ,48.7
+1,2009.09.17 08:50,JPY,3,BSI Manufacturing Index,221,13815,Sep 16 2009,7:50pm,JPY,BSI Manufacturing Index,medium,-13.2,-11.4, 
+1,2009.09.17 08:50,JPY,3,Tertiary Industry Activity m/m,222,14350,Sep 16 2009,7:50pm,JPY,Tertiary Industry Activity m/m,medium, ,0.6%,0.6%
+1,2009.09.17 10:30,AUD,1,RBA Bulletin,223,11386,Sep 16 2009,9:30pm,AUD,RBA Bulletin,low, , , 
+1,2009.09.17 12:39,JPY,3,Monetary Policy Statement,224,14297,Sep 16 2009,11:39pm,JPY,Monetary Policy Statement,medium, , , 
+1,2009.09.17 12:39,JPY,3,Overnight Call Rate,225,14296,Sep 16 2009,11:39pm,JPY,Overnight Call Rate,medium,0.10%,0.10%,0.10%
+1,2009.09.17 15:10,AUD,1,RBA Annual Report,226,14190,Sep 17 2009,2:10am,AUD,RBA Annual Report,low, , , 
+1,2009.09.17 16:27,JPY,5,BOJ Press Conference,227,14298,Sep 17 2009,3:27am,JPY,BOJ Press Conference,high, , , 
+1,2009.09.17 17:30,GBP,5,Retail Sales m/m,228,13182,Sep 17 2009,4:30am,GBP,Retail Sales m/m,high, ,0.2%, 
+1,2009.09.17 17:30,GBP,3,Consumer Inflation Expectations,229,14286,Sep 17 2009,4:30am,GBP,Consumer Inflation Expectations,medium,2.4%, ,2.4%
+1,2009.09.17 17:41,EUR,1,Spanish 10-y Bond Auction,230,43323,Sep 17 2009,4:41am,EUR,Spanish 10-y Bond Auction,low,3.71|2.7, ,3.87|1.8
+1,2009.09.17 18:00,EUR,1,Trade Balance,231,13718,Sep 17 2009,5:00am,EUR,Trade Balance,low, ,1.2B, 
+1,2009.09.17 19:00,GBP,3,CBI Industrial Order Expectations,232,12318,Sep 17 2009,6:00am,GBP,CBI Industrial Order Expectations,medium,-54,-49,-48
+1,2009.09.17 20:00,CAD,5,Core CPI m/m,233,12925,Sep 17 2009,7:00am,CAD,Core CPI m/m,high,0.0%,0.1%,0.1%
+1,2009.09.17 20:00,CAD,3,CPI m/m,234,12924,Sep 17 2009,7:00am,CAD,CPI m/m,medium,-0.3%,0.2%, 
+1,2009.09.17 21:00,CHF,5,Libor Rate,235,11842,Sep 17 2009,8:00am,CHF,Libor Rate,high,0.25%,0.25%,0.25%
+1,2009.09.17 21:00,CHF,5,SNB Monetary Policy Assessment,236,11843,Sep 17 2009,8:00am,CHF,SNB Monetary Policy Assessment,high, , , 
+1,2009.09.17 21:30,CAD,3,Leading Index m/m,237,13408,Sep 17 2009,8:30am,CAD,Leading Index m/m,medium, ,0.5%, 
+1,2009.09.17 21:30,USD,5,Building Permits,238,11170,Sep 17 2009,8:30am,USD,Building Permits,high,0.56M,0.58M,0.58M
+1,2009.09.17 21:30,USD,5,Unemployment Claims,239,14715,Sep 17 2009,8:30am,USD,Unemployment Claims,high, ,554K, 
+1,2009.09.17 21:30,USD,3,Housing Starts,240,11169,Sep 17 2009,8:30am,USD,Housing Starts,medium, ,0.60M,0.60M
+1,2009.09.17 23:00,USD,3,Philly Fed Manufacturing Index,241,10980,Sep 17 2009,10:00am,USD,Philly Fed Manufacturing Index,medium,4.2,8.1, 
+1,2009.09.17 23:30,USD,1,Natural Gas Storage,242,11748,Sep 17 2009,10:30am,USD,Natural Gas Storage,low,69B,74B,66B
+1,2009.09.18 14:00,JPY,3,BOJ Monthly Report,243,14099,Sep 18 2009,1:00am,JPY,BOJ Monthly Report,medium, , , 
+1,2009.09.18 15:00,EUR,3,German PPI m/m,244,11867,Sep 18 2009,2:00am,EUR,German PPI m/m,medium,-1.5%,0.1%, 
+1,2009.09.18 17:00,EUR,3,Current Account,245,13029,Sep 18 2009,4:00am,EUR,Current Account,medium, ,-4.3B, 
+1,2009.09.18 17:30,GBP,5,Public Sector Net Borrowing,246,13316,Sep 18 2009,4:30am,GBP,Public Sector Net Borrowing,high,8.0B,17.7B, 
+1,2009.09.18 17:30,GBP,1,M4 Money Supply m/m,247,13317,Sep 18 2009,4:30am,GBP,M4 Money Supply m/m,low, ,0.7%, 
+1,2009.09.18 21:30,CAD,3,Wholesale Sales m/m,248,13443,Sep 18 2009,8:30am,CAD,Wholesale Sales m/m,medium, ,0.7%, 
+1,2009.09.21 07:45,NZD,1,Visitor Arrivals m/m,250,12904,Sep 20 2009,6:45pm,NZD,Visitor Arrivals m/m,low,3.9%, ,-0.8%
+1,2009.09.21 08:01,GBP,3,Rightmove HPI m/m,251,12358,Sep 20 2009,7:01pm,GBP,Rightmove HPI m/m,medium,-2.2%, ,0.6%
+1,2009.09.21 08:01,GBP,1,BOE Quarterly Bulletin,252,13132,Sep 20 2009,7:01pm,GBP,BOE Quarterly Bulletin,low, , , 
+0,,JPY,0,Bank Holiday,253,12077,Sep 20 2009,All Day,JPY,Bank Holiday,holiday, , , 
+1,2009.09.21 10:30,AUD,1,New Motor Vehicle Sales m/m,254,13079,Sep 20 2009,9:30pm,AUD,New Motor Vehicle Sales m/m,low,-6.9%, ,0.3%
+1,2009.09.21 12:00,NZD,1,Credit Card Spending y/y,255,12370,Sep 20 2009,11:00pm,NZD,Credit Card Spending y/y,low, , ,0.1%
+1,2009.09.21 19:00,EUR,1,German Buba Monthly Report,256,50155,Sep 21 2009,6:00am,EUR,German Buba Monthly Report,low, , , 
+1,2009.09.21 19:05,GBP,3,MPC Member Sentance Speaks,257,25185,Sep 21 2009,6:05am,GBP,MPC Member Sentance Speaks,medium, , , 
+1,2009.09.21 21:30,CAD,3,Foreign Securities Purchases,258,12815,Sep 21 2009,8:30am,CAD,Foreign Securities Purchases,medium,10.51B,7.76B, 
+1,2009.09.21 23:00,USD,1,CB Leading Index m/m,259,14034,Sep 21 2009,10:00am,USD,CB Leading Index m/m,low, ,0.8%, 
+1,2009.09.22 07:45,NZD,5,Current Account,260,12893,Sep 21 2009,6:45pm,NZD,Current Account,high, ,-1.88B, 
+0,,JPY,0,Bank Holiday,261,12078,Sep 21 2009,All Day,JPY,Bank Holiday,holiday, , , 
+1,2009.09.22 14:45,CHF,3,SECO Economic Forecasts,262,24093,Sep 22 2009,1:45am,CHF,SECO Economic Forecasts,medium, , , 
+1,2009.09.22 15:15,CHF,3,Trade Balance,263,13568,Sep 22 2009,2:15am,CHF,Trade Balance,medium, ,2.03B, 
+1,2009.09.22 17:00,EUR,1,Italian Quarterly Unemployment Rate,264,14281,Sep 22 2009,4:00am,EUR,Italian Quarterly Unemployment Rate,low,7.3%,7.7%, 
+1,2009.09.22 21:30,CAD,5,Core Retail Sales m/m,265,13215,Sep 22 2009,8:30am,CAD,Core Retail Sales m/m,high, ,0.1%, 
+1,2009.09.22 21:30,CAD,3,Retail Sales m/m,266,13214,Sep 22 2009,8:30am,CAD,Retail Sales m/m,medium,1.0%,0.8%, 
+1,2009.09.22 22:59,USD,1,Richmond Manufacturing Index,267,12952,Sep 22 2009,9:59am,USD,Richmond Manufacturing Index,low,14,17, 
+1,2009.09.22 23:00,USD,1,HPI m/m,268,12605,Sep 22 2009,10:00am,USD,HPI m/m,low, ,0.5%, 
+1,2009.09.23 07:45,NZD,5,GDP q/q,269,12533,Sep 22 2009,6:45pm,NZD,GDP q/q,high, ,-0.2%, 
+0,,JPY,0,Bank Holiday,270,12079,Sep 22 2009,All Day,JPY,Bank Holiday,holiday, , , 
+0,,EUR,1,French Consumer Spending m/m,271,13937,Sep 23 2009,Jul Data,EUR,French Consumer Spending m/m,low, ,0.3%, 
+1,2009.09.23 15:45,EUR,3,French Consumer Spending m/m,272,13938,Sep 23 2009,2:45am,EUR,French Consumer Spending m/m,medium,-1.2%,0.2%, 
+1,2009.09.23 16:00,EUR,3,French Flash Manufacturing PMI,273,14165,Sep 23 2009,3:00am,EUR,French Flash Manufacturing PMI,medium, ,51.4, 
+1,2009.09.23 16:00,EUR,3,French Flash Services PMI,274,14166,Sep 23 2009,3:00am,EUR,French Flash Services PMI,medium, ,50.1, 
+1,2009.09.23 16:30,EUR,3,German Flash Manufacturing PMI,275,14167,Sep 23 2009,3:30am,EUR,German Flash Manufacturing PMI,medium, ,50.9, 
+1,2009.09.23 16:30,EUR,3,German Flash Services PMI,276,14168,Sep 23 2009,3:30am,EUR,German Flash Services PMI,medium, ,54.0, 
+1,2009.09.23 17:00,EUR,3,Flash Manufacturing PMI,277,14169,Sep 23 2009,4:00am,EUR,Flash Manufacturing PMI,medium, ,49.8, 
+1,2009.09.23 17:00,EUR,3,Flash Services PMI,278,14170,Sep 23 2009,4:00am,EUR,Flash Services PMI,medium, ,50.5,50.6
+1,2009.09.23 17:30,GBP,5,MPC Asset Purchase Facility Votes,279,49132,Sep 23 2009,4:30am,GBP,MPC Asset Purchase Facility Votes,high,9-0-0,0-0-9,0-0-9
+1,2009.09.23 17:30,GBP,5,MPC Official Bank Rate Votes,280,11647,Sep 23 2009,4:30am,GBP,MPC Official Bank Rate Votes,high,0-0-9,0-0-9,0-0-9
+1,2009.09.23 17:30,GBP,3,BBA Mortgage Approvals,281,12346,Sep 23 2009,4:30am,GBP,BBA Mortgage Approvals,medium,38.2K,41.1K, 
+1,2009.09.23 18:00,EUR,3,Industrial New Orders m/m,282,13672,Sep 23 2009,5:00am,EUR,Industrial New Orders m/m,medium, ,2.1%, 
+1,2009.09.23 20:35,CAD,3,Gov Council Member Longworth Speaks,283,25184,Sep 23 2009,7:35am,CAD,Gov Council Member Longworth Speaks,medium, , , 
+1,2009.09.23 21:10,GBP,3,MPC Member Barker Speaks,284,25186,Sep 23 2009,8:10am,GBP,MPC Member Barker Speaks,medium, , , 
+1,2009.09.23 22:00,EUR,3,Belgian NBB Business Climate,285,14022,Sep 23 2009,9:00am,EUR,Belgian NBB Business Climate,medium,-18.2,-16.2, 
+1,2009.09.23 22:30,USD,3,Treasury Sec Geithner Speaks,286,25363,Sep 23 2009,9:30am,USD,Treasury Sec Geithner Speaks,medium, , , 
+1,2009.09.23 23:30,USD,3,Crude Oil Inventories,287,14657,Sep 23 2009,10:30am,USD,Crude Oil Inventories,medium,-4.7M,-1.4M,2.8M
+1,2009.09.24 03:15,USD,5,FOMC Statement,288,10548,Sep 23 2009,2:15pm,USD,FOMC Statement,high, , , 
+1,2009.09.24 03:15,USD,5,Federal Funds Rate,289,10547,Sep 23 2009,2:15pm,USD,Federal Funds Rate,high,0.25%,0.25%,0.25%
+1,2009.09.24 07:03,NZD,3,Westpac Consumer Sentiment,290,13039,Sep 23 2009,6:03pm,NZD,Westpac Consumer Sentiment,medium,106.0, ,120.3
+1,2009.09.24 08:50,JPY,3,Trade Balance,291,14616,Sep 23 2009,7:50pm,JPY,Trade Balance,medium, ,0.18T, 
+1,2009.09.24 10:03,AUD,3,HIA New Home Sales m/m,292,14484,Sep 23 2009,9:03pm,AUD,HIA New Home Sales m/m,medium,0.1%, ,11.4%
+1,2009.09.24 10:30,AUD,3,RBA Financial Stability Review,293,13096,Sep 23 2009,9:30pm,AUD,RBA Financial Stability Review,medium, , , 
+1,2009.09.24 13:30,JPY,1,All Industries Activity m/m,294,14351,Sep 24 2009,12:30am,JPY,All Industries Activity m/m,low, ,0.8%, 
+1,2009.09.24 17:00,EUR,5,German Ifo Business Climate,295,11946,Sep 24 2009,4:00am,EUR,German Ifo Business Climate,high,90.5,92.1, 
+1,2009.09.24 17:00,EUR,1,Italian Trade Balance,296,14378,Sep 24 2009,4:00am,EUR,Italian Trade Balance,low, ,3.66B, 
+1,2009.09.24 21:15,GBP,3,MPC Member Dale Speaks,297,25187,Sep 24 2009,8:15am,GBP,MPC Member Dale Speaks,medium, , , 
+1,2009.09.24 21:30,USD,5,Unemployment Claims,298,14716,Sep 24 2009,8:30am,USD,Unemployment Claims,high, ,548K, 
+1,2009.09.24 23:00,USD,5,Existing Home Sales,299,13347,Sep 24 2009,10:00am,USD,Existing Home Sales,high,5.24M,5.36M, 
+0,,ALL,3,G20 Meetings,300,21846,Sep 24 2009,Day 1,ALL,G20 Meetings,medium, , , 
+1,2009.09.24 23:30,USD,3,FOMC Member Evans Speaks,301,25179,Sep 24 2009,10:30am,USD,FOMC Member Evans Speaks,medium, , , 
+1,2009.09.24 23:30,USD,1,Natural Gas Storage,302,11749,Sep 24 2009,10:30am,USD,Natural Gas Storage,low,66B,73B,67B
+1,2009.09.25 07:45,NZD,3,Trade Balance,303,12860,Sep 24 2009,6:45pm,NZD,Trade Balance,medium, ,-295M, 
+1,2009.09.25 08:50,JPY,3,Monetary Policy Meeting Minutes,304,14299,Sep 24 2009,7:50pm,JPY,Monetary Policy Meeting Minutes,medium, , , 
+1,2009.09.25 08:50,JPY,1,SPPI y/y,305,14113,Sep 24 2009,7:50pm,JPY,SPPI y/y,low,-3.4%,-3.5%,-3.5%
+1,2009.09.25 15:00,EUR,3,GfK German Consumer Climate,306,14215,Sep 25 2009,2:00am,EUR,GfK German Consumer Climate,medium, ,3.9, 
+1,2009.09.25 16:15,CHF,3,Gov Board Member Jordan Speaks,307,25188,Sep 25 2009,3:15am,CHF,Gov Board Member Jordan Speaks,medium, , , 
+1,2009.09.25 17:00,EUR,3,M3 Money Supply y/y,308,13704,Sep 25 2009,4:00am,EUR,M3 Money Supply y/y,medium,3.0%,2.7%, 
+1,2009.09.25 17:00,EUR,1,Italian Retail Sales m/m,309,14402,Sep 25 2009,4:00am,EUR,Italian Retail Sales m/m,low,-0.4%,0.2%, 
+1,2009.09.25 17:00,EUR,1,Private Loans y/y,310,13705,Sep 25 2009,4:00am,EUR,Private Loans y/y,low, ,0.3%, 
+1,2009.09.25 17:30,GBP,1,Revised Business Investment q/q,311,12489,Sep 25 2009,4:30am,GBP,Revised Business Investment q/q,low,-10.4%,-10.4%, 
+1,2009.09.25 21:30,USD,5,Core Durable Goods Orders m/m,312,11334,Sep 25 2009,8:30am,USD,Core Durable Goods Orders m/m,high, ,0.9%, 
+1,2009.09.25 21:30,USD,3,Durable Goods Orders m/m,313,11333,Sep 25 2009,8:30am,USD,Durable Goods Orders m/m,medium, ,0.3%, 
+1,2009.09.25 22:00,USD,3,Fed Chairman Bernanke Speaks,314,25694,Sep 25 2009,9:00am,USD,Fed Chairman Bernanke Speaks,medium, , , 
+1,2009.09.25 22:55,USD,3,Revised UoM Consumer Sentiment,315,10692,Sep 25 2009,9:55am,USD,Revised UoM Consumer Sentiment,medium,70.2,70.2, 
+1,2009.09.25 22:55,USD,1,Revised UoM Inflation Expectations,316,10707,Sep 25 2009,9:55am,USD,Revised UoM Inflation Expectations,low,2.6%, ,2.2%
+1,2009.09.25 23:00,USD,5,New Home Sales,317,11066,Sep 25 2009,10:00am,USD,New Home Sales,high, ,442K, 
+0,,ALL,5,G20 Meetings,318,21847,Sep 25 2009,Day 2,ALL,G20 Meetings,high, , , 
+1,2009.09.26 02:15,USD,3,FOMC Member Warsh Speaks,319,25181,Sep 25 2009,1:15pm,USD,FOMC Member Warsh Speaks,medium, , , 
+1,2009.09.26 08:45,CHF,3,Gov Board Member Hildebrand Speaks,320,25180,Sep 25 2009,7:45pm,CHF,Gov Board Member Hildebrand Speaks,medium, , , 
+0,2009.09.26 23:00,NZD,0,Daylight Saving Time Shift,321,12118,Sep 26 2009,10:00am,NZD,Daylight Saving Time Shift,holiday, , , 
+0,,EUR,1,German Federal Elections,322,25452,Sep 27 2009,All Day,EUR,German Federal Elections,low, , , 
+1,2009.09.28 08:15,AUD,5,RBA Gov Stevens Speaks,323,25364,Sep 27 2009,7:15pm,AUD,RBA Gov Stevens Speaks,high, , , 
+0,,EUR,3,German Prelim CPI m/m,324,11833,Sep 28 2009,All Day,EUR,German Prelim CPI m/m,medium,0.2%,-0.2%, 
+1,2009.09.28 20:00,GBP,1,Chancellor Darling Speaks,325,25699,Sep 28 2009,7:00am,GBP,Chancellor Darling Speaks,low, , , 
+1,2009.09.28 23:30,EUR,5,ECB President Trichet Speaks,326,25695,Sep 28 2009,10:30am,EUR,ECB President Trichet Speaks,high, , , 
+1,2009.09.29 04:55,CAD,3,BOC Gov Carney Speaks,327,25692,Sep 28 2009,3:55pm,CAD,BOC Gov Carney Speaks,medium, , , 
+1,2009.09.29 06:45,NZD,5,Building Consents m/m,328,12941,Sep 28 2009,5:45pm,NZD,Building Consents m/m,high, , ,1.7%
+1,2009.09.29 08:30,JPY,3,Tokyo Core CPI y/y,329,14236,Sep 28 2009,7:30pm,JPY,Tokyo Core CPI y/y,medium,-1.9%,-2.0%, 
+1,2009.09.29 08:30,JPY,1,National Core CPI y/y,330,14235,Sep 28 2009,7:30pm,JPY,National Core CPI y/y,low,-2.2%,-2.3%, 
+1,2009.09.29 15:00,CHF,3,UBS Consumption Indicator,331,13638,Sep 29 2009,2:00am,CHF,UBS Consumption Indicator,medium, , ,0.66
+1,2009.09.29 15:00,EUR,1,German Import Prices m/m,332,11890,Sep 29 2009,2:00am,EUR,German Import Prices m/m,low,-0.9%,0.7%, 
+1,2009.09.29 17:00,EUR,1,Retail PMI,333,43608,Sep 29 2009,4:00am,EUR,Retail PMI,low,47.1, ,48.6
+1,2009.09.29 17:30,GBP,5,Current Account,334,13251,Sep 29 2009,4:30am,GBP,Current Account,high, ,-7.7B, 
+1,2009.09.29 17:30,GBP,3,Final GDP q/q,335,13247,Sep 29 2009,4:30am,GBP,Final GDP q/q,medium,-0.7%,-0.6%,-0.6%
+1,2009.09.29 17:30,GBP,3,Net Lending to Individuals m/m,336,13262,Sep 29 2009,4:30am,GBP,Net Lending to Individuals m/m,medium, ,0.3B, 
+1,2009.09.29 17:30,GBP,1,Mortgage Approvals,337,12404,Sep 29 2009,4:30am,GBP,Mortgage Approvals,low, ,51K,52K
+1,2009.09.29 18:00,EUR,1,Consumer Confidence,338,13685,Sep 29 2009,5:00am,EUR,Consumer Confidence,low,-22,-21, 
+1,2009.09.29 18:31,EUR,1,Italian 10-y Bond Auction,339,43386,Sep 29 2009,5:31am,EUR,Italian 10-y Bond Auction,low,4.03|1.4, ,4.06|1.4
+1,2009.09.29 19:00,GBP,5,CBI Realized Sales,340,12330,Sep 29 2009,6:00am,GBP,CBI Realized Sales,high,-16,-15, 
+1,2009.09.29 22:00,USD,3,/CS Composite-20 HPI y/y,341,13962,Sep 29 2009,9:00am,USD,/CS Composite-20 HPI y/y,medium,-15.4%,-14.3%, 
+1,2009.09.29 23:00,USD,5,CB Consumer Confidence,342,10659,Sep 29 2009,10:00am,USD,CB Consumer Confidence,high, ,57.0, 
+1,2009.09.30 08:01,GBP,3,GfK Consumer Confidence,343,12441,Sep 29 2009,7:01pm,GBP,GfK Consumer Confidence,medium,-25,-24, 
+1,2009.09.30 08:15,JPY,1,Final Manufacturing PMI,344,14510,Sep 29 2009,7:15pm,JPY,Final Manufacturing PMI,low,53.6, ,54.5
+1,2009.09.30 08:50,JPY,3,Prelim Industrial Production m/m,345,14267,Sep 29 2009,7:50pm,JPY,Prelim Industrial Production m/m,medium, ,1.9%, 
+1,2009.09.30 09:00,AUD,3,CB Leading Index m/m,346,14075,Sep 29 2009,8:00pm,AUD,CB Leading Index m/m,medium, , ,0.7%
+1,2009.09.30 10:30,AUD,5,Building Approvals m/m,347,12838,Sep 29 2009,9:30pm,AUD,Building Approvals m/m,high, ,2.7%, 
+1,2009.09.30 10:30,AUD,5,Retail Sales m/m,348,12726,Sep 29 2009,9:30pm,AUD,Retail Sales m/m,high, ,0.6%, 
+1,2009.09.30 10:30,AUD,3,Private Sector Credit m/m,349,11772,Sep 29 2009,9:30pm,AUD,Private Sector Credit m/m,medium,0.2%,0.2%, 
+1,2009.09.30 10:30,JPY,3,Average Cash Earnings y/y,350,14575,Sep 29 2009,9:30pm,JPY,Average Cash Earnings y/y,medium, ,-3.9%, 
+1,2009.09.30 11:00,NZD,5,ANZ Business Confidence,351,13051,Sep 29 2009,10:00pm,NZD,ANZ Business Confidence,high,34.2, ,49.1
+1,2009.09.30 11:30,CNY,3,HSBC Final Manufacturing PMI,352,18433,Sep 29 2009,10:30pm,CNY,HSBC Final Manufacturing PMI,medium,55.1, ,55.0
+1,2009.09.30 14:00,JPY,1,Housing Starts y/y,353,14559,Sep 30 2009,1:00am,JPY,Housing Starts y/y,low,-32.1%,-31.6%, 
+1,2009.09.30 16:45,EUR,3,German Buba President Weber Speaks,354,25697,Sep 30 2009,3:45am,EUR,German Buba President Weber Speaks,medium, , , 
+1,2009.09.30 16:55,EUR,3,German Unemployment Change,355,11810,Sep 30 2009,3:55am,EUR,German Unemployment Change,medium, ,19K, 
+1,2009.09.30 17:30,GBP,1,Index of Services 3m/3m,356,13285,Sep 30 2009,4:30am,GBP,Index of Services 3m/3m,low,-0.6%,-0.5%, 
+1,2009.09.30 18:00,CHF,1,SNB Quarterly Bulletin,357,14314,Sep 30 2009,5:00am,CHF,SNB Quarterly Bulletin,low, , , 
+1,2009.09.30 18:00,EUR,3,CPI Flash Estimate y/y,358,13747,Sep 30 2009,5:00am,EUR,CPI Flash Estimate y/y,medium,-0.2%,-0.2%, 
+1,2009.09.30 18:00,EUR,1,Italian Prelim CPI m/m,359,14390,Sep 30 2009,5:00am,EUR,Italian Prelim CPI m/m,low, ,0.0%, 
+1,2009.09.30 18:00,GBP,3,MPC Member Miles Speaks,360,25698,Sep 30 2009,5:00am,GBP,MPC Member Miles Speaks,medium, , , 
+1,2009.09.30 18:30,CHF,5,KOF Economic Barometer,361,13626,Sep 30 2009,5:30am,CHF,KOF Economic Barometer,high,-0.04,0.33, 
+1,2009.09.30 21:15,USD,5,ADP Non-Farm Employment Change,362,11606,Sep 30 2009,8:15am,USD,ADP Non-Farm Employment Change,high, ,-200K, 
+1,2009.09.30 21:30,CAD,5,GDP m/m,363,12767,Sep 30 2009,8:30am,CAD,GDP m/m,high,0.1%,0.4%, 
+1,2009.09.30 21:30,CAD,3,RMPI m/m,364,12790,Sep 30 2009,8:30am,CAD,RMPI m/m,medium, ,2.9%, 
+1,2009.09.30 21:30,CAD,1,IPPI m/m,365,12789,Sep 30 2009,8:30am,CAD,IPPI m/m,low, ,0.5%,0.5%
+1,2009.09.30 21:30,USD,3,Final GDP q/q,366,11406,Sep 30 2009,8:30am,USD,Final GDP q/q,medium,-1.0%,-1.2%, 
+1,2009.09.30 21:30,USD,1,Final GDP Price Index q/q,367,11407,Sep 30 2009,8:30am,USD,Final GDP Price Index q/q,low,0.0%,0.0%,0.0%
+1,2009.09.30 22:45,USD,3,Chicago PMI,368,12682,Sep 30 2009,9:45am,USD,Chicago PMI,medium,50.0,52.1, 
+1,2009.09.30 23:30,USD,3,Crude Oil Inventories,369,14658,Sep 30 2009,10:30am,USD,Crude Oil Inventories,medium,2.8M,0.5M,2.8M
+1,2009.09.30 23:30,USD,3,FOMC Member Lockhart Speaks,370,25182,Sep 30 2009,10:30am,USD,FOMC Member Lockhart Speaks,medium, , , 
+1,2009.10.01 01:35,USD,3,FOMC Member Kohn Speaks,371,24371,Sep 30 2009,12:35pm,USD,FOMC Member Kohn Speaks,medium, , , 
+1,2009.10.01 02:45,EUR,3,ECB President Trichet Speaks,372,25696,Sep 30 2009,1:45pm,EUR,ECB President Trichet Speaks,medium, , , 
+1,2009.10.01 03:30,USD,1,FOMC Member Tarullo Speaks,373,25775,Sep 30 2009,2:30pm,USD,FOMC Member Tarullo Speaks,low, , , 
+1,2009.10.01 08:30,AUD,1,AIG Manufacturing Index,374,10869,Sep 30 2009,7:30pm,AUD,AIG Manufacturing Index,low,51.7, ,52.0
+1,2009.10.01 08:50,JPY,5,Tankan Manufacturing Index,375,11345,Sep 30 2009,7:50pm,JPY,Tankan Manufacturing Index,high,-48,-32, 
+1,2009.10.01 08:50,JPY,3,Retail Sales y/y,376,14269,Sep 30 2009,7:50pm,JPY,Retail Sales y/y,medium, ,-2.4%, 
+1,2009.10.01 08:50,JPY,3,Tankan Non-Manufacturing Index,377,11346,Sep 30 2009,7:50pm,JPY,Tankan Non-Manufacturing Index,medium,-29,-25, 
+0,,CNY,0,Bank Holiday,378,23549,Sep 30 2009,All Day,CNY,Bank Holiday,holiday, , , 
+1,2009.10.01 09:58,CNY,5,Manufacturing PMI,379,18441,Sep 30 2009,8:58pm,CNY,Manufacturing PMI,high,54.0, ,54.3

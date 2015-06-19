@@ -1,0 +1,369 @@
+1,2009.12.01 14:30,AUD,3,Commodity Prices y/y,0,14065,Dec 1 2009,1:30am,AUD,Commodity Prices y/y,medium, , ,-25.3%
+1,2009.12.01 15:38,JPY,5,Monetary Policy Statement,1,28311,Dec 1 2009,2:38am,JPY,Monetary Policy Statement,high, , , 
+1,2009.12.01 15:38,JPY,3,Overnight Call Rate,2,28309,Dec 1 2009,2:38am,JPY,Overnight Call Rate,medium,0.10%, ,0.10%
+1,2009.12.01 15:45,CHF,3,GDP q/q,3,12539,Dec 1 2009,2:45am,CHF,GDP q/q,medium,-0.3%,0.3%,0.3%
+1,2009.12.01 16:00,EUR,3,German Retail Sales m/m,4,11800,Dec 1 2009,3:00am,EUR,German Retail Sales m/m,medium, ,0.6%,0.5%
+1,2009.12.01 16:00,GBP,5,Nationwide HPI m/m,5,12431,Dec 1 2009,3:00am,GBP,Nationwide HPI m/m,high, ,0.4%,0.5%
+1,2009.12.01 16:30,JPY,5,BOJ Press Conference,6,28310,Dec 1 2009,3:30am,JPY,BOJ Press Conference,high, , , 
+1,2009.12.01 17:15,EUR,1,Spanish Manufacturing PMI,7,43824,Dec 1 2009,4:15am,EUR,Spanish Manufacturing PMI,low,46.3, ,45.3
+1,2009.12.01 17:30,CHF,3,Manufacturing PMI,8,11109,Dec 1 2009,4:30am,CHF,Manufacturing PMI,medium,54.0,54.9, 
+1,2009.12.01 17:45,EUR,1,Italian Manufacturing PMI,9,43478,Dec 1 2009,4:45am,EUR,Italian Manufacturing PMI,low,49.2,50.0,50.1
+1,2009.12.01 17:50,EUR,1,French Final Manufacturing PMI,10,58858,Dec 1 2009,4:50am,EUR,French Final Manufacturing PMI,low,54.2,54.4,54.4
+1,2009.12.01 17:55,EUR,3,German Unemployment Change,11,11812,Dec 1 2009,4:55am,EUR,German Unemployment Change,medium,-26K,5K, 
+1,2009.12.01 17:55,EUR,1,German Final Manufacturing PMI,12,58977,Dec 1 2009,4:55am,EUR,German Final Manufacturing PMI,low,52.0,52.0, 
+1,2009.12.01 18:00,EUR,1,Final Manufacturing PMI,13,10936,Dec 1 2009,5:00am,EUR,Final Manufacturing PMI,low,51.0,51.0,51.2
+0,,EUR,1,Eurogroup Meetings,14,44068,Dec 1 2009,All Day,EUR,Eurogroup Meetings,low, , , 
+1,2009.12.01 18:30,EUR,1,Italian Monthly Unemployment Rate,15,29627,Dec 1 2009,5:30am,EUR,Italian Monthly Unemployment Rate,low,8.0%,8.1%, 
+1,2009.12.01 18:30,GBP,5,Manufacturing PMI,16,10897,Dec 1 2009,5:30am,GBP,Manufacturing PMI,high, ,54.1, 
+1,2009.12.01 19:00,EUR,3,Unemployment Rate,17,13658,Dec 1 2009,6:00am,EUR,Unemployment Rate,medium, ,9.8%,9.8%
+1,2009.12.01 21:30,NZD,1,GDT Price Index,18,56224,Dec 1 2009,8:30am,NZD,GDT Price Index,low,13.6%, ,1.7%
+1,2009.12.01 23:30,GBP,3,MPC Member Posen Speaks,19,28302,Dec 1 2009,10:30am,GBP,MPC Member Posen Speaks,medium, , , 
+1,2009.12.02 00:00,USD,5,ISM Manufacturing PMI,20,10795,Dec 1 2009,11:00am,USD,ISM Manufacturing PMI,high,55.7,54.8, 
+1,2009.12.02 00:00,USD,5,Pending Home Sales m/m,21,13338,Dec 1 2009,11:00am,USD,Pending Home Sales m/m,high, ,-0.4%, 
+1,2009.12.02 00:00,USD,1,Construction Spending m/m,22,11126,Dec 1 2009,11:00am,USD,Construction Spending m/m,low, ,-0.4%, 
+1,2009.12.02 00:00,USD,1,ISM Manufacturing Prices,23,10794,Dec 1 2009,11:00am,USD,ISM Manufacturing Prices,low,65.0,65.1, 
+0,,USD,1,Total Vehicle Sales,24,12967,Dec 1 2009,All Day,USD,Total Vehicle Sales,low,10.5M,10.5M, 
+1,2009.12.02 08:50,JPY,1,Monetary Base y/y,25,13828,Dec 1 2009,7:50pm,JPY,Monetary Base y/y,low,4.4%,4.7%,3.8%
+1,2009.12.02 17:00,EUR,1,Spanish Unemployment Change,26,44003,Dec 2 2009,4:00am,EUR,Spanish Unemployment Change,low,98.9K, ,60.6K
+1,2009.12.02 17:20,GBP,3,MPC Member Dale Speaks,27,28303,Dec 2 2009,4:20am,GBP,MPC Member Dale Speaks,medium, , , 
+0,,EUR,1,ECOFIN Meetings,28,36357,Dec 2 2009,All Day,EUR,ECOFIN Meetings,low, , , 
+1,2009.12.02 18:30,GBP,3,Construction PMI,29,10898,Dec 2 2009,5:30am,GBP,Construction PMI,medium,46.2,46.9,47.0
+1,2009.12.02 18:41,GBP,1,30-y Bond Auction,30,43137,Dec 2 2009,5:41am,GBP,30-y Bond Auction,low,4.17|1.6, ,4.16|1.7
+1,2009.12.02 19:00,EUR,1,PPI m/m,31,12980,Dec 2 2009,6:00am,EUR,PPI m/m,low,-0.4%,0.1%, 
+1,2009.12.02 21:30,USD,1,Challenger Job Cuts y/y,32,13852,Dec 2 2009,8:30am,USD,Challenger Job Cuts y/y,low,-50.7%, ,-72.3%
+1,2009.12.02 22:15,USD,5,ADP Non-Farm Employment Change,33,11608,Dec 2 2009,9:15am,USD,ADP Non-Farm Employment Change,high, ,-149K, 
+1,2009.12.03 00:30,USD,3,Crude Oil Inventories,34,14667,Dec 2 2009,11:30am,USD,Crude Oil Inventories,medium,1.0M,-0.4M,2.1M
+1,2009.12.03 03:15,USD,3,FOMC Member Lacker Speaks,35,28300,Dec 2 2009,2:15pm,USD,FOMC Member Lacker Speaks,medium, , , 
+1,2009.12.03 04:00,USD,3,Beige Book,36,10998,Dec 2 2009,3:00pm,USD,Beige Book,medium, , , 
+1,2009.12.03 07:30,AUD,1,AIG Services Index,37,10884,Dec 2 2009,6:30pm,AUD,AIG Services Index,low,54.8, ,52.5
+1,2009.12.03 08:50,JPY,3,Capital Spending q/y,38,13809,Dec 2 2009,7:50pm,JPY,Capital Spending q/y,medium,-21.7%,-15.8%, 
+1,2009.12.03 09:30,AUD,5,Retail Sales m/m,39,12728,Dec 2 2009,8:30pm,AUD,Retail Sales m/m,high,-0.2%,0.4%, 
+1,2009.12.03 10:00,CNY,1,Non-Manufacturing PMI,40,42283,Dec 2 2009,9:00pm,CNY,Non-Manufacturing PMI,low,62.1, ,52.3
+1,2009.12.03 11:03,NZD,1,ANZ Commodity Prices m/m,41,13989,Dec 2 2009,10:03pm,NZD,ANZ Commodity Prices m/m,low, , ,10.5%
+1,2009.12.03 17:15,EUR,1,Spanish Services PMI,42,43920,Dec 3 2009,4:15am,EUR,Spanish Services PMI,low,47.7, ,46.1
+1,2009.12.03 17:45,EUR,1,Italian Services PMI,43,43538,Dec 3 2009,4:45am,EUR,Italian Services PMI,low,52.2,52.2, 
+1,2009.12.03 17:50,EUR,1,French Final Services PMI,44,59115,Dec 3 2009,4:50am,EUR,French Final Services PMI,low,60.4,60.4, 
+1,2009.12.03 17:55,EUR,1,German Final Services PMI,45,59127,Dec 3 2009,4:55am,EUR,German Final Services PMI,low,51.5,51.5,51.4
+1,2009.12.03 18:00,EUR,1,Final Services PMI,46,10966,Dec 3 2009,5:00am,EUR,Final Services PMI,low,53.2,53.3,53.0
+1,2009.12.03 18:30,GBP,5,Services PMI,47,10899,Dec 3 2009,5:30am,GBP,Services PMI,high,56.9,57.1, 
+1,2009.12.03 19:00,EUR,3,Retail Sales m/m,48,12997,Dec 3 2009,6:00am,EUR,Retail Sales m/m,medium, ,0.2%, 
+1,2009.12.03 19:00,EUR,1,Revised GDP q/q,49,12555,Dec 3 2009,6:00am,EUR,Revised GDP q/q,low,0.4%,0.4%,0.4%
+1,2009.12.03 21:45,EUR,5,Minimum Bid Rate,50,10649,Dec 3 2009,8:45am,EUR,Minimum Bid Rate,high,1.00%,1.00%,1.00%
+1,2009.12.03 22:30,EUR,5,ECB Press Conference,51,10650,Dec 3 2009,9:30am,EUR,ECB Press Conference,high, , , 
+1,2009.12.03 22:30,USD,5,Unemployment Claims,52,14726,Dec 3 2009,9:30am,USD,Unemployment Claims,high, ,479K, 
+1,2009.12.03 22:30,USD,3,Revised Nonfarm Productivity q/q,53,11573,Dec 3 2009,9:30am,USD,Revised Nonfarm Productivity q/q,medium,9.5%,8.5%, 
+1,2009.12.03 22:30,USD,1,Revised Unit Labor Costs q/q,54,11574,Dec 3 2009,9:30am,USD,Revised Unit Labor Costs q/q,low,-5.2%,-4.3%, 
+1,2009.12.04 00:00,EUR,3,German Buba President Weber Speaks,55,28304,Dec 3 2009,11:00am,EUR,German Buba President Weber Speaks,medium, , , 
+1,2009.12.04 00:00,USD,5,Fed Chairman Bernanke Testifies,56,28301,Dec 3 2009,11:00am,USD,Fed Chairman Bernanke Testifies,high, , , 
+1,2009.12.04 00:00,USD,5,ISM Non-Manufacturing PMI,57,10793,Dec 3 2009,11:00am,USD,ISM Non-Manufacturing PMI,high,50.6,51.6, 
+1,2009.12.04 00:30,USD,1,Natural Gas Storage,58,11759,Dec 3 2009,11:30am,USD,Natural Gas Storage,low,2B,1B,2B
+1,2009.12.04 17:00,CHF,5,Foreign Currency Reserves,59,42174,Dec 4 2009,4:00am,CHF,Foreign Currency Reserves,high,90.1B, ,95.2B
+1,2009.12.04 17:15,CHF,3,CPI m/m,60,13547,Dec 4 2009,4:15am,CHF,CPI m/m,medium,0.6%,0.1%, 
+1,2009.12.04 21:00,CAD,5,Employment Change,61,13470,Dec 4 2009,8:00am,CAD,Employment Change,high,-43.2K,15.3K, 
+1,2009.12.04 21:00,CAD,5,Unemployment Rate,62,13469,Dec 4 2009,8:00am,CAD,Unemployment Rate,high,8.6%,8.6%, 
+1,2009.12.04 22:30,USD,5,Non-Farm Employment Change,63,10625,Dec 4 2009,9:30am,USD,Non-Farm Employment Change,high, ,-119K, 
+1,2009.12.04 22:30,USD,5,Unemployment Rate,64,10624,Dec 4 2009,9:30am,USD,Unemployment Rate,high,10.2%,10.2%, 
+1,2009.12.04 22:30,USD,3,Average Hourly Earnings m/m,65,10626,Dec 4 2009,9:30am,USD,Average Hourly Earnings m/m,medium,0.3%,0.2%, 
+1,2009.12.05 00:00,CAD,5,Ivey PMI,66,13865,Dec 4 2009,11:00am,CAD,Ivey PMI,high,61.2,60.4, 
+1,2009.12.05 00:00,USD,3,Factory Orders m/m,67,11546,Dec 4 2009,11:00am,USD,Factory Orders m/m,medium, ,0.1%, 
+1,2009.12.07 07:30,AUD,1,AIG Construction Index,69,10889,Dec 6 2009,6:30pm,AUD,AIG Construction Index,low,50.9, ,47.6
+1,2009.12.07 09:30,AUD,3,ANZ Job Advertisements m/m,70,19273,Dec 6 2009,8:30pm,AUD,ANZ Job Advertisements m/m,medium,-1.7%, ,5.2%
+1,2009.12.07 17:00,EUR,3,ECB President Trichet Speaks,71,28517,Dec 7 2009,4:00am,EUR,ECB President Trichet Speaks,medium, , , 
+1,2009.12.07 17:15,CHF,5,Retail Sales y/y,72,13599,Dec 7 2009,4:15am,CHF,Retail Sales y/y,high, ,1.2%, 
+1,2009.12.07 18:30,EUR,1,Sentix Investor Confidence,73,13781,Dec 7 2009,5:30am,EUR,Sentix Investor Confidence,low,-7.0,-4.3, 
+1,2009.12.07 20:00,EUR,3,German Factory Orders m/m,74,11695,Dec 7 2009,7:00am,EUR,German Factory Orders m/m,medium, ,0.6%, 
+1,2009.12.07 22:00,EUR,5,ECB President Trichet Speaks,75,28518,Dec 7 2009,9:00am,EUR,ECB President Trichet Speaks,high, , , 
+1,2009.12.07 22:30,CAD,5,Building Permits m/m,76,13505,Dec 7 2009,9:30am,CAD,Building Permits m/m,high, ,1.1%, 
+1,2009.12.08 02:45,USD,5,Fed Chairman Bernanke Speaks,77,28510,Dec 7 2009,1:45pm,USD,Fed Chairman Bernanke Speaks,high, , , 
+1,2009.12.08 05:00,USD,1,Consumer Credit m/m,78,11586,Dec 7 2009,4:00pm,USD,Consumer Credit m/m,low, ,-9.6B, 
+1,2009.12.08 06:45,NZD,1,Manufacturing Sales q/q,79,12579,Dec 7 2009,5:45pm,NZD,Manufacturing Sales q/q,low,-4.8%, ,-5.1%
+1,2009.12.08 07:45,USD,1,FOMC Member Dudley Speaks,80,28511,Dec 7 2009,6:45pm,USD,FOMC Member Dudley Speaks,low, , , 
+1,2009.12.08 08:50,JPY,1,Bank Lending y/y,81,13840,Dec 7 2009,7:50pm,JPY,Bank Lending y/y,low, , ,0.2%
+1,2009.12.08 08:50,JPY,1,Current Account,82,14538,Dec 7 2009,7:50pm,JPY,Current Account,low,1.34T,1.59T, 
+1,2009.12.08 08:50,JPY,1,M2 Money Stock y/y,83,14335,Dec 7 2009,7:50pm,JPY,M2 Money Stock y/y,low, ,3.5%, 
+1,2009.12.08 09:01,GBP,3,BRC Retail Sales Monitor y/y,84,12704,Dec 7 2009,8:01pm,GBP,BRC Retail Sales Monitor y/y,medium,3.8%, ,1.8%
+1,2009.12.08 09:30,AUD,3,Current Account,85,12732,Dec 7 2009,8:30pm,AUD,Current Account,medium, ,-16.7B, 
+1,2009.12.08 09:30,AUD,3,NAB Business Confidence,86,13070,Dec 7 2009,8:30pm,AUD,NAB Business Confidence,medium,16, ,19
+1,2009.12.08 12:45,JPY,1,30-y Bond Auction,87,49072,Dec 7 2009,11:45pm,JPY,30-y Bond Auction,low,2.14|3.3, ,2.21|3.5
+1,2009.12.08 14:00,JPY,1,Leading Indicators,88,14441,Dec 8 2009,1:00am,JPY,Leading Indicators,low, ,88.7%, 
+1,2009.12.08 14:30,JPY,1,Economy Watchers Sentiment,89,14440,Dec 8 2009,1:30am,JPY,Economy Watchers Sentiment,low,40.9,40.3, 
+0,,EUR,0,Italian Bank Holiday,90,23783,Dec 8 2009,All Day,EUR,Italian Bank Holiday,holiday, , , 
+1,2009.12.08 17:03,EUR,1,French Gov Budget Balance,91,13953,Dec 8 2009,4:03am,EUR,French Gov Budget Balance,low,-125.8B, ,-134.8B
+1,2009.12.08 18:00,GBP,5,Halifax HPI m/m,92,12260,Dec 8 2009,5:00am,GBP,Halifax HPI m/m,high, ,0.8%, 
+1,2009.12.08 18:25,AUD,5,RBA Gov Stevens Speaks,93,28514,Dec 8 2009,5:25am,AUD,RBA Gov Stevens Speaks,high, , , 
+1,2009.12.08 18:30,GBP,5,Manufacturing Production m/m,94,10827,Dec 8 2009,5:30am,GBP,Manufacturing Production m/m,high, ,0.5%, 
+1,2009.12.08 18:30,GBP,1,Industrial Production m/m,95,10826,Dec 8 2009,5:30am,GBP,Industrial Production m/m,low, ,0.5%, 
+1,2009.12.08 19:37,GBP,1,10-y Bond Auction,96,43130,Dec 8 2009,6:37am,GBP,10-y Bond Auction,low,3.92|2.0, ,3.79|1.8
+1,2009.12.08 20:00,EUR,3,German Industrial Production m/m,97,11683,Dec 8 2009,7:00am,EUR,German Industrial Production m/m,medium, ,1.1%, 
+1,2009.12.08 20:00,GBP,3,CBI Industrial Order Expectations,98,12321,Dec 8 2009,7:00am,GBP,CBI Industrial Order Expectations,medium,-45,-42,-42
+1,2009.12.08 21:30,USD,1,NFIB Small Business Index,99,48373,Dec 8 2009,8:30am,USD,NFIB Small Business Index,low,89.1, ,88.3
+1,2009.12.08 22:11,CAD,5,Housing Starts,100,14205,Dec 8 2009,9:11am,CAD,Housing Starts,high,157K,159K,159K
+1,2009.12.08 23:00,CAD,5,BOC Rate Statement,101,10567,Dec 8 2009,10:00am,CAD,BOC Rate Statement,high, , , 
+1,2009.12.08 23:00,CAD,5,Overnight Rate,102,10568,Dec 8 2009,10:00am,CAD,Overnight Rate,high,0.25%,0.25%,0.25%
+1,2009.12.09 00:00,GBP,3,NIESR GDP Estimate,103,13276,Dec 8 2009,11:00am,GBP,NIESR GDP Estimate,medium,-0.4%, ,0.2%
+1,2009.12.09 00:00,USD,1,IBD/TIPP Economic Optimism,104,14742,Dec 8 2009,11:00am,USD,IBD/TIPP Economic Optimism,low,47.9,49.5, 
+1,2009.12.09 00:00,USD,1,JOLTS Job Openings,105,49304,Dec 8 2009,11:00am,USD,JOLTS Job Openings,low, , ,2.51M
+1,2009.12.09 08:30,AUD,3,Westpac Consumer Sentiment,106,14777,Dec 8 2009,7:30pm,AUD,Westpac Consumer Sentiment,medium,-2.5%, ,-3.8%
+1,2009.12.09 08:50,JPY,3,Final GDP q/q,107,12570,Dec 8 2009,7:50pm,JPY,Final GDP q/q,medium,1.2%,0.8%, 
+1,2009.12.09 08:50,JPY,1,Final GDP Price Index y/y,108,12571,Dec 8 2009,7:50pm,JPY,Final GDP Price Index y/y,low,0.2%,0.2%, 
+1,2009.12.09 09:01,GBP,3,Nationwide Consumer Confidence,109,13020,Dec 8 2009,8:01pm,GBP,Nationwide Consumer Confidence,medium, ,71, 
+1,2009.12.09 09:01,GBP,1,BRC Shop Price Index y/y,110,12716,Dec 8 2009,8:01pm,GBP,BRC Shop Price Index y/y,low,0.0%, ,0.2%
+1,2009.12.09 09:30,AUD,5,Home Loans m/m,111,13094,Dec 8 2009,8:30pm,AUD,Home Loans m/m,high, ,-1.9%, 
+1,2009.12.09 09:30,AUD,5,Trade Balance,112,12841,Dec 8 2009,8:30pm,AUD,Trade Balance,high,-1.85B,-1.75B, 
+1,2009.12.09 13:36,NZD,5,Core Retail Sales m/m,113,12886,Dec 9 2009,12:36am,NZD,Core Retail Sales m/m,high, , ,0.5%
+1,2009.12.09 13:36,NZD,3,Retail Sales m/m,114,12885,Dec 9 2009,12:36am,NZD,Retail Sales m/m,medium, , ,0.0%
+1,2009.12.09 15:00,JPY,1,Prelim Machine Tool Orders y/y,115,14605,Dec 9 2009,2:00am,JPY,Prelim Machine Tool Orders y/y,low, , ,-8.6%
+1,2009.12.09 15:45,CHF,1,Unemployment Rate,116,13587,Dec 9 2009,2:45am,CHF,Unemployment Rate,low,4.1%,4.2%, 
+1,2009.12.09 16:00,EUR,1,German Final CPI m/m,117,11858,Dec 9 2009,3:00am,EUR,German Final CPI m/m,low,-0.2%,-0.2%, 
+1,2009.12.09 16:00,EUR,1,German Trade Balance,118,11824,Dec 9 2009,3:00am,EUR,German Trade Balance,low, ,10.4B, 
+1,2009.12.09 16:45,EUR,1,French Trade Balance,119,13877,Dec 9 2009,3:45am,EUR,French Trade Balance,low, ,-2.3B, 
+1,2009.12.09 18:30,GBP,3,Trade Balance,120,12673,Dec 9 2009,5:30am,GBP,Trade Balance,medium, ,-6.9B, 
+1,2009.12.09 20:00,EUR,3,German Buba President Weber Speaks,121,28516,Dec 9 2009,7:00am,EUR,German Buba President Weber Speaks,medium, , , 
+1,2009.12.09 21:30,GBP,5,Annual Pre-Budget Report,122,14488,Dec 9 2009,8:30am,GBP,Annual Pre-Budget Report,high, , , 
+1,2009.12.09 22:40,USD,1,FOMC Member Duke Speaks,123,28512,Dec 9 2009,9:40am,USD,FOMC Member Duke Speaks,low, , , 
+1,2009.12.10 00:00,USD,1,Wholesale Inventories m/m,124,11707,Dec 9 2009,11:00am,USD,Wholesale Inventories m/m,low, ,-0.6%, 
+1,2009.12.10 00:30,USD,3,Crude Oil Inventories,125,14668,Dec 9 2009,11:30am,USD,Crude Oil Inventories,medium,2.1M,0.7M,-3.8M
+1,2009.12.10 03:00,USD,3,10-y Bond Auction,126,43089,Dec 9 2009,2:00pm,USD,10-y Bond Auction,medium,3.47|2.8, ,3.45|2.6
+1,2009.12.10 05:00,NZD,5,Official Cash Rate,127,12595,Dec 9 2009,4:00pm,NZD,Official Cash Rate,high,2.50%,2.50%,2.50%
+1,2009.12.10 05:00,NZD,5,RBNZ Press Conference,128,12619,Dec 9 2009,4:00pm,NZD,RBNZ Press Conference,high, , , 
+1,2009.12.10 05:00,NZD,5,RBNZ Rate Statement,129,12594,Dec 9 2009,4:00pm,NZD,RBNZ Rate Statement,high, , , 
+1,2009.12.10 05:00,NZD,3,RBNZ Monetary Policy Statement,130,13197,Dec 9 2009,4:00pm,NZD,RBNZ Monetary Policy Statement,medium, , , 
+1,2009.12.10 06:30,NZD,1,Business NZ Manufacturing Index,131,14501,Dec 9 2009,5:30pm,NZD,Business NZ Manufacturing Index,low, , ,51.8
+1,2009.12.10 06:45,NZD,1,Overseas Trade Index q/q,132,12575,Dec 9 2009,5:45pm,NZD,Overseas Trade Index q/q,low, ,-2.3%, 
+1,2009.12.10 08:50,JPY,3,Core Machinery Orders m/m,133,13807,Dec 9 2009,7:50pm,JPY,Core Machinery Orders m/m,medium,10.5%,-4.4%,-4.5%
+1,2009.12.10 08:50,JPY,1,PPI y/y,134,13808,Dec 9 2009,7:50pm,JPY,PPI y/y,low, ,-5.1%, 
+1,2009.12.10 09:00,AUD,3,MI Inflation Expectations,135,12749,Dec 9 2009,8:00pm,AUD,MI Inflation Expectations,medium,3.2%, ,3.6%
+1,2009.12.10 09:30,AUD,5,Employment Change,136,13532,Dec 9 2009,8:30pm,AUD,Employment Change,high, ,5.3K, 
+1,2009.12.10 09:30,AUD,5,Unemployment Rate,137,13531,Dec 9 2009,8:30pm,AUD,Unemployment Rate,high,5.8%,5.9%, 
+1,2009.12.10 10:45,AUD,3,RBA Assist Gov Debelle Speaks,138,28515,Dec 9 2009,9:45pm,AUD,RBA Assist Gov Debelle Speaks,medium, , , 
+1,2009.12.10 16:00,EUR,1,German WPI m/m,139,11905,Dec 10 2009,3:00am,EUR,German WPI m/m,low,-0.4%,0.3%, 
+1,2009.12.10 16:45,EUR,3,French Industrial Production m/m,140,13889,Dec 10 2009,3:45am,EUR,French Industrial Production m/m,medium, ,0.6%, 
+1,2009.12.10 16:45,EUR,1,French Final Non-Farm Payrolls q/q,141,12514,Dec 10 2009,3:45am,EUR,French Final Non-Farm Payrolls q/q,low,0.0%,0.0%, 
+1,2009.12.10 17:30,CHF,5,Libor Rate,142,11844,Dec 10 2009,4:30am,CHF,Libor Rate,high,0.25%,0.25%,0.25%
+1,2009.12.10 17:30,CHF,5,SNB Monetary Policy Assessment,143,11845,Dec 10 2009,4:30am,CHF,SNB Monetary Policy Assessment,high, , , 
+1,2009.12.10 17:30,CHF,5,SNB Press Conference,144,11846,Dec 10 2009,4:30am,CHF,SNB Press Conference,high, , , 
+1,2009.12.10 18:00,EUR,3,ECB Monthly Bulletin,145,10674,Dec 10 2009,5:00am,EUR,ECB Monthly Bulletin,medium, , , 
+1,2009.12.10 18:00,EUR,1,Italian Industrial Production m/m,146,14369,Dec 10 2009,5:00am,EUR,Italian Industrial Production m/m,low, ,1.6%, 
+1,2009.12.10 18:38,EUR,1,Spanish 10-y Bond Auction,147,43325,Dec 10 2009,5:38am,EUR,Spanish 10-y Bond Auction,low,3.87|2.2, ,3.89|2.1
+1,2009.12.10 20:28,GBP,1,CB Leading Index m/m,148,14049,Dec 10 2009,7:28am,GBP,CB Leading Index m/m,low, , ,1.0%
+1,2009.12.10 21:00,GBP,5,Asset Purchase Facility,149,24510,Dec 10 2009,8:00am,GBP,Asset Purchase Facility,high,200B,200B,200B
+1,2009.12.10 21:00,GBP,5,MPC Rate Statement,150,11655,Dec 10 2009,8:00am,GBP,MPC Rate Statement,high, , , 
+1,2009.12.10 21:00,GBP,5,Official Bank Rate,151,11656,Dec 10 2009,8:00am,GBP,Official Bank Rate,high,0.50%,0.50%,0.50%
+1,2009.12.10 22:30,CAD,5,Trade Balance,152,13233,Dec 10 2009,9:30am,CAD,Trade Balance,high,-0.9B,-0.6B, 
+1,2009.12.10 22:30,USD,5,Trade Balance,153,11534,Dec 10 2009,9:30am,USD,Trade Balance,high, ,-36.9B, 
+1,2009.12.10 22:30,USD,5,Unemployment Claims,154,14727,Dec 10 2009,9:30am,USD,Unemployment Claims,high,457K,463K, 
+1,2009.12.11 00:30,USD,1,Natural Gas Storage,155,11760,Dec 10 2009,11:30am,USD,Natural Gas Storage,low,2B,-45B,-64B
+1,2009.12.11 02:30,EUR,3,ECB President Trichet Speaks,156,28934,Dec 10 2009,1:30pm,EUR,ECB President Trichet Speaks,medium, , , 
+1,2009.12.11 03:00,USD,1,30-y Bond Auction,157,43107,Dec 10 2009,2:00pm,USD,30-y Bond Auction,low,4.47|2.3, ,4.52|2.5
+1,2009.12.11 03:45,USD,1,FOMC Member Duke Speaks,158,28513,Dec 10 2009,2:45pm,USD,FOMC Member Duke Speaks,low, , , 
+1,2009.12.11 04:00,USD,3,Federal Budget Balance,159,14829,Dec 10 2009,3:00pm,USD,Federal Budget Balance,medium,-176.4B,-136.0B, 
+1,2009.12.11 06:49,NZD,1,FPI m/m,160,14001,Dec 10 2009,5:49pm,NZD,FPI m/m,low,-1.5%, ,-0.3%
+1,2009.12.11 11:00,CNY,5,Industrial Production y/y,161,18471,Dec 10 2009,10:00pm,CNY,Industrial Production y/y,high,16.1%,18.2%, 
+1,2009.12.11 11:00,CNY,3,CPI y/y,162,18517,Dec 10 2009,10:00pm,CNY,CPI y/y,medium,-0.5%,0.5%, 
+1,2009.12.11 11:00,CNY,3,Fixed Asset Investment ytd/y,163,19759,Dec 10 2009,10:00pm,CNY,Fixed Asset Investment ytd/y,medium,33.1%,33.1%, 
+1,2009.12.11 11:00,CNY,3,NBS Press Conference,164,23837,Dec 10 2009,10:00pm,CNY,NBS Press Conference,medium, , , 
+1,2009.12.11 11:00,CNY,3,PPI y/y,165,18556,Dec 10 2009,10:00pm,CNY,PPI y/y,medium,-5.8%,-2.3%, 
+1,2009.12.11 11:00,CNY,1,Retail Sales y/y,166,23244,Dec 10 2009,10:00pm,CNY,Retail Sales y/y,low,16.2%,16.6%, 
+1,2009.12.11 11:05,CNY,3,New Loans,167,24366,Dec 10 2009,10:05pm,CNY,New Loans,medium,253B, ,295B
+1,2009.12.11 11:05,CNY,1,M2 Money Supply y/y,168,24271,Dec 10 2009,10:05pm,CNY,M2 Money Supply y/y,low,29.4%,29.0%, 
+1,2009.12.11 12:02,CNY,5,Trade Balance,169,18380,Dec 10 2009,11:02pm,CNY,Trade Balance,high,24.0B,24.0B, 
+1,2009.12.11 14:00,JPY,1,Consumer Confidence,170,14547,Dec 11 2009,1:00am,JPY,Consumer Confidence,low,40.5,40.6, 
+1,2009.12.11 18:30,GBP,5,PPI Input m/m,171,12479,Dec 11 2009,5:30am,GBP,PPI Input m/m,high, ,0.6%, 
+1,2009.12.11 18:30,GBP,1,PPI Output m/m,172,12480,Dec 11 2009,5:30am,GBP,PPI Output m/m,low, ,0.4%, 
+1,2009.12.11 21:15,EUR,3,ECB President Trichet Speaks,173,28519,Dec 11 2009,8:15am,EUR,ECB President Trichet Speaks,medium, , , 
+1,2009.12.11 22:30,CAD,3,NHPI m/m,174,12806,Dec 11 2009,9:30am,CAD,NHPI m/m,medium,0.5%, ,0.3%
+1,2009.12.11 22:30,USD,5,Core Retail Sales m/m,175,11436,Dec 11 2009,9:30am,USD,Core Retail Sales m/m,high, ,0.5%, 
+1,2009.12.11 22:30,USD,5,Retail Sales m/m,176,11437,Dec 11 2009,9:30am,USD,Retail Sales m/m,high, ,0.6%, 
+1,2009.12.11 22:30,USD,3,Import Prices m/m,177,11558,Dec 11 2009,9:30am,USD,Import Prices m/m,medium, ,1.2%, 
+1,2009.12.11 23:55,USD,5,Prelim UoM Consumer Sentiment,178,10697,Dec 11 2009,10:55am,USD,Prelim UoM Consumer Sentiment,high, ,68.6, 
+1,2009.12.11 23:55,USD,1,Prelim UoM Inflation Expectations,179,10723,Dec 11 2009,10:55am,USD,Prelim UoM Inflation Expectations,low, , ,2.1%
+1,2009.12.12 00:00,USD,3,Business Inventories m/m,180,11620,Dec 11 2009,11:00am,USD,Business Inventories m/m,medium, ,-0.3%, 
+1,2009.12.14 06:00,NZD,3,REINZ HPI m/m,182,37381,Dec 13 2009,5:00pm,NZD,REINZ HPI m/m,medium,1.3%, ,0.2%
+1,2009.12.14 08:50,JPY,5,Tankan Manufacturing Index,183,11347,Dec 13 2009,7:50pm,JPY,Tankan Manufacturing Index,high,-33,-26, 
+1,2009.12.14 08:50,JPY,3,Tankan Non-Manufacturing Index,184,11348,Dec 13 2009,7:50pm,JPY,Tankan Non-Manufacturing Index,medium,-24,-23, 
+1,2009.12.14 09:01,GBP,3,Rightmove HPI m/m,185,12361,Dec 13 2009,8:01pm,GBP,Rightmove HPI m/m,medium,-1.6%, ,-2.2%
+1,2009.12.14 09:01,GBP,1,BOE Quarterly Bulletin,186,13133,Dec 13 2009,8:01pm,GBP,BOE Quarterly Bulletin,low, , , 
+1,2009.12.14 13:30,JPY,1,Revised Industrial Production m/m,187,14442,Dec 14 2009,12:30am,JPY,Revised Industrial Production m/m,low,0.5%,0.5%,0.5%
+1,2009.12.14 17:15,CHF,3,PPI m/m,188,13559,Dec 14 2009,4:15am,CHF,PPI m/m,medium,-0.4%,0.2%, 
+1,2009.12.14 19:00,EUR,3,Industrial Production m/m,189,13769,Dec 14 2009,6:00am,EUR,Industrial Production m/m,medium, ,-0.6%,-0.6%
+1,2009.12.14 19:00,EUR,1,Employment Change q/q,190,12984,Dec 14 2009,6:00am,EUR,Employment Change q/q,low,-0.5%, ,-0.5%
+1,2009.12.14 20:00,EUR,1,German Buba Monthly Report,191,50158,Dec 14 2009,7:00am,EUR,German Buba Monthly Report,low, , , 
+1,2009.12.14 22:30,CAD,1,Capacity Utilization Rate,192,13493,Dec 14 2009,9:30am,CAD,Capacity Utilization Rate,low, ,67.5%,67.5%
+1,2009.12.15 00:30,CAD,1,BOC Financial System Review,193,58700,Dec 14 2009,11:30am,CAD,BOC Financial System Review,low, , , 
+1,2009.12.15 09:01,GBP,3,RICS House Price Balance,194,12309,Dec 14 2009,8:01pm,GBP,RICS House Price Balance,medium,34%,39%, 
+1,2009.12.15 09:30,AUD,5,Monetary Policy Meeting Minutes,195,12384,Dec 14 2009,8:30pm,AUD,Monetary Policy Meeting Minutes,high, , , 
+1,2009.12.15 09:30,AUD,1,Housing Starts q/q,196,12736,Dec 14 2009,8:30pm,AUD,Housing Starts q/q,low, ,6.4%, 
+1,2009.12.15 15:45,CHF,3,SECO Economic Forecasts,197,24985,Dec 15 2009,2:45am,CHF,SECO Economic Forecasts,medium, , , 
+1,2009.12.15 16:45,EUR,1,French CPI m/m,198,13901,Dec 15 2009,3:45am,EUR,French CPI m/m,low,0.1%,0.3%, 
+1,2009.12.15 17:15,CHF,3,Industrial Production q/q,199,13604,Dec 15 2009,4:15am,CHF,Industrial Production q/q,medium, ,0.4%, 
+1,2009.12.15 18:30,GBP,5,CPI y/y,200,13171,Dec 15 2009,5:30am,GBP,CPI y/y,high,1.5%,1.8%, 
+1,2009.12.15 18:30,GBP,3,RPI y/y,201,13173,Dec 15 2009,5:30am,GBP,RPI y/y,medium,-0.8%,0.2%, 
+1,2009.12.15 18:30,GBP,1,Core CPI y/y,202,13172,Dec 15 2009,5:30am,GBP,Core CPI y/y,low,1.8%,1.8%, 
+1,2009.12.15 18:30,GBP,1,HPI y/y,203,12456,Dec 15 2009,5:30am,GBP,HPI y/y,low,-4.1%,-2.3%,-2.2%
+1,2009.12.15 19:00,EUR,5,German ZEW Economic Sentiment,204,11936,Dec 15 2009,6:00am,EUR,German ZEW Economic Sentiment,high,51.1,50.1,50.4
+1,2009.12.15 19:00,EUR,3,ZEW Economic Sentiment,205,11937,Dec 15 2009,6:00am,EUR,ZEW Economic Sentiment,medium,51.8,50.9, 
+1,2009.12.15 22:30,CAD,3,Labor Productivity q/q,206,13474,Dec 15 2009,9:30am,CAD,Labor Productivity q/q,medium, ,-0.4%, 
+1,2009.12.15 22:30,CAD,3,Leading Index m/m,207,13411,Dec 15 2009,9:30am,CAD,Leading Index m/m,medium,0.7%,0.6%, 
+1,2009.12.15 22:30,CAD,1,New Motor Vehicle Sales m/m,208,13435,Dec 15 2009,9:30am,CAD,New Motor Vehicle Sales m/m,low, ,3.1%, 
+1,2009.12.15 22:30,USD,5,PPI m/m,209,11497,Dec 15 2009,9:30am,USD,PPI m/m,high,0.3%,0.8%, 
+1,2009.12.15 22:30,USD,3,Core PPI m/m,210,11498,Dec 15 2009,9:30am,USD,Core PPI m/m,medium,-0.6%,0.3%, 
+1,2009.12.15 22:30,USD,3,Empire State Manufacturing Index,211,14013,Dec 15 2009,9:30am,USD,Empire State Manufacturing Index,medium,23.5,24.7, 
+1,2009.12.15 23:00,USD,5,TIC Long-Term Purchases,212,12148,Dec 15 2009,10:00am,USD,TIC Long-Term Purchases,high,40.7B,38.3B, 
+1,2009.12.15 23:15,USD,3,Capacity Utilization Rate,213,11152,Dec 15 2009,10:15am,USD,Capacity Utilization Rate,medium, ,71.1%, 
+1,2009.12.15 23:15,USD,3,Industrial Production m/m,214,11151,Dec 15 2009,10:15am,USD,Industrial Production m/m,medium, ,0.6%, 
+1,2009.12.16 01:40,CHF,3,SNB Chairman Roth Speaks,215,29018,Dec 15 2009,12:40pm,CHF,SNB Chairman Roth Speaks,medium, , , 
+1,2009.12.16 03:00,USD,1,NAHB Housing Market Index,216,13977,Dec 15 2009,2:00pm,USD,NAHB Housing Market Index,low,17,18, 
+1,2009.12.16 08:30,AUD,3,MI Leading Index m/m,217,14090,Dec 15 2009,7:30pm,AUD,MI Leading Index m/m,medium, , ,0.4%
+1,2009.12.16 08:50,JPY,3,Tertiary Industry Activity m/m,218,14356,Dec 15 2009,7:50pm,JPY,Tertiary Industry Activity m/m,medium, ,0.5%,0.5%
+1,2009.12.16 09:30,AUD,5,GDP q/q,219,10803,Dec 15 2009,8:30pm,AUD,GDP q/q,high,0.6%,0.4%, 
+1,2009.12.16 10:00,AUD,3,RBA Deputy Gov Battellino Speaks,220,29017,Dec 15 2009,9:00pm,AUD,RBA Deputy Gov Battellino Speaks,medium, , , 
+1,2009.12.16 11:18,CNY,1,Foreign Direct Investment ytd/y,221,19317,Dec 15 2009,10:18pm,CNY,Foreign Direct Investment ytd/y,low,-12.6%, ,-9.9%
+1,2009.12.16 17:00,EUR,3,French Flash Manufacturing PMI,222,14183,Dec 16 2009,4:00am,EUR,French Flash Manufacturing PMI,medium, ,54.7,54.4
+1,2009.12.16 17:00,EUR,3,French Flash Services PMI,223,14184,Dec 16 2009,4:00am,EUR,French Flash Services PMI,medium, ,60.1, 
+1,2009.12.16 17:30,EUR,3,German Flash Manufacturing PMI,224,14185,Dec 16 2009,4:30am,EUR,German Flash Manufacturing PMI,medium, ,52.6, 
+1,2009.12.16 17:30,EUR,3,German Flash Services PMI,225,14186,Dec 16 2009,4:30am,EUR,German Flash Services PMI,medium, ,51.9, 
+1,2009.12.16 17:30,GBP,3,MPC Member Miles Speaks,226,29016,Dec 16 2009,4:30am,GBP,MPC Member Miles Speaks,medium, , , 
+1,2009.12.16 18:00,EUR,3,Flash Manufacturing PMI,227,14187,Dec 16 2009,5:00am,EUR,Flash Manufacturing PMI,medium, ,51.5,51.6
+1,2009.12.16 18:00,EUR,3,Flash Services PMI,228,14188,Dec 16 2009,5:00am,EUR,Flash Services PMI,medium, ,53.3, 
+1,2009.12.16 18:30,GBP,5,Claimant Count Change,229,10762,Dec 16 2009,5:30am,GBP,Claimant Count Change,high, ,13.9K, 
+1,2009.12.16 18:30,GBP,3,Average Earnings Index 3m/y,230,10763,Dec 16 2009,5:30am,GBP,Average Earnings Index 3m/y,medium, ,1.3%, 
+1,2009.12.16 18:30,GBP,1,Unemployment Rate,231,10764,Dec 16 2009,5:30am,GBP,Unemployment Rate,low,7.8%,7.9%,7.9%
+1,2009.12.16 19:00,EUR,3,Final CPI y/y,232,13756,Dec 16 2009,6:00am,EUR,Final CPI y/y,medium,0.6%,0.6%, 
+1,2009.12.16 19:00,EUR,3,Final Core CPI y/y,233,13757,Dec 16 2009,6:00am,EUR,Final Core CPI y/y,medium,1.2%,1.2%, 
+1,2009.12.16 19:00,EUR,1,Italian Trade Balance,234,14381,Dec 16 2009,6:00am,EUR,Italian Trade Balance,low, ,-0.63B, 
+1,2009.12.16 22:30,CAD,3,Manufacturing Sales m/m,235,13423,Dec 16 2009,9:30am,CAD,Manufacturing Sales m/m,medium, ,1.0%, 
+1,2009.12.16 22:30,USD,5,Building Permits,236,11176,Dec 16 2009,9:30am,USD,Building Permits,high,0.55M,0.58M,0.58M
+1,2009.12.16 22:30,USD,5,Core CPI m/m,237,11522,Dec 16 2009,9:30am,USD,Core CPI m/m,high,0.2%,0.1%, 
+1,2009.12.16 22:30,USD,3,CPI m/m,238,11521,Dec 16 2009,9:30am,USD,CPI m/m,medium,0.3%,0.4%,0.4%
+1,2009.12.16 22:30,USD,3,Current Account,239,11377,Dec 16 2009,9:30am,USD,Current Account,medium, ,-107B,-108B
+1,2009.12.16 22:30,USD,3,Housing Starts,240,11175,Dec 16 2009,9:30am,USD,Housing Starts,medium,0.53M,0.59M,0.57M
+1,2009.12.16 23:30,GBP,3,Chancellor Darling Speaks,241,29222,Dec 16 2009,10:30am,GBP,Chancellor Darling Speaks,medium, , , 
+1,2009.12.17 00:30,USD,3,Crude Oil Inventories,242,14669,Dec 16 2009,11:30am,USD,Crude Oil Inventories,medium,-3.8M,-2.1M,-3.7M
+1,2009.12.17 03:05,CAD,3,BOC Gov Carney Speaks,243,29015,Dec 16 2009,2:05pm,CAD,BOC Gov Carney Speaks,medium, , , 
+1,2009.12.17 04:15,USD,5,FOMC Statement,244,10551,Dec 16 2009,3:15pm,USD,FOMC Statement,high, , , 
+1,2009.12.17 04:15,USD,5,Federal Funds Rate,245,10552,Dec 16 2009,3:15pm,USD,Federal Funds Rate,high,0.25%,0.25%,0.25%
+1,2009.12.17 06:47,NZD,3,Westpac Consumer Sentiment,246,13040,Dec 16 2009,5:47pm,NZD,Westpac Consumer Sentiment,medium,120.3, ,116.9
+1,2009.12.17 09:30,AUD,1,RBA Bulletin,247,11389,Dec 16 2009,8:30pm,AUD,RBA Bulletin,low, , , 
+1,2009.12.17 11:00,NZD,5,ANZ Business Confidence,248,13054,Dec 16 2009,10:00pm,NZD,ANZ Business Confidence,high,43.4, ,38.5
+1,2009.12.17 18:15,EUR,1,Italian Quarterly Unemployment Rate,249,14282,Dec 17 2009,5:15am,EUR,Italian Quarterly Unemployment Rate,low, ,7.7%, 
+1,2009.12.17 18:30,GBP,5,Retail Sales m/m,250,13185,Dec 17 2009,5:30am,GBP,Retail Sales m/m,high, ,0.5%, 
+1,2009.12.17 18:30,GBP,3,Consumer Inflation Expectations,251,14287,Dec 17 2009,5:30am,GBP,Consumer Inflation Expectations,medium,2.4%, ,2.4%
+1,2009.12.17 19:00,CHF,3,ZEW Economic Expectations,252,13617,Dec 17 2009,6:00am,CHF,ZEW Economic Expectations,medium,56.4, ,54.0
+1,2009.12.17 20:00,GBP,5,CBI Realized Sales,253,12333,Dec 17 2009,7:00am,GBP,CBI Realized Sales,high,13,14,13
+1,2009.12.17 21:00,CAD,5,Core CPI m/m,254,12931,Dec 17 2009,8:00am,CAD,Core CPI m/m,high,0.1%,0.2%, 
+1,2009.12.17 21:00,CAD,3,CPI m/m,255,12930,Dec 17 2009,8:00am,CAD,CPI m/m,medium,-0.1%,0.3%, 
+1,2009.12.17 22:30,CAD,3,Foreign Securities Purchases,256,12818,Dec 17 2009,9:30am,CAD,Foreign Securities Purchases,medium, ,8.11B, 
+1,2009.12.17 22:30,USD,5,Unemployment Claims,257,14728,Dec 17 2009,9:30am,USD,Unemployment Claims,high, ,466K, 
+1,2009.12.18 00:00,USD,5,Philly Fed Manufacturing Index,258,10983,Dec 17 2009,11:00am,USD,Philly Fed Manufacturing Index,high,16.7,16.2, 
+1,2009.12.18 00:00,USD,1,CB Leading Index m/m,259,14037,Dec 17 2009,11:00am,USD,CB Leading Index m/m,low,0.3%,0.8%, 
+1,2009.12.18 00:30,USD,1,Natural Gas Storage,260,11761,Dec 17 2009,11:30am,USD,Natural Gas Storage,low,-64B,-175B,-207B
+1,2009.12.18 09:01,GBP,3,GfK Consumer Confidence,261,12444,Dec 17 2009,8:01pm,GBP,GfK Consumer Confidence,medium,-17,-18, 
+1,2009.12.18 09:01,GBP,1,BOE Financial Stability Report,262,14444,Dec 17 2009,8:01pm,GBP,BOE Financial Stability Report,low, , , 
+1,2009.12.18 12:13,JPY,3,Monetary Policy Statement,263,14310,Dec 17 2009,11:13pm,JPY,Monetary Policy Statement,medium, , , 
+1,2009.12.18 12:13,JPY,3,Overnight Call Rate,264,14309,Dec 17 2009,11:13pm,JPY,Overnight Call Rate,medium,0.10%,0.10%,0.10%
+1,2009.12.18 16:00,EUR,3,German PPI m/m,265,11870,Dec 18 2009,3:00am,EUR,German PPI m/m,medium,0.0%,0.2%, 
+1,2009.12.18 16:19,JPY,5,BOJ Press Conference,266,14311,Dec 18 2009,3:19am,JPY,BOJ Press Conference,high, , , 
+1,2009.12.18 18:00,EUR,5,German Ifo Business Climate,267,11949,Dec 18 2009,5:00am,EUR,German Ifo Business Climate,high,93.9,94.6,94.7
+1,2009.12.18 18:00,EUR,3,Current Account,268,13032,Dec 18 2009,5:00am,EUR,Current Account,medium, ,-2.3B, 
+1,2009.12.18 18:30,GBP,5,Public Sector Net Borrowing,269,13322,Dec 18 2009,5:30am,GBP,Public Sector Net Borrowing,high, ,23.1B, 
+1,2009.12.18 18:30,GBP,3,Prelim Mortgage Approvals,270,30384,Dec 18 2009,5:30am,GBP,Prelim Mortgage Approvals,medium,61K,64K,63K
+1,2009.12.18 18:30,GBP,1,M4 Money Supply m/m,271,13323,Dec 18 2009,5:30am,GBP,M4 Money Supply m/m,low, ,1.4%, 
+1,2009.12.18 18:30,GBP,1,Revised Business Investment q/q,272,12490,Dec 18 2009,5:30am,GBP,Revised Business Investment q/q,low,-3.0%,-2.8%, 
+1,2009.12.18 19:00,EUR,1,Trade Balance,273,13721,Dec 18 2009,6:00am,EUR,Trade Balance,low, ,5.7B, 
+1,2009.12.18 20:00,EUR,1,ECB Financial Stability Review,274,58827,Dec 18 2009,7:00am,EUR,ECB Financial Stability Review,low, , , 
+1,2009.12.18 22:30,CAD,3,Wholesale Sales m/m,275,13446,Dec 18 2009,9:30am,CAD,Wholesale Sales m/m,medium, ,0.4%,0.3%
+1,2009.12.21 06:45,NZD,1,Visitor Arrivals m/m,277,12907,Dec 20 2009,5:45pm,NZD,Visitor Arrivals m/m,low,-0.7%, ,-3.7%
+1,2009.12.21 08:50,JPY,3,Trade Balance,278,14619,Dec 20 2009,7:50pm,JPY,Trade Balance,medium, ,0.27T, 
+1,2009.12.21 09:30,AUD,1,New Motor Vehicle Sales m/m,279,13082,Dec 20 2009,8:30pm,AUD,New Motor Vehicle Sales m/m,low, , ,5.5%
+1,2009.12.21 11:00,NZD,1,Credit Card Spending y/y,280,12373,Dec 20 2009,10:00pm,NZD,Credit Card Spending y/y,low, , ,1.6%
+1,2009.12.21 13:37,JPY,1,All Industries Activity m/m,281,14357,Dec 21 2009,12:37am,JPY,All Industries Activity m/m,low, ,1.1%,1.2%
+1,2009.12.21 14:00,JPY,3,BOJ Monthly Report,282,14102,Dec 21 2009,1:00am,JPY,BOJ Monthly Report,medium, , , 
+1,2009.12.21 19:00,CHF,1,SNB Quarterly Bulletin,283,14315,Dec 21 2009,6:00am,CHF,SNB Quarterly Bulletin,low, , , 
+1,2009.12.21 22:30,CAD,5,Core Retail Sales m/m,284,13221,Dec 21 2009,9:30am,CAD,Core Retail Sales m/m,high, ,0.4%, 
+1,2009.12.21 22:30,CAD,3,Retail Sales m/m,285,13220,Dec 21 2009,9:30am,CAD,Retail Sales m/m,medium, ,0.8%,0.8%
+1,2009.12.22 06:45,NZD,5,Current Account,286,12894,Dec 21 2009,5:45pm,NZD,Current Account,high,0.12B,-2.25B, 
+1,2009.12.22 08:00,AUD,3,CB Leading Index m/m,287,14078,Dec 21 2009,7:00pm,AUD,CB Leading Index m/m,medium, , ,-0.3%
+1,2009.12.22 16:00,EUR,3,GfK German Consumer Climate,288,14218,Dec 22 2009,3:00am,EUR,GfK German Consumer Climate,medium, ,3.6, 
+1,2009.12.22 16:00,JPY,3,BOJ Gov Shirakawa Speaks,289,29263,Dec 22 2009,3:00am,JPY,BOJ Gov Shirakawa Speaks,medium, , , 
+1,2009.12.22 16:15,CHF,3,Trade Balance,290,13571,Dec 22 2009,3:15am,CHF,Trade Balance,medium, ,2.79B, 
+0,,ALL,1,OPEC Meetings,291,29069,Dec 22 2009,All Day,ALL,OPEC Meetings,low, , , 
+1,2009.12.22 18:30,GBP,5,Current Account,292,13252,Dec 22 2009,5:30am,GBP,Current Account,high, ,-8.1B, 
+1,2009.12.22 18:30,GBP,3,Final GDP q/q,293,13248,Dec 22 2009,5:30am,GBP,Final GDP q/q,medium,-0.3%,-0.1%, 
+1,2009.12.22 22:30,USD,3,Final GDP q/q,294,11412,Dec 22 2009,9:30am,USD,Final GDP q/q,medium,2.8%,2.8%, 
+1,2009.12.22 22:30,USD,1,Final GDP Price Index q/q,295,11413,Dec 22 2009,9:30am,USD,Final GDP Price Index q/q,low,0.5%,0.5%,0.4%
+1,2009.12.22 23:00,EUR,3,Belgian NBB Business Climate,296,14025,Dec 22 2009,10:00am,EUR,Belgian NBB Business Climate,medium,-8.8,-5.5, 
+1,2009.12.22 23:59,USD,1,Richmond Manufacturing Index,297,12955,Dec 22 2009,10:59am,USD,Richmond Manufacturing Index,low,1,4, 
+1,2009.12.23 00:00,USD,5,Existing Home Sales,298,13350,Dec 22 2009,11:00am,USD,Existing Home Sales,high, ,6.29M, 
+1,2009.12.23 00:02,USD,1,HPI m/m,299,12608,Dec 22 2009,11:02am,USD,HPI m/m,low, ,0.2%, 
+1,2009.12.23 06:45,NZD,5,GDP q/q,300,12534,Dec 22 2009,5:45pm,NZD,GDP q/q,high, ,0.4%, 
+0,,JPY,0,Bank Holiday,301,12083,Dec 22 2009,All Day,JPY,Bank Holiday,holiday, , , 
+1,2009.12.23 16:00,EUR,1,German Import Prices m/m,302,11893,Dec 23 2009,3:00am,EUR,German Import Prices m/m,low,0.5%,0.2%, 
+1,2009.12.23 16:45,EUR,3,French Consumer Spending m/m,303,13941,Dec 23 2009,3:45am,EUR,French Consumer Spending m/m,medium, ,0.3%, 
+1,2009.12.23 18:00,EUR,1,Italian Retail Sales m/m,304,14405,Dec 23 2009,5:00am,EUR,Italian Retail Sales m/m,low, ,0.2%, 
+1,2009.12.23 18:30,GBP,5,MPC Asset Purchase Facility Votes,305,49135,Dec 23 2009,5:30am,GBP,MPC Asset Purchase Facility Votes,high,8-0-1,0-0-9,0-0-9
+1,2009.12.23 18:30,GBP,5,MPC Official Bank Rate Votes,306,11654,Dec 23 2009,5:30am,GBP,MPC Official Bank Rate Votes,high,0-0-9,0-0-9,0-0-9
+1,2009.12.23 18:30,GBP,3,BBA Mortgage Approvals,307,12349,Dec 23 2009,5:30am,GBP,BBA Mortgage Approvals,medium, ,43.3K, 
+1,2009.12.23 18:30,GBP,1,Index of Services 3m/3m,308,28308,Dec 23 2009,5:30am,GBP,Index of Services 3m/3m,low, ,0.3%, 
+1,2009.12.23 22:30,CAD,5,GDP m/m,309,12770,Dec 23 2009,9:30am,CAD,GDP m/m,high,0.4%,0.3%, 
+1,2009.12.23 22:30,USD,3,Core PCE Price Index m/m,310,11473,Dec 23 2009,9:30am,USD,Core PCE Price Index m/m,medium,0.2%,0.1%, 
+1,2009.12.23 22:30,USD,3,Personal Spending m/m,311,11474,Dec 23 2009,9:30am,USD,Personal Spending m/m,medium, ,0.6%, 
+1,2009.12.23 22:30,USD,1,Personal Income m/m,312,11450,Dec 23 2009,9:30am,USD,Personal Income m/m,low, ,0.4%,0.4%
+1,2009.12.23 23:55,USD,3,Revised UoM Consumer Sentiment,313,10698,Dec 23 2009,10:55am,USD,Revised UoM Consumer Sentiment,medium,73.4,74.0, 
+1,2009.12.23 23:55,USD,1,Revised UoM Inflation Expectations,314,10710,Dec 23 2009,10:55am,USD,Revised UoM Inflation Expectations,low,2.1%, ,2.5%
+1,2009.12.24 00:00,USD,5,New Home Sales,315,11069,Dec 23 2009,11:00am,USD,New Home Sales,high, ,442K, 
+1,2009.12.24 00:30,USD,3,Crude Oil Inventories,316,14670,Dec 23 2009,11:30am,USD,Crude Oil Inventories,medium,-3.7M,-1.5M,-4.9M
+1,2009.12.24 08:50,JPY,3,BSI Manufacturing Index,317,13816,Dec 23 2009,7:50pm,JPY,BSI Manufacturing Index,medium,15.5,11.2, 
+1,2009.12.24 08:50,JPY,3,Monetary Policy Meeting Minutes,318,14308,Dec 23 2009,7:50pm,JPY,Monetary Policy Meeting Minutes,medium, , , 
+1,2009.12.24 14:15,JPY,3,BOJ Gov Shirakawa Speaks,319,29264,Dec 24 2009,1:15am,JPY,BOJ Gov Shirakawa Speaks,medium, , , 
+0,,EUR,0,German Bank Holiday,320,14762,Dec 24 2009,All Day,EUR,German Bank Holiday,holiday, , , 
+1,2009.12.24 22:30,USD,5,Core Durable Goods Orders m/m,321,11340,Dec 24 2009,9:30am,USD,Core Durable Goods Orders m/m,high, ,1.1%, 
+1,2009.12.24 22:30,USD,5,Unemployment Claims,322,14729,Dec 24 2009,9:30am,USD,Unemployment Claims,high,480K,471K, 
+1,2009.12.24 22:30,USD,3,Durable Goods Orders m/m,323,11339,Dec 24 2009,9:30am,USD,Durable Goods Orders m/m,medium,-0.6%,0.6%, 
+1,2009.12.25 00:30,USD,1,Natural Gas Storage,324,11762,Dec 24 2009,11:30am,USD,Natural Gas Storage,low,-207B,-171B,-166B
+0,,NZD,0,Bank Holiday,325,12108,Dec 24 2009,All Day,NZD,Bank Holiday,holiday, , , 
+0,,AUD,0,Bank Holiday,326,12757,Dec 24 2009,All Day,AUD,Bank Holiday,holiday, , , 
+1,2009.12.25 08:30,JPY,3,Household Spending y/y,327,14564,Dec 24 2009,7:30pm,JPY,Household Spending y/y,medium,1.6%,0.5%, 
+1,2009.12.25 08:30,JPY,3,Tokyo Core CPI y/y,328,14241,Dec 24 2009,7:30pm,JPY,Tokyo Core CPI y/y,medium,-1.9%,-1.8%, 
+1,2009.12.25 08:30,JPY,1,National Core CPI y/y,329,14242,Dec 24 2009,7:30pm,JPY,National Core CPI y/y,low,-2.2%,-1.7%,-1.7%
+1,2009.12.25 08:30,JPY,1,Unemployment Rate,330,14277,Dec 24 2009,7:30pm,JPY,Unemployment Rate,low,5.1%,5.2%,5.2%
+1,2009.12.25 08:50,JPY,1,SPPI y/y,331,14116,Dec 24 2009,7:50pm,JPY,SPPI y/y,low, ,-1.9%, 
+1,2009.12.25 14:00,JPY,1,Housing Starts y/y,332,14565,Dec 25 2009,1:00am,JPY,Housing Starts y/y,low,-27.1%,-22.3%, 
+0,,CHF,0,Bank Holiday,333,12057,Dec 25 2009,All Day,CHF,Bank Holiday,holiday, , , 
+0,,EUR,0,French Bank Holiday,334,42199,Dec 25 2009,All Day,EUR,French Bank Holiday,holiday, , , 
+0,,EUR,0,German Bank Holiday,335,14763,Dec 25 2009,All Day,EUR,German Bank Holiday,holiday, , , 
+0,,EUR,0,Italian Bank Holiday,336,14796,Dec 25 2009,All Day,EUR,Italian Bank Holiday,holiday, , , 
+0,,GBP,0,Bank Holiday,337,12263,Dec 25 2009,All Day,GBP,Bank Holiday,holiday, , , 
+0,,CAD,0,Bank Holiday,338,14752,Dec 25 2009,All Day,CAD,Bank Holiday,holiday, , , 
+0,,USD,0,Bank Holiday,339,12019,Dec 25 2009,All Day,USD,Bank Holiday,holiday, , , 
+0,,NZD,0,Bank Holiday,341,23210,Dec 27 2009,All Day,NZD,Bank Holiday,holiday, , , 
+0,,AUD,0,Bank Holiday,342,12758,Dec 27 2009,All Day,AUD,Bank Holiday,holiday, , , 
+1,2009.12.28 08:50,JPY,3,Prelim Industrial Production m/m,343,14276,Dec 27 2009,7:50pm,JPY,Prelim Industrial Production m/m,medium,0.5%,2.5%, 
+1,2009.12.28 08:50,JPY,3,Retail Sales y/y,344,14278,Dec 27 2009,7:50pm,JPY,Retail Sales y/y,medium, ,-1.1%,-1.0%
+1,2009.12.28 10:30,JPY,3,Average Cash Earnings y/y,345,14578,Dec 27 2009,9:30pm,JPY,Average Cash Earnings y/y,medium, ,-1.8%, 
+0,,GBP,0,Bank Holiday,346,12262,Dec 28 2009,All Day,GBP,Bank Holiday,holiday, , , 
+0,,CAD,0,Bank Holiday,347,14753,Dec 28 2009,All Day,CAD,Bank Holiday,holiday, , , 
+1,2009.12.29 16:00,CHF,3,UBS Consumption Indicator,348,13641,Dec 29 2009,3:00am,CHF,UBS Consumption Indicator,medium, , ,1.28
+0,,EUR,3,German Prelim CPI m/m,349,11836,Dec 29 2009,All Day,EUR,German Prelim CPI m/m,medium, ,0.6%, 
+1,2009.12.29 18:30,GBP,1,Housing Equity Withdrawal q/q,350,12337,Dec 29 2009,5:30am,GBP,Housing Equity Withdrawal q/q,low, ,-6.3B, 
+1,2009.12.29 23:00,USD,3,/CS Composite-20 HPI y/y,351,13965,Dec 29 2009,10:00am,USD,/CS Composite-20 HPI y/y,medium, ,-7.1%, 
+1,2009.12.30 00:00,USD,5,CB Consumer Confidence,352,10662,Dec 29 2009,11:00am,USD,CB Consumer Confidence,high, ,53.0,52.9
+1,2009.12.30 08:15,JPY,1,Final Manufacturing PMI,353,14513,Dec 29 2009,7:15pm,JPY,Final Manufacturing PMI,low,52.3, ,53.8
+1,2009.12.30 18:00,EUR,3,M3 Money Supply y/y,354,22775,Dec 30 2009,5:00am,EUR,M3 Money Supply y/y,medium,0.3%,0.4%, 
+1,2009.12.30 18:00,EUR,1,Private Loans y/y,355,22776,Dec 30 2009,5:00am,EUR,Private Loans y/y,low,-0.8%,-0.8%, 
+1,2009.12.30 18:00,EUR,1,Retail PMI,356,43611,Dec 30 2009,5:00am,EUR,Retail PMI,low,48.9, ,50.3
+1,2009.12.30 19:29,EUR,1,Italian 10-y Bond Auction,357,43389,Dec 30 2009,6:29am,EUR,Italian 10-y Bond Auction,low,4.01|1.6, ,4.07|1.5
+1,2009.12.30 19:30,CHF,5,KOF Economic Barometer,358,13629,Dec 30 2009,6:30am,CHF,KOF Economic Barometer,high,1.62,1.73, 
+1,2009.12.30 23:45,USD,5,Chicago PMI,359,12685,Dec 30 2009,10:45am,USD,Chicago PMI,high,56.1,55.2, 
+1,2009.12.31 00:30,USD,3,Crude Oil Inventories,360,14671,Dec 30 2009,11:30am,USD,Crude Oil Inventories,medium,-4.9M,-1.7M,-1.5M
+0,,JPY,0,Bank Holiday,361,12084,Dec 30 2009,All Day,JPY,Bank Holiday,holiday, , , 
+1,2009.12.31 09:30,AUD,3,Private Sector Credit m/m,362,11775,Dec 30 2009,8:30pm,AUD,Private Sector Credit m/m,medium, ,0.1%,0.1%
+0,,EUR,0,German Bank Holiday,363,14764,Dec 31 2009,All Day,EUR,German Bank Holiday,holiday, , , 
+1,2009.12.31 16:00,GBP,5,Nationwide HPI m/m,364,12432,Dec 31 2009,3:00am,GBP,Nationwide HPI m/m,high,0.5%,0.4%,0.4%
+1,2009.12.31 18:30,GBP,3,BOE Credit Conditions Survey,365,25824,Dec 31 2009,5:30am,GBP,BOE Credit Conditions Survey,medium, , , 
+1,2009.12.31 22:30,USD,5,Unemployment Claims,366,14730,Dec 31 2009,9:30am,USD,Unemployment Claims,high, ,460K, 
+1,2010.01.01 00:30,USD,1,Natural Gas Storage,367,11763,Dec 31 2009,11:30am,USD,Natural Gas Storage,low,-166B,-143B,-124B
+0,,NZD,0,Bank Holiday,368,28840,Dec 31 2009,All Day,NZD,Bank Holiday,holiday, , , 
+0,,AUD,0,Bank Holiday,369,28827,Dec 31 2009,All Day,AUD,Bank Holiday,holiday, , , 
+0,,CNY,0,Bank Holiday,370,29265,Dec 31 2009,All Day,CNY,Bank Holiday,holiday, , , 
+0,,JPY,0,Bank Holiday,371,28968,Dec 31 2009,All Day,JPY,Bank Holiday,holiday, , , 
+1,2010.01.01 10:00,CNY,5,Manufacturing PMI,372,24828,Dec 31 2009,9:00pm,CNY,Manufacturing PMI,high,55.2,55.4, 
