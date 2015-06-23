@@ -76,8 +76,8 @@ class TestHstLoad(object):
 
 def main():
     
-    filename = "USDJPY43200.hst"
-    #filename = "EURUSD240.hst"
+    #filename = "USDJPY43200.hst"
+    filename = "EURUSD240.hst"
     hst = TestHstLoad(filename)
     
     # ヘッダの中身を見てみます
