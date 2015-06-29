@@ -1,11 +1,18 @@
 # -*- encoding: utf-8 -*-
 import sys
+import datetime 
 from HTMLParser import HTMLParser
 
 class MT4TestReport(HTMLParser):
     """Convert MT4 Test report .html """
 
-    
+    """
+        MT4 report.htmファイルを読み込むクラス
+         htmlファイルを読み込んで,feedするとデータが取り込まれる。
+         　rpt = MT4TestReport()
+         　rpt.feed(html)
+    """
+   
     def __init__(self):
         HTMLParser.__init__(self)
         self.state = 0 # working 
@@ -52,10 +59,40 @@ class MT4TestReport(HTMLParser):
         self.ind = '' # working buffer
         self.ind_pre = '' # working buffer
         self.graph_file_prefix = 'img'
+        #--------------------------------------------------------------
+        # ｈｔｍｌが参照している.gifファイル名を返す        
         self.graph_file = '' # image file name
         self.data_start_index = u'残高'
         self.data_buf = [] # working buffer
+        #--------------------------------------------------------------
+        # トレードデータ(生）を返す        
         self.data_content = [] # Trade data
+        #--------------------------------------------------------------
+        # トレードデータ（modifyを含めた）を返す        
+            #    
+            # 0:index, 
+            # 1:OpenTime,  2:Type,  3:Lots, 4:OpenPrice, 
+            # 5:CloseTime, 6:Order, 7:Lots, 8:ClosePrice
+            #　＊すべて文字列
+        self.order = {}
+        #--------------------------------------------------------------
+        # トレードデータを返す（全トレード）        
+        #  modify含めないデータ       
+        self.totalorder = []
+        #--------------------------------------------------------------
+        # トレードデータを返す        
+        #  modify含めないデータ       
+        self.buyorder = []
+        #--------------------------------------------------------------
+        # トレードデータを返す        
+        #  modify含めないデータ       
+        self.sellorder = []
+        #--------------------------------------------------------------
+        # トレードプロフィット（通貨＊Lot）     
+        #  各トレード毎の損益（float)
+        self.totalprofit = []
+        self.buyprofit = []
+        self.sellprofit = []
         
     def handle_starttag(self, tag, attrs):
         if tag == self.graph_file_prefix:
@@ -87,10 +124,78 @@ class MT4TestReport(HTMLParser):
                 self.data_buf.append(data)
             else:
                 pass
-    #
-    # Header の itemを返す
-    #
+    def doConv(self):
+        tmpd = {}
+        for ord in self.data_content:
+            if ord[2] != 'modify':
+                idx = int(ord[3])
+                if tmpd.has_key(idx):
+                    no = [tmpd.get(idx),
+                    [int(ord[0]),
+                    datetime.datetime.strptime(ord[1],'%Y.%m.%d %H:%M'),
+                    str(ord[2]),int(ord[3]),float(ord[4]),
+                    float(ord[5]),float(ord[6]),float(ord[7])]
+                    ]            
+                else:
+                    no = [int(ord[0]),
+                    datetime.datetime.strptime(ord[1],'%Y.%m.%d %H:%M'),
+                    str(ord[2]),int(ord[3]),
+                    float(ord[4]),float(ord[5]),float(ord[6]),float(ord[7])]
+                tmpd.update({idx:no})        
+
+        okey = {'sell','buy'}
+        ckey = {'close','t/p','s/l'}
+        for i in tmpd.keys():
+            d = tmpd.get(i)
+            if okey.issuperset({d[0][2]}) and ckey.issuperset({d[1][2]}):
+                opnord = d[0]
+                clsord = d[1]
+            elif okey.issuperset({d[1][2]}) and ckey.issuperset({d[0][2]}):
+                opnord = d[1]
+                clsord = d[0]
+            else:
+                continue
+            #    
+            # 0:index, 
+            # 1:OpenTime,  2:Type,  3:Lots, 4:OpenPrice, 
+            # 5:CloseTime, 6:Order, 7:Lots, 8:ClosePrice
+            #
+            o = [i,opnord[1],opnord[2],opnord[4],opnord[5],
+                 clsord[1],clsord[2],clsord[4],clsord[5]]
+            self.order.update({i:o})  
+        
+             
+        for i in self.order.keys():
+            o = self.order.get(i)
+            if o[2]=='buy':
+                self.buyorder.append(o)
+            if o[2]=='sell':
+                self.sellorder.append(o)
+            self.totalorder.append(o)
+        
+        for i in self.totalorder:
+            if i[2]=='buy':    
+                self.totalprofit.append(i[7]*i[8]-i[3]*i[4])
+            if i[2]=='sell':    
+                self.totalprofit.append(-i[7]*i[8]+i[3]*i[4])
+        
+        for i in self.buyorder:
+            self.buyprofit.append(i[7]*i[8]-i[3]*i[4])
+        
+        for i in self.sellorder:
+            self.sellprofit.append(-i[7]*i[8]+i[3]*i[4])
+        
+    def feed(self,data):
+        """
+        override -- 
+        """
+        HTMLParser.feed(self,data)
+        self.doConv()
+        
     def getHeader(self,item,short=False):
+        """ -------------------------------------
+        Header の itemを返す
+        """        
         if item=='EAName':
             return self.contents[u'Strategy Tester Report']
         if item=='Symbol':
@@ -115,6 +220,8 @@ class MT4TestReport(HTMLParser):
         if item=='TimeFrame':
                 p = self.contents[u'期間']                  
                 return p[p.find('(')+1:p.find(')')]
+        if item=="Initial deposit":
+            return self.contents[u'初期証拠金']
         if item=="Total trades":
             return self.contents[u'総取引数']
         if item=="Profit factor":
@@ -159,9 +266,10 @@ class MT4TestReport(HTMLParser):
                 return p[p.find('(')+1:p.find(')')]                
         if item=="Spread":
             return self.contents[u'スプレッド']
-    
-    # パラメータのdictを返す
     def geEAtParameters(self):
+        """ 
+        パラメータのdictを返す
+        """        
         para = self.contents[u'パラメーター']
         pl = {}
         for p in para.split(';'):
@@ -170,8 +278,10 @@ class MT4TestReport(HTMLParser):
                 pl.update({pn[0].lstrip():pn[1].lstrip()})
                 #print pn[0] + ':' +pn[1]
         return pl
-    # 新しいベースファイル名を作成する
     def getBaseOutputName(self):
+        """
+        新しいベースファイル名を作成する
+        """        
         return  self.getHeader("EAName") + '-' \
                 + self.getHeader("Symbol",True) \
                 + self.getHeader("TimeFrame") + '-'\
@@ -179,6 +289,20 @@ class MT4TestReport(HTMLParser):
                 + 'x' + self.getHeader("Total trades")\
                 + 'PF' + self.getHeader("Profit factor")\
                 + 'DD' + self.getHeader("Maximal drawdown",True)   
+    def isTradeTypeBuy(self,orderNum):
+        return self.order[orderNum][2] == 'buy'
+    def isTradeTypeSell(self,orderNum):
+        return self.order[orderNum][2] == 'sell'
+    def tradeProfit(self,orderNum):
+        i = self.order[orderNum]
+        if self.isTradeTypeBuy(orderNum):
+           return self.totalprofit.append(i[7]*i[8]-i[3]*i[4])
+        if self.isTradeTypeSell(orderNum):
+           return self.totalprofit.append(-i[7]*i[8]+i[3]*i[4])
+    def tradePeriod(self,orderNum):
+        i = self.order[orderNum]
+        return i[5] - i[1]
+           
 """
 #----------------------------------------------------------------------------------- 
  MT4 TestReoprt.htmファイルを入力して、テスト結果を表す.htmファイルにコピーする。同時に
@@ -198,7 +322,6 @@ class MT4TestReport(HTMLParser):
     
 infile = 'EnvelopeEA009-USDJPY15M x677 PF1.93 DD5.12.htm'
 import codecs as cdc
-import datetime 
 try:
     f = cdc.open(infile,'rb','cp932')
 except IOError:
@@ -210,72 +333,46 @@ rpt = MT4TestReport()
 rpt.feed(html)
 print "Data count = " + str(len(rpt.data_content))
 
-tmpd = {}
-for ord in rpt.data_content:
-    if ord[2] != 'modify':
-        idx = int(ord[3])
-        if tmpd.has_key(idx):
-            no = [tmpd.get(idx),
-            [int(ord[0]),
-            datetime.datetime.strptime(ord[1],'%Y.%m.%d %H:%M'),
-            str(ord[2]),int(ord[3]),float(ord[4]),
-            float(ord[5]),float(ord[6]),float(ord[7])]
-            ]            
-        else:
-            no = [int(ord[0]),
-                   datetime.datetime.strptime(ord[1],'%Y.%m.%d %H:%M'),
-                 str(ord[2]),int(ord[3]),
-                 float(ord[4]),float(ord[5]),float(ord[6]),float(ord[7])]
-        tmpd.update({idx:no})        
+import matplotlib.pylab as plt
+import numpy as np
 
-okey = {'sell','buy'}
-ckey = {'close','t/p','s/l'}
-order = {}
-for i in tmpd.keys():
-    d = tmpd.get(i)
-    if okey.issuperset({d[0][2]}) and ckey.issuperset({d[1][2]}):
-        opnord = d[0]
-        clsord = d[1]
-    elif okey.issuperset({d[1][2]}) and ckey.issuperset({d[0][2]}):
-        opnord = d[1]
-        clsord = d[0]
-    else:
-        continue
-    #    
-    # 0:index, 
-    # 1:OpenTime,  2:Type,  3:Lots, 4:OpenPrice, 
-    # 5:CloseTime, 6:Order, 7:Lots, 8:ClosePrice
-    #
-    o = [i,opnord[1],opnord[2],opnord[4],opnord[5],
-         clsord[1],clsord[2],clsord[4],clsord[5]]
-    order.update({i:o})  
+lotvol = 1
 
-totalorder = []
-buyorder = []
-sellorder = []
-     
-for i in order.keys():
-    o = order.get(i)
-    if o[2]=='buy':
-        buyorder.append(o)
-    if o[2]=='sell':
-        sellorder.append(o)
-    totalorder.append(o)
+tpro = np.array(rpt.totalprofit)*lotvol
+bpro = np.array(rpt.buyprofit)*lotvol
+spro = np.array(rpt.sellprofit)*lotvol
 
-totalprofit = []
-for i in totalorder:
-    if i[2]=='buy':    
-        totalprofit.append(i[7]*i[8]-i[3]*i[4])
-    if i[2]=='sell':    
-        totalprofit.append(-i[7]*i[8]+i[3]*i[4])
+#fig, axes = plt.subplots(nrows=2, ncols=3)
+#fig.tight_layout() # Or equivalently,  "plt.tight_layout()"
 
-buyprofit = []
-for i in buyorder:
-    buyprofit.append(i[7]*i[8]-i[3]*i[4])
+plt.figure(figsize=(10,3))
+plt.subplot(121)
+plt.title("total")
+plt.plot(np.cumsum(tpro))
+plt.subplot(122)
+plt.hist(tpro,bins=30)
+plt.show()
 
-sellprofit = []
-for i in sellorder:
-    sellprofit.append(-i[7]*i[8]+i[3]*i[4])
+plt.figure(figsize=(10,3))
+plt.subplot(121)
+plt.title("buy")
+plt.plot(np.cumsum(bpro))
+plt.subplot(122)
+plt.hist(bpro,bins=30)
+plt.show()
+
+plt.figure(figsize=(10,3))
+plt.subplot(121)
+plt.title("sell")
+plt.plot(np.cumsum(spro))
+plt.subplot(122)
+plt.hist(spro,bins=30)
+plt.show()
+
+for o in rpt.order.keys():
+    if rpt.isTradeBuy(o):
+        if rpt.tradeProfit() > 0:
+            
 
 #if __name__ == '__main__':
 #    main(sys.argv)
