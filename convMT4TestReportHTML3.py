@@ -74,7 +74,7 @@ class MT4TestReport(HTMLParser):
             #print data
             if self.state == 0:# Header mode
                 if len(self.ind)>0:
-                    print self.ind_pre,self.ind,data
+                    #print self.ind_pre,self.ind,data
                     self.contents.update({self.ind_pre + self.ind:data})
                     self.ind = ''
                 if data in self.index:
@@ -198,7 +198,7 @@ class MT4TestReport(HTMLParser):
     
 infile = 'EnvelopeEA009-USDJPY15M x677 PF1.93 DD5.12.htm'
 import codecs as cdc
-    
+import datetime 
 try:
     f = cdc.open(infile,'rb','cp932')
 except IOError:
@@ -210,12 +210,72 @@ rpt = MT4TestReport()
 rpt.feed(html)
 print "Data count = " + str(len(rpt.data_content))
 
-tmpd = []
+tmpd = {}
 for ord in rpt.data_content:
     if ord[2] != 'modify':
-        tmpd.append(ord)
+        idx = int(ord[3])
+        if tmpd.has_key(idx):
+            no = [tmpd.get(idx),
+            [int(ord[0]),
+            datetime.datetime.strptime(ord[1],'%Y.%m.%d %H:%M'),
+            str(ord[2]),int(ord[3]),float(ord[4]),
+            float(ord[5]),float(ord[6]),float(ord[7])]
+            ]            
+        else:
+            no = [int(ord[0]),
+                   datetime.datetime.strptime(ord[1],'%Y.%m.%d %H:%M'),
+                 str(ord[2]),int(ord[3]),
+                 float(ord[4]),float(ord[5]),float(ord[6]),float(ord[7])]
+        tmpd.update({idx:no})        
 
+okey = {'sell','buy'}
+ckey = {'close','t/p','s/l'}
+order = {}
+for i in tmpd.keys():
+    d = tmpd.get(i)
+    if okey.issuperset({d[0][2]}) and ckey.issuperset({d[1][2]}):
+        opnord = d[0]
+        clsord = d[1]
+    elif okey.issuperset({d[1][2]}) and ckey.issuperset({d[0][2]}):
+        opnord = d[1]
+        clsord = d[0]
+    else:
+        continue
+    #    
+    # 0:index, 
+    # 1:OpenTime,  2:Type,  3:Lots, 4:OpenPrice, 
+    # 5:CloseTime, 6:Order, 7:Lots, 8:ClosePrice
+    #
+    o = [i,opnord[1],opnord[2],opnord[4],opnord[5],
+         clsord[1],clsord[2],clsord[4],clsord[5]]
+    order.update({i:o})  
 
+totalorder = []
+buyorder = []
+sellorder = []
+     
+for i in order.keys():
+    o = order.get(i)
+    if o[2]=='buy':
+        buyorder.append(o)
+    if o[2]=='sell':
+        sellorder.append(o)
+    totalorder.append(o)
+
+totalprofit = []
+for i in totalorder:
+    if i[2]=='buy':    
+        totalprofit.append(i[7]*i[8]-i[3]*i[4])
+    if i[2]=='sell':    
+        totalprofit.append(-i[7]*i[8]+i[3]*i[4])
+
+buyprofit = []
+for i in buyorder:
+    buyprofit.append(i[7]*i[8]-i[3]*i[4])
+
+sellprofit = []
+for i in sellorder:
+    sellprofit.append(-i[7]*i[8]+i[3]*i[4])
 
 #if __name__ == '__main__':
 #    main(sys.argv)
