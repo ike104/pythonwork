@@ -296,9 +296,9 @@ class MT4TestReport(HTMLParser):
     def tradeProfit(self,orderNum):
         i = self.order[orderNum]
         if self.isTradeTypeBuy(orderNum):
-           return self.totalprofit.append(i[7]*i[8]-i[3]*i[4])
+           return i[7]*i[8]-i[3]*i[4]
         if self.isTradeTypeSell(orderNum):
-           return self.totalprofit.append(-i[7]*i[8]+i[3]*i[4])
+           return -i[7]*i[8]+i[3]*i[4]
     def tradePeriod(self,orderNum):
         i = self.order[orderNum]
         return i[5] - i[1]
@@ -306,12 +306,7 @@ class MT4TestReport(HTMLParser):
 """
 #----------------------------------------------------------------------------------- 
  MT4 TestReoprt.htmファイルを入力して、テスト結果を表す.htmファイルにコピーする。同時に
- テスト条件のパラメータファイル(.set)、結果を１行にまとめたサマリーファイル(.txt）を生成する。
- 出力ディレクトリは指定可能で省略すると、"result"になる。
- 出力ファイル名 例：
- result/ichimokuEA-GBPJPY-2012.01.02-2014.12.28x170PF1.71DD4.94.htm
- result/ichimokuEA-GBPJPY-2012.01.02-2014.12.28x170PF1.71DD4.94.set
- result/ichimokuEA-GBPJPY-2012.01.02-2014.12.28x170PF1.71DD4.94.txt
+ 
 #----------------------------------------------------------------------------------- 
 """
 
@@ -369,10 +364,28 @@ plt.subplot(122)
 plt.hist(spro,bins=30)
 plt.show()
 
+bw = []
+bl = []
+sw = []
+sl = []
 for o in rpt.order.keys():
-    if rpt.isTradeBuy(o):
-        if rpt.tradeProfit() > 0:
-            
+    if rpt.isTradeTypeBuy(o):
+        if rpt.tradeProfit(o) > 0:
+            bw.append(o)
+        else:
+            bl.append(o)
+    if rpt.isTradeTypeSell(o):
+        if rpt.tradeProfit(o) > 0:  
+            sw.append(o)
+        else:
+            sl.append(o)
+print "Buy: " + "Profit trade rate" + str(float(len(bw))/(len(bw)+len(bl))) + \
+        " [ (" + str(len(bw)) + "+" + str(len(bl)) + ") / " + str(len(bw) + \
+        len(bl))+" ]"  
+                
+print "Sell:" + "Profit trade rate" + str(float(len(sw))/(len(sw)+len(sl))) + \
+        " [ (" + str(len(sw)) + "+" + str(len(sl)) + ") / " + str(len(sw) + \
+        len(sl))+" ]"  
 
 #if __name__ == '__main__':
 #    main(sys.argv)
