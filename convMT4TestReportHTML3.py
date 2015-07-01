@@ -97,7 +97,7 @@ class MT4TestReport(HTMLParser):
     def handle_starttag(self, tag, attrs):
         if tag == self.graph_file_prefix:
             self.graph_file = attrs[0][1]
-            print 'Image file = ',self.graph_file
+            #print 'Image file = ',self.graph_file
     def handle_endtag(self, tag):
         if self.state == 1:# Data mode
             if tag == 'tr': # end of table row
@@ -313,18 +313,11 @@ import matplotlib.pylab as plt
 import numpy as np
 import codecs as cdc
 
-def tradeanalyze(infile):
-    try:
-        f = cdc.open(infile,'rb','cp932')
-    except IOError:
-        sys.exit("\n Cannot open :"+infile)
-    html = f.read()
-    f.close()    
+def tradeanalyze(rpt):
+    #print "Data count = " + str(len(rpt.data_content))
     
-    rpt = MT4TestReport()
-    rpt.feed(html)
-    print "Data count = " + str(len(rpt.data_content))
-    
+    print "\n--------------------------------------------" 
+    print "- Trades count \n"
     
     lotvol = 1
     
@@ -334,7 +327,15 @@ def tradeanalyze(infile):
     
     #fig, axes = plt.subplots(nrows=2, ncols=3)
     #fig.tight_layout() # Or equivalently,  "plt.tight_layout()"
+    print " "    
+    wc = len(rpt.buyprofit)
+    lc = len(rpt.sellprofit)
+    print "Total trades = %5d" % (wc+lc)
+    print "Long  trades = %5d (%6.2f %%)" %  (wc,100*float(wc)/float(wc+lc))
+    print "Short trades = %5d (%6.2f %%)" %  (lc,100*float(lc)/float(wc+lc))
     
+    print "\n--------------------------------------------" 
+    print "- Profit \n"
     plt.figure(figsize=(10,4))
     plt.subplot(321)
     plt.title("total profit")
@@ -377,28 +378,21 @@ def tradeanalyze(infile):
     
     wc = len(bw)
     lc = len(bl)
-    print "Buy Profit trade rate  : %.2f %% [ %d / %d ]" % \
+    print "Long  profit rate = %6.2f %% [ %3d / %3d ]" % \
                  (100*float(wc)/float(wc+lc),wc,lc+wc )                   
     wc = len(sw)
     lc = len(sl)
-    print "Sell Profit trade rate : %.2f %% [ %d / %d ]" % \
+    print "Short profit rate = %6.2f %% [ %3d / %3d ]" % \
                  (100*float(wc)/float(wc+lc),wc,lc+wc )                   
     
 
-def tradeanalyze2(infile):
-    try:
-        f = cdc.open(infile,'rb','cp932')
-    except IOError:
-        sys.exit("\n Cannot open :"+infile)
-    html = f.read()
-    f.close()    
-    
-    rpt = MT4TestReport()
-    rpt.feed(html)
-    print "Data count = " + str(len(rpt.data_content))
+def tradeanalyze2(rpt):
+    #print "Data count = " + str(len(rpt.data_content))
     #
     # トレード期間のヒストグラムを描画する
     #
+    print "\n--------------------------------------------" 
+    print "- Holding period \n"
     f = filter(lambda n:n[8]-n[4]>0 ,rpt.buyorder)
     tw = []    
     for n in f:
@@ -454,37 +448,114 @@ def winlossCount(ord):
     return (pc,nc)
     
     
-def tradeanalyze3(infile):
-    try:
-        f = cdc.open(infile,'rb','cp932')
-    except IOError:
-        sys.exit("\n Cannot open :"+infile)
-    html = f.read()
-    f.close()    
-    
-    rpt = MT4TestReport()
-    rpt.feed(html)
-    print "Data count = " + str(len(rpt.data_content))
+def tradeanalyze3(rpt):
+   # print "Data count = " + str(len(rpt.data_content))
+    print "\n--------------------------------------------" 
+    print "- Entry \n "
+     #
+    # エントリー時刻毎の勝率
     #
-    #
-    print "Entry time (Hour) - Profit rate"    
+    print "Hour  : profit rate[win/total]"    
     for t in range(0,24):
         f = filter(lambda n:n[1].hour==t ,rpt.totalorder)
         pc,nc = winlossCount(f)
         if pc+nc>0:
-            print "%2d H : %.2f %% [ %3d / %3d ]" % \
+            print " %2d H : %6.2f %% [ %3d / %3d ]" % \
                 (t,100*float(pc)/float(pc+nc),pc,(pc+nc))
     
-    print "Entry time (Weekday) - Profit rate"
+    #
+    # エントリー曜日毎の勝率
+    #
+    print ""
+    print "Weekday  : profit rate[win/total]"
     week = ['mon','tue','wed','thu','fri','sat','sun']    
     for t in range(0,7):
         f = filter(lambda n:n[1].weekday()==t ,rpt.totalorder)
         pc,nc = winlossCount(f)
         if pc+nc>0:
-            print "%s  : %.2f %% [ %3d / %3d ]" % \
+            print "%s      : %6.2f %% [ %3d / %3d ]" % \
                 (week[t],100*float(pc)/float(pc+nc),pc,(pc+nc))
 
+def tradeanalyze4(rpt):
+    #print "Data count = " + str(len(rpt.data_content))
+    #
+    # エントリー時刻毎の勝率
+    #
+    print "\n--------------------------------------------" 
+    print "- Exit  \n"
+    print 'Entry -> Exit : profit rate [win/total]'    
+    cc = []
+    cd = []
+    for t in ['close','t/p','s/l']:
+        f = filter(lambda n:n[6]==t ,rpt.buyorder)
+        cc.append(len(f))        
+        pc,nc = winlossCount(f)
+        if pc+nc>0:
+            cd.append(100*float(pc)/float(pc+nc))
+            print "Long ->%6s : %6.2f %% [ %3d / %3d ]" % \
+                (t,100*float(pc)/float(pc+nc),pc,(pc+nc))
+        else:
+            cd.append(0.)
+    for t in ['close','t/p','s/l']:
+        f = filter(lambda n:n[6]==t ,rpt.sellorder)
+        cc.append(len(f))        
+        pc,nc = winlossCount(f)
+        if pc+nc>0:
+            cd.append(100*float(pc)/float(pc+nc))
+            print "Short->%6s : %6.2f %% [ %3d / %3d ]" % \
+                (t,100*float(pc)/float(pc+nc),pc,(pc+nc))
+        else:
+            cd.append(0.)
 
+    s = np.array([cd[0],cd[1],cd[2]])
+    b = np.array([cd[3],cd[4],cd[5]])
+    
+    x = np.array(range(len(s)))
+    xt = ['close','t/p','s/l']
+    gw = 0.4
+    plt.figure(figsize=(8,2))
+    plt.title('$Profit rate by exit $')
+    plt.xlabel("Profit rate")
+    plt.xlim(0,100)
+    #plt.ylim(0+0.5,5-0.5)    
+    plt.yticks(x,xt)
+    plt.grid(True)
+    plt.barh(x -gw/2, s, height = gw, align='center',color='b',alpha=0.5,\
+            label='Short')
+    plt.barh(x +gw/2, b, height = gw, align='center',color='g',alpha=0.5,\
+            label='Long'    )
+    plt.legend()
+    plt.axvline(50,color='r')
+    plt.show()
+    
+
+    ac = cc[0]+cc[3]
+    tc = cc[1]+cc[4]
+    sc = cc[2]+cc[5]
+    tc = ac+tc+sc    
+
+    
+    print " "
+    print "Exit  : count (rate)" 
+    print "Close : %4d (%6.2f %%)" % (ac, float(ac)/float(tc))
+    print "t/p   : %4d (%6.2f %%)" % (tc, float(tc)/float(tc))
+    print "s/l   : %4d (%6.2f %%)" % (sc, float(sc)/float(tc))
+
+    from matplotlib import cm
+    names =[ 'close','t/p', 's/l']
+    # それぞれの割合を用意
+    ratios = [ac, tc,sc]
+    # どれだけ飛び出すか指定
+    moves=(0, 0, 0)
+    # 適当なカラーをマッピング
+    col = cm.Set2(np.arange(3)/3.,0.7)
+    # 円グラフを描画（影付き）
+    plt.pie(ratios, explode=moves, labels=names, autopct='%1d%%',\
+    shadow=True,colors=col)
+    # 円グラフ他ので縦横比は等しく
+    plt.gca().set_aspect('equal')
+    plt.title('$Exit count$')
+    plt.show()
 
 #infile = 'EnvelopeEA009-USDJPY15M x677 PF1.93 DD5.12.htm'
 #tradeanalyze(infile)
@@ -493,11 +564,22 @@ import os
 inputDir = 'convMT2TestReport/result'
 for fn in os.listdir(inputDir):
     if fn.endswith(".htm") and fn[0] != '_':
-        f = str(inputDir + '/'+ fn )
-        print f
-        #tradeanalyze(f)
-        #tradeanalyze2(f)
-        tradeanalyze3(f)
+        infile = str(inputDir + '/'+ fn )
+        print "\n\n=================================================="
+        print " Inputfile =", infile
+        try:
+            f = cdc.open(infile,'rb','cp932')
+        except IOError:
+            sys.exit("\n Cannot open :"+infile)
+        html = f.read()
+        f.close()    
+    
+        rpt = MT4TestReport()
+        rpt.feed(html)
+        tradeanalyze(rpt)
+        tradeanalyze2(rpt)
+        tradeanalyze3(rpt)
+        tradeanalyze4(rpt)
         
         
 
