@@ -97,7 +97,7 @@ class MT4TestReport(HTMLParser):
     def handle_starttag(self, tag, attrs):
         if tag == self.graph_file_prefix:
             self.graph_file = attrs[0][1]
-            print 'Image file = ',self.graph_file
+            #print 'Image file = ',self.graph_file
     def handle_endtag(self, tag):
         if self.state == 1:# Data mode
             if tag == 'tr': # end of table row
@@ -309,83 +309,283 @@ class MT4TestReport(HTMLParser):
  
 #----------------------------------------------------------------------------------- 
 """
+import matplotlib.pylab as plt
+import numpy as np
+import codecs as cdc
+
+def tradeanalyze(rpt):
+    #print "Data count = " + str(len(rpt.data_content))
+    
+    print "\n--------------------------------------------" 
+    print "- Trades count \n"
+    
+    lotvol = 1
+    
+    tpro = np.array(rpt.totalprofit)*lotvol
+    bpro = np.array(rpt.buyprofit)*lotvol
+    spro = np.array(rpt.sellprofit)*lotvol
+    
+    #fig, axes = plt.subplots(nrows=2, ncols=3)
+    #fig.tight_layout() # Or equivalently,  "plt.tight_layout()"
+    print " "    
+    wc = len(rpt.buyprofit)
+    lc = len(rpt.sellprofit)
+    print "Total trades = %5d" % (wc+lc)
+    print "Long  trades = %5d (%6.2f %%)" %  (wc,100*float(wc)/float(wc+lc))
+    print "Short trades = %5d (%6.2f %%)" %  (lc,100*float(lc)/float(wc+lc))
+    
+    print "\n--------------------------------------------" 
+    print "- Profit \n"
+    plt.figure(figsize=(10,4))
+    plt.subplot(321)
+    plt.title("total profit")
+    plt.plot(np.cumsum(tpro))
+    plt.subplot(322)
+    plt.hist(tpro,bins=30)
+    plt.show()
+    
+    plt.figure(figsize=(10,3))
+    plt.subplot(323)
+    plt.title("buy profit")
+    plt.plot(np.cumsum(bpro))
+    plt.subplot(324)
+    plt.hist(bpro,bins=30)
+    plt.show()
+    
+    plt.figure(figsize=(10,3))
+    plt.subplot(325)
+    plt.title("sell profit")
+    plt.plot(np.cumsum(spro))
+    plt.subplot(326)
+    plt.hist(spro,bins=30)
+    plt.show()
+    
+    bw = []
+    bl = []
+    sw = []
+    sl = []
+    for o in rpt.order.keys():
+        if rpt.isTradeTypeBuy(o):
+            if rpt.tradeProfit(o) > 0:
+                bw.append(o)
+            else:
+                bl.append(o)
+        if rpt.isTradeTypeSell(o):
+            if rpt.tradeProfit(o) > 0:  
+                sw.append(o)
+            else:
+                sl.append(o)
+    
+    wc = len(bw)
+    lc = len(bl)
+    print "Long  profit rate = %6.2f %% [ %3d / %3d ]" % \
+                 (100*float(wc)/float(wc+lc),wc,lc+wc )                   
+    wc = len(sw)
+    lc = len(sl)
+    print "Short profit rate = %6.2f %% [ %3d / %3d ]" % \
+                 (100*float(wc)/float(wc+lc),wc,lc+wc )                   
+    
+
+def tradeanalyze2(rpt):
+    #print "Data count = " + str(len(rpt.data_content))
+    #
+    # トレード期間のヒストグラムを描画する
+    #
+    print "\n--------------------------------------------" 
+    print "- Holding period \n"
+    f = filter(lambda n:n[8]-n[4]>0 ,rpt.buyorder)
+    tw = []    
+    for n in f:
+        d = n[5]-n[1]
+        tw.append(float((d.total_seconds()/60./60.)))
+    f = filter(lambda n:n[8]-n[4]<=0 ,rpt.buyorder)
+    tl = []    
+    for n in f:
+        d = n[5]-n[1]
+        tl.append(float((d.total_seconds()/60./60.)))
+    plt.figure(figsize=(10,3))    
+    plt.subplot(121)        
+    plt.hist(tw,bins=30,color='b',alpha = 0.5,label='win')
+    plt.hist(tl,bins=30,color='r',alpha = 0.5,label='loss')
+    plt.title('Trading period(Hour),Long')
+    plt.legend()
+    plt.xlabel('Hour(s)')
+    plt.ylabel('Times')    
+    # plt.show()
+    #-----------------------------------------------
+    f = filter(lambda n:n[8]-n[4]>0 ,rpt.sellorder)
+    tw = []    
+    for n in f:
+        d = n[5]-n[1]
+        tw.append(float((d.total_seconds()/60./60.)))
+    f = filter(lambda n:n[8]-n[4]<=0 ,rpt.sellorder)
+    tl = []    
+    for n in f:
+        d = n[5]-n[1]
+        tl.append(float((d.total_seconds()/60./60.)))
+            
+    plt.subplot(122)        
+    plt.hist(tw,bins=30,color='b',alpha = 0.5,label='win')
+    plt.hist(tl,bins=30,color='r',alpha = 0.5,label='loss')
+    plt.title('Trading period(Hour),Short')
+    plt.legend()
+    plt.xlabel('Hour(s)')
+    plt.ylabel('Times')    
+    plt.show()
+
+#-----------------------------------------------------
+def winlossCount(ord):
+    pc,nc=0,0
+    for i in ord:    
+        if i[2] == 'buy':
+            f = 1
+        else:
+            f = -1
+        if f*(i[8]-i[4])>0:
+            pc = pc+1
+        else:
+            nc = nc+1
+    return (pc,nc)
+    
+    
+def tradeanalyze3(rpt):
+   # print "Data count = " + str(len(rpt.data_content))
+    print "\n--------------------------------------------" 
+    print "- Entry \n "
+     #
+    # エントリー時刻毎の勝率
+    #
+    print "Hour  : profit rate[win/total]"    
+    for t in range(0,24):
+        f = filter(lambda n:n[1].hour==t ,rpt.totalorder)
+        pc,nc = winlossCount(f)
+        if pc+nc>0:
+            print " %2d H : %6.2f %% [ %3d / %3d ]" % \
+                (t,100*float(pc)/float(pc+nc),pc,(pc+nc))
+    
+    #
+    # エントリー曜日毎の勝率
+    #
+    print ""
+    print "Weekday  : profit rate[win/total]"
+    week = ['mon','tue','wed','thu','fri','sat','sun']    
+    for t in range(0,7):
+        f = filter(lambda n:n[1].weekday()==t ,rpt.totalorder)
+        pc,nc = winlossCount(f)
+        if pc+nc>0:
+            print "%s      : %6.2f %% [ %3d / %3d ]" % \
+                (week[t],100*float(pc)/float(pc+nc),pc,(pc+nc))
+
+def tradeanalyze4(rpt):
+    #print "Data count = " + str(len(rpt.data_content))
+    #
+    # エントリー時刻毎の勝率
+    #
+    print "\n--------------------------------------------" 
+    print "- Exit  \n"
+    print 'Entry -> Exit : profit rate [win/total]'    
+    cc = []
+    cd = []
+    for t in ['close','t/p','s/l']:
+        f = filter(lambda n:n[6]==t ,rpt.buyorder)
+        cc.append(len(f))        
+        pc,nc = winlossCount(f)
+        if pc+nc>0:
+            cd.append(100*float(pc)/float(pc+nc))
+            print "Long ->%6s : %6.2f %% [ %3d / %3d ]" % \
+                (t,100*float(pc)/float(pc+nc),pc,(pc+nc))
+        else:
+            cd.append(0.)
+    for t in ['close','t/p','s/l']:
+        f = filter(lambda n:n[6]==t ,rpt.sellorder)
+        cc.append(len(f))        
+        pc,nc = winlossCount(f)
+        if pc+nc>0:
+            cd.append(100*float(pc)/float(pc+nc))
+            print "Short->%6s : %6.2f %% [ %3d / %3d ]" % \
+                (t,100*float(pc)/float(pc+nc),pc,(pc+nc))
+        else:
+            cd.append(0.)
+
+    s = np.array([cd[0],cd[1],cd[2]])
+    b = np.array([cd[3],cd[4],cd[5]])
+    
+    x = np.array(range(len(s)))
+    xt = ['close','t/p','s/l']
+    gw = 0.4
+    plt.figure(figsize=(8,2))
+    plt.title('$Profit rate by exit $')
+    plt.xlabel("Profit rate")
+    plt.xlim(0,100)
+    #plt.ylim(0+0.5,5-0.5)    
+    plt.yticks(x,xt)
+    plt.grid(True)
+    plt.barh(x -gw/2, s, height = gw, align='center',color='b',alpha=0.5,\
+            label='Short')
+    plt.barh(x +gw/2, b, height = gw, align='center',color='g',alpha=0.5,\
+            label='Long'    )
+    plt.legend()
+    plt.axvline(50,color='r')
+    plt.show()
+    
+
+    ac = cc[0]+cc[3]
+    tc = cc[1]+cc[4]
+    sc = cc[2]+cc[5]
+    tc = ac+tc+sc    
 
     
+    print " "
+    print "Exit  : count (rate)" 
+    print "Close : %4d (%6.2f %%)" % (ac, float(ac)/float(tc))
+    print "t/p   : %4d (%6.2f %%)" % (tc, float(tc)/float(tc))
+    print "s/l   : %4d (%6.2f %%)" % (sc, float(sc)/float(tc))
+
+    from matplotlib import cm
+    names =[ 'close','t/p', 's/l']
+    # それぞれの割合を用意
+    ratios = [ac, tc,sc]
+    # どれだけ飛び出すか指定
+    moves=(0, 0, 0)
+    # 適当なカラーをマッピング
+    col = cm.Set2(np.arange(3)/3.,0.7)
+    # 円グラフを描画（影付き）
+    plt.pie(ratios, explode=moves, labels=names, autopct='%1d%%',\
+    shadow=True,colors=col)
+    # 円グラフ他ので縦横比は等しく
+    plt.gca().set_aspect('equal')
+    plt.title('$Exit count$')
+    plt.show()
+
+#infile = 'EnvelopeEA009-USDJPY15M x677 PF1.93 DD5.12.htm'
+#tradeanalyze(infile)
+
+import os
+inputDir = 'convMT2TestReport/result'
+for fn in os.listdir(inputDir):
+    if fn.endswith(".htm") and fn[0] != '_':
+        infile = str(inputDir + '/'+ fn )
+        print "\n\n=================================================="
+        print " Inputfile =", infile
+        try:
+            f = cdc.open(infile,'rb','cp932')
+        except IOError:
+            sys.exit("\n Cannot open :"+infile)
+        html = f.read()
+        f.close()    
+    
+        rpt = MT4TestReport()
+        rpt.feed(html)
+        tradeanalyze(rpt)
+        tradeanalyze2(rpt)
+        tradeanalyze3(rpt)
+        tradeanalyze4(rpt)
+        
+        
 
 #def main(argv):
     
     
-infile = 'EnvelopeEA009-USDJPY15M x677 PF1.93 DD5.12.htm'
-import codecs as cdc
-try:
-    f = cdc.open(infile,'rb','cp932')
-except IOError:
-    sys.exit("\n Cannot open :"+infile)
-html = f.read()
-f.close()    
-
-rpt = MT4TestReport()
-rpt.feed(html)
-print "Data count = " + str(len(rpt.data_content))
-
-import matplotlib.pylab as plt
-import numpy as np
-
-lotvol = 1
-
-tpro = np.array(rpt.totalprofit)*lotvol
-bpro = np.array(rpt.buyprofit)*lotvol
-spro = np.array(rpt.sellprofit)*lotvol
-
-#fig, axes = plt.subplots(nrows=2, ncols=3)
-#fig.tight_layout() # Or equivalently,  "plt.tight_layout()"
-
-plt.figure(figsize=(10,3))
-plt.subplot(121)
-plt.title("total")
-plt.plot(np.cumsum(tpro))
-plt.subplot(122)
-plt.hist(tpro,bins=30)
-plt.show()
-
-plt.figure(figsize=(10,3))
-plt.subplot(121)
-plt.title("buy")
-plt.plot(np.cumsum(bpro))
-plt.subplot(122)
-plt.hist(bpro,bins=30)
-plt.show()
-
-plt.figure(figsize=(10,3))
-plt.subplot(121)
-plt.title("sell")
-plt.plot(np.cumsum(spro))
-plt.subplot(122)
-plt.hist(spro,bins=30)
-plt.show()
-
-bw = []
-bl = []
-sw = []
-sl = []
-for o in rpt.order.keys():
-    if rpt.isTradeTypeBuy(o):
-        if rpt.tradeProfit(o) > 0:
-            bw.append(o)
-        else:
-            bl.append(o)
-    if rpt.isTradeTypeSell(o):
-        if rpt.tradeProfit(o) > 0:  
-            sw.append(o)
-        else:
-            sl.append(o)
-print "Buy: " + "Profit trade rate" + str(float(len(bw))/(len(bw)+len(bl))) + \
-        " [ (" + str(len(bw)) + "+" + str(len(bl)) + ") / " + str(len(bw) + \
-        len(bl))+" ]"  
-                
-print "Sell:" + "Profit trade rate" + str(float(len(sw))/(len(sw)+len(sl))) + \
-        " [ (" + str(len(sw)) + "+" + str(len(sl)) + ") / " + str(len(sw) + \
-        len(sl))+" ]"  
 
 #if __name__ == '__main__':
 #    main(sys.argv)
