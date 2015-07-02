@@ -342,22 +342,25 @@ def tradeanalyze(rpt):
     plt.plot(np.cumsum(tpro))
     plt.subplot(322)
     plt.hist(tpro,bins=30)
+    plt.savefig("test11.png",transparent=True)
     plt.show()
     
-    plt.figure(figsize=(10,3))
+    plt.figure(figsize=(10,4))
     plt.subplot(323)
     plt.title("buy profit")
     plt.plot(np.cumsum(bpro))
     plt.subplot(324)
     plt.hist(bpro,bins=30)
+    plt.savefig("test12.png",transparent=True)
     plt.show()
     
-    plt.figure(figsize=(10,3))
+    plt.figure(figsize=(10,4))
     plt.subplot(325)
     plt.title("sell profit")
     plt.plot(np.cumsum(spro))
     plt.subplot(326)
     plt.hist(spro,bins=30)
+    plt.savefig("test13.png",transparent=True)
     plt.show()
     
     bw = []
@@ -424,13 +427,14 @@ def tradeanalyze2(rpt):
         d = n[5]-n[1]
         tl.append(float((d.total_seconds()/60./60.)))
             
-    plt.subplot(122)        
+    plt.subplot(122) 
     plt.hist(tw,bins=30,color='b',alpha = 0.5,label='win')
     plt.hist(tl,bins=30,color='r',alpha = 0.5,label='loss')
     plt.title('Trading period(Hour),Short')
     plt.legend()
     plt.xlabel('Hour(s)')
     plt.ylabel('Times')    
+    plt.savefig("test2.png",transparent=True)
     plt.show()
 
 #-----------------------------------------------------
@@ -455,13 +459,28 @@ def tradeanalyze3(rpt):
      #
     # エントリー時刻毎の勝率
     #
+    
     print "Hour  : profit rate[win/total]"    
+    dat = []    
     for t in range(0,24):
         f = filter(lambda n:n[1].hour==t ,rpt.totalorder)
         pc,nc = winlossCount(f)
         if pc+nc>0:
+            dat.append(100*float(pc)/float(pc+nc))            
             print " %2d H : %6.2f %% [ %3d / %3d ]" % \
                 (t,100*float(pc)/float(pc+nc),pc,(pc+nc))
+    
+    plt.figure(figsize=(10,2))    
+    plt.subplot(121)
+    x   = range(len(dat))
+    xt  = [ str(s) + 'H' for s in x]
+    plt.title("$Profit rate by Entry hour$")    
+    plt.ylim(0,100)
+    plt.xlim(-1,len(dat)+1)
+    plt.xticks(x,xt,rotation=90)
+    plt.axhline(50,color='r')
+    plt.bar(x,dat,align='center',alpha=0.7) 
+    #plt.show()
     
     #
     # エントリー曜日毎の勝率
@@ -469,12 +488,25 @@ def tradeanalyze3(rpt):
     print ""
     print "Weekday  : profit rate[win/total]"
     week = ['mon','tue','wed','thu','fri','sat','sun']    
+    dat = []    
     for t in range(0,7):
         f = filter(lambda n:n[1].weekday()==t ,rpt.totalorder)
         pc,nc = winlossCount(f)
         if pc+nc>0:
+            dat.append(100*float(pc)/float(pc+nc))            
             print "%s      : %6.2f %% [ %3d / %3d ]" % \
                 (week[t],100*float(pc)/float(pc+nc),pc,(pc+nc))
+    
+    plt.subplot(122)
+    x   = range(len(dat))
+    plt.title("$Profit rate by Entry weekday$")    
+    plt.ylim(0,100)
+    plt.xlim(-1,len(dat)+1)
+    plt.xticks(x,week,rotation=90)
+    plt.axhline(50,color='r')
+    plt.bar(x,dat,align='center',alpha=0.7) 
+    plt.savefig("test3.png",transparent=True)
+    plt.show()
 
 def tradeanalyze4(rpt):
     #print "Data count = " + str(len(rpt.data_content))
@@ -513,7 +545,7 @@ def tradeanalyze4(rpt):
     x = np.array(range(len(s)))
     xt = ['close','t/p','s/l']
     gw = 0.4
-    plt.figure(figsize=(8,2))
+    plt.figure(figsize=(5,2))
     plt.title('$Profit rate by exit $')
     plt.xlabel("Profit rate")
     plt.xlim(0,100)
@@ -526,6 +558,7 @@ def tradeanalyze4(rpt):
             label='Long'    )
     plt.legend()
     plt.axvline(50,color='r')
+    plt.savefig("test41.png",transparent=True)
     plt.show()
     
 
@@ -555,6 +588,7 @@ def tradeanalyze4(rpt):
     # 円グラフ他ので縦横比は等しく
     plt.gca().set_aspect('equal')
     plt.title('$Exit count$')
+    plt.savefig("test42.png",transparent=True)
     plt.show()
 
 #infile = 'EnvelopeEA009-USDJPY15M x677 PF1.93 DD5.12.htm'

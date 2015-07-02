@@ -5,10 +5,13 @@ Spyder Editor
 This is a temporary script file.
 """
 
-import os
-import datetime
+import matplotlib.pyplot as plt
 
-d = os.stat("test.txt").st_mtime
-dt = datetime.datetime.fromtimestamp(d)
-
-print dt
+dat = [10,20,10,40,100,12,67,33,11,0,40]
+x   = range(len(dat))
+xt  = [ str(s) + ' H' for s in x]
+plt.ylim(0,100)
+plt.xlim(-1,11)
+plt.xticks(x,xt)
+plt.axhline(50,color='r')
+plt.bar(x,dat,align='center')
