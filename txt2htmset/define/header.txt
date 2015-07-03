@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Shift_Jis"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+	<meta name="author" content="Wink Hosting (www.winkhosting.com)" />
+	<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+	<meta name="keywords" content="アイプランニング" />
+	<meta name="description" content="%title% | 技術情報" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<link rel="stylesheet" href="../images/style.css" type="text/css" />
+	<title>%title% | 技術情報</title>
+</head>
+<body>

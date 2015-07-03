@@ -1,0 +1,6 @@
+<div style="padding:70px 10px 15px 0px">
+	<span class="titletext"><strong>%title%</strong></span>
+	<p style="padding:8px;font-size:18px;font-weight:bold;text-align:left;line-height:130%;">
+		%desc%
+	</p>
+</div>

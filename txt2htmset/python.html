@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="Shift_Jis"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+	<meta name="author" content="Wink Hosting (www.winkhosting.com)" />
+	<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+	<meta name="keywords" content="アイプランニング" />
+	<meta name="description" content="スクリプト言語Pythonによるhtml生成
+ | 技術情報" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<link rel="stylesheet" href="../images/style.css" type="text/css" />
+	<title>スクリプト言語Pythonによるhtml生成
+ | 技術情報</title>
+</head>
+<body>
+<div style="padding:70px 10px 15px 0px">
+	<span class="titletext"><strong>スクリプト言語Pythonによるhtml生成
+</strong></span>
+	<p style="padding:8px;font-size:18px;font-weight:bold;text-align:left;line-height:130%;">
+		ドキュメントの自動生成という課題を通して、スクリプト言語であるPythonを学習します。
+
+	</p>
+</div>
+
+<h2>スクリプト言語とは</h2>
+<div class="bodytext" style="padding: 12px; align: justify">
+	
+	<p style="margin: 5px 5px 5px 0px;">
+		スクリプト言語は、簡単なプログラムを簡単に書くための言語です。<br />
+		スクリプト言語は、コンパイルの必要がなく、<br />
+		CやC++などと比べて作成・修正が容易になっています。
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		よく知られているスクリプト言語としては、<br />
+		PerlやJavaScriptがありますが、<br />
+		最近ではRubyやPythonなど、比較的新しい言語が注目されています。<br />
+		（主にWeb系の開発に使われているそうです）
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		スクリプト言語が適用されている例として、<br />
+		・文字処理<br />
+		・定型処理<br />
+		・Webアプリケーションの開発（Ruby on Rails, Djangoなど）<br />
+		・アプリケーションのアドオン（Inkscape, Blenderなどのオープンソースプロダクトに多数）<br />
+		などがあげられます。
+	</p>
+</div>
+<h3>今回使う言語</h3>
+<div class="bodytext" style="padding: 12px; align: justify">
+	
+	<p style="margin: 5px 5px 5px 0px;">
+		Windowsであれば、環境構築もせずすぐ使えるJScriptもよかったのですが、<br />
+		とっつきやすそうだったのと、きれいなIDEがあったので、Pythonを選択しました。
+	</p>
+</div>
+<h2>Pythonとは</h2>
+<div class="bodytext" style="padding: 12px; align: justify">
+	<p style="margin: 5px 5px 5px 0px;">
+		<img src="python-logo.png" alt="Pythonロゴ" /><br />
+		Python（パイソン）は、Guido van Rossumが1990年にMac OS向けに開発した<br />
+		オープンソースのプログラミング言語です。<br />
+		Googleが社内開発に採用している言語としても有名です。
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		特徴としては：<br />
+		・スクリプト言語<br />
+		・オブジェクト指向<br />
+		・マルチプラットフォーム（Windows, Linux, Mac OS, .NET, JavaVM上で動作します）<br />
+		などがあげられます。
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		また、JavaのライブラリをPythonコードから使うこともできる、<br />
+		「Jython」という実装もあります。<br />
+		Jythonを使うことで、JavaとPythonの混合コードでアプリケーションを作ることも可能です。
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		InkscapeやBlenderなどのオープンソースアプリケーションの<br />
+		アドオンを書くための言語としてもメジャーです。<br />
+		また、最近のWASではJythonをサポートしています。
+	</p>
+</div>
+<h2>Pythonのインストール</h2>
+
+<h3>処理系のインストール</h3>
+<div class="bodytext" style="padding: 12px; align: justify">
+	
+	<p style="margin: 5px 5px 5px 0px;">
+		<a href="http://www.python.org/">Python公式サイト</a><br />
+		2008.04.16現在の安定版はPython2.5.2です。<br />
+		<a href="http://www.python.org/download/">Windows installer</a>をダウンロードし、インストールしてください。
+	</p>
+</div>
+<h3>環境変数の設定</h3>
+<div class="bodytext" style="padding: 12px; align: justify">
+	
+	<p style="margin: 5px 5px 5px 0px;">
+		コントロールパネルから、<br />
+		システムのプロパティを開き、<br />
+		ユーザ環境変数のPATHに、<br />
+		インストール先のパスを追加してください。<br />
+		（インストーラの標準は　C:\Python25　になっていると思います。）
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		<img src="00_envi.png" alt="環境変数の設定" /><br />
+		（蛇足ながら、システムのプロパティのショートカットはWindowsキー＋Pauseです。）
+	</p>
+	
+</div>
+<h3>実行</h3>
+<div class="bodytext" style="padding: 12px; align: justify">
+	
+	<p style="margin: 5px 5px 5px 0px;">
+		コマンドプロンプトから<br />
+		Python<br />
+		と入力すると、対話型インタプリタが実行されます。
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		<img src="01_cmd.png" alt="コマンドプロンプト" />
+	</p>
+	
+	<p style="margin: 5px 5px 5px 0px;">
+		ここで、<br />
+		print "Hello, World"<br />
+		と入力して改行すると、<br />
+		Hello, World<br />
+		と表示されます。
+	</p>
+</div>
+<h3>PyScripterのインストール</h3>
+<div class="bodytext" style="padding: 12px; align: justify">
+	
+	<p style="margin: 5px 5px 5px 0px;">
+		使い慣れたエディタとコマンドプロンプトでも十分開発は出来るのですが、<br />
+		PyScripterというIDEがなかなか便利です。
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		<img src="02_pyscripter.png" alt="PyScripterの画面" />
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		<a href="http://mmm-experts.com/Products.aspx?ProductId=4">PyScripter公式サイト</a>
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		PyScripterでは以下のような機能をサポートしています：<br />
+		・色分け<br />
+		・キーワード補完<br />
+		・対話型インタプリタの実行<br />
+		・文法チェッカ<br />
+		・テスト<br />
+		・デバッガ<br />
+		・F9で実行
+	</p>
+	
+	
+</div>
+<h3>言語としての特徴</h3>
+<div class="bodytext" style="padding: 12px; align: justify">
+	
+	<p style="margin: 5px 5px 5px 0px;">
+		どんなことが出来るかの例です。
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		・ファイルを読み込み、配列変数aryに内容を行ごとに代入<br />
+		ary = open("c:\test\input.txt").readlines()
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		・配列変数aryの内容をソート<br />
+		ary.sort()
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		・配列変数aryをファイルに出力<br />
+		open("c:\test\output.txt", "w").writelines(ary)
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		・文字列置換<br />
+		import re　　　#正規表現モジュールのインポート<br />
+		re.sub("t", "T", "test")<br />
+		→　'TesT'
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		そのほかの例は、<a href="http://www.python.jp/Zope/">Python Japan Users Group</a>の<a href="http://www.python.jp/Zope/intro">Pythonの紹介記事</a>を参照してください。
+	</p>
+	
+	
+</div>
+<h2>Pythonでhtml生成</h2>
+<div class="bodytext" style="padding: 12px; align: justify">
+	<p style="margin: 5px 5px 5px 0px;">
+		Wiki記法風txtからhtmlを自動生成するPythonスクリプトを書いてみました。<br />
+		（「達人プログラマー」も同様の手法で原稿を生成しているようです）
+	</p>
+</div>
+<textarea cols="50" rows="5" style="width:400px;height:300px;font-size:10pt"># coding=Shift_JIS
+
+#txtからhtmlを生成する
+#１行目がタイトル、
+#２行目がページ詳細
+#外部ファイル挿入: ％filename
+#見出し２: ■text
+#見出し３: ＋text
+#改行なし：＠text　（テーブルを記述したいときなど）
+
+import re
+import glob
+import string
+from xml.sax.saxutils import escape
+
+FILE_HEADER = "define/header.txt"
+FILE_TITLE = "define/title.txt"
+FILE_FOOTER = "define/footer.txt"
+
+
+
+#ユーティリティ
+def indent(instr):
+    #入力文字列をインデント
+    ret = ""
+    for line in instr.split('\n'):
+        ret += "\t" + line + "\n"
+    return ret.rstrip('\n')
+
+#外部ソースコードの挿入
+def insertCode(sourcefile):
+    outlist = []
+    f = open(sourcefile)
+    code = f.readlines()
+    outlist.append('&lt;textarea cols="50" rows="5" style="width:400px;height:300px;font-size:10pt"&gt;')
+    for line in code:
+        outlist.append(escape(line))
+
+    outlist.append('&lt;/textarea&gt;')
+    f.close()
+    return string.join(outlist,"")
+
+
+#非空要素タグ
+class Tag:
+    def __init__(self, value):
+        self.value = value
+
+class H2(Tag):
+    def toString(self):
+        return "&lt;h2&gt;" + self.value + "&lt;/h2&gt;"
+
+class H3(Tag):
+    def toString(self):
+        return "&lt;h3&gt;" + self.value + "&lt;/h3&gt;"
+
+class Danraku():
+    def __init__(self):
+        self.lines = []
+
+    def addLine(self, line):
+        self.lines.append(line)
+
+    def toString(self):
+        if(len(self.lines)==0):
+            return ""
+
+        value = '&lt;p style="margin: 5px 5px 5px 0px;"&gt;\n'
+        for index,line in enumerate(self.lines):
+            if(line[0:2]=="＠"):
+                value += "\t" + line[2:] + "\n"
+                continue
+
+            value += "\t" + line
+            if index &lt; len(self.lines)-1:
+                value += "&lt;br /&gt;"
+            value += "\n"
+        value += "&lt;/p&gt;"
+        return value
+
+
+class SourceCode(Tag):
+    def toString(self):
+        scriptfile = self.value
+        retstr = insertCode(scriptfile)
+        return retstr
+
+class Page:
+    def __init__(self):
+        self.elements = []
+
+    def addElement(self, element):
+        self.elements.append(element)
+
+    def toString(self):
+        value = ""
+        for element in self.elements:
+            value += element.toString() + "\n"
+        return value
+
+class Div(Page):
+
+    def toString(self):
+        if(len(self.elements)==0):
+            return ""
+
+        if(len(self.elements)==1):
+            if(self.elements[0].toString()==""):
+                return ""
+
+
+        value = '&lt;div class="bodytext" style="padding: 12px; align: justify"&gt;\n'
+        for element in self.elements:
+            value += indent(element.toString()) + "\n"
+        value += "&lt;/div&gt;"
+        return value
+
+class PageConverter:
+    def getheader(self):
+        return open(FILE_HEADER).read()
+
+    def gettitleblock(self):
+        return open(FILE_TITLE).read()
+
+    def getfooter(self):
+        return open(FILE_FOOTER).read()
+
+    def convert(self, lines):
+        '''
+        Wiki風構文データファイルから
+        html文字列を生成して返す
+        '''
+
+        #メタ文字から、生成するクラスを定義
+        midasi = {"■":H2, "＋":H3, "％":SourceCode}
+
+        outPage = Page()
+        divbody = Div()
+        dan = Danraku()
+
+        for line in lines:
+            rawtext = line.strip("\n")
+
+            command = line[0:2]
+            #見出し
+            if(command in midasi):
+                outPage.addElement(divbody)
+                divbody = Div()
+
+                elementClass = midasi[command]
+                rawtext = rawtext[2:]
+                outPage.addElement(elementClass(rawtext))
+                continue
+
+            #空行
+            if(rawtext == ""):
+                divbody.addElement(dan)
+                dan = Danraku()
+                continue
+
+            dan.addLine(rawtext)
+        #最後に残った段落を追加
+        divbody.addElement(dan)
+        outPage.addElement(divbody)
+        return outPage.toString()
+
+#ここから処理開始
+print("*** HTMLコンバータ ***")
+txtlist = glob.glob("*.txt")
+for infile in txtlist:
+    html = re.sub(".txt", ".html", infile)
+    f = open(infile)
+    lines = f.readlines()
+    page = PageConverter()
+
+    #１、２行目はタイトルと詳細に使う
+    title = lines[0]
+    desc = lines[1]
+
+    outstr = ""
+    outstr += page.getheader()
+    outstr += page.gettitleblock()
+    outstr += page.convert(lines[2:])
+    outstr += page.getfooter()
+
+    outstr = re.sub("スクリプト言語Pythonによるhtml生成
+", title, outstr)
+    outstr = re.sub("ドキュメントの自動生成という課題を通して、スクリプト言語であるPythonを学習します。
+", desc, outstr)
+
+
+    f = open(html,"w")
+    f.write(outstr)
+    f.close()
+    print("\t" + infile + " -&gt; " + html)
+    print("\t" + "変換完了")
+print("処理が完了しました。")
+
+</textarea>
+<div class="bodytext" style="padding: 12px; align: justify">
+	<p style="margin: 5px 5px 5px 0px;">
+		↑Python2.5.2で動作確認しています。<br />
+		htmlジェネレータです。
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		動作を試してみたい方は、以下のファイルをダウンロードしてtxt2htm.pyを実行してください。<br />
+		<a href="txt2htmset.zip">txt2htmset.zip</a>(7kb)
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		このスクリプトは、Wiki記法風の見出し解釈と、ヘッダやフッタ挿入を行います。<br />
+		スクリプトが置かれたフォルダにあるtxtファイルをhtmlファイルに変換するようになっています。<br />
+		なお、「％ファイル名」と書くと、％以下のファイルを本文中に挿入します。<br />
+		本ページでは、この外部ファイル挿入機能を使って、htmlジェネレータ自身のソースコードを挿入しています。
+	</p>
+</div>
+<h3>当スクリプトのねらい</h3>
+<div class="bodytext" style="padding: 12px; align: justify">
+	<p style="margin: 5px 5px 5px 0px;">
+		・html内に埋め込んだソースが、常に最新に保たれる<br />
+		・リニューアルやhtmlの構成変更に強い（htmlではなく、ヘッダやフッタだけ編集すればいい）<br />
+		・htmlタグの記述ミスが起こらない
+	</p>
+</div>
+<h3>Pythonプログラミングのポイント</h3>
+<div class="bodytext" style="padding: 12px; align: justify">
+	<p style="margin: 5px 5px 5px 0px;">
+		Python2.4以降で日本語を使いたい場合は、<br />
+		プログラムの１～２行目にエンコーディングを指定してください。
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		例）Shift_JISを使う場合<br />
+		# coding=Shift_JIS
+	</p>
+	
+	
+</div>
+<h2>おまけ JavaScript版</h2>
+<div class="bodytext" style="padding: 12px; align: justify">
+	
+	<p style="margin: 5px 5px 5px 0px;">
+		職場の規定上、Pythonをインストールできない場合も当然あると思われます。<br />
+		そのような場合、Windows環境に限られますが、JScript+WSHを使う手もあります。
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		Javascriptで、先ほど作成したPythonスクリプトの簡易版を書いてみました。
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		<a href="converter.htm">html版</a>
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		ソースの挿入機能はついていません。<br />
+		ブラウザ上で動かす場合、<br />
+		ローカルファイルにアクセスはできないためです。<br />
+		（WSHのFileSystemObjectを使うことでファイルの読み書きが可能です。）
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		WSHの使用方法については以下のサイトを参考にしてください。
+	</p>
+</div>
+<h3>JavaScript vs Python</h3>
+<div class="bodytext" style="padding: 12px; align: justify">
+	
+	<p style="margin: 5px 5px 5px 0px;">
+		少し使ってみた時点では、<br />
+		Pythonの方がバッチ処理用途には向いていると思います。<br />
+		（ライブラリが充実しており、ローカルのファイル操作がシンプルに書けます。）
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		JavaScriptは導入が楽です。<br />
+		FireFoxにFireBugプラグインを導入するだけで、<br />
+		デバッグ環境・対話型シェルが手に入ります。
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		どちらの言語も、<br />
+		JavaやCとそれほど変わらない文法で、定型作業をシンプルに書くことができます。<br />
+		（プロトタイプベースとクラスベースの言語という違いはありますが）
+	</p>
+</div>
+<h2>まとめ</h2>
+<div class="bodytext" style="padding: 12px; align: justify">
+	
+	<p style="margin: 5px 5px 5px 0px;">
+		スクリプト言語は、これからますます適用範囲が広がっていくと思われます。<br />
+		Pythonはサーバサイド(執筆時点では、Google Appsが盛り上がっています)、<br />
+		JavaScriptはクライアントサイド(Ajaxなど)のスクリプト言語として<br />
+		より身近な存在になっていきます。
+	</p>
+	<p style="margin: 5px 5px 5px 0px;">
+		まずは定型処理の自動化など、<br />
+		身近な問題の解決に使ってみてはいかがでしょうか。
+	</p>
+</div>
+<h2>参考サイト</h2>
+<div class="bodytext" style="padding: 12px; align: justify">
+	<p style="margin: 5px 5px 5px 0px;">
+		<a href="http://www.python.jp/Zope/PyLog/1065493097/index_html">Pythonドキュメント日本語版 ヘルプファイル</a><br />
+		<a href="http://www.f7.ems.okayama-u.ac.jp/~yan/python/">ニシキヘビを飼おう（Python入門）</a><br />
+		<a href="http://d.hatena.ne.jp/yumimue/20071220/1198141598">正規表現 - コンパイル、マッチング、マッチした部分の取り出し - ひきメモ</a><br />
+		<a href="http://python.matrix.jp/index.html">PythonMatrixJp</a><br />
+		<a href="http://0xcc.net/blog/archives/000137.html">文字列操作の比較表: Ruby, Python, JavaScript, Perl, C++ - bkブログ</a><br />
+		<a href="http://0xcc.net/blog/archives/000043.html">配列操作の比較表: Ruby, Python, JavaScript, Perl, C++ - bkブログ</a><br />
+		<a href="http://jijixi.azito.com/cgi-bin/diary/index.rb?date=20070820">Python におけるマルチバイト文字の扱いをまとめてみる - じじぃの日記</a><br />
+		<a href="http://d.hatena.ne.jp/amachang/20060516/1147778600">JavaScript OOP におけるクラス定義方法 - IT戦記</a><br />
+		<a href="http://www2f.biglobe.ne.jp/~takan/javac/js/wsh/index.htm">Windows Script Room</a><br />
+		<a href="http://msdn.microsoft.com/library/ja/default.asp?url=/library/ja/script56/html/wsoriWSHLanguageReference.asp">Windows Script Host リファレンス</a><br />
+		<a href="http://phpspot.org/blog/archives/2007/03/javascript_47.html">JavaScriptの配列を極める:phpspot開発日誌</a>
+	</p>
+	
+</div>
+</body>
+</html>
