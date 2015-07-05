@@ -1,0 +1,11 @@
+Symbol	TimeFrame	Spread	EAName	TestStart	TestEnd	Total trades	Profit factor	Maximal drawdown	Profit trades	Short position won	Long position won	Maximal consecutive count of wins	Maximal consecutive count of losses	ReportFile
+USDJPY	H1	5	Shintaro004D	2012.01.02	2014.12.27	45	1.33	2.27	37.78	31.25	41.38	2	7	Shintaro004D-USDJPYH1-2012.01.02-2014.12.27x45PF1.33DD2.27.htm	SectionMM="----MoneyManagement----"; DynamicLotSize=false; 
+EquityPercent=2; FixedLotSize=0.1; MaxTrade=5; AverageDownPoint=0; ExtBettingFactor=2; ExtBettingFactorMax=8; WinRateBufferSize=10; SectionOM="----OrderManagement----"; AutoStopLoss=true; 
+StopLoss=60; MinimumStopLoss=30; AutoTakeProfit=true; 
+TakeProfit=60; MinimumTakeProfit=30; TrailingStop=0; TrailingMinimumProfit=50; BreakEven=0; CloseAll=true; 
+Slippage=2; MagicNumber=20140540; CheckOncePerBar=true; 
+SectionNT="----Notification----"; EnEmail=true; 
+EnAlert=false; 
+SectionFollowAgainst="----Follow/AgainstSelection----"; BBFlollowAutoSwitch=false; 
+NotUseExitDecision=false; 
+SectionStepPriceEst="----StepPriceEst----"; AverageShort=5; AverageMidium=15; AverageLong=50; StepPoint=50; SatStepShort=9; SatStepMidium=6; SatStepLong=3; BOPeriod=100; BOPeriod2=30; BBPeriod=50; VolZeroLevelKeltFactor=1.2; VolAmp=10; SlopeAmp=200; RSIPeriod=14; CorrPeriod=7; WPRPeriod=300; CorrStep=1; PriceParmutation_SETTING="PriceParmutation"; PPAverageShort=5; PPAverageMidium=30; PPAverageLong=180; PPTrendCountThresh=0.5;

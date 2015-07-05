@@ -1,0 +1,4 @@
+Symbol	TimeFrame	Spread	EAName	TestStart	TestEnd	Total trades	Profit factor	Maximal drawdown	Profit trades	Short position won	Long position won	Maximal consecutive count of wins	Maximal consecutive count of losses	ReportFile
+USDJPY	M15	5	ikePennantBreak	2012.01.01	2014.12.29	467	1.36	3.65	68.09	67.97	68.22	14	7	ikePennantBreak-USDJPYM15-2012.01.01-2014.12.29x467PF1.36DD3.65.htm	DynamicLotSize=false; 
+FixedLotSize=0.1; EquityPercent=2; Martingale=false; 
+MaxMargingaleFactor=8; TakeProfit=60; TrailingStop=0; TrailingMinimumProfit=0; StopLoss=50; MinimumStopLoss=0; BreakEven=20; MaxPosition=1; OrderIntervalMinuts=240; Slippage=30; SpreadlimitPip=5; MagicNumber=1239; FractalBreakCount=3; ChannelSarPeriod=11; ChannelSarMulti=3; FiboRetMinimumTP=30; FiboRetMinimumSL=30;

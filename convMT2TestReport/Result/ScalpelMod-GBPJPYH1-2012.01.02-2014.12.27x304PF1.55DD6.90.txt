@@ -1,0 +1,3 @@
+Symbol	TimeFrame	Spread	EAName	TestStart	TestEnd	Total trades	Profit factor	Maximal drawdown	Profit trades	Short position won	Long position won	Maximal consecutive count of wins	Maximal consecutive count of losses	ReportFile
+GBPJPY	H1	5	ScalpelMod	2012.01.02	2014.12.27	304	1.55	6.90	74.67	75.23	74.36	17	5	ScalpelMod-GBPJPYH1-2012.01.02-2014.12.27x304PF1.55DD6.90.htm	Lots=0.1; TakeProfit=200; StopLoss=150; TrailingStop=50; cciPeriod=14; cciLimit=75; MaxPos=1; Interval=0; Reduce=600; Live=0; Volatility=100; Threshold=1; FridayClose=0; slippage=3; Reverse=false; 
+spreadlimit=5.5; magic=123581330; SurgeThreshRatio=4; MaxSurgeRefPips=50;

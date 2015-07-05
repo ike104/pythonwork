@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
 import sys
+import glob
 from HTMLParser import HTMLParser
 
 class MT4TestReport(HTMLParser):
@@ -60,7 +61,7 @@ class MT4TestReport(HTMLParser):
     def handle_starttag(self, tag, attrs):
         if tag == self.graph_file_prefix:
             self.graph_file = attrs[0][1]
-            print 'Image file = ',self.graph_file
+            #print 'Image file = ',self.graph_file
     def handle_endtag(self, tag):
         if self.state == 1:# Data mode
             if tag == 'tr': # end of table row
@@ -74,7 +75,7 @@ class MT4TestReport(HTMLParser):
             #print data
             if self.state == 0:# Header mode
                 if len(self.ind)>0:
-                    print self.ind_pre,self.ind,data
+                    #print self.ind_pre,self.ind,data
                     self.contents.update({self.ind_pre + self.ind:data})
                     self.ind = ''
                 if data in self.index:
@@ -200,10 +201,9 @@ def do_conv(infile,outputDir='result/'):
         
     if outputDir[len(outputDir)-1] != '/':
         outputDir = outputDir + '/'
-    print '\n'    
+    print '\n****************\nConverting\n****************'    
     print "Input file = ", infile
     print "Output dir = ", outputDir
-    print '\n'    
     
     
     # 結果は　result/フォルダに入れる    
@@ -218,7 +218,7 @@ def do_conv(infile,outputDir='result/'):
     
     rpt = MT4TestReport()
     rpt.feed(html)
-    print "Data count = " + str(len(rpt.data_content))
+    #print "Data count = " + str(len(rpt.data_content))
     
     # 新しいファイル名を作成する
     fname    = rpt.getBaseOutputName()    
@@ -232,17 +232,16 @@ def do_conv(infile,outputDir='result/'):
     # グラフのGIFを別名コピー
     shutil.copyfile(rpt.graph_file,giffile)
     # htmファイルのリンク先を書き換え
-    print "replace = " + rpt.graph_file, giffname    
+    #print "replace = " + rpt.graph_file, giffname    
     html = html.replace(rpt.graph_file,giffname)
     # 新しいhtmファイルを書き出す
     fo = cdc.open(htmfile,'wb','cp932')
     fo.write(html)
     fo.close();
     
-    print "\nCreated :"
+    print "Created :"
     print " " + htmfile 
     print " " + giffile 
-    print " "
     
     ##########  setファイルを作る
     setfile  = outputDir + fname+'.set'
@@ -260,7 +259,7 @@ def do_conv(infile,outputDir='result/'):
         #print sd
         sfile.write(sd)
     sfile.close()
-    print "\nCreated :"
+    print "Created :"
     print " " + setfile 
 
 
@@ -290,31 +289,29 @@ def do_conv(infile,outputDir='result/'):
     sfile.write(idxdata)
     sfile.write(sumdata)
     sfile.close()
-    print "\nCreated :"
+    print "Created :"
     print " " + sumfile 
+    return [fname,outputDir]    
     
-
+import getopt
 def main(argv):
     
-    
-    if len(argv)<2:
-        sys.exit("\nUsage: " + str(argv[0]) + " inputfile [outputdir=result]")
-    
-    infile = argv[1]
-    outputDir = 'result/'
-    if len(argv)>=3:
-        outputDir = argv[2]
-    if outputDir[len(outputDir)-1] != '/':
-        outputDir = outputDir + '/'
-    print '\n'    
-    print "Input file = ", infile
-    print "Output dir = ", outputDir
-    print '\n'    
-    #infile = 'IchimokuEA-GPBJPY1H 201202-201412 x170 PF1.71DD4.49.htm'
-    do_conv(infile,outputDir)
-
+    outDir = 'result/'    
+    try:
+        opts,args = getopt.getopt(argv,"o:")
+    except getopt.GetoptError:
+        print "Usage:"
+        print " [-o outdir] inputfile(s)" 
+        sys.exit(1)
+    for k,v in opts:
+        if k == "-o":
+            outDir = v
+            if not outDir.endswith('/'):
+                outDir.join('/')
+    for a in args:
+        do_conv(a,outDir)
 
 if __name__ == '__main__':
-    main(sys.argv)
+    main(sys.argv[1:])
 
     
